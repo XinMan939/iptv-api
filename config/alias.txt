@@ -54,11 +54,11 @@ CETV早教,re:(?i)^\s*CETV[-\s_]*早教[\s\S]*$
 
 # ===================== CGTN =====================
 CGTN,re:(?i)^\s*CGTN[-\s_]*(English|HD|英语|英语新闻)[\s\S]*$
-CGTN法语,re:(?i)^\s*CGTN[-\s_]*(Français|French|法语)[\s\S]*$
-CGTN俄语,re:(?i)^\s*CGTN[-\s_]*(俄语|俄罗斯语|Русский)[\s\S]*$
-CGTN西班牙语,re:(?i)^\s*CGTN[-\s_]*(Español|Spanish|西班牙语)[\s\S]*$
-CGTN阿拉伯语,re:(?i)^\s*CGTN[-\s_]*(Arabic|العربية|阿拉伯语)[\s\S]*$
-CGTN纪录,re:(?i)^\s*CGTN[-\s_]*(外语)?(纪录|记录|纪录片)[\s\S]*$
+CGTN法语,re:(?i)^\s*CGTN[-\s_]*(Français|Francais|French|法)[\s\S]*$
+CGTN俄语,re:(?i)^\s*CGTN[-\s_]*(Русский|俄)[\s\S]*$
+CGTN西班牙语,re:(?i)^\s*CGTN[-\s_]*(Español|Espanol|Spanish|西)[\s\S]*$
+CGTN阿拉伯语,re:(?i)^\s*CGTN[-\s_]*(Arabic|العربية|阿)[\s\S]*$
+CGTN纪录,re:(?i)^\s*CGTN[-\s_]*(外语)?(纪录|记录|纪录片|Doc|Documentary)[\s\S]*$
 
 # ===================== 卫视频道（正则匹配4K等变体） =====================
 浙江卫视,re:(?i)^\s*浙江\s*卫视[\s\S]*$

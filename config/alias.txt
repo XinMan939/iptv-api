@@ -58,7 +58,7 @@ CGTN法语,CGTN Français,CGTN French
 CGTN俄语,CGTN俄罗斯语
 CGTN西班牙语,CGTN Español,CGTN Spanish
 CGTN阿拉伯语,CGTN Arabic,CGTN العربية
-CGTN纪录,CGTN Doc,CGTN Documentary,CGTN外语纪录
+CGTN纪录,re:(?i)^\s*CGTN[-\s_]*(外语)?(纪录|记录|纪录片)[\s\S]*$
 
 # ===================== 卫视频道（正则匹配4K等变体） =====================
 浙江卫视,re:(?i)^\s*浙江\s*卫视[\s\S]*$

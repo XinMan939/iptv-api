@@ -23,7 +23,10 @@ CCTV14,re:(?i)^\s*CCTV[-\s_]*0?14(?![0-9Kk+])[\s\S]*$,CCTV14,CCTV14 少儿,CCTV-
 CCTV15,re:(?i)^\s*CCTV[-\s_]*0?15(?![0-9Kk+])[\s\S]*$,CCTV15,CCTV15 音乐,CCTV-15音乐,CCTV-15(音乐),CCTV15[1280*720],CCTV-15_ITV,CCTV15「IPV6」,CCTV150,CCTV1550,CCTV15HD,CCTV-15HD,CCTV-15北联,CCTV15-标清,CCTV-15电信,CCTV-15东联,CCTV-15高码,CCTV-15高清,CCTV-15广西,CCTV-15梅州,CCTV-15咪咕,CCTV-15汝阳,CCTV-15山东,CCTV-15上海,CCTV-15斯特,CCTV-15四川,CCTV-15太原,CCTV-15天津,CCTV15-音乐,CCTV-15音乐ᴴᴰ,CCTV-15影视,CCTV-15浙江,CCTV-15重庆,CCTV15音乐,CCTV音乐,CCTV娱乐,CCTV-娱乐
 CCTV16,re:(?i)^\s*CCTV[-\s_]*0?16(?![0-9Kk+])[\s\S]*$,CCTV16,CCTV16 4K,CCTV-16 4K,CCTV16 奥林匹克,CCTV-16 奥林匹克,CCTV-16奥林匹克（5.1环绕声）,CCTV-16奥林匹克4K（5.1环绕声）,CCTV16(4K),CCTV16[1920*1080],CCTV-16_ITV,CCTV16「IPV6」,CCTV16-4K,CCTV-16-4K,CCTV16-4K-25PHLG源,CCTV16HD,CCTV-16HD,CCTV16-奥林匹克,CCTV-16奥林匹克,CCTV16奥林匹克4K,CCTV-16奥林匹克ᴴᴰ,CCTV-16北联,CCTV-16电信,CCTV-16高码,CCTV-16高清,CCTV-16梅州,CCTV-16咪咕,CCTV-16汝阳,CCTV-16太原,CCTV-16天津,CCTV-16影视,CCTV-16浙江,CCTV16体育赛事
 CCTV17,re:(?i)^\s*CCTV[-\s_]*0?17(?![0-9Kk+])[\s\S]*$,CCTV17,CCTV17 农业农村,CCTV-17 农业农村,CCTV-17农业农村（5.1环绕声）,CCTV17[1920*1080],CCTV-17_ITV,CCTV17「IPV6」,CCTV172,CCTV17HD,CCTV-17HD,CCTV-17北联,CCTV17-标清,CCTV-17电信,CCTV-17高码,CCTV-17高清,CCTV-17广西,CCTV-17梅州,CCTV-17咪咕,CCTV17-农业农村,CCTV-17农业农村,CCTV-17农业农村ᴴᴰ,CCTV-17汝阳,CCTV-17上海,CCTV-17四川,CCTV-17太原,CCTV-17天津,CCTV-17影视,CCTV-17浙江,CCTV-17重庆,CCTV17农业农村
+CCTV-4美洲,re:(?i)^\s*CCTV[-\s_]*0?4(?![0-9Kk+])[\s\S]*\b(?:美洲|America|Americas)\b[\s\S]*$,CCTV4美洲,CCTV4美洲咪咕
+CCTV-4欧洲,re:(?i)^\s*CCTV[-\s_]*0?4(?![0-9Kk+])[\s\S]*\b(?:欧洲|Europe)\b[\s\S]*$,CCTV4欧洲,CCTV4欧洲咪咕
 CCTV4K,re:(?i)^\s*CCTV[-\s_]*0?4(?![0-9])\s*(?:[Kk]|Ｋ)\b[\s\S]*$,CCTV4K,cctv4k_10m,CCTV4K超高清,CCTV-4K超高清,CCTV-4k高码,CCTV-4K广西,CCTV-4k浙江
+CCTV8K,re:(?i)^\s*CCTV[-\s_]*0?8(?![0-9])\s*(?:[Kk]|Ｋ)\b[\s\S]*$,CCTV8K,CCTV8K 超高清,CCTV-8K超高清[3840*2160],cctv8k_120m,cctv8k_36m,CCTV8K超高清,CCTV-8k高码
 
 CCTV兵器科技,CCTV兵器,CCTV兵器科技,CCTV-兵器科技,CCTV兵器科技HD
 CCTV第一剧场,CCTV第一剧场,CCTV-第一剧场,CCTV第一剧场HD,风云剧场,中国电影,CCTV电影轮播
@@ -43,64 +46,85 @@ CCTV中学生,CCTV中学甿,CCTV中学生,CCTV-中学生,中央新影-中学甿,
 
 CETV1,CETV1,CETV1中国教育,CETV1 中国教育,中国教育1,中国教育1HD
 CETV2,CETV2,CETV2中国教育,CETV2 中国教育,中国教育2,中国教育2HD
+CETV3,CETV3,CETV3中国教育,CETV3 中国教育,中国教育3,中国教育3HD
 CETV4,CETV4,CETV4中国教育,CETV4 中国教育,中国教育4,中国教育4HD
+CETV早教,CETV早期教育,早期教育
 CGTN,CGTN英语新闻
+CGTN俄语,CGTN俄罗斯语
 
 广东珠江,GDTV-2,珠江,珠江频道,珠江台,广东珠江高清,珠江高清
 
-TVB翡翠,TVb翡翠台,tvb翡翠台,TVB翡翠台
-TVB明珠,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
+翡翠台,TVb翡翠台,tvb翡翠台,TVB翡翠台
+明珠台,TVb明珠台,tvb明珠台,TVB明珠台,TVB Pearl
 北京卫视,北京卫视4K,北京卫视4K超高清
 凤凰中文,凤凰卫视中文台
 凤凰香港,凤凰卫视香港台
+福建文体,福建体育
+福建经济,福建经视
+FZTV1,FZTV-1,福州综合,福州1-新闻
+FZTV3,FZTV-3,福州生活,福州3-生活
 
-TVB无线新闻,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
+无线新闻台,無綫新聞台,無線新聞台,无线新闻,TVB无线新闻,TVB无线新闻台
 
-RTHK31,港台電視 31,RTHK31,RTHK 31,RTHK-31
-RTHK32,港台電視 32,RTHK32,RTHK 32,RTHK-32
-RTHK33,中央電視台綜合頻道（CCTV-1綜合),CCTV-1綜合,RTHK33,RTHK 33,RTHK-33
-RTHK34,中國環球電視網紀錄頻道 (CGTN紀錄頻道),CGTN紀錄頻道,RTHK34,RTHK 34,RTHK-34
-RTHK35,RTHK35,RTHK 35,RTHK-35
-RTHK36,港台電視 36,RTHK36,RTHK 36,RTHK-36
+港台电视 31,港台電視 31,RTHK31,RTHK 31,RTHK-31
+港台电视 32,港台電視 32,RTHK32,RTHK 32,RTHK-32
+中央電視台綜合頻道,中央電視台綜合頻道（CCTV-1綜合),CCTV-1綜合,RTHK33,RTHK 33,RTHK-33
+中國環球電視網紀錄頻道,中國環球電視網紀錄頻道 (CGTN紀錄頻道),CGTN紀錄頻道,RTHK34,RTHK 34,RTHK-34
+CGTN 英語頻道,RTHK35,RTHK 35,RTHK-35
+港台电视 36,港台電視 36,RTHK36,RTHK 36,RTHK-36
 
-HOY77,HOY TV
+*HOY 國際財經台,HOY 國際財經台,*HOY 国际财经台,HOY 国际财经台,HOY国际财经台
+*HOY TV,HOY TV
+*HOY 資訊台,HOY 資訊台,*HOY 资讯台,HOY 资讯台,HOY资讯台
 
+赣州新闻,GZSXW,GZSNews
 
+北京卡酷少儿,卡酷少儿,卡酷少儿高清,卡酷少儿HD,北京卡酷少儿HD,卡酷少儿高码,北京卡酷少儿高码,KAKU,kaku,KaKu,卡酷动画,卡酷动画HD
 
 黑莓电影,NewTV黑莓电影
 黑莓动画,NewTV黑莓动画
-NewTV家庭剧场,NewTV家庭剧场
-NewTV惊悚悬疑,NewTV惊悚悬疑
-NewTV超级电影,NewTV超级电影
-NewTV动作电影,NewTV动作电影
+家庭剧场,NewTV家庭剧场
+惊悚悬疑,NewTV惊悚悬疑
+超级电影,NewTV超级电影
+动作电影,NewTV动作电影
 哒啵电竞,NewTV哒啵电竞
 
 游戏风云,SiTV游戏风云
 动漫秀场,SiTV动漫秀场
+游戏风云.SiTV游戏风云
 
+爱动漫,iHOT爱动漫
+新动漫,iHOT新动漫
+爱幼教,iHOT爱幼教
+爱电竞,iHOT爱电竞
 
+电竞天堂,BesTV电竞天堂
+宝宝动画,BesTV宝宝动画
 
 嘉佳卡通,广东嘉佳卡通
 金鹰卡通,湖南金鹰卡通
 哈哈炫动,炫动卡通,上海哈哈炫动
+优漫卡通,江苏优漫卡通
 
 NewTV爱情喜剧,NEWTV爱情喜剧,爱情喜剧
 NewTV超级体育,NEWTV超级体育,超级体育
-哒啵赛事,NEWTV哒啵赛事,哒啵赛事
+NewTV哒啵赛事,NEWTV哒啵赛事,哒啵赛事
 NewTV动作电影,NEWTV动作电影
 NewTV古装剧场,NEWTV古装剧场,古装剧场
 NewTV海外剧场,NEWTV海外剧场,海外剧场
-黑莓电影,NEWTV黑莓电影,黑莓电影
-黑莓动画,NEWTV黑莓动画,黑莓动画
+NewTV黑莓电影,NEWTV黑莓电影,黑莓电影
+NewTV黑莓动画,NEWTV黑莓动画,黑莓动画
 NewTV家庭剧场,NEWTV家庭剧场,家庭剧场
 NewTV金牌综艺,NEWTV金牌综艺,金牌综艺
 NewTV惊悚悬疑,NEWTV惊悚悬疑,惊悚悬疑
 NewTV精品大剧,NEWTV精品大剧,精品大剧
 NewTV精品记录,NEWTV精品记录,精品记录
-NewTV精品记录,NEWTV精品纪录,精品纪录
+NewTV精品纪录,NEWTV精品纪录,精品纪录
 NewTV精品体育,NEWTV精品体育,精品体育
 NewTV军旅剧场,NEWTV军旅剧场,军旅剧场
+NewTV军事纪实,NEWTV军事纪实,魅力潇湘
 NewTV军事评论,NEWTV军事评论,军事评论
+NewTV魅力潇湘,NEWTV魅力潇湘,魅力潇湘
 NewTV明星大片,NEWTV明星大片,明星大片
 NewTV农业致富,NEWTV农业致富,农业致富
 NewTV武搏世界,NEWTV武搏世界,武搏世界,武博世界,武术世界
@@ -145,7 +169,7 @@ NewTV中国功夫,NEWTV中国功夫,中国功夫
 三沙卫视,re:(?i)^\s*三沙\s*卫视[\s\S]*$
 深圳卫视,re:(?i)^\s*深圳\s*卫视[\s\S]*$
 东南卫视,re:(?i)^\s*东南\s*卫视[\s\S]*$
-HKS香港卫视,re:(?i)^\s*香港\s*卫视[\s\S]*$
+香港卫视,re:(?i)^\s*香港\s*卫视[\s\S]*$
 海峡卫视,海峡,re:(?i)^\s*海峡\s*卫视[\s\S]*$
 延边卫视,延边,re:(?i)^\s*延边\s*卫视[\s\S]*$
 农林卫视,农林,re:(?i)^\s*农林\s*卫视[\s\S]*$
@@ -200,7 +224,7 @@ HKS香港卫视,re:(?i)^\s*香港\s*卫视[\s\S]*$
 至臻视界,re:(?i)^\s*(?:赛事)?\s*至臻\s*视界[\s\S]*$
 
 # 港澳频道
-HKS香港卫视,HKS,香港卫视直播,香港卫视在线直播
+香港卫视,HKS,香港卫视直播,香港卫视在线直播
 凤凰资讯,凤凰卫视资讯台,凤凰资讯台
 澳门莲花,澳门莲花卫视,莲花卫视
 TVB星河,TVB星河频道
@@ -219,12 +243,17 @@ TVBS,tvbs新聞,TVBS新聞台
 TVBS,tvbs 新聞,TVBS 新聞台
 
 # FYtv 后缀频道
-有线新闻,有线新闻Fytv,有线新闻fy tv
+有线新闻FYtv,有线新闻Fytv,有线新闻fy tv
+无线翡翠FYtv,无线翡翠Fytv,无线翡翠fy tv
+无线明珠FYtv,无线明珠Fytv,无线明珠fy tv
+无线娱乐FYtv,无线娱乐Fytv,无线娱乐fy tv
+无线千禧FYtv,无线千禧Fytv,无线千禧fy tv
 
 # Now新闻台
 NOW新闻台,NOW新闻台直播,Now新闻台
 
 # HOYTV
+HOYTV,HOY TV,HOY电视,HOY资讯台
 
 # 五星体育
 五星体育,五星体育直播,五星体育频道
@@ -250,16 +279,18 @@ CGTN纪录,CGTN Documentary,CGTN Doc
 # NewTV 频道正则规则（补充上游缺少的）
 NewTV爱情喜剧,re:(?i)^\s*(?:NewTV|NEWTV)\s*爱情喜剧[\s\S]*$
 NewTV超级体育,re:(?i)^\s*(?:NewTV|NEWTV)\s*超级体育[\s\S]*$
-哒啵赛事,re:(?i)^\s*(?:NewTV|NEWTV)\s*哒啵赛事[\s\S]*$
+NewTV哒啵赛事,re:(?i)^\s*(?:NewTV|NEWTV)\s*哒啵赛事[\s\S]*$
 NewTV古装剧场,re:(?i)^\s*(?:NewTV|NEWTV)\s*古装剧场[\s\S]*$
 NewTV海外剧场,re:(?i)^\s*(?:NewTV|NEWTV)\s*海外剧场[\s\S]*$
 NewTV金牌综艺,re:(?i)^\s*(?:NewTV|NEWTV)\s*金牌综艺[\s\S]*$
 NewTV精品大剧,re:(?i)^\s*(?:NewTV|NEWTV)\s*精品大剧[\s\S]*$
 NewTV精品记录,re:(?i)^\s*(?:NewTV|NEWTV)\s*精品记录[\s\S]*$
-NewTV精品记录,re:(?i)^\s*(?:NewTV|NEWTV)\s*精品纪录[\s\S]*$
+NewTV精品纪录,re:(?i)^\s*(?:NewTV|NEWTV)\s*精品纪录[\s\S]*$
 NewTV精品体育,re:(?i)^\s*(?:NewTV|NEWTV)\s*精品体育[\s\S]*$
 NewTV军旅剧场,re:(?i)^\s*(?:NewTV|NEWTV)\s*军旅剧场[\s\S]*$
+NewTV军事纪实,re:(?i)^\s*(?:NewTV|NEWTV)\s*军事纪实[\s\S]*$
 NewTV军事评论,re:(?i)^\s*(?:NewTV|NEWTV)\s*军事评论[\s\S]*$
+NewTV魅力潇湘,re:(?i)^\s*(?:NewTV|NEWTV)\s*魅力潇湘[\s\S]*$
 NewTV明星大片,re:(?i)^\s*(?:NewTV|NEWTV)\s*明星大片[\s\S]*$
 NewTV农业致富,re:(?i)^\s*(?:NewTV|NEWTV)\s*农业致富[\s\S]*$
 NewTV武搏世界,re:(?i)^\s*(?:NewTV|NEWTV)\s*(?:武搏|武术)世界[\s\S]*$
@@ -275,7 +306,7 @@ NewTV东北热剧,re:(?i)^\s*(?:NewTV|NEWTV)\s*东北热剧[\s\S]*$
 NewTV欢乐剧场,re:(?i)^\s*(?:NewTV|NEWTV)\s*欢乐剧场[\s\S]*$
 
 # 炫动卡通（哈哈炫动别名）
-哈哈炫动,哈哈炫动,re:(?i)^\s*炫动\s*卡通[\s\S]*$|^\s*哈哈\s*炫动[\s\S]*$
+炫动卡通,哈哈炫动,re:(?i)^\s*炫动\s*卡通[\s\S]*$|^\s*哈哈\s*炫动[\s\S]*$
 
 # 海峡卫视
 海峡卫视,海峡,re:(?i)^\s*海峡\s*卫视[\s\S]*$
@@ -285,3 +316,230 @@ NewTV欢乐剧场,re:(?i)^\s*(?:NewTV|NEWTV)\s*欢乐剧场[\s\S]*$
 
 # 农林卫视
 农林卫视,农林,re:(?i)^\s*农林\s*卫视[\s\S]*$
+
+# ===== 港澳台频道完整映射 =====
+
+# TVB翡翠 - 简繁体+空格变体
+TVB翡翠,翡翠台,TVB翡翠台,翡翠,TVB翡翠台,TVb翡翠,TVb翡翠台,TVB翡翠台,tvb翡翠,tvb翡翠台,翡翠台,tvbcui
+
+# TVB明珠 - 简繁体+空格变体
+TVB明珠,明珠台,TVB明珠台,明珠,TVb明珠,TVb明珠台,TVB明珠台,tvb明珠,tvb明珠台,明珠台
+
+# TVB星河
+TVB星河,TVB星河频道,TVb星河
+
+# TVB无线新闻
+TVB无线新闻,无线新闻台,無綫新聞台,無線新聞台,TVB无线新闻台,无线新闻,TVb无线新闻
+
+# TVB娱乐新闻
+TVB娱乐新闻,TVB娱乐新闻台,TVb娱乐新闻
+
+# TVB千禧经典
+TVB千禧经典,TVB千禧经典台,TVb千禧经典
+
+# TVBPlus
+TVBPlus,TVB Plus,TVBPlus,TVb Plus
+
+# 有线新闻
+有线新闻,有线新闻直播,有线新闻台
+
+# 澳门莲花
+澳门莲花,澳门莲花卫视,莲花卫视,澳門蓮花
+
+# 澳视澳门
+澳视澳门,澳視澳門,澳门Macau,澳門Macau,澳门macau
+
+# 澳视体育
+澳视体育,澳視體育,澳门体育,澳門體育
+
+# 澳视资讯
+澳视资讯,澳視資訊,澳门资讯,澳門資訊
+
+# 澳视综艺
+澳视综艺,澳視綜藝,澳门综艺,澳門綜藝
+
+# 澳亚卫视
+澳亚卫视,澳亞衛視,澳门卫视
+
+# ViuTV
+ViuTV,Viu TV,ViuTV62,ViuTV HD
+
+# NOW新闻台
+NOW新闻台,Now新闻台,NOW新闻,NOW新闻台直播,Now News
+
+# HOY77 (HOY TV)
+HOY77,HOY TV,HOY TV 77,HOY電視台,HOY电视,HOYTV
+
+# RTHK31-RTHK36
+RTHK31,港台电视 31,港台電視 31,RTHK 31,RTHK-31,港台电视31
+RTHK32,港台电视 32,港台電視 32,RTHK 32,RTHK-32,港台电视32
+RTHK33,港台电视 33,港台電視 33,RTHK 33,RTHK-33,港台电视33,中央電視台綜合頻道,中央电视台综合频道
+RTHK34,港台电视 34,港台電視 34,RTHK 34,RTHK-34,港台电视34,中國環球電視網紀錄頻道,中国环球电视网纪录频道
+RTHK35,港台电视 35,港台電視 35,RTHK 35,RTHK-35,港台电视35,CGTN 英語頻道,CGTN英语频道
+RTHK36,港台电视 36,港台電視 36,RTHK 36,RTHK-36,港台电视36
+
+# HKS香港卫视
+HKS香港卫视,香港卫视,HKS,香港卫视直播,香港卫视在线直播
+
+# TVBS系列 - 简繁体+空格变体
+TVBS,TVBS台,TVBS News,TVBS新聞台,TVBS 新聞台,TVB S,TVBS 台,tvbs,tvbs台,TVB S 台,tvbs台,TVB S News,TVBS News台,TVB S 新聞台,TVBS 新聞台,tvbs news,TVBS news台,tvbs新聞,TVBS新聞台,tvbs 新聞,TVBS 新聞台
+TVBS欢乐,TVBS欢乐台,TVBS歡樂,TVBS歡樂台,tvbs欢乐,TVBS 歡樂
+TVBS精采,TVBS精采台,TVBS精彩,TVBS精彩台,tvbs精采,TVBS 精采
+TVBS新闻,TVBS新闻台,TVBS新聞,TVBS新聞台,tvbs新闻
+TVBS台剧,TVBS台剧台,TVBS台劇,TVBS台劇台,tvbs台剧
+TVBS综艺,TVBS综艺台,TVBS綜藝,TVBS綜藝台,tvbs综艺
+
+# 东森系列
+东森新闻,東森新聞,东森新闻台,東森新聞台
+东森财经新闻,東森財經新聞,东森财经,東森財經
+东森超视,東森超視,东森超视台
+东森电影,東森電影
+东森综合,東森綜合
+东森戏剧,東森戲劇
+东森洋片,東森洋片
+东森幼幼,東森幼幼
+
+# 三立系列
+三立新闻,三立新聞,三立新闻台
+三立财经新闻,三立財經新聞
+三立综合,三立綜合
+三立台湾,三立台灣
+三立戏剧,三立戲劇
+三立都会,三立都會
+
+# 华视系列
+华视,華視,华视台
+华视新闻,華視新聞
+华视教育体育文化,華視教育體育文化,华视教育文化,華視教育文化
+
+# 中视系列
+中视,中視,中视台
+中视新闻,中視新聞
+中视经典,中視經典
+中视菁采,中視菁采
+
+# 中天系列
+中天新闻,中天新聞
+中天娱乐,中天娛樂
+中天综合,中天綜合
+中天亚洲,中天亞洲
+
+# 民视系列
+民视,民視,民视台
+民视新闻,民視新聞
+民视第一台,民視第一台
+民视台湾,民視台灣
+民视影剧,民視影劇
+民视综艺,民視綜藝
+民视旅游,民視旅遊
+
+# 公视系列
+公视,公視
+公视3台,公視3台
+公视台语,公視台語
+公视戏剧,公視戲劇
+公视少儿,公視少兒
+
+# 台视系列
+台视,台視,台视台
+台视新闻,台視新聞
+台视综合,台視綜合
+台视财经,台視財經
+
+# 纬来系列
+纬来综合,緯來綜合
+纬来戏剧,緯來戲劇
+纬来日本,緯來日本
+纬来电影,緯來電影
+纬来体育,緯來體育
+纬来育乐,緯來育樂
+纬来精采,緯來精采
+
+# 大湾区卫视
+大湾区卫视,大灣區衛視
+
+# 安多卫视
+安多卫视,安多衛視
+
+# 康巴卫视
+康巴卫视,康巴衛視
+
+# 兵团卫视
+兵团卫视,兵團衛視
+
+# 文物宝库
+文物宝库,文物寶庫
+
+# 求索系列
+求索纪录,求索記錄,求索纪实,求索紀實
+求索动物,求索動物
+求索科学,求索科學
+求索生活,求索生活
+
+# 睛彩系列
+睛彩竞技,睛彩競技
+睛彩篮球,睛彩籃球
+睛彩青少,睛彩青少
+睛彩广场舞,睛彩廣場舞
+睛彩中原,睛彩中原
+
+# CHC系列
+CHC动作电影,CHC動作電影
+CHC家庭影院,CHC家庭影院
+CHC影迷电影,CHC影迷電影
+
+# NewTV热播精选
+NewTV热播精选,NEWTV热播精选,热播精选
+
+# 广东本地频道
+广东新闻,廣東新聞
+广东民生,廣東民生
+广州影视,廣州影視
+广州竞赛,廣州競賽
+深圳都市,深圳都市
+深圳电视剧,深圳電視劇
+深圳财经生活,深圳財經生活
+深圳娱乐,深圳娛樂
+汕头综合,汕頭綜合
+汕头经济,汕頭經濟
+汕头文旅,汕頭文旅
+深圳少儿,深圳少兒
+深圳体育健康,深圳體育健康
+岭南戏曲,嶺南戲曲
+现代教育,現代教育
+
+# 其他缺失频道
+卡酷少儿,卡酷少儿高清,卡酷少儿HD,北京卡酷少儿,北京卡酷少儿HD,KAKU,kaku,KaKu
+梨园频道,梨園頻道
+重温经典,重溫經典
+魅力足球,魅力足球
+劲爆体育,勁爆體育
+新视觉,新視覺
+乐游,樂遊
+都市剧场,都市劇場
+法治天地,法治天地
+欢笑剧场,歡笑劇場
+金色学堂,金色學堂
+生活时尚,生活時尚
+# CCTV电视指南
+CCTV电视指南,CCTV電視指南
+
+# 哒啵赛事
+哒啵赛事,哒啵賽事
+
+# 澳门Macau
+澳门Macau,澳門Macau,Macau,macau
+
+# 湖南本地频道
+湖南经视,湖南經視
+湖南都市,湖南都市
+湖南爱晚,湖南愛晚
+湖南国际,湖南國際
+湖南娱乐,湖南娛樂
+湖南电影,湖南電影
+湖南电视剧,湖南電視劇
+湖南教育,湖南教育
+金鹰纪实,金鷹紀實
+茶频道,茶頻道
+先锋乒羽,先鋒乒羽
+快乐垂钓,快樂垂釣

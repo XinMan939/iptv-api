@@ -53,7 +53,7 @@ CETV4,re:(?i)^\s*CETV[-\s_]*0?4[\s\S]*$
 CETV早教,re:(?i)^\s*CETV[-\s_]*早教[\s\S]*$
 
 # ===================== CGTN =====================
-CGTN,re:(?i)^\s*CGTN[-\s_]*(English|HD|英语|英语新闻)[\s\S]*$
+CGTN,re:(?i)^\s*CGTN[-\s_]*(English|HD|英语|英语新闻|英)[\s\S]*$
 CGTN法语,re:(?i)^\s*CGTN[-\s_]*(Français|Francais|French|法)[\s\S]*$
 CGTN俄语,re:(?i)^\s*CGTN[-\s_]*(Русский|俄)[\s\S]*$
 CGTN西班牙语,re:(?i)^\s*CGTN[-\s_]*(Español|Espanol|Spanish|西)[\s\S]*$

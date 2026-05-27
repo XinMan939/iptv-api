@@ -33,10 +33,20 @@ jobs:
           GITHUB_ACTIONS: true
         run: python main.py
 
+      - name: Clean temp files
+        run: rm -f output/*.tmp*
+
+      - name: Commit output to master
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --cached --quiet || git commit -m "chore: update output [skip ci]"
+          git push origin master
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
           keep_files: true
-          include_files: result.m3u result.txt hls.m3u hls.txt epg.xml

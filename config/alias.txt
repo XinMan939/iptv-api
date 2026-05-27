@@ -225,7 +225,7 @@ TVBPlus,re:(?i)^\s*(TVB|TVb|tvb)?[-\s_]*Plus[\s\S]*$,TVB Plus,TVb Plus
 澳门Macau,re:(?i)^\s*(澳门|澳門|澳视|澳視)?[-\s_]*Macau[\s\S]*$,澳門Macau,Macau,macau,澳视Macau,澳視Macau
 澳亚卫视,re:(?i)^\s*(澳亚|澳亞)[-_\s]*卫视[\s\S]*$,澳亞衛視,澳门卫视
 ViuTV,re:(?i)^\s*Viu[-\s_]*TV[\s\S]*$,Viu TV,ViuTV HD,ViuTV62
-NOW新闻台,re:(?i)^\s*(NOW|Now)[-_\s]*(新闻|新聞)[\s\S]*$,NOW新闻,NOW新闻台直播,Now新闻台,Now新聞,NOW新聞,NOW新聞台,Now新聞台
+NOW新闻,re:(?i)^\s*(NOW|Now)[-_\s]*(新闻|新聞)[\s\S]*$,NOW新闻台,NOW新闻台直播,Now新闻台,Now新聞,NOW新聞,NOW新聞台,Now新聞台
 Now财经,re:(?i)^\s*(NOW|Now)[-_\s]*(财经|財經)[\s\S]*$,NOW财经,Now财经台,Now財經,NOW財經,Now財經台
 HOY77,re:(?i)^\s*HOY[-\s_]*(TV|77)?[\s\S]*$
 RTHK31,re:(?i)^\s*RTHK[-\s_]*31[\s\S]*$,RTHK 31,RTHK-31,港台电视 31,港台电视31,港台電視 31
@@ -233,7 +233,6 @@ RTHK32,re:(?i)^\s*RTHK[-\s_]*32[\s\S]*$,RTHK 32,RTHK-32,港台电视 32,港台�
 RTHK33,re:(?i)^\s*RTHK[-\s_]*33[\s\S]*$,CCTV-1綜合,RTHK 33,RTHK-33,中央电视台综合频道,中央電視台綜合頻道,港台电视 33,港台电视33,港台電視 33
 RTHK34,re:(?i)^\s*RTHK[-\s_]*34[\s\S]*$,CGTN紀錄頻道,RTHK 34,RTHK-34,中国环球电视网纪录频道,中國環球電視網紀錄頻道,港台电视 34,港台电视34,港台電視 34
 RTHK35,re:(?i)^\s*RTHK[-\s_]*35[\s\S]*$,CGTN 英語頻道,CGTN英语频道,RTHK 35,RTHK-35,港台电视 35,港台电视35,港台電視 35
-RTHK36,re:(?i)^\s*RTHK[-\s_]*36[\s\S]*$,RTHK 36,RTHK-36,港台电视 36,港台电视36,港台電視 36
 Now星影,re:(?i)^\s*(NOW|Now)[-_\s]*星影[\s\S]*$,Now星影台,NOW星影台,Now星影粤
 Now爆谷,re:(?i)^\s*(NOW|Now)[-_\s]*爆谷[\s\S]*$,Now爆谷台,NOW爆谷台
 PopC,re:(?i)^\s*PopC[-_\s]*(电影|電影)?[\s\S]*$,PopC电影,PopC電影

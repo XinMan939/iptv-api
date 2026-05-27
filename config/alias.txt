@@ -53,11 +53,11 @@ CETV4,re:(?i)^\s*CETV[-\s_]*0?4[\s\S]*$
 CETV早教,re:(?i)^\s*CETV[-\s_]*早教[\s\S]*$
 
 # ===================== CGTN =====================
-CGTN,CGTN English,CGTN HD,CGTN英语,CGTN英语新闻
-CGTN法语,CGTN Français,CGTN French
-CGTN俄语,CGTN俄罗斯语
-CGTN西班牙语,CGTN Español,CGTN Spanish
-CGTN阿拉伯语,CGTN Arabic,CGTN العربية
+CGTN,re:(?i)^\s*CGTN[-\s_]*(English|HD|英语|英语新闻)[\s\S]*$
+CGTN法语,re:(?i)^\s*CGTN[-\s_]*(Français|French|法语)[\s\S]*$
+CGTN俄语,re:(?i)^\s*CGTN[-\s_]*(俄语|俄罗斯语|Русский)[\s\S]*$
+CGTN西班牙语,re:(?i)^\s*CGTN[-\s_]*(Español|Spanish|西班牙语)[\s\S]*$
+CGTN阿拉伯语,re:(?i)^\s*CGTN[-\s_]*(Arabic|العربية|阿拉伯语)[\s\S]*$
 CGTN纪录,re:(?i)^\s*CGTN[-\s_]*(外语)?(纪录|记录|纪录片)[\s\S]*$
 
 # ===================== 卫视频道（正则匹配4K等变体） =====================
@@ -97,6 +97,7 @@ CGTN纪录,re:(?i)^\s*CGTN[-\s_]*(外语)?(纪录|记录|纪录片)[\s\S]*$
 海峡卫视,re:(?i)^\s*海峡\s*卫视[\s\S]*$,海峡
 延边卫视,re:(?i)^\s*延边\s*卫视[\s\S]*$,延边
 农林卫视,re:(?i)^\s*农林\s*卫视[\s\S]*$,农林
+兵团卫视,re:(?i)^\s*兵团\s*卫视[\s\S]*$,兵团
 
 # ===================== 广东珠江 =====================
 广东珠江,GDTV-2,广东珠江高清,珠江,珠江台,珠江频道,珠江高清
@@ -347,9 +348,9 @@ RTHK36,RTHK 36,RTHK-36,港台电视 36,港台电视36,港台電視 36
 睛彩广场舞,睛彩廣場舞
 睛彩青少
 睛彩中原
-CHC动作电影,CHC動作電影
-CHC家庭影院
-CHC影迷电影,CHC影迷電影
+CHC动作电影,re:(?i)^\s*CHC[-\s_]*动作电影[\s\S]*$
+CHC家庭影院,re:(?i)^\s*CHC[-\s_]*家庭影院[\s\S]*$
+CHC影迷电影,re:(?i)^\s*CHC[-\s_]*影迷电影[\s\S]*$
 至臻视界
 魅力足球
 劲爆体育,勁爆體育

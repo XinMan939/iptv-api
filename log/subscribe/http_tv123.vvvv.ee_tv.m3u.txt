@@ -4386,846 +4386,936 @@ https://tv123.cc.cd/live.php/?ch=67b481e62067
 https://tv123.cc.cd/live.php/?ch=29fd4e332068
 #EXTINF:-1 tvg-id="2877" tvg-name="CTV HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68938699e928b_666x.png" group-title="越南 | Vietnam",CTV HD
 https://tv123.cc.cd/live.php/?ch=ef9c93f32069
-#EXTINF:-1 tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="韓国 | Korea",YTN
+#EXTINF:-1 group-title="台灣",民视新闻
 https://tv123.cc.cd/live.php/?ch=4783d47f2070
-#EXTINF:-1 tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png" group-title="韓国 | Korea",YTN2
+#EXTINF:-1 group-title="台灣",中视新闻
 https://tv123.cc.cd/live.php/?ch=65c6f5422071
-#EXTINF:-1 tvg-name="YTN사이언스" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png" group-title="韓国 | Korea",YTN사이언스
+#EXTINF:-1 group-title="台灣",华视新闻
 https://tv123.cc.cd/live.php/?ch=3f962a682072
-#EXTINF:-1 tvg-name="연합뉴스TV" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png" group-title="韓国 | Korea",연합뉴스TV
+#EXTINF:-1 group-title="台灣",台视新闻
 https://tv123.cc.cd/live.php/?ch=abf2db2f2073
-#EXTINF:-1 tvg-name="JTBC" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png" group-title="韓国 | Korea",JTBC
+#EXTINF:-1 group-title="台灣",公视闽南语
 https://tv123.cc.cd/live.php/?ch=f26bbb4e2074
-#EXTINF:-1 tvg-name="JTBC2" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png" group-title="韓国 | Korea",JTBC2
+#EXTINF:-1 group-title="台灣",民视
 https://tv123.cc.cd/live.php/?ch=aac2e8372075
-#EXTINF:-1 tvg-name="JTBC4" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png" group-title="韓国 | Korea",JTBC4
+#EXTINF:-1 group-title="台灣",中视闽南语
 https://tv123.cc.cd/live.php/?ch=c21c143c2076
-#EXTINF:-1 tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="韓国 | Korea",tvN
+#EXTINF:-1 group-title="台灣",华视闽南地波
 https://tv123.cc.cd/live.php/?ch=30dfe47d2077
-#EXTINF:-1 tvg-name="tvN SHOW" tvg-logo="https://pjytv.760515.xyz/logo/tvN SHOW.png" group-title="韓国 | Korea",tvN SHOW
+#EXTINF:-1 group-title="台灣",台视闽南
 https://tv123.cc.cd/live.php/?ch=bfe4d27a2078
-#EXTINF:-1 tvg-name="tvN DRAMA" tvg-logo="https://pjytv.760515.xyz/logo/tvN DRAMA.png" group-title="韓国 | Korea",tvN DRAMA
+#EXTINF:-1 group-title="台灣",公视闽语
 https://tv123.cc.cd/live.php/?ch=bca05e4d2079
-#EXTINF:-1 tvg-name="tvN STORY" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png" group-title="韓国 | Korea",tvN STORY
+#EXTINF:-1 group-title="台灣",公视综合
 https://tv123.cc.cd/live.php/?ch=c4abbce42080
-#EXTINF:-1 tvg-name="채널A" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="韓国 | Korea",채널A
+#EXTINF:-1 group-title="台灣",民视南闽
 https://tv123.cc.cd/live.php/?ch=3f0f97de2081
-#EXTINF:-1 tvg-name="채널A플러스" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png" group-title="韓国 | Korea",채널A플러스
+#EXTINF:-1 group-title="台灣",民视第一
 https://tv123.cc.cd/live.php/?ch=d7c764c82082
-#EXTINF:-1 tvg-name="TV CHOSUN" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png" group-title="韓国 | Korea",TV CHOSUN
+#EXTINF:-1 group-title="台灣",中视经典
 https://tv123.cc.cd/live.php/?ch=e41dfd262083
-#EXTINF:-1 tvg-name="TV CHOSUN 2" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png" group-title="韓国 | Korea",TV CHOSUN 2
+#EXTINF:-1 group-title="台灣",中视菁采
 https://tv123.cc.cd/live.php/?ch=77e299f82084
-#EXTINF:-1 tvg-name="Mnet" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png" group-title="韓国 | Korea",Mnet
+#EXTINF:-1 group-title="台灣",华视教育
 https://tv123.cc.cd/live.php/?ch=6ec7dff02085
-#EXTINF:-1 tvg-name="MBN" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png" group-title="韓国 | Korea",MBN
+#EXTINF:-1 group-title="台灣",台视综合
 https://tv123.cc.cd/live.php/?ch=225391572086
-#EXTINF:-1 tvg-name="MBN 플러스" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png" group-title="韓国 | Korea",MBN 플러스
+#EXTINF:-1 group-title="台灣",台视财经
 https://tv123.cc.cd/live.php/?ch=089cf51a2087
-#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png" group-title="韓国 | Korea",LIFETIME
+#EXTINF:-1 group-title="台灣",中视
 https://tv123.cc.cd/live.php/?ch=0d6e30bc2088
-#EXTINF:-1 tvg-name="중화TV" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png" group-title="韓国 | Korea",중화TV
+#EXTINF:-1 group-title="台灣",中视新闻
 https://tv123.cc.cd/live.php/?ch=291f982e2089
-#EXTINF:-1 tvg-name="히스토리" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png" group-title="韓国 | Korea",히스토리
+#EXTINF:-1 group-title="台灣",中视经典
 https://tv123.cc.cd/live.php/?ch=e4af5bec2090
-#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="韓国 | Korea",EBS1
+#EXTINF:-1 group-title="台灣",中视菁采
 https://tv123.cc.cd/live.php/?ch=7ca489932091
-#EXTINF:-1 tvg-name="국회방송(NATV)" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png" group-title="韓国 | Korea",국회방송(NATV)
+#EXTINF:-1 group-title="台灣",台视
 https://tv123.cc.cd/live.php/?ch=9fb44e4e2092
-#EXTINF:-1 tvg-name="ANIBOX" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png" group-title="韓国 | Korea",ANIBOX
+#EXTINF:-1 group-title="台灣",台视新闻
 https://tv123.cc.cd/live.php/?ch=a99080dd2093
-#EXTINF:-1 tvg-name="애니맥스" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png" group-title="韓国 | Korea",애니맥스
+#EXTINF:-1 group-title="台灣",台视综合
 https://tv123.cc.cd/live.php/?ch=851cb88d2094
-#EXTINF:-1 tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png" group-title="韓国 | Korea",투니버스
+#EXTINF:-1 group-title="台灣",台视财经
 https://tv123.cc.cd/live.php/?ch=e975b1622095
-#EXTINF:-1 tvg-name="KBS1" tvg-logo="https://pjytv.760515.xyz/logo/KBS1.png" group-title="韓国 | Korea",KBS1
+#EXTINF:-1 group-title="台灣",华视
 https://tv123.cc.cd/live.php/?ch=cf63eeaa2096
-#EXTINF:-1 tvg-name="KBS2" tvg-logo="https://pjytv.760515.xyz/logo/KBS2.png" group-title="韓国 | Korea",KBS2
+#EXTINF:-1 group-title="台灣",华视新闻资讯
 https://tv123.cc.cd/live.php/?ch=be3d05eb2097
-#EXTINF:-1 tvg-name="KBS드라마" tvg-logo="https://pjytv.760515.xyz/logo/KBS드라마.png" group-title="韓国 | Korea",KBS드라마
+#EXTINF:-1 group-title="台灣",华视教育体育文化
 https://tv123.cc.cd/live.php/?ch=4508da0f2098
-#EXTINF:-1 tvg-name="KBS조이" tvg-logo="https://pjytv.760515.xyz/logo/KBS조이.png" group-title="韓国 | Korea",KBS조이
+#EXTINF:-1 group-title="台灣",民视
 https://tv123.cc.cd/live.php/?ch=35626d082099
-#EXTINF:-1 tvg-name="KBS키즈" tvg-logo="https://pjytv.760515.xyz/logo/KBS키즈.png" group-title="韓国 | Korea",KBS키즈
+#EXTINF:-1 group-title="台灣",民视新闻台
 https://tv123.cc.cd/live.php/?ch=c1750ec72100
-#EXTINF:-1 tvg-name="KBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/KBS LIFE.png" group-title="韓国 | Korea",KBS LIFE
+#EXTINF:-1 group-title="台灣",民视台湾台
 https://tv123.cc.cd/live.php/?ch=6cb07caf2101
-#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://pjytv.760515.xyz/logo/KBS Story.png" group-title="韓国 | Korea",KBS Story
+#EXTINF:-1 group-title="台灣",民视第一台
 https://tv123.cc.cd/live.php/?ch=627da1ae2102
-#EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://pjytv.760515.xyz/logo/KBS WORLD.png" group-title="韓国 | Korea",KBS WORLD
+#EXTINF:-1 group-title="台灣",公视
 https://tv123.cc.cd/live.php/?ch=a38e08152103
-#EXTINF:-1 tvg-name="KBS뉴스" tvg-logo="https://pjytv.760515.xyz/logo/KBS뉴스.png" group-title="韓国 | Korea",KBS뉴스
+#EXTINF:-1 group-title="台灣",公视台语台
 https://tv123.cc.cd/live.php/?ch=5ccc00e32104
-#EXTINF:-1 tvg-name="SBS" tvg-logo="https://pjytv.760515.xyz/logo/SBS.png" group-title="韓国 | Korea",SBS
+#EXTINF:-1 group-title="台灣",小公视
 https://tv123.cc.cd/live.php/?ch=00ca2ea32105
-#EXTINF:-1 tvg-name="SBS플러스" tvg-logo="https://pjytv.760515.xyz/logo/SBS플러스.png" group-title="韓国 | Korea",SBS플러스
+#EXTINF:-1 group-title="台灣",东森美洲 HD
 https://tv123.cc.cd/live.php/?ch=7a0324552106
-#EXTINF:-1 tvg-name="SBS퍼니" tvg-logo="https://pjytv.760515.xyz/logo/SBS퍼니.png" group-title="韓国 | Korea",SBS퍼니
+#EXTINF:-1 group-title="台灣",东森美洲 HD
 https://tv123.cc.cd/live.php/?ch=3e07b3152107
-#EXTINF:-1 tvg-name="SBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/SBS LIFE.png" group-title="韓国 | Korea",SBS LIFE
+#EXTINF:-1 group-title="台灣",东森美洲 HD
 https://tv123.cc.cd/live.php/?ch=2eecf5882108
-#EXTINF:-1 tvg-name="SBS KPOP" tvg-logo="https://pjytv.760515.xyz/logo/SBS KPOP.png" group-title="韓国 | Korea",SBS KPOP
+#EXTINF:-1 group-title="台灣",东森 AMERICA
 https://tv123.cc.cd/live.php/?ch=fb36d5492109
-#EXTINF:-1 tvg-name="SBS골프" tvg-logo="https://pjytv.760515.xyz/logo/SBS골프.png" group-title="韓国 | Korea",SBS골프
+#EXTINF:-1 group-title="台灣",东森 AMERICA
 https://tv123.cc.cd/live.php/?ch=9bbfe91f2110
-#EXTINF:-1 tvg-name="SBS Golf2" tvg-logo="https://pjytv.760515.xyz/logo/SBS Golf2.png" group-title="韓国 | Korea",SBS Golf2
+#EXTINF:-1 group-title="台灣",东森 AMERICA
 https://tv123.cc.cd/live.php/?ch=ae0eafa62111
-#EXTINF:-1 tvg-name="SBS스포츠" tvg-logo="https://pjytv.760515.xyz/logo/SBS스포츠.png" group-title="韓国 | Korea",SBS스포츠
+#EXTINF:-1 group-title="台灣",东森超视 34.5
 https://tv123.cc.cd/live.php/?ch=e70c03402112
-#EXTINF:-1 tvg-name="SBS Biz" tvg-logo="https://pjytv.760515.xyz/logo/SBS Biz.png" group-title="韓国 | Korea",SBS Biz
+#EXTINF:-1 group-title="台灣",东森超视 34.5
 https://tv123.cc.cd/live.php/?ch=c3ad86412113
-#EXTINF:-1 tvg-name="MBC" tvg-logo="https://pjytv.760515.xyz/logo/MBC.png" group-title="韓国 | Korea",MBC
+#EXTINF:-1 group-title="台灣",东森超视 34.5
 https://tv123.cc.cd/live.php/?ch=a104abf22114
-#EXTINF:-1 tvg-name="MBC드라마넷" tvg-logo="https://pjytv.760515.xyz/logo/MBC드라마넷.png" group-title="韓国 | Korea",MBC드라마넷
+#EXTINF:-1 tvg-name="YTN" tvg-logo="https://pjytv.760515.xyz/logo/YTN.png" group-title="韓国 | Korea",YTN
 https://tv123.cc.cd/live.php/?ch=ec9b0bb02115
-#EXTINF:-1 tvg-name="MBC에브리원" tvg-logo="https://pjytv.760515.xyz/logo/MBC에브리원.png" group-title="韓国 | Korea",MBC에브리원
+#EXTINF:-1 tvg-name="YTN2" tvg-logo="https://pjytv.760515.xyz/logo/YTN2.png" group-title="韓国 | Korea",YTN2
 https://tv123.cc.cd/live.php/?ch=b070fa572116
-#EXTINF:-1 tvg-name="MBC M" tvg-logo="https://pjytv.760515.xyz/logo/MBC M.png" group-title="韓国 | Korea",MBC M
+#EXTINF:-1 tvg-name="YTN사이언스" tvg-logo="https://pjytv.760515.xyz/logo/YTN사이언스.png" group-title="韓国 | Korea",YTN사이언스
 https://tv123.cc.cd/live.php/?ch=089573c72117
-#EXTINF:-1 tvg-name="MBC ON" tvg-logo="https://pjytv.760515.xyz/logo/MBC ON.png" group-title="韓国 | Korea",MBC ON
+#EXTINF:-1 tvg-name="연합뉴스TV" tvg-logo="https://pjytv.760515.xyz/logo/연합뉴스TV.png" group-title="韓国 | Korea",연합뉴스TV
 https://tv123.cc.cd/live.php/?ch=96b9e7912118
-#EXTINF:-1 tvg-name="MBCNET" tvg-logo="https://pjytv.760515.xyz/logo/MBCNET.png" group-title="韓国 | Korea",MBCNET
+#EXTINF:-1 tvg-name="JTBC" tvg-logo="https://pjytv.760515.xyz/logo/JTBC.png" group-title="韓国 | Korea",JTBC
 https://tv123.cc.cd/live.php/?ch=ec01614b2119
-#EXTINF:-1 tvg-name="아리랑TV" group-title="韓国 | Korea",아리랑TV
+#EXTINF:-1 tvg-name="JTBC2" tvg-logo="https://pjytv.760515.xyz/logo/JTBC2.png" group-title="韓国 | Korea",JTBC2
 https://tv123.cc.cd/live.php/?ch=557e6d562120
-#EXTINF:-1 tvg-name="TBSTV" group-title="韓国 | Korea",TBSTV
+#EXTINF:-1 tvg-name="JTBC4" tvg-logo="https://pjytv.760515.xyz/logo/JTBC4.png" group-title="韓国 | Korea",JTBC4
 https://tv123.cc.cd/live.php/?ch=ae46ad7d2121
-#EXTINF:-1 tvg-name="ABN" tvg-logo="https://pjytv.760515.xyz/logo/ABN.png" group-title="韓国 | Korea",ABN
+#EXTINF:-1 tvg-name="tvN" tvg-logo="https://pjytv.760515.xyz/logo/tvN.png" group-title="韓国 | Korea",tvN
 https://tv123.cc.cd/live.php/?ch=23bd40982122
-#EXTINF:-1 tvg-name="농협TV" tvg-logo="https://pjytv.760515.xyz/logo/농협TV.png" group-title="韓国 | Korea",농협TV
+#EXTINF:-1 tvg-name="tvN SHOW" tvg-logo="https://pjytv.760515.xyz/logo/tvN SHOW.png" group-title="韓国 | Korea",tvN SHOW
 https://tv123.cc.cd/live.php/?ch=3616b9132123
-#EXTINF:-1 tvg-name="복지TV" group-title="韓国 | Korea",복지TV
+#EXTINF:-1 tvg-name="tvN DRAMA" tvg-logo="https://pjytv.760515.xyz/logo/tvN DRAMA.png" group-title="韓国 | Korea",tvN DRAMA
 https://tv123.cc.cd/live.php/?ch=85307ceb2124
-#EXTINF:-1 tvg-name="국민방송" tvg-logo="https://pjytv.760515.xyz/logo/국민방송.png" group-title="韓国 | Korea",국민방송
+#EXTINF:-1 tvg-name="tvN STORY" tvg-logo="https://pjytv.760515.xyz/logo/tvN STORY.png" group-title="韓国 | Korea",tvN STORY
 https://tv123.cc.cd/live.php/?ch=377079c72125
-#EXTINF:-1 tvg-name="문화유산채널" tvg-logo="https://pjytv.760515.xyz/logo/문화유산채널.png" group-title="韓国 | Korea",문화유산채널
+#EXTINF:-1 tvg-name="채널A" tvg-logo="https://pjytv.760515.xyz/logo/채널A.png" group-title="韓国 | Korea",채널A
 https://tv123.cc.cd/live.php/?ch=017357882126
-#EXTINF:-1 tvg-name="방송대학TV" tvg-logo="https://pjytv.760515.xyz/logo/방송대학TV.png" group-title="韓国 | Korea",방송대학TV
+#EXTINF:-1 tvg-name="채널A플러스" tvg-logo="https://pjytv.760515.xyz/logo/채널A플러스.png" group-title="韓国 | Korea",채널A플러스
 https://tv123.cc.cd/live.php/?ch=b5c6be912127
-#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="韓国 | Korea",EBS1
+#EXTINF:-1 tvg-name="TV CHOSUN" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN.png" group-title="韓国 | Korea",TV CHOSUN
 https://tv123.cc.cd/live.php/?ch=2d98f8942128
-#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://pjytv.760515.xyz/logo/EBS2.png" group-title="韓国 | Korea",EBS2
+#EXTINF:-1 tvg-name="TV CHOSUN 2" tvg-logo="https://pjytv.760515.xyz/logo/TV CHOSUN 2.png" group-title="韓国 | Korea",TV CHOSUN 2
 https://tv123.cc.cd/live.php/?ch=7308107e2129
-#EXTINF:-1 tvg-name="EBS+1" tvg-logo="https://pjytv.760515.xyz/logo/EBS+1.png" group-title="韓国 | Korea",EBS+1
+#EXTINF:-1 tvg-name="Mnet" tvg-logo="https://pjytv.760515.xyz/logo/Mnet.png" group-title="韓国 | Korea",Mnet
 https://tv123.cc.cd/live.php/?ch=119082172130
-#EXTINF:-1 tvg-name="EBS+2" tvg-logo="https://pjytv.760515.xyz/logo/EBS+2.png" group-title="韓国 | Korea",EBS+2
+#EXTINF:-1 tvg-name="MBN" tvg-logo="https://pjytv.760515.xyz/logo/MBN.png" group-title="韓国 | Korea",MBN
 https://tv123.cc.cd/live.php/?ch=b572256f2131
-#EXTINF:-1 tvg-name="EBS English" tvg-logo="https://pjytv.760515.xyz/logo/EBS English.png" group-title="韓国 | Korea",EBS English
+#EXTINF:-1 tvg-name="MBN 플러스" tvg-logo="https://pjytv.760515.xyz/logo/MBN 플러스.png" group-title="韓国 | Korea",MBN 플러스
 https://tv123.cc.cd/live.php/?ch=44f607b92132
-#EXTINF:-1 tvg-name="한국영화1" group-title="韓国 | Korea",한국영화1
+#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://pjytv.760515.xyz/logo/LIFETIME.png" group-title="韓国 | Korea",LIFETIME
 https://tv123.cc.cd/live.php/?ch=e5675d572133
-#EXTINF:-1 tvg-name="한국영화2" group-title="韓国 | Korea",한국영화2
+#EXTINF:-1 tvg-name="중화TV" tvg-logo="https://pjytv.760515.xyz/logo/중화TV.png" group-title="韓国 | Korea",중화TV
 https://tv123.cc.cd/live.php/?ch=f236514f2134
-#EXTINF:-1 tvg-name="한국영화3" group-title="韓国 | Korea",한국영화3
+#EXTINF:-1 tvg-name="히스토리" tvg-logo="https://pjytv.760515.xyz/logo/히스토리.png" group-title="韓国 | Korea",히스토리
 https://tv123.cc.cd/live.php/?ch=fefe484e2135
-#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://pjytv.760515.xyz/logo/凤凰中文.png" group-title="韓国 | Korea",凤凰中文
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="韓国 | Korea",EBS1
 https://tv123.cc.cd/live.php/?ch=c0621fda2136
-#EXTINF:-1 tvg-name="TVB无线新闻" group-title="韓国 | Korea",TVB无线新闻
+#EXTINF:-1 tvg-name="국회방송(NATV)" tvg-logo="https://pjytv.760515.xyz/logo/국회방송(NATV).png" group-title="韓国 | Korea",국회방송(NATV)
 https://tv123.cc.cd/live.php/?ch=0fcc73012137
-#EXTINF:-1 tvg-name="TVB翡翠" group-title="韓国 | Korea",TVB翡翠
+#EXTINF:-1 tvg-name="ANIBOX" tvg-logo="https://pjytv.760515.xyz/logo/ANIBOX.png" group-title="韓国 | Korea",ANIBOX
 https://tv123.cc.cd/live.php/?ch=4e7cc3622138
-#EXTINF:-1 tvg-name="TVB明珠" group-title="韓国 | Korea",TVB明珠
+#EXTINF:-1 tvg-name="애니맥스" tvg-logo="https://pjytv.760515.xyz/logo/애니맥스.png" group-title="韓国 | Korea",애니맥스
 https://tv123.cc.cd/live.php/?ch=ce52ed832139
-#EXTINF:-1 tvg-name="TVBS亚洲" group-title="韓国 | Korea",TVBS亚洲
+#EXTINF:-1 tvg-name="투니버스" tvg-logo="https://pjytv.760515.xyz/logo/투니버스.png" group-title="韓国 | Korea",투니버스
 https://tv123.cc.cd/live.php/?ch=0790eda32140
-#EXTINF:-1 tvg-name="台视新闻" group-title="韓国 | Korea",台视新闻
+#EXTINF:-1 tvg-name="KBS1" tvg-logo="https://pjytv.760515.xyz/logo/KBS1.png" group-title="韓国 | Korea",KBS1
 https://tv123.cc.cd/live.php/?ch=7908adbb2141
-#EXTINF:-1 tvg-name="中视新闻" group-title="韓国 | Korea",中视新闻
+#EXTINF:-1 tvg-name="KBS2" tvg-logo="https://pjytv.760515.xyz/logo/KBS2.png" group-title="韓国 | Korea",KBS2
 https://tv123.cc.cd/live.php/?ch=10aa9fbd2142
-#EXTINF:-1 tvg-name="华视" group-title="韓国 | Korea",华视
+#EXTINF:-1 tvg-name="KBS드라마" tvg-logo="https://pjytv.760515.xyz/logo/KBS드라마.png" group-title="韓国 | Korea",KBS드라마
 https://tv123.cc.cd/live.php/?ch=59ab89362143
-#EXTINF:-1 tvg-name="华视新闻" group-title="韓国 | Korea",华视新闻
+#EXTINF:-1 tvg-name="KBS조이" tvg-logo="https://pjytv.760515.xyz/logo/KBS조이.png" group-title="韓国 | Korea",KBS조이
 https://tv123.cc.cd/live.php/?ch=bd3c7c062144
-#EXTINF:-1 tvg-name="民视" group-title="韓国 | Korea",民视
+#EXTINF:-1 tvg-name="KBS키즈" tvg-logo="https://pjytv.760515.xyz/logo/KBS키즈.png" group-title="韓国 | Korea",KBS키즈
 https://tv123.cc.cd/live.php/?ch=146d834b2145
-#EXTINF:-1 tvg-name="民视第一" group-title="韓国 | Korea",民视第一
+#EXTINF:-1 tvg-name="KBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/KBS LIFE.png" group-title="韓国 | Korea",KBS LIFE
 https://tv123.cc.cd/live.php/?ch=8f5457832146
-#EXTINF:-1 tvg-name="民视新闻" group-title="韓国 | Korea",民视新闻
+#EXTINF:-1 tvg-name="KBS Story" tvg-logo="https://pjytv.760515.xyz/logo/KBS Story.png" group-title="韓国 | Korea",KBS Story
 https://tv123.cc.cd/live.php/?ch=592c6e2a2147
-#EXTINF:-1 tvg-name="东森美洲" group-title="韓国 | Korea",东森美洲
+#EXTINF:-1 tvg-name="KBS WORLD" tvg-logo="https://pjytv.760515.xyz/logo/KBS WORLD.png" group-title="韓国 | Korea",KBS WORLD
 https://tv123.cc.cd/live.php/?ch=cfb4fc272148
-#EXTINF:-1 tvg-name="东森美洲新闻" group-title="韓国 | Korea",东森美洲新闻
+#EXTINF:-1 tvg-name="KBS뉴스" tvg-logo="https://pjytv.760515.xyz/logo/KBS뉴스.png" group-title="韓国 | Korea",KBS뉴스
 https://tv123.cc.cd/live.php/?ch=2beecc432149
-#EXTINF:-1 tvg-name="东森超视" group-title="韓国 | Korea",东森超视
+#EXTINF:-1 tvg-name="SBS" tvg-logo="https://pjytv.760515.xyz/logo/SBS.png" group-title="韓国 | Korea",SBS
 https://tv123.cc.cd/live.php/?ch=f99be8732150
-#EXTINF:-1 tvg-name="东森美洲中国" group-title="韓国 | Korea",东森美洲中国
+#EXTINF:-1 tvg-name="SBS플러스" tvg-logo="https://pjytv.760515.xyz/logo/SBS플러스.png" group-title="韓国 | Korea",SBS플러스
 https://tv123.cc.cd/live.php/?ch=7f5ed1772151
-#EXTINF:-1 tvg-name="纬来体育" group-title="韓国 | Korea",纬来体育
+#EXTINF:-1 tvg-name="SBS퍼니" tvg-logo="https://pjytv.760515.xyz/logo/SBS퍼니.png" group-title="韓国 | Korea",SBS퍼니
 https://tv123.cc.cd/live.php/?ch=954099c72152
-#EXTINF:-1 tvg-name="CNN" group-title="韓国 | Korea",CNN
+#EXTINF:-1 tvg-name="SBS LIFE" tvg-logo="https://pjytv.760515.xyz/logo/SBS LIFE.png" group-title="韓国 | Korea",SBS LIFE
 https://tv123.cc.cd/live.php/?ch=564a917e2153
-#EXTINF:-1 tvg-name="CBS News" group-title="韓国 | Korea",CBS News
+#EXTINF:-1 tvg-name="SBS KPOP" tvg-logo="https://pjytv.760515.xyz/logo/SBS KPOP.png" group-title="韓国 | Korea",SBS KPOP
 https://tv123.cc.cd/live.php/?ch=67946c4b2154
-#EXTINF:-1 tvg-name="BBC" group-title="韓国 | Korea",BBC
+#EXTINF:-1 tvg-name="SBS골프" tvg-logo="https://pjytv.760515.xyz/logo/SBS골프.png" group-title="韓国 | Korea",SBS골프
 https://tv123.cc.cd/live.php/?ch=9c91fe852155
-#EXTINF:-1 tvg-name="Bloomberg" group-title="韓国 | Korea",Bloomberg
+#EXTINF:-1 tvg-name="SBS Golf2" tvg-logo="https://pjytv.760515.xyz/logo/SBS Golf2.png" group-title="韓国 | Korea",SBS Golf2
 https://tv123.cc.cd/live.php/?ch=92907dbb2156
-#EXTINF:-1 tvg-name="Fox" group-title="韓国 | Korea",Fox
+#EXTINF:-1 tvg-name="SBS스포츠" tvg-logo="https://pjytv.760515.xyz/logo/SBS스포츠.png" group-title="韓国 | Korea",SBS스포츠
 https://tv123.cc.cd/live.php/?ch=8b3be63f2157
-#EXTINF:-1 tvg-name="NHKWorld" group-title="韓国 | Korea",NHKWorld
+#EXTINF:-1 tvg-name="SBS Biz" tvg-logo="https://pjytv.760515.xyz/logo/SBS Biz.png" group-title="韓国 | Korea",SBS Biz
 https://tv123.cc.cd/live.php/?ch=7d8268892158
-#EXTINF:-1 tvg-name="ANTV" group-title="韓国 | Korea",ANTV
+#EXTINF:-1 tvg-name="MBC" tvg-logo="https://pjytv.760515.xyz/logo/MBC.png" group-title="韓国 | Korea",MBC
 https://tv123.cc.cd/live.php/?ch=44c7a9b12159
-#EXTINF:-1 tvg-name="NDTV" group-title="韓国 | Korea",NDTV
+#EXTINF:-1 tvg-name="MBC드라마넷" tvg-logo="https://pjytv.760515.xyz/logo/MBC드라마넷.png" group-title="韓国 | Korea",MBC드라마넷
 https://tv123.cc.cd/live.php/?ch=7d86d5cf2160
-#EXTINF:-1 tvg-name="FashionTV" group-title="韓国 | Korea",FashionTV
+#EXTINF:-1 tvg-name="MBC에브리원" tvg-logo="https://pjytv.760515.xyz/logo/MBC에브리원.png" group-title="韓国 | Korea",MBC에브리원
 https://tv123.cc.cd/live.php/?ch=5ad984c12161
-#EXTINF:-1 tvg-name="MOVIE1" group-title="韓国 | Korea",MOVIE1
+#EXTINF:-1 tvg-name="MBC M" tvg-logo="https://pjytv.760515.xyz/logo/MBC M.png" group-title="韓国 | Korea",MBC M
 https://tv123.cc.cd/live.php/?ch=7f631bfc2162
-#EXTINF:-1 tvg-name="MOVIE2" group-title="韓国 | Korea",MOVIE2
+#EXTINF:-1 tvg-name="MBC ON" tvg-logo="https://pjytv.760515.xyz/logo/MBC ON.png" group-title="韓国 | Korea",MBC ON
 https://tv123.cc.cd/live.php/?ch=6fd8174c2163
-#EXTINF:-1 tvg-name="F1" group-title="韓国 | Korea",F1
+#EXTINF:-1 tvg-name="MBCNET" tvg-logo="https://pjytv.760515.xyz/logo/MBCNET.png" group-title="韓国 | Korea",MBCNET
 https://tv123.cc.cd/live.php/?ch=1c7e90802164
-#EXTINF:-1 tvg-name="FAILARMY" group-title="韓国 | Korea",FAILARMY
+#EXTINF:-1 tvg-name="아리랑TV" group-title="韓国 | Korea",아리랑TV
 https://tv123.cc.cd/live.php/?ch=49fde8e72165
-#EXTINF:-1 tvg-name="Drybarcomedy" group-title="韓国 | Korea",Drybarcomedy
+#EXTINF:-1 tvg-name="TBSTV" group-title="韓国 | Korea",TBSTV
 https://tv123.cc.cd/live.php/?ch=5600c6c72166
-#EXTINF:-1 tvg-name="翡翠台" group-title="🌀综合II",翡翠台4K(字幕)
+#EXTINF:-1 tvg-name="ABN" tvg-logo="https://pjytv.760515.xyz/logo/ABN.png" group-title="韓国 | Korea",ABN
 https://tv123.cc.cd/live.php/?ch=d740cb982167
-#EXTINF:-1 tvg-name="凤凰中文" group-title="🌀综合II",凤凰中文
+#EXTINF:-1 tvg-name="농협TV" tvg-logo="https://pjytv.760515.xyz/logo/농협TV.png" group-title="韓国 | Korea",농협TV
 https://tv123.cc.cd/live.php/?ch=775e46522168
-#EXTINF:-1 tvg-name="RTHK33" group-title="🌀综合II",CCTV1港澳版
+#EXTINF:-1 tvg-name="복지TV" group-title="韓国 | Korea",복지TV
 https://tv123.cc.cd/live.php/?ch=3a06e3482169
-#EXTINF:-1 tvg-name="CCTV13" group-title="🌀综合II",CCTV13
+#EXTINF:-1 tvg-name="국민방송" tvg-logo="https://pjytv.760515.xyz/logo/국민방송.png" group-title="韓国 | Korea",국민방송
 https://tv123.cc.cd/live.php/?ch=37af2d412170
-#EXTINF:-1 tvg-name="TVB Plus" group-title="🌀综合II",TVB Plus(字幕)
+#EXTINF:-1 tvg-name="문화유산채널" tvg-logo="https://pjytv.760515.xyz/logo/문화유산채널.png" group-title="韓国 | Korea",문화유산채널
 https://tv123.cc.cd/live.php/?ch=d0d7aad12171
-#EXTINF:-1 tvg-name="HOY77" group-title="🌀综合II",HOY TV
+#EXTINF:-1 tvg-name="방송대학TV" tvg-logo="https://pjytv.760515.xyz/logo/방송대학TV.png" group-title="韓国 | Korea",방송대학TV
 https://tv123.cc.cd/live.php/?ch=4e63180b2172
-#EXTINF:-1 tvg-name="HOY77" group-title="🌀综合II",HOY TV
+#EXTINF:-1 tvg-name="EBS1" tvg-logo="https://pjytv.760515.xyz/logo/EBS1.png" group-title="韓国 | Korea",EBS1
 https://tv123.cc.cd/live.php/?ch=02b2f2152173
-#EXTINF:-1 tvg-name="HOY78" group-title="🌀综合II",HOY资讯台
+#EXTINF:-1 tvg-name="EBS2" tvg-logo="https://pjytv.760515.xyz/logo/EBS2.png" group-title="韓国 | Korea",EBS2
 https://tv123.cc.cd/live.php/?ch=d23b2ccc2174
-#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="🌀综合II",HOY国际财经台
+#EXTINF:-1 tvg-name="EBS+1" tvg-logo="https://pjytv.760515.xyz/logo/EBS+1.png" group-title="韓国 | Korea",EBS+1
 https://tv123.cc.cd/live.php/?ch=78be1b2a2175
-#EXTINF:-1 tvg-name="ViuTV" group-title="🌀综合II",ViuTV
+#EXTINF:-1 tvg-name="EBS+2" tvg-logo="https://pjytv.760515.xyz/logo/EBS+2.png" group-title="韓国 | Korea",EBS+2
 https://tv123.cc.cd/live.php/?ch=c82f00582176
-#EXTINF:-1 tvg-name="ViuTVsix" group-title="🌀综合II",ViuTVsix
+#EXTINF:-1 tvg-name="EBS English" tvg-logo="https://pjytv.760515.xyz/logo/EBS English.png" group-title="韓国 | Korea",EBS English
 https://tv123.cc.cd/live.php/?ch=94a805b12177
-#EXTINF:-1 tvg-name="Now新聞台" group-title="🌀综合II",NOW新闻台
+#EXTINF:-1 tvg-name="한국영화1" group-title="韓国 | Korea",한국영화1
 https://tv123.cc.cd/live.php/?ch=01e9e3972178
-#EXTINF:-1 tvg-name="RTHK31" group-title="🌀综合II",RTHK31
+#EXTINF:-1 tvg-name="한국영화2" group-title="韓国 | Korea",한국영화2
 https://tv123.cc.cd/live.php/?ch=6ed883af2179
-#EXTINF:-1 tvg-name="RTHK32" group-title="🌀综合II",RTHK32
+#EXTINF:-1 tvg-name="한국영화3" group-title="韓国 | Korea",한국영화3
 https://tv123.cc.cd/live.php/?ch=93099e112180
-#EXTINF:-1 tvg-name="澳视澳门" group-title="🌀综合II",澳视澳门
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://pjytv.760515.xyz/logo/凤凰中文.png" group-title="韓国 | Korea",凤凰中文
 https://tv123.cc.cd/live.php/?ch=78b3f0df2181
-#EXTINF:-1 tvg-name="澳视卫星" group-title="🌀综合II",澳视卫星
+#EXTINF:-1 tvg-name="TVB无线新闻" group-title="韓国 | Korea",TVB无线新闻
 https://tv123.cc.cd/live.php/?ch=f863fc362182
-#EXTINF:-1 tvg-name="澳视体育" group-title="🌀综合II",澳门体育
+#EXTINF:-1 tvg-name="TVB翡翠" group-title="韓国 | Korea",TVB翡翠
 https://tv123.cc.cd/live.php/?ch=85088dd42183
-#EXTINF:-1 tvg-name="澳视综艺" group-title="🌀综合II",澳门综艺
+#EXTINF:-1 tvg-name="TVB明珠" group-title="韓国 | Korea",TVB明珠
 https://tv123.cc.cd/live.php/?ch=024d20372184
-#EXTINF:-1 tvg-name="澳门莲花" group-title="🌀综合II",澳门莲花
+#EXTINF:-1 tvg-name="TVBS亚洲" group-title="韓国 | Korea",TVBS亚洲
 https://tv123.cc.cd/live.php/?ch=34dcbb812185
-#EXTINF:-1 tvg-name="重温经典" group-title="🌀综合II",重温经典
+#EXTINF:-1 tvg-name="台视新闻" group-title="韓国 | Korea",台视新闻
 https://tv123.cc.cd/live.php/?ch=a86bcfc62186
-#EXTINF:-1 tvg-name="凤凰资讯" group-title="🌀综合II",凤凰资讯
+#EXTINF:-1 tvg-name="中视新闻" group-title="韓国 | Korea",中视新闻
 https://tv123.cc.cd/live.php/?ch=743d5cae2187
-#EXTINF:-1 tvg-name="凤凰香港" group-title="🌀综合II",凤凰香港
+#EXTINF:-1 tvg-name="华视" group-title="韓国 | Korea",华视
 https://tv123.cc.cd/live.php/?ch=91f80bc22188
-#EXTINF:-1 tvg-name="TVB1" group-title="🌀综合II",TVB1
+#EXTINF:-1 tvg-name="华视新闻" group-title="韓国 | Korea",华视新闻
 https://tv123.cc.cd/live.php/?ch=179e6ce62189
-#EXTINF:-1 tvg-name="TVBJ1" group-title="🌀综合II",TVBJ1
+#EXTINF:-1 tvg-name="民视" group-title="韓国 | Korea",民视
 https://tv123.cc.cd/live.php/?ch=e7d7a6f92190
-#EXTINF:-1 tvg-name="翡翠剧集台" group-title="🌀综合II",翡翠剧集台
+#EXTINF:-1 tvg-name="民视第一" group-title="韓国 | Korea",民视第一
 https://tv123.cc.cd/live.php/?ch=7a22d5972191
-#EXTINF:-1 tvg-name="翡翠台" group-title="🌀综合II",翡翠台
+#EXTINF:-1 tvg-name="民视新闻" group-title="韓国 | Korea",民视新闻
 https://tv123.cc.cd/live.php/?ch=31ce60102192
-#EXTINF:-1 tvg-name="翡翠台" group-title="🌀综合II",翡翠台(字幕)
+#EXTINF:-1 tvg-name="东森美洲" group-title="韓国 | Korea",东森美洲
 https://tv123.cc.cd/live.php/?ch=15891f1e2193
-#EXTINF:-1 tvg-name="明珠台" group-title="🌀综合II",明珠台(字幕)
+#EXTINF:-1 tvg-name="东森美洲新闻" group-title="韓国 | Korea",东森美洲新闻
 https://tv123.cc.cd/live.php/?ch=e11f268b2194
-#EXTINF:-1 tvg-name="无线新闻" group-title="🌀综合II",无线新闻台
+#EXTINF:-1 tvg-name="东森超视" group-title="韓国 | Korea",东森超视
 https://tv123.cc.cd/live.php/?ch=9628649e2195
-#EXTINF:-1 tvg-name="广东珠江" group-title="🌀综合II",广东珠江
+#EXTINF:-1 tvg-name="东森美洲中国" group-title="韓国 | Korea",东森美洲中国
 https://tv123.cc.cd/live.php/?ch=53b2f0982196
-#EXTINF:-1 tvg-name="广东体育" group-title="🌀综合II",广东体育
+#EXTINF:-1 tvg-name="纬来体育" group-title="韓国 | Korea",纬来体育
 https://tv123.cc.cd/live.php/?ch=f8f34a612197
-#EXTINF:-1 tvg-name="八度空间" group-title="🌀综合II",八度空间
+#EXTINF:-1 tvg-name="CNN" group-title="韓国 | Korea",CNN
 https://tv123.cc.cd/live.php/?ch=4a7aa9aa2198
-#EXTINF:-1 tvg-name="Channel 5" group-title="🌀综合II",CH5
+#EXTINF:-1 tvg-name="CBS News" group-title="韓国 | Korea",CBS News
 https://tv123.cc.cd/live.php/?ch=2bcf17982199
-#EXTINF:-1 tvg-name="Channel 8" group-title="🌀综合II",CH8
+#EXTINF:-1 tvg-name="BBC" group-title="韓国 | Korea",BBC
 https://tv123.cc.cd/live.php/?ch=ae1dbb802200
-#EXTINF:-1 tvg-name="Channel U" group-title="🌀综合II",CHU
+#EXTINF:-1 tvg-name="Bloomberg" group-title="韓国 | Korea",Bloomberg
 https://tv123.cc.cd/live.php/?ch=4e091deb2201
-#EXTINF:-1 tvg-name="龍華電影" group-title="🌀综合II",龙华电影
+#EXTINF:-1 tvg-name="Fox" group-title="韓国 | Korea",Fox
 https://tv123.cc.cd/live.php/?ch=d79699a12202
-#EXTINF:-1 tvg-name="龍華經典" group-title="🌀综合II",龙华经典
+#EXTINF:-1 tvg-name="NHKWorld" group-title="韓国 | Korea",NHKWorld
 https://tv123.cc.cd/live.php/?ch=5e37b15e2203
-#EXTINF:-1 tvg-name="龍華偶像" group-title="🌀综合II",龙华偶像
+#EXTINF:-1 tvg-name="ANTV" group-title="韓国 | Korea",ANTV
 https://tv123.cc.cd/live.php/?ch=3813e0442204
-#EXTINF:-1 tvg-name="龍華日韓" group-title="🌀综合II",龙华日韩
+#EXTINF:-1 tvg-name="NDTV" group-title="韓国 | Korea",NDTV
 https://tv123.cc.cd/live.php/?ch=c2146afb2205
-#EXTINF:-1 tvg-name="龍華戲劇" group-title="🌀综合II",龙华戏剧
+#EXTINF:-1 tvg-name="FashionTV" group-title="韓国 | Korea",FashionTV
 https://tv123.cc.cd/live.php/?ch=679dd64f2206
-#EXTINF:-1 tvg-name="金光布袋戲" group-title="🌀综合II",金光布袋戏
+#EXTINF:-1 tvg-name="MOVIE1" group-title="韓国 | Korea",MOVIE1
 https://tv123.cc.cd/live.php/?ch=9756fe232207
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🌀综合II",华丽翡翠台
+#EXTINF:-1 tvg-name="MOVIE2" group-title="韓国 | Korea",MOVIE2
 https://tv123.cc.cd/live.php/?ch=22b38af62208
-#EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="🌀综合II",TVB亚洲武侠
+#EXTINF:-1 tvg-name="F1" group-title="韓国 | Korea",F1
 https://tv123.cc.cd/live.php/?ch=cd74a6bc2209
-#EXTINF:-1 tvg-name="娛樂新聞台" group-title="🌀综合II",TVB娱乐新闻台
+#EXTINF:-1 tvg-name="FAILARMY" group-title="韓国 | Korea",FAILARMY
 https://tv123.cc.cd/live.php/?ch=3033a2ae2210
-#EXTINF:-1 tvg-name="无线新闻" group-title="🌀综合II",无线新闻台
+#EXTINF:-1 tvg-name="Drybarcomedy" group-title="韓国 | Korea",Drybarcomedy
 https://tv123.cc.cd/live.php/?ch=f7ee12452211
-#EXTINF:-1 tvg-name="TVB星河" group-title="🌀综合II",TVB星河
+#EXTINF:-1 tvg-name="翡翠台" group-title="🌀综合II",翡翠台4K(字幕)
 https://tv123.cc.cd/live.php/?ch=c9e0a9f82212
-#EXTINF:-1 tvg-name="海峡卫视" group-title="🌀综合II",海峡卫视
+#EXTINF:-1 tvg-name="凤凰中文" group-title="🌀综合II",凤凰中文
 https://tv123.cc.cd/live.php/?ch=c7551a7a2213
-#EXTINF:-1 tvg-name="TVB星河" group-title="🌀综合II",TVB星河
+#EXTINF:-1 tvg-name="RTHK33" group-title="🌀综合II",CCTV1港澳版
 https://tv123.cc.cd/live.php/?ch=4cd431072214
-#EXTINF:-1 tvg-name="天映新加坡" group-title="🌀综合II",天映新加坡
-https://tv123.cc.cd/live.php/?ch=5d9c5c562215
-#EXTINF:-1 tvg-name="天映经典" group-title="🌀综合II",天映经典
-https://tv123.cc.cd/live.php/?ch=efe0b0e92216
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🌀综合II",华丽翡翠台
-https://tv123.cc.cd/live.php/?ch=57ca06ca2217
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🌀综合II",华丽翡翠台(硬字幕)
-https://tv123.cc.cd/live.php/?ch=4f0190d62218
-#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🌀综合II",华丽翡翠台(新加坡)
-https://tv123.cc.cd/live.php/?ch=36660b442219
-#EXTINF:-1 tvg-name="AOD" group-title="🌀综合II",Astro AOD
-https://tv123.cc.cd/live.php/?ch=f469911f2220
-#EXTINF:-1 tvg-name="AEC" group-title="🌀综合II",Astro AEC
-https://tv123.cc.cd/live.php/?ch=bf48bd302221
-#EXTINF:-1 tvg-name="QJ" group-title="🌀综合II",Astro QJ
-https://tv123.cc.cd/live.php/?ch=06984a3d2222
-#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="🌀综合II",Astro欢喜台
-https://tv123.cc.cd/live.php/?ch=f4633aec2223
-#EXTINF:-1 tvg-name="iQIYI" group-title="🌀综合II",爱奇艺
-https://tv123.cc.cd/live.php/?ch=f166d9f22224
-#EXTINF:-1 tvg-name="天映马来西亚" group-title="🌀综合II",天映频道
-https://tv123.cc.cd/live.php/?ch=011355dc2225
-#EXTINF:-1 tvg-name="天映经典" group-title="🌀综合II",天映经典
-https://tv123.cc.cd/live.php/?ch=cf9a62182226
-#EXTINF:-1 tvg-name="TVB星河" group-title="🌀综合II",TVB星河
-https://tv123.cc.cd/live.php/?ch=f4ae14342227
-#EXTINF:-1 tvg-name="千禧經典台" group-title="🌀综合II",千禧经典台
-https://tv123.cc.cd/live.php/?ch=9bce39762228
-#EXTINF:-1 tvg-name="CCTV1" group-title="🌀综合II",CCTV1
-https://tv123.cc.cd/live.php/?ch=e06b59e62229
-#EXTINF:-1 tvg-name="CCTV2" group-title="🌀综合II",CCTV2
-https://tv123.cc.cd/live.php/?ch=13d845fa2230
-#EXTINF:-1 tvg-name="CCTV3" group-title="🌀综合II",CCTV3
-https://tv123.cc.cd/live.php/?ch=944096882231
-#EXTINF:-1 tvg-name="CCTV4" group-title="🌀综合II",CCTV4
-https://tv123.cc.cd/live.php/?ch=1ca7a7e62232
-#EXTINF:-1 tvg-name="CCTV5" group-title="🌀综合II",CCTV5
-https://tv123.cc.cd/live.php/?ch=97394b392233
-#EXTINF:-1 tvg-name="CCTV5+" group-title="🌀综合II",CCTV5+
-https://tv123.cc.cd/live.php/?ch=654691d22234
-#EXTINF:-1 tvg-name="CCTV6" group-title="🌀综合II",CCTV6
-https://tv123.cc.cd/live.php/?ch=c5b80b252235
-#EXTINF:-1 tvg-name="CCTV7" group-title="🌀综合II",CCTV7
-https://tv123.cc.cd/live.php/?ch=1326612d2236
-#EXTINF:-1 tvg-name="CCTV8" group-title="🌀综合II",CCTV8
-https://tv123.cc.cd/live.php/?ch=86e062212237
-#EXTINF:-1 tvg-name="CCTV9" group-title="🌀综合II",CCTV9
-https://tv123.cc.cd/live.php/?ch=62a7e25e2238
-#EXTINF:-1 tvg-name="CCTV10" group-title="🌀综合II",CCTV10
-https://tv123.cc.cd/live.php/?ch=f87113052239
-#EXTINF:-1 tvg-name="CCTV11" group-title="🌀综合II",CCTV11
-https://tv123.cc.cd/live.php/?ch=341b56c32240
-#EXTINF:-1 tvg-name="CCTV12" group-title="🌀综合II",CCTV12
-https://tv123.cc.cd/live.php/?ch=3610a4ad2241
 #EXTINF:-1 tvg-name="CCTV13" group-title="🌀综合II",CCTV13
-https://tv123.cc.cd/live.php/?ch=b3e93eb92242
-#EXTINF:-1 tvg-name="CCTV14" group-title="🌀综合II",CCTV14
-https://tv123.cc.cd/live.php/?ch=08c2b6c62243
-#EXTINF:-1 tvg-name="CCTV15" group-title="🌀综合II",CCTV15
-https://tv123.cc.cd/live.php/?ch=7075efe52244
-#EXTINF:-1 tvg-name="CCTV16" group-title="🌀综合II",CCTV16
-https://tv123.cc.cd/live.php/?ch=4778b1ca2245
-#EXTINF:-1 tvg-name="CCTV17" group-title="🌀综合II",CCTV17
-https://tv123.cc.cd/live.php/?ch=a3c2bf092246
+https://tv123.cc.cd/live.php/?ch=5d9c5c562215
+#EXTINF:-1 tvg-name="TVB Plus" group-title="🌀综合II",TVB Plus(字幕)
+https://tv123.cc.cd/live.php/?ch=efe0b0e92216
+#EXTINF:-1 tvg-name="HOY77" group-title="🌀综合II",HOY TV
+https://tv123.cc.cd/live.php/?ch=57ca06ca2217
+#EXTINF:-1 tvg-name="HOY77" group-title="🌀综合II",HOY TV
+https://tv123.cc.cd/live.php/?ch=4f0190d62218
+#EXTINF:-1 tvg-name="HOY78" group-title="🌀综合II",HOY资讯台
+https://tv123.cc.cd/live.php/?ch=36660b442219
+#EXTINF:-1 tvg-name="HOY 國際財經台" group-title="🌀综合II",HOY国际财经台
+https://tv123.cc.cd/live.php/?ch=f469911f2220
+#EXTINF:-1 tvg-name="ViuTV" group-title="🌀综合II",ViuTV
+https://tv123.cc.cd/live.php/?ch=bf48bd302221
+#EXTINF:-1 tvg-name="ViuTVsix" group-title="🌀综合II",ViuTVsix
+https://tv123.cc.cd/live.php/?ch=06984a3d2222
+#EXTINF:-1 tvg-name="Now新聞台" group-title="🌀综合II",NOW新闻台
+https://tv123.cc.cd/live.php/?ch=f4633aec2223
+#EXTINF:-1 tvg-name="RTHK31" group-title="🌀综合II",RTHK31
+https://tv123.cc.cd/live.php/?ch=f166d9f22224
+#EXTINF:-1 tvg-name="RTHK32" group-title="🌀综合II",RTHK32
+https://tv123.cc.cd/live.php/?ch=011355dc2225
+#EXTINF:-1 tvg-name="澳视澳门" group-title="🌀综合II",澳视澳门
+https://tv123.cc.cd/live.php/?ch=cf9a62182226
+#EXTINF:-1 tvg-name="澳视卫星" group-title="🌀综合II",澳视卫星
+https://tv123.cc.cd/live.php/?ch=f4ae14342227
+#EXTINF:-1 tvg-name="澳视体育" group-title="🌀综合II",澳门体育
+https://tv123.cc.cd/live.php/?ch=9bce39762228
+#EXTINF:-1 tvg-name="澳视综艺" group-title="🌀综合II",澳门综艺
+https://tv123.cc.cd/live.php/?ch=e06b59e62229
+#EXTINF:-1 tvg-name="澳门莲花" group-title="🌀综合II",澳门莲花
+https://tv123.cc.cd/live.php/?ch=13d845fa2230
 #EXTINF:-1 tvg-name="重温经典" group-title="🌀综合II",重温经典
+https://tv123.cc.cd/live.php/?ch=944096882231
+#EXTINF:-1 tvg-name="凤凰资讯" group-title="🌀综合II",凤凰资讯
+https://tv123.cc.cd/live.php/?ch=1ca7a7e62232
+#EXTINF:-1 tvg-name="凤凰香港" group-title="🌀综合II",凤凰香港
+https://tv123.cc.cd/live.php/?ch=97394b392233
+#EXTINF:-1 tvg-name="TVB1" group-title="🌀综合II",TVB1
+https://tv123.cc.cd/live.php/?ch=654691d22234
+#EXTINF:-1 tvg-name="TVBJ1" group-title="🌀综合II",TVBJ1
+https://tv123.cc.cd/live.php/?ch=c5b80b252235
+#EXTINF:-1 tvg-name="翡翠剧集台" group-title="🌀综合II",翡翠剧集台
+https://tv123.cc.cd/live.php/?ch=1326612d2236
+#EXTINF:-1 tvg-name="翡翠台" group-title="🌀综合II",翡翠台
+https://tv123.cc.cd/live.php/?ch=86e062212237
+#EXTINF:-1 tvg-name="翡翠台" group-title="🌀综合II",翡翠台(字幕)
+https://tv123.cc.cd/live.php/?ch=62a7e25e2238
+#EXTINF:-1 tvg-name="明珠台" group-title="🌀综合II",明珠台(字幕)
+https://tv123.cc.cd/live.php/?ch=f87113052239
+#EXTINF:-1 tvg-name="无线新闻" group-title="🌀综合II",无线新闻台
+https://tv123.cc.cd/live.php/?ch=341b56c32240
+#EXTINF:-1 tvg-name="广东珠江" group-title="🌀综合II",广东珠江
+https://tv123.cc.cd/live.php/?ch=3610a4ad2241
+#EXTINF:-1 tvg-name="广东体育" group-title="🌀综合II",广东体育
+https://tv123.cc.cd/live.php/?ch=b3e93eb92242
+#EXTINF:-1 tvg-name="八度空间" group-title="🌀综合II",八度空间
+https://tv123.cc.cd/live.php/?ch=08c2b6c62243
+#EXTINF:-1 tvg-name="Channel 5" group-title="🌀综合II",CH5
+https://tv123.cc.cd/live.php/?ch=7075efe52244
+#EXTINF:-1 tvg-name="Channel 8" group-title="🌀综合II",CH8
+https://tv123.cc.cd/live.php/?ch=4778b1ca2245
+#EXTINF:-1 tvg-name="Channel U" group-title="🌀综合II",CHU
+https://tv123.cc.cd/live.php/?ch=a3c2bf092246
+#EXTINF:-1 tvg-name="龍華電影" group-title="🌀综合II",龙华电影
 https://tv123.cc.cd/live.php/?ch=d7a67bd62247
-#EXTINF:-1 tvg-name="广州综合" group-title="🌀综合II",广州综合
+#EXTINF:-1 tvg-name="龍華經典" group-title="🌀综合II",龙华经典
 https://tv123.cc.cd/live.php/?ch=ed73d8372248
-#EXTINF:-1 tvg-name="广州新闻" group-title="🌀综合II",广州新闻
+#EXTINF:-1 tvg-name="龍華偶像" group-title="🌀综合II",龙华偶像
 https://tv123.cc.cd/live.php/?ch=fd0ac9372249
-#EXTINF:-1 tvg-name="南国都市4K" group-title="🌀综合II",广州南国都市
+#EXTINF:-1 tvg-name="龍華日韓" group-title="🌀综合II",龙华日韩
 https://tv123.cc.cd/live.php/?ch=713fab252250
-#EXTINF:-1 tvg-name="五星体育" group-title="🌀综合II",五星体育
+#EXTINF:-1 tvg-name="龍華戲劇" group-title="🌀综合II",龙华戏剧
 https://tv123.cc.cd/live.php/?ch=ae3dd9da2251
-#EXTINF:-1 tvg-name="民視影劇台" group-title="🌀综合II",民视影剧台
-https://tv123.cc.cd/live.php/?ch=7c97ca212252
-#EXTINF:-1 tvg-name="公視戲劇" group-title="🌀综合II",公视戏剧
-https://tv123.cc.cd/live.php/?ch=e41d56462253
-#EXTINF:-1 tvg-name="采昌影劇台" group-title="🌀综合II",采昌影剧台
-https://tv123.cc.cd/live.php/?ch=9dc57b082254
-#EXTINF:-1 tvg-name="靖天映畫" group-title="🌀综合II",靖天映画
-https://tv123.cc.cd/live.php/?ch=f3213e542255
-#EXTINF:-1 tvg-name="靖天戲劇台" group-title="🌀综合II",靖天戏剧台
-https://tv123.cc.cd/live.php/?ch=89e98c612256
-#EXTINF:-1 tvg-name="靖天電影台" group-title="🌀综合II",靖天电影台
-https://tv123.cc.cd/live.php/?ch=3f9a6a3b2257
-#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="🌀综合II",靖洋戏剧台
-https://tv123.cc.cd/live.php/?ch=286bd2b82258
-#EXTINF:-1 tvg-name="影迷數位電影台" group-title="🌀综合II",影迷数位电影台
-https://tv123.cc.cd/live.php/?ch=cb3a7c1e2259
-#EXTINF:-1 tvg-name="amc電影台" group-title="🌀综合II",amc电影台
-https://tv123.cc.cd/live.php/?ch=140c7b802260
-#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="🌀综合II",CinemaWorld
-https://tv123.cc.cd/live.php/?ch=a2340ec72261
-#EXTINF:-1 tvg-name="My Cinema Europe" group-title="🌀综合II",My Cinema Europe
-https://tv123.cc.cd/live.php/?ch=25a1c86a2262
-#EXTINF:-1 tvg-name="經典電影台" group-title="🌀综合II",经典电影台
-https://tv123.cc.cd/live.php/?ch=dfb6da612263
-#EXTINF:-1 tvg-name="電影原聲台CMusic" group-title="🌀综合II",CMusic
-https://tv123.cc.cd/live.php/?ch=52f7dc152264
-#EXTINF:-1 tvg-name="DreamWorks" group-title="🌀综合II",DreamWorks梦工厂动画
-https://tv123.cc.cd/live.php/?ch=c1d998662265
-#EXTINF:-1 tvg-name="精選動漫台" group-title="🌀综合II",精选动漫台
-https://tv123.cc.cd/live.php/?ch=6e49be0b2266
 #EXTINF:-1 tvg-name="金光布袋戲" group-title="🌀综合II",金光布袋戏
+https://tv123.cc.cd/live.php/?ch=7c97ca212252
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🌀综合II",华丽翡翠台
+https://tv123.cc.cd/live.php/?ch=e41d56462253
+#EXTINF:-1 tvg-name="TVB亚洲武侠" group-title="🌀综合II",TVB亚洲武侠
+https://tv123.cc.cd/live.php/?ch=9dc57b082254
+#EXTINF:-1 tvg-name="娛樂新聞台" group-title="🌀综合II",TVB娱乐新闻台
+https://tv123.cc.cd/live.php/?ch=f3213e542255
+#EXTINF:-1 tvg-name="无线新闻" group-title="🌀综合II",无线新闻台
+https://tv123.cc.cd/live.php/?ch=89e98c612256
+#EXTINF:-1 tvg-name="TVB星河" group-title="🌀综合II",TVB星河
+https://tv123.cc.cd/live.php/?ch=3f9a6a3b2257
+#EXTINF:-1 tvg-name="海峡卫视" group-title="🌀综合II",海峡卫视
+https://tv123.cc.cd/live.php/?ch=286bd2b82258
+#EXTINF:-1 tvg-name="TVB星河" group-title="🌀综合II",TVB星河
+https://tv123.cc.cd/live.php/?ch=cb3a7c1e2259
+#EXTINF:-1 tvg-name="天映新加坡" group-title="🌀综合II",天映新加坡
+https://tv123.cc.cd/live.php/?ch=140c7b802260
+#EXTINF:-1 tvg-name="天映经典" group-title="🌀综合II",天映经典
+https://tv123.cc.cd/live.php/?ch=a2340ec72261
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🌀综合II",华丽翡翠台
+https://tv123.cc.cd/live.php/?ch=25a1c86a2262
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🌀综合II",华丽翡翠台(硬字幕)
+https://tv123.cc.cd/live.php/?ch=dfb6da612263
+#EXTINF:-1 tvg-name="TVB Jade HD" group-title="🌀综合II",华丽翡翠台(新加坡)
+https://tv123.cc.cd/live.php/?ch=52f7dc152264
+#EXTINF:-1 tvg-name="AOD" group-title="🌀综合II",Astro AOD
+https://tv123.cc.cd/live.php/?ch=c1d998662265
+#EXTINF:-1 tvg-name="AEC" group-title="🌀综合II",Astro AEC
+https://tv123.cc.cd/live.php/?ch=6e49be0b2266
+#EXTINF:-1 tvg-name="QJ" group-title="🌀综合II",Astro QJ
 https://tv123.cc.cd/live.php/?ch=f9e310f82267
-#EXTINF:-1 tvg-name="翡翠台" group-title="🌀综合II",翡翠台(WebVTT字幕)
+#EXTINF:-1 tvg-name="HUA HEE DAI" group-title="🌀综合II",Astro欢喜台
 https://tv123.cc.cd/live.php/?ch=bce563a02268
-#EXTINF:-1 tvg-name="明珠台" group-title="🌀综合II",明珠台(WebVTT字幕)
+#EXTINF:-1 tvg-name="iQIYI" group-title="🌀综合II",爱奇艺
 https://tv123.cc.cd/live.php/?ch=981d3da12269
-#EXTINF:-1 tvg-name="TVB Plus" group-title="🌀综合II",TVB Plus(WebVTT字幕)
+#EXTINF:-1 tvg-name="天映马来西亚" group-title="🌀综合II",天映频道
 https://tv123.cc.cd/live.php/?ch=ca1e85ca2270
-#EXTINF:-1 tvg-name="黃金華劇台" group-title="🌀综合II",黄金华剧台(WebVTT字幕)
+#EXTINF:-1 tvg-name="天映经典" group-title="🌀综合II",天映经典
 https://tv123.cc.cd/live.php/?ch=4e24ab212271
-#EXTINF:-1 tvg-name="TVB Plus" group-title="🌀综合II",TVB Plus
+#EXTINF:-1 tvg-name="TVB星河" group-title="🌀综合II",TVB星河
 https://tv123.cc.cd/live.php/?ch=8349f45b2272
-#EXTINF:-1 tvg-name="纬来电影台" group-title="🌀综合II",纬来电影台
+#EXTINF:-1 tvg-name="千禧經典台" group-title="🌀综合II",千禧经典台
 https://tv123.cc.cd/live.php/?ch=8357b2cf2273
-#EXTINF:-1 tvg-name="纬来戏剧台" group-title="🌀综合II",纬来戏剧台
+#EXTINF:-1 tvg-name="CCTV1" group-title="🌀综合II",CCTV1
 https://tv123.cc.cd/live.php/?ch=6d416d3f2274
-#EXTINF:-1 tvg-name="纬来体育台" group-title="🌀综合II",纬来体育台
+#EXTINF:-1 tvg-name="CCTV2" group-title="🌀综合II",CCTV2
 https://tv123.cc.cd/live.php/?ch=c6bcf0922275
-#EXTINF:-1 tvg-name="龙祥时代" group-title="🌀综合II",龙祥时代
+#EXTINF:-1 tvg-name="CCTV3" group-title="🌀综合II",CCTV3
 https://tv123.cc.cd/live.php/?ch=0d094c7d2276
-#EXTINF:-1 tvg-name="东森电影" group-title="🌀综合II",东森电影
+#EXTINF:-1 tvg-name="CCTV4" group-title="🌀综合II",CCTV4
 https://tv123.cc.cd/live.php/?ch=63d24caf2277
-#EXTINF:-1 tvg-name="东森戏剧" group-title="🌀综合II",东森戏剧
+#EXTINF:-1 tvg-name="CCTV5" group-title="🌀综合II",CCTV5
 https://tv123.cc.cd/live.php/?ch=0cd15a862278
-#EXTINF:-1 tvg-name="东森洋片" group-title="🌀综合II",东森洋片
+#EXTINF:-1 tvg-name="CCTV5+" group-title="🌀综合II",CCTV5+
 https://tv123.cc.cd/live.php/?ch=5d4693f62279
-#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="🏖️四季(美日法节点)",民視第一台
+#EXTINF:-1 tvg-name="CCTV6" group-title="🌀综合II",CCTV6
 https://tv123.cc.cd/live.php/?ch=e0e469e42280
-#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="🏖️四季(美日法节点)",民視台灣台
+#EXTINF:-1 tvg-name="CCTV7" group-title="🌀综合II",CCTV7
 https://tv123.cc.cd/live.php/?ch=9ef1b8332281
-#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="🏖️四季(美日法节点)",民視
+#EXTINF:-1 tvg-name="CCTV8" group-title="🌀综合II",CCTV8
 https://tv123.cc.cd/live.php/?ch=9fce297f2282
-#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="🏖️四季(美日法节点)",大愛電視
+#EXTINF:-1 tvg-name="CCTV9" group-title="🌀综合II",CCTV9
 https://tv123.cc.cd/live.php/?ch=6e3f16852283
-#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="🏖️四季(美日法节点)",中視
+#EXTINF:-1 tvg-name="CCTV10" group-title="🌀综合II",CCTV10
 https://tv123.cc.cd/live.php/?ch=57828d502284
-#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="🏖️四季(美日法节点)",華視
+#EXTINF:-1 tvg-name="CCTV11" group-title="🌀综合II",CCTV11
 https://tv123.cc.cd/live.php/?ch=5313bda02285
-#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="🏖️四季(美日法节点)",三立綜合台
+#EXTINF:-1 tvg-name="CCTV12" group-title="🌀综合II",CCTV12
 https://tv123.cc.cd/live.php/?ch=11afa6512286
-#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="🏖️四季(美日法节点)",客家電視台
+#EXTINF:-1 tvg-name="CCTV13" group-title="🌀综合II",CCTV13
 https://tv123.cc.cd/live.php/?ch=aeb600052287
-#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="🏖️四季(美日法节点)",八大綜藝台
+#EXTINF:-1 tvg-name="CCTV14" group-title="🌀综合II",CCTV14
 https://tv123.cc.cd/live.php/?ch=56b1e60a2288
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="🏖️四季(美日法节点)",TVBS精采台
+#EXTINF:-1 tvg-name="CCTV15" group-title="🌀综合II",CCTV15
 https://tv123.cc.cd/live.php/?ch=15772a202289
-#EXTINF:-1 tvg-id="愛爾達寵物運動台" tvg-name="愛爾達寵物運動台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/頻道LOGO去背.png" group-title="🏖️四季(美日法节点)",愛爾達寵物運動台
+#EXTINF:-1 tvg-name="CCTV16" group-title="🌀综合II",CCTV16
 https://tv123.cc.cd/live.php/?ch=8e58ff652290
-#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="🏖️四季(美日法节点)",靖天綜合台
+#EXTINF:-1 tvg-name="CCTV17" group-title="🌀综合II",CCTV17
 https://tv123.cc.cd/live.php/?ch=b4552c7d2291
-#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="🏖️四季(美日法节点)",靖天日本台
+#EXTINF:-1 tvg-name="重温经典" group-title="🌀综合II",重温经典
 https://tv123.cc.cd/live.php/?ch=e55df1242292
-#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="🏖️四季(美日法节点)",ARIRANG阿里郎頻道
+#EXTINF:-1 tvg-name="广州综合" group-title="🌀综合II",广州综合
 https://tv123.cc.cd/live.php/?ch=66b149132293
-#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="🏖️四季(美日法节点)",Global Trekker
+#EXTINF:-1 tvg-name="广州新闻" group-title="🌀综合II",广州新闻
 https://tv123.cc.cd/live.php/?ch=02a0b5bc2294
-#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp" group-title="🏖️四季(美日法节点)",原住民族電視台
+#EXTINF:-1 tvg-name="南国都市4K" group-title="🌀综合II",广州南国都市
 https://tv123.cc.cd/live.php/?ch=cd7ae20e2295
-#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🏖️四季(美日法节点)",東森購物四台
+#EXTINF:-1 tvg-name="五星体育" group-title="🌀综合II",五星体育
 https://tv123.cc.cd/live.php/?ch=960e1ff02296
-#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="🏖️四季(美日法节点)",LiveABC互動英語頻道
+#EXTINF:-1 tvg-name="民視影劇台" group-title="🌀综合II",民视影剧台
 https://tv123.cc.cd/live.php/?ch=b2a2e2a82297
-#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="🏖️四季(美日法节点)",達文西頻道
+#EXTINF:-1 tvg-name="公視戲劇" group-title="🌀综合II",公视戏剧
 https://tv123.cc.cd/live.php/?ch=9c7c9cba2298
-#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.webp" group-title="🏖️四季(美日法节点)",ELTV生活英語台
+#EXTINF:-1 tvg-name="采昌影劇台" group-title="🌀综合II",采昌影剧台
 https://tv123.cc.cd/live.php/?ch=b152addb2299
-#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="🏖️四季(美日法节点)",Nick Jr. 兒童頻道
+#EXTINF:-1 tvg-name="靖天映畫" group-title="🌀综合II",靖天映画
 https://tv123.cc.cd/live.php/?ch=4c4b6f8d2300
-#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="🏖️四季(美日法节点)",尼克兒童頻道
+#EXTINF:-1 tvg-name="靖天戲劇台" group-title="🌀综合II",靖天戏剧台
 https://tv123.cc.cd/live.php/?ch=362857f42301
-#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="🏖️四季(美日法节点)",DreamWorks 夢工廠動畫
+#EXTINF:-1 tvg-name="靖天電影台" group-title="🌀综合II",靖天电影台
 https://tv123.cc.cd/live.php/?ch=c6c8aed92302
-#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="🏖️四季(美日法节点)",靖天卡通台
+#EXTINF:-1 tvg-name="靖洋戲劇台" group-title="🌀综合II",靖洋戏剧台
 https://tv123.cc.cd/live.php/?ch=9f7dad2f2303
-#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="🏖️四季(美日法节点)",靖洋卡通Nice Bingo
+#EXTINF:-1 tvg-name="影迷數位電影台" group-title="🌀综合II",影迷数位电影台
 https://tv123.cc.cd/live.php/?ch=081afd9e2304
-#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="🏖️四季(美日法节点)",MOMO親子台
+#EXTINF:-1 tvg-name="amc電影台" group-title="🌀综合II",amc电影台
 https://tv123.cc.cd/live.php/?ch=4bf3df8f2305
-#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🏖️四季(美日法节点)",東森購物一台
+#EXTINF:-1 tvg-name="CinemaWorld頻道" group-title="🌀综合II",CinemaWorld
 https://tv123.cc.cd/live.php/?ch=fc56484f2306
-#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="🏖️四季(美日法节点)",鏡電視新聞台
+#EXTINF:-1 tvg-name="My Cinema Europe" group-title="🌀综合II",My Cinema Europe
 https://tv123.cc.cd/live.php/?ch=ec9c4dc32307
-#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="🏖️四季(美日法节点)",東森新聞台
+#EXTINF:-1 tvg-name="經典電影台" group-title="🌀综合II",经典电影台
 https://tv123.cc.cd/live.php/?ch=089ca66f2308
-#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="🏖️四季(美日法节点)",華視新聞
+#EXTINF:-1 tvg-name="電影原聲台CMusic" group-title="🌀综合II",CMusic
 https://tv123.cc.cd/live.php/?ch=ce8d8c422309
-#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="🏖️四季(美日法节点)",民視新聞台
+#EXTINF:-1 tvg-name="DreamWorks" group-title="🌀综合II",DreamWorks梦工厂动画
 https://tv123.cc.cd/live.php/?ch=59c22e162310
-#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="🏖️四季(美日法节点)",三立新聞iNEWS
+#EXTINF:-1 tvg-name="精選動漫台" group-title="🌀综合II",精选动漫台
 https://tv123.cc.cd/live.php/?ch=356db1ac2311
-#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="🏖️四季(美日法节点)",TVBS新聞
+#EXTINF:-1 tvg-name="金光布袋戲" group-title="🌀综合II",金光布袋戏
 https://tv123.cc.cd/live.php/?ch=cbb0826d2312
-#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="🏖️四季(美日法节点)",東森財經新聞台
+#EXTINF:-1 tvg-name="翡翠台" group-title="🌀综合II",翡翠台(WebVTT字幕)
 https://tv123.cc.cd/live.php/?ch=ff27b7d82313
-#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="🏖️四季(美日法节点)",中視新聞
+#EXTINF:-1 tvg-name="明珠台" group-title="🌀综合II",明珠台(WebVTT字幕)
 https://tv123.cc.cd/live.php/?ch=986856e52314
-#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="🏖️四季(美日法节点)",中天新聞台
+#EXTINF:-1 tvg-name="TVB Plus" group-title="🌀综合II",TVB Plus(WebVTT字幕)
 https://tv123.cc.cd/live.php/?ch=aab4bb142315
-#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="🏖️四季(美日法节点)",Bloomberg TV
+#EXTINF:-1 tvg-name="黃金華劇台" group-title="🌀综合II",黄金华剧台(WebVTT字幕)
 https://tv123.cc.cd/live.php/?ch=b8ac4bb12316
-#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="🏖️四季(美日法节点)",寰宇新聞台
+#EXTINF:-1 tvg-name="TVB Plus" group-title="🌀综合II",TVB Plus
 https://tv123.cc.cd/live.php/?ch=7efbccf42317
-#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="🏖️四季(美日法节点)",寰宇新聞台灣台
+#EXTINF:-1 tvg-name="纬来电影台" group-title="🌀综合II",纬来电影台
 https://tv123.cc.cd/live.php/?ch=da494b312318
-#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="🏖️四季(美日法节点)",SBN全球財經台
+#EXTINF:-1 tvg-name="纬来戏剧台" group-title="🌀综合II",纬来戏剧台
 https://tv123.cc.cd/live.php/?ch=d5db04622319
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="🏖️四季(美日法节点)",TVBS
+#EXTINF:-1 tvg-name="纬来体育台" group-title="🌀综合II",纬来体育台
 https://tv123.cc.cd/live.php/?ch=b423d6a52320
-#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="🏖️四季(美日法节点)",東森購物二台
+#EXTINF:-1 tvg-name="龙祥时代" group-title="🌀综合II",龙祥时代
 https://tv123.cc.cd/live.php/?ch=408934392321
-#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="🏖️四季(美日法节点)",民視綜藝台
+#EXTINF:-1 tvg-name="东森电影" group-title="🌀综合II",东森电影
 https://tv123.cc.cd/live.php/?ch=ea3cde832322
-#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="🏖️四季(美日法节点)",豬哥亮歌廳秀
+#EXTINF:-1 tvg-name="东森戏剧" group-title="🌀综合II",东森戏剧
 https://tv123.cc.cd/live.php/?ch=9c410e082323
-#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="🏖️四季(美日法节点)",靖天育樂台
+#EXTINF:-1 tvg-name="东森洋片" group-title="🌀综合II",东森洋片
 https://tv123.cc.cd/live.php/?ch=9afc2ac22324
-#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="🏖️四季(美日法节点)",KLT-靖天國際台
+#EXTINF:-1 tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv003_mobile.png" group-title="🏖️四季(美日法节点)",民視第一台
 https://tv123.cc.cd/live.php/?ch=2a9e0b452325
-#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="🏖️四季(美日法节点)",Nice TV 靖天歡樂台
+#EXTINF:-1 tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv001_mobile.png" group-title="🏖️四季(美日法节点)",民視台灣台
 https://tv123.cc.cd/live.php/?ch=2b9239b12326
-#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="🏖️四季(美日法节点)",靖天資訊台
+#EXTINF:-1 tvg-id="民視" tvg-name="民視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv002_mobile.png" group-title="🏖️四季(美日法节点)",民視
 https://tv123.cc.cd/live.php/?ch=226547332327
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="🏖️四季(美日法节点)",TVBS歡樂台
+#EXTINF:-1 tvg-id="大愛電視" tvg-name="大愛電視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv007_mobile.png" group-title="🏖️四季(美日法节点)",大愛電視
 https://tv123.cc.cd/live.php/?ch=83cffa902328
-#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="🏖️四季(美日法节点)",韓國娛樂台 KMTV
+#EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv040_mobile.png" group-title="🏖️四季(美日法节点)",中視
 https://tv123.cc.cd/live.php/?ch=dda5ef4e2329
-#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="🏖️四季(美日法节点)",ROCK Entertainment
+#EXTINF:-1 tvg-id="華視" tvg-name="華視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv041_mobile.png" group-title="🏖️四季(美日法节点)",華視
 https://tv123.cc.cd/live.php/?ch=d097129e2330
-#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="🏖️四季(美日法节点)",Lifetime 娛樂頻道
+#EXTINF:-1 tvg-id="三立綜合台" tvg-name="三立綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live207_mobile.png" group-title="🏖️四季(美日法节点)",三立綜合台
 https://tv123.cc.cd/live.php/?ch=5a2118ac2331
-#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="🏖️四季(美日法节点)",電影原聲台CMusic
+#EXTINF:-1 tvg-id="客家電視台" tvg-name="客家電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv043_mobile.png" group-title="🏖️四季(美日法节点)",客家電視台
 https://tv123.cc.cd/live.php/?ch=2acd44ff2332
-#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="🏖️四季(美日法节点)",TRACE Urban
+#EXTINF:-1 tvg-id="八大綜藝台" tvg-name="八大綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv039_mobile.png" group-title="🏖️四季(美日法节点)",八大綜藝台
 https://tv123.cc.cd/live.php/?ch=57bd17372333
-#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="🏖️四季(美日法节点)",Mezzo Live HD
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live086_mobile.png" group-title="🏖️四季(美日法节点)",TVBS精采台
 https://tv123.cc.cd/live.php/?ch=7eaeb34e2334
-#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="🏖️四季(美日法节点)",CLASSICA 古典樂
+#EXTINF:-1 tvg-id="愛爾達寵物運動台" tvg-name="愛爾達寵物運動台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/頻道LOGO去背.png" group-title="🏖️四季(美日法节点)",愛爾達寵物運動台
 https://tv123.cc.cd/live.php/?ch=df4fef452335
-#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🏖️四季(美日法节点)",東森購物三台
+#EXTINF:-1 tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv046_mobile.png" group-title="🏖️四季(美日法节点)",靖天綜合台
 https://tv123.cc.cd/live.php/?ch=0dd2dded2336
-#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.png" group-title="🏖️四季(美日法节点)",INULTRA
+#EXTINF:-1 tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv047_mobile.png" group-title="🏖️四季(美日法节点)",靖天日本台
 https://tv123.cc.cd/live.php/?ch=7559ec582337
-#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="🏖️四季(美日法节点)",博斯高球台
+#EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv079_1_mobile.png" group-title="🏖️四季(美日法节点)",ARIRANG阿里郎頻道
 https://tv123.cc.cd/live.php/?ch=0a3128302338
-#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png" group-title="🏖️四季(美日法节点)",博斯高球二台
+#EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live112_mobile.png" group-title="🏖️四季(美日法节点)",Global Trekker
 https://tv123.cc.cd/live.php/?ch=5fef7b6e2339
-#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png" group-title="🏖️四季(美日法节点)",博斯運動一台
+#EXTINF:-1 tvg-id="原住民族電視台" tvg-name="原住民族電視台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live014_mobile.webp" group-title="🏖️四季(美日法节点)",原住民族電視台
 https://tv123.cc.cd/live.php/?ch=1de8a8cd2340
-#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png" group-title="🏖️四季(美日法节点)",博斯無限台
+#EXTINF:-1 tvg-id="東森購物四台" tvg-name="東森購物四台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🏖️四季(美日法节点)",東森購物四台
 https://tv123.cc.cd/live.php/?ch=4d05b1202341
-#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="🏖️四季(美日法节点)",博斯網球台
+#EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live030_mobile.png" group-title="🏖️四季(美日法节点)",LiveABC互動英語頻道
 https://tv123.cc.cd/live.php/?ch=8623bb8c2342
-#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang08.png" group-title="🏖️四季(美日法节点)",博斯運動二台
+#EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv018_mobile.png" group-title="🏖️四季(美日法节点)",達文西頻道
 https://tv123.cc.cd/live.php/?ch=040798812343
-#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang04.png" group-title="🏖️四季(美日法节点)",博斯魅力台
+#EXTINF:-1 tvg-id="ELTV生活英語台" tvg-name="ELTV生活英語台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn20_mobile.webp" group-title="🏖️四季(美日法节点)",ELTV生活英語台
 https://tv123.cc.cd/live.php/?ch=9a0f20502344
-#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang13.png" group-title="🏖️四季(美日法节点)",博斯無限二台
+#EXTINF:-1 tvg-id="Nick Jr. 兒童頻道" tvg-name="Nick Jr. 兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live032.png" group-title="🏖️四季(美日法节点)",Nick Jr. 兒童頻道
 https://tv123.cc.cd/live.php/?ch=31c768032345
-#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="🏖️四季(美日法节点)",TRACE Sport Stars
+#EXTINF:-1 tvg-id="尼克兒童頻道" tvg-name="尼克兒童頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live105.png" group-title="🏖️四季(美日法节点)",尼克兒童頻道
 https://tv123.cc.cd/live.php/?ch=55d4386a2346
-#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="🏖️四季(美日法节点)",智林體育台
+#EXTINF:-1 tvg-id="DreamWorks 夢工廠動畫" tvg-name="DreamWorks 夢工廠動畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live017_mobile.png" group-title="🏖️四季(美日法节点)",DreamWorks 夢工廠動畫
 https://tv123.cc.cd/live.php/?ch=b573ebb02347
-#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="🏖️四季(美日法节点)",時尚運動X
+#EXTINF:-1 tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv044_mobile.png" group-title="🏖️四季(美日法节点)",靖天卡通台
 https://tv123.cc.cd/live.php/?ch=8b42c3402348
-#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="🏖️四季(美日法节点)",車迷TV
+#EXTINF:-1 tvg-id="靖洋卡通Nice Bingo" tvg-name="靖洋卡通Nice Bingo" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv057_mobile.png" group-title="🏖️四季(美日法节点)",靖洋卡通Nice Bingo
 https://tv123.cc.cd/live.php/?ch=9c7df1f82349
-#EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="🏖️四季(美日法节点)",GINX Esports TV
+#EXTINF:-1 tvg-id="MOMO親子台" tvg-name="MOMO親子台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live107.png" group-title="🏖️四季(美日法节点)",MOMO親子台
 https://tv123.cc.cd/live.php/?ch=38b736a42350
-#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="🏖️四季(美日法节点)",民視旅遊台
+#EXTINF:-1 tvg-id="東森購物一台" tvg-name="東森購物一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🏖️四季(美日法节点)",東森購物一台
 https://tv123.cc.cd/live.php/?ch=23c2949a2351
-#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="🏖️四季(美日法节点)",滾動力rollor
+#EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv075_mobile.png" group-title="🏖️四季(美日法节点)",鏡電視新聞台
 https://tv123.cc.cd/live.php/?ch=267496df2352
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="🏖️四季(美日法节点)",亞洲旅遊台
+#EXTINF:-1 tvg-id="東森新聞台" tvg-name="東森新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv14_mobile.png" group-title="🏖️四季(美日法节点)",東森新聞台
 https://tv123.cc.cd/live.php/?ch=845e149f2353
-#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="🏖️四季(美日法节点)",fun探索娛樂台
+#EXTINF:-1 tvg-id="華視新聞" tvg-name="華視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv052_mobile.png" group-title="🏖️四季(美日法节点)",華視新聞
 https://tv123.cc.cd/live.php/?ch=defdee6b2354
-#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.webp" group-title="🏖️四季(美日法节点)",幸福空間居家台
+#EXTINF:-1 tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="🏖️四季(美日法节点)",民視新聞台
 https://tv123.cc.cd/live.php/?ch=983846552355
-#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="🏖️四季(美日法节点)",Love Nature
+#EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live089_mobile.png" group-title="🏖️四季(美日法节点)",三立新聞iNEWS
 https://tv123.cc.cd/live.php/?ch=854357b72356
-#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="🏖️四季(美日法节点)",History 歷史頻道
+#EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live072_mobile.png" group-title="🏖️四季(美日法节点)",TVBS新聞
 https://tv123.cc.cd/live.php/?ch=8b71fa072357
-#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="🏖️四季(美日法节点)",愛爾達生活旅遊台
+#EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv019_mobile.png" group-title="🏖️四季(美日法节点)",東森財經新聞台
 https://tv123.cc.cd/live.php/?ch=fc804f382358
-#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="🏖️四季(美日法节点)",LUXE TV Channel
+#EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv074_mobile.png" group-title="🏖️四季(美日法节点)",中視新聞
 https://tv123.cc.cd/live.php/?ch=43a85d742359
-#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="🏖️四季(美日法节点)",TV5MONDE STYLE HD 生活時尚
+#EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv009_mobile.png" group-title="🏖️四季(美日法节点)",中天新聞台
 https://tv123.cc.cd/live.php/?ch=94000fcc2360
-#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道) " tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="🏖️四季(美日法节点)",MagellanTV頻道 (麥哲倫頻道)
+#EXTINF:-1 tvg-id="Bloomberg TV" tvg-name="Bloomberg TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live0_mobile.png" group-title="🏖️四季(美日法节点)",Bloomberg TV
 https://tv123.cc.cd/live.php/?ch=5c8faa6c2361
-#EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live124.png" group-title="🏖️四季(美日法节点)",ROCK Xstream搖滾極限頻道
+#EXTINF:-1 tvg-id="寰宇新聞台" tvg-name="寰宇新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn14_mobile.png" group-title="🏖️四季(美日法节点)",寰宇新聞台
 https://tv123.cc.cd/live.php/?ch=1348c1002362
-#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="🏖️四季(美日法节点)",公視戲劇
+#EXTINF:-1 tvg-id="寰宇新聞台灣台" tvg-name="寰宇新聞台灣台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn15_mobile.png" group-title="🏖️四季(美日法节点)",寰宇新聞台灣台
 https://tv123.cc.cd/live.php/?ch=41aaeadd2363
-#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="🏖️四季(美日法节点)",民視影劇台
+#EXTINF:-1 tvg-id="SBN全球財經台" tvg-name="SBN全球財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live060_mobile.png" group-title="🏖️四季(美日法节点)",SBN全球財經台
 https://tv123.cc.cd/live.php/?ch=5520eb522364
-#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="🏖️四季(美日法节点)",HITS頻道
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_media-live073_mobile.png" group-title="🏖️四季(美日法节点)",TVBS
 https://tv123.cc.cd/live.php/?ch=49948dbc2365
-#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="🏖️四季(美日法节点)",八大精彩台
+#EXTINF:-1 tvg-id="東森購物二台" tvg-name="東森購物二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live046_mobile.png" group-title="🏖️四季(美日法节点)",東森購物二台
 https://tv123.cc.cd/live.php/?ch=a7483d3e2366
-#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="🏖️四季(美日法节点)",靖天戲劇台
+#EXTINF:-1 tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv004_mobile.png" group-title="🏖️四季(美日法节点)",民視綜藝台
 https://tv123.cc.cd/live.php/?ch=23cfbc532367
-#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="🏖️四季(美日法节点)",靖洋戲劇台
+#EXTINF:-1 tvg-id="豬哥亮歌廳秀" tvg-name="豬哥亮歌廳秀" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv006_mobile.png" group-title="🏖️四季(美日法节点)",豬哥亮歌廳秀
 https://tv123.cc.cd/live.php/?ch=fe8be0aa2368
-#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="🏖️四季(美日法节点)",CI 罪案偵查頻道
+#EXTINF:-1 tvg-id="靖天育樂台" tvg-name="靖天育樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv062_mobile.png" group-title="🏖️四季(美日法节点)",靖天育樂台
 https://tv123.cc.cd/live.php/?ch=0aacde862369
-#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="🏖️四季(美日法节点)",視納華仁紀實頻道
+#EXTINF:-1 tvg-id="KLT-靖天國際台" tvg-name="KLT-靖天國際台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv063_mobile.png" group-title="🏖️四季(美日法节点)",KLT-靖天國際台
 https://tv123.cc.cd/live.php/?ch=6220320b2370
-#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="🏖️四季(美日法节点)",影迷數位紀實台
+#EXTINF:-1 tvg-id="Nice TV 靖天歡樂台" tvg-name="Nice TV 靖天歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv054_mobile.png" group-title="🏖️四季(美日法节点)",Nice TV 靖天歡樂台
 https://tv123.cc.cd/live.php/?ch=6b91cdfd2371
-#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="🏖️四季(美日法节点)",金光布袋戲
+#EXTINF:-1 tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv065_mobile.png" group-title="🏖️四季(美日法节点)",靖天資訊台
 https://tv123.cc.cd/live.php/?ch=9d45d6ad2372
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="🏖️四季(美日法节点)",ROCK Action
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv068_mobile.png" group-title="🏖️四季(美日法节点)",TVBS歡樂台
 https://tv123.cc.cd/live.php/?ch=f92475122373
-#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="🏖️四季(美日法节点)",采昌影劇台
+#EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv016_mobile.png" group-title="🏖️四季(美日法节点)",韓國娛樂台 KMTV
 https://tv123.cc.cd/live.php/?ch=733f45172374
-#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="🏖️四季(美日法节点)",靖天映畫
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live080_mobile.png" group-title="🏖️四季(美日法节点)",ROCK Entertainment
 https://tv123.cc.cd/live.php/?ch=680da6682375
-#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="🏖️四季(美日法节点)",靖天電影台
+#EXTINF:-1 tvg-id="Lifetime 娛樂頻道" tvg-name="Lifetime 娛樂頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live029_mobile.png" group-title="🏖️四季(美日法节点)",Lifetime 娛樂頻道
 https://tv123.cc.cd/live.php/?ch=c42d60d62376
-#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="🏖️四季(美日法节点)",影迷數位電影台
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台CMusic" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live031_mobile.png" group-title="🏖️四季(美日法节点)",電影原聲台CMusic
 https://tv123.cc.cd/live.php/?ch=55b0d9ba2377
-#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="🏖️四季(美日法节点)",amc電影台
+#EXTINF:-1 tvg-id="TRACE Urban" tvg-name="TRACE Urban" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv082_mobile.png" group-title="🏖️四季(美日法节点)",TRACE Urban
 https://tv123.cc.cd/live.php/?ch=ca99d33e2378
-#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="🏖️四季(美日法节点)",CinemaWorld
+#EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv083_mobile.png" group-title="🏖️四季(美日法节点)",Mezzo Live HD
 https://tv123.cc.cd/live.php/?ch=fa8e98392379
-#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="🏖️四季(美日法节点)",My Cinema Europe HD 我的歐洲電影
+#EXTINF:-1 tvg-id="CLASSICA 古典樂" tvg-name="CLASSICA 古典樂" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv059_mobile.png" group-title="🏖️四季(美日法节点)",CLASSICA 古典樂
 https://tv123.cc.cd/live.php/?ch=9810c59d2380
-#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="🏖️四季(美日法节点)",好消息
+#EXTINF:-1 tvg-id="東森購物三台" tvg-name="東森購物三台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live047_mobile.png" group-title="🏖️四季(美日法节点)",東森購物三台
 https://tv123.cc.cd/live.php/?ch=4b62f88f2381
-#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="🏖️四季(美日法节点)",好消息2台
+#EXTINF:-1 tvg-id="INULTRA" tvg-name="INULTRA" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_INULTRA_mobile.png" group-title="🏖️四季(美日法节点)",INULTRA
 https://tv123.cc.cd/live.php/?ch=cc3626672382
-#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="🏖️四季(美日法节点)",大愛二台
+#EXTINF:-1 tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn05_mobile.png" group-title="🏖️四季(美日法节点)",博斯高球台
 https://tv123.cc.cd/live.php/?ch=b429f0242383
-#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="🏖️四季(美日法节点)",人間衛視
+#EXTINF:-1 tvg-id="博斯高球二台" tvg-name="博斯高球二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang06.png" group-title="🏖️四季(美日法节点)",博斯高球二台
 https://tv123.cc.cd/live.php/?ch=8525d4852384
-#EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="🏖️四季(美日法节点)",NHK WORLD-JAPAN
+#EXTINF:-1 tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn07_mobile.png" group-title="🏖️四季(美日法节点)",博斯運動一台
 https://tv123.cc.cd/live.php/?ch=7e9405fa2385
-#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="🏖️四季(美日法节点)",FRANCE24 英文台
+#EXTINF:-1 tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn10_mobile.png" group-title="🏖️四季(美日法节点)",博斯無限台
 https://tv123.cc.cd/live.php/?ch=3313ab3a2386
-#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="🏖️四季(美日法节点)",半島國際新聞台
+#EXTINF:-1 tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn09_mobile.png" group-title="🏖️四季(美日法节点)",博斯網球台
 https://tv123.cc.cd/live.php/?ch=20d4dd1e2387
-#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv130_mobile.png" group-title="🏖️四季(美日法节点)",CNBC Asia 財經台
+#EXTINF:-1 tvg-id="博斯運動二台" tvg-name="博斯運動二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang08.png" group-title="🏖️四季(美日法节点)",博斯運動二台
 https://tv123.cc.cd/live.php/?ch=01762fd32388
-#EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png" group-title="🏖️四季(美日法节点)",DW德國之聲
+#EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang04.png" group-title="🏖️四季(美日法节点)",博斯魅力台
 https://tv123.cc.cd/live.php/?ch=380889c92389
-#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="🏖️四季(美日法节点)",國會頻道1
+#EXTINF:-1 tvg-id="博斯無限二台" tvg-name="博斯無限二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-xinchuang13.png" group-title="🏖️四季(美日法节点)",博斯無限二台
 https://tv123.cc.cd/live.php/?ch=a14b0ea42390
-#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="🏖️四季(美日法节点)",國會頻道2
+#EXTINF:-1 tvg-id="TRACE Sport Stars" tvg-name="TRACE Sport Stars" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv077_mobile.png" group-title="🏖️四季(美日法节点)",TRACE Sport Stars
 https://tv123.cc.cd/live.php/?ch=48b31b292391
-#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="🏖️四季(美日法节点)",經典電影台
+#EXTINF:-1 tvg-id="智林體育台" tvg-name="智林體育台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv101_mobile.png" group-title="🏖️四季(美日法节点)",智林體育台
 https://tv123.cc.cd/live.php/?ch=31dd28342392
-#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="🏖️四季(美日法节点)",經典卡通台
+#EXTINF:-1 tvg-id="時尚運動X" tvg-name="時尚運動X" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv014_mobile.png" group-title="🏖️四季(美日法节点)",時尚運動X
 https://tv123.cc.cd/live.php/?ch=191596302393
-#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="🏖️四季(美日法节点)",精選動漫台
+#EXTINF:-1 tvg-id="車迷TV" tvg-name="車迷TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live201_mobile.png" group-title="🏖️四季(美日法节点)",車迷TV
 https://tv123.cc.cd/live.php/?ch=f2bc05b62394
-#EXTINF:-1 tvg-id="GagaOOLala 精選LGBTQ+好劇" tvg-name="GagaOOLala 精選LGBTQ+好劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live139_mobile.png" group-title="🏖️四季(美日法节点)",GagaOOLala 精選LGBTQ+好劇
+#EXTINF:-1 tvg-id="GINX Esports TV" tvg-name="GINX Esports TV" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv053_mobile.png" group-title="🏖️四季(美日法节点)",GINX Esports TV
 https://tv123.cc.cd/live.php/?ch=e6b3b54d2395
-#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live087_mobile.png" group-title="🏖️四季(美日法节点)",TVBS綜藝台
+#EXTINF:-1 tvg-id="民視旅遊台" tvg-name="民視旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv07_mobile.png" group-title="🏖️四季(美日法节点)",民視旅遊台
 https://tv123.cc.cd/live.php/?ch=11c6a9be2396
-#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live088_mobile.png" group-title="🏖️四季(美日法节点)",TVBS台劇台
+#EXTINF:-1 tvg-id="滾動力rollor" tvg-name="滾動力rollor" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live012_mobile.png" group-title="🏖️四季(美日法节点)",滾動力rollor
 https://tv123.cc.cd/live.php/?ch=d70362f12397
-#EXTINF:-1 tvg-id="市井豪門-FastTV飛速看" tvg-name="市井豪門-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live001.png" group-title="🏖️四季(美日法节点)",市井豪門-FastTV飛速看
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-longturn17_mobile.png" group-title="🏖️四季(美日法节点)",亞洲旅遊台
 https://tv123.cc.cd/live.php/?ch=e0727bba2398
-#EXTINF:-1 tvg-id="華視好劇-FastTV飛速看" tvg-name="華視好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live005.png" group-title="🏖️四季(美日法节点)",華視好劇-FastTV飛速看
+#EXTINF:-1 tvg-id="fun探索娛樂台" tvg-name="fun探索娛樂台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live011_mobile.png" group-title="🏖️四季(美日法节点)",fun探索娛樂台
 https://tv123.cc.cd/live.php/?ch=e213e88e2399
-#EXTINF:-1 tvg-id="公視好劇-FastTV飛速看" tvg-name="公視好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live006.png" group-title="🏖️四季(美日法节点)",公視好劇-FastTV飛速看
+#EXTINF:-1 tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live206_mobile.webp" group-title="🏖️四季(美日法节点)",幸福空間居家台
 https://tv123.cc.cd/live.php/?ch=bb639de52400
-#EXTINF:-1 tvg-id="客家好劇-FastTV飛速看" tvg-name="客家好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live007.png" group-title="🏖️四季(美日法节点)",客家好劇-FastTV飛速看
+#EXTINF:-1 tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/ogo_4gtv_4gtv-live208_mobile.png" group-title="🏖️四季(美日法节点)",Love Nature
 https://tv123.cc.cd/live.php/?ch=d94c11e22401
-#EXTINF:-1 tvg-id="懷舊經典電影-FastTV飛速看" tvg-name="懷舊經典電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live008.png" group-title="🏖️四季(美日法节点)",懷舊經典電影-FastTV飛速看
+#EXTINF:-1 tvg-id="History 歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live026_mobile.png" group-title="🏖️四季(美日法节点)",History 歷史頻道
 https://tv123.cc.cd/live.php/?ch=59dfdedc2402
-#EXTINF:-1 tvg-id="精選華語電影-FastTV飛速看" tvg-name="精選華語電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live009.png" group-title="🏖️四季(美日法节点)",精選華語電影-FastTV飛速看
+#EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live120_mobile.png" group-title="🏖️四季(美日法节点)",愛爾達生活旅遊台
 https://tv123.cc.cd/live.php/?ch=c44d284d2403
-#EXTINF:-1 tvg-id="台灣靈異事件-FastTV飛速看" tvg-name="台灣靈異事件-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",台灣靈異事件-FastTV飛速看
+#EXTINF:-1 tvg-id="LUXE TV Channel" tvg-name="LUXE TV Channel" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live121_mobile.png" group-title="🏖️四季(美日法节点)",LUXE TV Channel
 https://tv123.cc.cd/live.php/?ch=d6fa6f982404
-#EXTINF:-1 tvg-id="新兵日記-FastTV飛速看" tvg-name="新兵日記-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live011.png" group-title="🏖️四季(美日法节点)",新兵日記-FastTV飛速看
+#EXTINF:-1 tvg-id="TV5MONDE STYLE HD 生活時尚" tvg-name="TV5MONDE STYLE HD 生活時尚" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live122_mobile.png" group-title="🏖️四季(美日法节点)",TV5MONDE STYLE HD 生活時尚
 https://tv123.cc.cd/live.php/?ch=fc476f5e2405
-#EXTINF:-1 tvg-id="以家人之名-FastTV飛速看" tvg-name="以家人之名-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live012.png" group-title="🏖️四季(美日法节点)",以家人之名-FastTV飛速看
+#EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道) " tvg-name="MagellanTV頻道 (麥哲倫頻道) " tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_MGTV_mobile.png" group-title="🏖️四季(美日法节点)",MagellanTV頻道 (麥哲倫頻道)
 https://tv123.cc.cd/live.php/?ch=7b22da3d2406
-#EXTINF:-1 tvg-id="加油喜事-FastTV飛速看" tvg-name="加油喜事-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live013.png" group-title="🏖️四季(美日法节点)",加油喜事-FastTV飛速看
+#EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live124.png" group-title="🏖️四季(美日法节点)",ROCK Xstream搖滾極限頻道
 https://tv123.cc.cd/live.php/?ch=0a04ca672407
-#EXTINF:-1 tvg-id="去有風的地方-FastTV飛速看" tvg-name="去有風的地方-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live014.png" group-title="🏖️四季(美日法节点)",去有風的地方-FastTV飛速看
+#EXTINF:-1 tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv042_mobile.png" group-title="🏖️四季(美日法节点)",公視戲劇
 https://tv123.cc.cd/live.php/?ch=0ce73a7c2408
-#EXTINF:-1 tvg-id="多情城市-FastTV飛速看" tvg-name="多情城市-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live015.png" group-title="🏖️四季(美日法节点)",多情城市-FastTV飛速看
+#EXTINF:-1 tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv09_mobile.png" group-title="🏖️四季(美日法节点)",民視影劇台
 https://tv123.cc.cd/live.php/?ch=539159042409
-#EXTINF:-1 tvg-id="黃金歲月-FastTV飛速看" tvg-name="黃金歲月-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live016.png" group-title="🏖️四季(美日法节点)",黃金歲月-FastTV飛速看
+#EXTINF:-1 tvg-id="HITS頻道" tvg-name="HITS頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live620_mobile.png" group-title="🏖️四季(美日法节点)",HITS頻道
 https://tv123.cc.cd/live.php/?ch=b1ad7db92410
-#EXTINF:-1 tvg-id="花千骨-FastTV飛速看" tvg-name="花千骨-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live017.png" group-title="🏖️四季(美日法节点)",花千骨-FastTV飛速看
+#EXTINF:-1 tvg-id="八大精彩台" tvg-name="八大精彩台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv034_mobile_0211.png" group-title="🏖️四季(美日法节点)",八大精彩台
 https://tv123.cc.cd/live.php/?ch=00b7bf022411
-#EXTINF:-1 tvg-id="別打擾我種田-FastTV飛速看" tvg-name="別打擾我種田-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live018.png" group-title="🏖️四季(美日法节点)",別打擾我種田-FastTV飛速看
+#EXTINF:-1 tvg-id="靖天戲劇台" tvg-name="靖天戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv058_mobile.png" group-title="🏖️四季(美日法节点)",靖天戲劇台
 https://tv123.cc.cd/live.php/?ch=7d8f98f82412
-#EXTINF:-1 tvg-id="國外電影精選-FastTV飛速看" tvg-name="國外電影精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live021.png" group-title="🏖️四季(美日法节点)",國外電影精選-FastTV飛速看
+#EXTINF:-1 tvg-id="靖洋戲劇台" tvg-name="靖洋戲劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv045_mobile.png" group-title="🏖️四季(美日法节点)",靖洋戲劇台
 https://tv123.cc.cd/live.php/?ch=832cdb032413
-#EXTINF:-1 tvg-id="日韓電影大賞-FastTV飛速看" tvg-name="日韓電影大賞-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live022.png" group-title="🏖️四季(美日法节点)",日韓電影大賞-FastTV飛速看
+#EXTINF:-1 tvg-id="CI 罪案偵查頻道" tvg-name="CI 罪案偵查頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live027_mobile.png" group-title="🏖️四季(美日法节点)",CI 罪案偵查頻道
 https://tv123.cc.cd/live.php/?ch=c58f40192414
-#EXTINF:-1 tvg-id="大愛精選-FastTV飛速看" tvg-name="大愛精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live023.png" group-title="🏖️四季(美日法节点)",大愛精選-FastTV飛速看
+#EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv013_mobile.png" group-title="🏖️四季(美日法节点)",視納華仁紀實頻道
 https://tv123.cc.cd/live.php/?ch=0b6599df2415
-#EXTINF:-1 tvg-id="飛龍在天-FastTV飛速看" tvg-name="飛龍在天-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live024.png" group-title="🏖️四季(美日法节点)",飛龍在天-FastTV飛速看
+#EXTINF:-1 tvg-id="影迷數位紀實台" tvg-name="影迷數位紀實台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live023_mobile.png" group-title="🏖️四季(美日法节点)",影迷數位紀實台
 https://tv123.cc.cd/live.php/?ch=09a3223b2416
-#EXTINF:-1 tvg-id="台灣傳奇-FastTV飛速看" tvg-name="台灣傳奇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live026.png" group-title="🏖️四季(美日法节点)",台灣傳奇-FastTV飛速看
+#EXTINF:-1 tvg-id="金光布袋戲" tvg-name="金光布袋戲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live144_mobile.png" group-title="🏖️四季(美日法节点)",金光布袋戲
 https://tv123.cc.cd/live.php/?ch=d5608fed2417
-#EXTINF:-1 tvg-id="世間路-FastTV飛速看" tvg-name="世間路-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live028.png" group-title="🏖️四季(美日法节点)",世間路-FastTV飛速看
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/live138_mobile.png" group-title="🏖️四季(美日法节点)",ROCK Action
 https://tv123.cc.cd/live.php/?ch=e3ab29422418
-#EXTINF:-1 tvg-id="恐怖電影-FastTV飛速看" tvg-name="恐怖電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live029.png" group-title="🏖️四季(美日法节点)",恐怖電影-FastTV飛速看
+#EXTINF:-1 tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv049_mobile.png" group-title="🏖️四季(美日法节点)",采昌影劇台
 https://tv123.cc.cd/live.php/?ch=1ee5453d2419
-#EXTINF:-1 tvg-id="古裝武俠劇-FastTV飛速看" tvg-name="古裝武俠劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live030.png" group-title="🏖️四季(美日法节点)",古裝武俠劇-FastTV飛速看
+#EXTINF:-1 tvg-id="靖天映畫" tvg-name="靖天映畫" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv055_mobile.png" group-title="🏖️四季(美日法节点)",靖天映畫
 https://tv123.cc.cd/live.php/?ch=3ca8c8562420
-#EXTINF:-1 tvg-id="以愛為營-FastTV飛速看" tvg-name="以愛為營-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live031.png" group-title="🏖️四季(美日法节点)",以愛為營-FastTV飛速看
+#EXTINF:-1 tvg-id="靖天電影台" tvg-name="靖天電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv061_mobile.png" group-title="🏖️四季(美日法节点)",靖天電影台
 https://tv123.cc.cd/live.php/?ch=321b23312421
-#EXTINF:-1 tvg-id="藍色水玲瓏-FastTV飛速看" tvg-name="藍色水玲瓏-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live032.png" group-title="🏖️四季(美日法节点)",藍色水玲瓏-FastTV飛速看
+#EXTINF:-1 tvg-id="影迷數位電影台" tvg-name="影迷數位電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv011_mobile-1.png" group-title="🏖️四季(美日法节点)",影迷數位電影台
 https://tv123.cc.cd/live.php/?ch=2a9b3a952422
-#EXTINF:-1 tvg-id="精彩陸劇1台-FastTV飛速看" tvg-name="精彩陸劇1台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="🏖️四季(美日法节点)",精彩陸劇1台-FastTV飛速看
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="🏖️四季(美日法节点)",amc電影台
 https://tv123.cc.cd/live.php/?ch=0c81f3dd2423
-#EXTINF:-1 tvg-id="包青天-FastTV飛速看" tvg-name="包青天-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live034.png" group-title="🏖️四季(美日法节点)",包青天-FastTV飛速看
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live069_mobile.png" group-title="🏖️四季(美日法节点)",CinemaWorld
 https://tv123.cc.cd/live.php/?ch=a07f59b62424
-#EXTINF:-1 tvg-id="007情報員-FastTV飛速看" tvg-name="007情報員-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(007).png" group-title="🏖️四季(美日法节点)",007情報員-FastTV飛速看
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/LOGO-MCE.png" group-title="🏖️四季(美日法节点)",My Cinema Europe HD 我的歐洲電影
 https://tv123.cc.cd/live.php/?ch=bf74bb2c2425
-#EXTINF:-1 tvg-id="賀歲電影推薦-FastTV飛速看" tvg-name="賀歲電影推薦-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-新春賀歲.png" group-title="🏖️四季(美日法节点)",賀歲電影推薦-FastTV飛速看
+#EXTINF:-1 tvg-id="好消息" tvg-name="好消息" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv16_mobile.png" group-title="🏖️四季(美日法节点)",好消息
 https://tv123.cc.cd/live.php/?ch=e85e4d222426
-#EXTINF:-1 tvg-id="新年追劇首選-FastTV飛速看" tvg-name="新年追劇首選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-新春賀歲.png" group-title="🏖️四季(美日法节点)",新年追劇首選-FastTV飛速看
+#EXTINF:-1 tvg-id="好消息2台" tvg-name="好消息2台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv17_mobile.png" group-title="🏖️四季(美日法节点)",好消息2台
 https://tv123.cc.cd/live.php/?ch=8d189b422427
-#EXTINF:-1 tvg-id="葉青歌仔戲-FastTV飛速看" tvg-name="葉青歌仔戲-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-葉青歌仔戲.png" group-title="🏖️四季(美日法节点)",葉青歌仔戲-FastTV飛速看
+#EXTINF:-1 tvg-id="大愛二台" tvg-name="大愛二台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live106_mobile.png" group-title="🏖️四季(美日法节点)",大愛二台
 https://tv123.cc.cd/live.php/?ch=a48862e92428
-#EXTINF:-1 tvg-id="大兵日記-FastTV飛速看" tvg-name="大兵日記-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",大兵日記-FastTV飛速看
+#EXTINF:-1 tvg-id="人間衛視" tvg-name="人間衛視" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live008_mobile.png" group-title="🏖️四季(美日法节点)",人間衛視
 https://tv123.cc.cd/live.php/?ch=f4188a082429
-#EXTINF:-1 tvg-id="親戚不計較(特輯)-FastTV飛速看" tvg-name="親戚不計較(特輯)-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",親戚不計較(特輯)-FastTV飛速看
+#EXTINF:-1 tvg-id="NHK WORLD-JAPAN" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live168_mobile.png" group-title="🏖️四季(美日法节点)",NHK WORLD-JAPAN
 https://tv123.cc.cd/live.php/?ch=f8a7380c2430
-#EXTINF:-1 tvg-id="日劇一丁目-FastTV飛速看" tvg-name="日劇一丁目-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-日韓劇.png" group-title="🏖️四季(美日法节点)",日劇一丁目-FastTV飛速看
+#EXTINF:-1 tvg-id="FRANCE24 英文台" tvg-name="FRANCE24 英文台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv_mobile.png" group-title="🏖️四季(美日法节点)",FRANCE24 英文台
 https://tv123.cc.cd/live.php/?ch=7e40bb7d2431
-#EXTINF:-1 tvg-id="武媚娘傳奇-FastTV飛速看" tvg-name="武媚娘傳奇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-陸劇.png" group-title="🏖️四季(美日法节点)",武媚娘傳奇-FastTV飛速看
+#EXTINF:-1 tvg-id="半島國際新聞台" tvg-name="半島國際新聞台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_litv-ftv10_mobile.png" group-title="🏖️四季(美日法节点)",半島國際新聞台
 https://tv123.cc.cd/live.php/?ch=089520e92432
-#EXTINF:-1 tvg-id="精彩陸劇2台-FastTV飛速看" tvg-name="精彩陸劇2台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-陸劇.png" group-title="🏖️四季(美日法节点)",精彩陸劇2台-FastTV飛速看
+#EXTINF:-1 tvg-id="CNBC Asia 財經台" tvg-name="CNBC Asia 財經台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv130_mobile.png" group-title="🏖️四季(美日法节点)",CNBC Asia 財經台
 https://tv123.cc.cd/live.php/?ch=9792d1512433
-#EXTINF:-1 tvg-id="中國傳奇故事-FastTV飛速看" tvg-name="中國傳奇故事-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="🏖️四季(美日法节点)",中國傳奇故事-FastTV飛速看
+#EXTINF:-1 tvg-id="DW德國之聲" tvg-name="DW德國之聲" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live071_mobile.png" group-title="🏖️四季(美日法节点)",DW德國之聲
 https://tv123.cc.cd/live.php/?ch=f094f0022434
-#EXTINF:-1 tvg-id="機智校園生活-FastTV飛速看" tvg-name="機智校園生活-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",機智校園生活-FastTV飛速看
+#EXTINF:-1 tvg-id="國會頻道1" tvg-name="國會頻道1" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv084_mobile_0204.png" group-title="🏖️四季(美日法节点)",國會頻道1
 https://tv123.cc.cd/live.php/?ch=47ea6c972435
-#EXTINF:-1 tvg-id="女力報到-FastTV飛速看" tvg-name="女力報到-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",女力報到-FastTV飛速看
+#EXTINF:-1 tvg-id="國會頻道2" tvg-name="國會頻道2" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv085_mobile_0204.png" group-title="🏖️四季(美日法节点)",國會頻道2
 https://tv123.cc.cd/live.php/?ch=d1b960ae2436
-#EXTINF:-1 tvg-id="終極一班-FastTV飛速看" tvg-name="終極一班-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live010.png" group-title="🏖️四季(美日法节点)",終極一班-FastTV飛速看
+#EXTINF:-1 tvg-id="經典電影台" tvg-name="經典電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live021_mobile.png" group-title="🏖️四季(美日法节点)",經典電影台
 https://tv123.cc.cd/live.php/?ch=e4b474702437
-#EXTINF:-1 tvg-id="鬥魚-FastTV飛速看" tvg-name="鬥魚-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live010.png" group-title="🏖️四季(美日法节点)",鬥魚-FastTV飛速看
+#EXTINF:-1 tvg-id="經典卡通台" tvg-name="經典卡通台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live022_mobile.png" group-title="🏖️四季(美日法节点)",經典卡通台
 https://tv123.cc.cd/live.php/?ch=a7574b542438
-#EXTINF:-1 tvg-id="天才衝衝衝-FastTV飛速看" tvg-name="天才衝衝衝-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live201.png" group-title="🏖️四季(美日法节点)",天才衝衝衝-FastTV飛速看
+#EXTINF:-1 tvg-id="精選動漫台" tvg-name="精選動漫台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live024_mobile.png" group-title="🏖️四季(美日法节点)",精選動漫台
 https://tv123.cc.cd/live.php/?ch=4a848eec2439
-#EXTINF:-1 tvg-id="一字千金-FastTV飛速看" tvg-name="一字千金-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live202.png" group-title="🏖️四季(美日法节点)",一字千金-FastTV飛速看
+#EXTINF:-1 tvg-id="GagaOOLala 精選LGBTQ+好劇" tvg-name="GagaOOLala 精選LGBTQ+好劇" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live139_mobile.png" group-title="🏖️四季(美日法节点)",GagaOOLala 精選LGBTQ+好劇
 https://tv123.cc.cd/live.php/?ch=2b3386c52440
-#EXTINF:-1 tvg-id="綜藝大集合-FastTV飛速看" tvg-name="綜藝大集合-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live203.png" group-title="🏖️四季(美日法节点)",綜藝大集合-FastTV飛速看
+#EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live087_mobile.png" group-title="🏖️四季(美日法节点)",TVBS綜藝台
 https://tv123.cc.cd/live.php/?ch=97e332552441
-#EXTINF:-1 tvg-id="女人我最大-FastTV飛速看" tvg-name="女人我最大-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live204.png" group-title="🏖️四季(美日法节点)",女人我最大-FastTV飛速看
+#EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live088_mobile.png" group-title="🏖️四季(美日法节点)",TVBS台劇台
 https://tv123.cc.cd/live.php/?ch=a12bd05a2442
-#EXTINF:-1 tvg-id="食尚玩家-FastTV飛速看" tvg-name="食尚玩家-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live205.png" group-title="🏖️四季(美日法节点)",食尚玩家-FastTV飛速看
+#EXTINF:-1 tvg-id="市井豪門-FastTV飛速看" tvg-name="市井豪門-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live001.png" group-title="🏖️四季(美日法节点)",市井豪門-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=617200032443
-#EXTINF:-1 tvg-id="11點熱吵店-FastTV飛速看" tvg-name="11點熱吵店-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live206.png" group-title="🏖️四季(美日法节点)",11點熱吵店-FastTV飛速看
+#EXTINF:-1 tvg-id="華視好劇-FastTV飛速看" tvg-name="華視好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live005.png" group-title="🏖️四季(美日法节点)",華視好劇-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=40e2a78b2444
-#EXTINF:-1 tvg-id="WTO姐妹會-FastTV飛速看" tvg-name="WTO姐妹會-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live207.png" group-title="🏖️四季(美日法节点)",WTO姐妹會-FastTV飛速看
+#EXTINF:-1 tvg-id="公視好劇-FastTV飛速看" tvg-name="公視好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live006.png" group-title="🏖️四季(美日法节点)",公視好劇-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=ac938fff2445
-#EXTINF:-1 tvg-id="威廉沈歡樂送-FastTV飛速看" tvg-name="威廉沈歡樂送-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live208.png" group-title="🏖️四季(美日法节点)",威廉沈歡樂送-FastTV飛速看
+#EXTINF:-1 tvg-id="客家好劇-FastTV飛速看" tvg-name="客家好劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live007.png" group-title="🏖️四季(美日法节点)",客家好劇-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=b9836d9f2446
-#EXTINF:-1 tvg-id="全家有智慧-FastTV飛速看" tvg-name="全家有智慧-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live209.png" group-title="🏖️四季(美日法节点)",全家有智慧-FastTV飛速看
+#EXTINF:-1 tvg-id="懷舊經典電影-FastTV飛速看" tvg-name="懷舊經典電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live008.png" group-title="🏖️四季(美日法节点)",懷舊經典電影-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=e75fe2a92447
-#EXTINF:-1 tvg-id="民視健康美麗生活-FastTV飛速看" tvg-name="民視健康美麗生活-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live210.png" group-title="🏖️四季(美日法节点)",民視健康美麗生活-FastTV飛速看
+#EXTINF:-1 tvg-id="精選華語電影-FastTV飛速看" tvg-name="精選華語電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live009.png" group-title="🏖️四季(美日法节点)",精選華語電影-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=2cfedfbc2448
-#EXTINF:-1 tvg-id="姊妹亮起來-FastTV飛速看" tvg-name="姊妹亮起來-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live211.png" group-title="🏖️四季(美日法节点)",姊妹亮起來-FastTV飛速看
+#EXTINF:-1 tvg-id="台灣靈異事件-FastTV飛速看" tvg-name="台灣靈異事件-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",台灣靈異事件-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=b366b1ff2449
-#EXTINF:-1 tvg-id="娛樂百分百-FastTV飛速看" tvg-name="娛樂百分百-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live212.png" group-title="🏖️四季(美日法节点)",娛樂百分百-FastTV飛速看
+#EXTINF:-1 tvg-id="新兵日記-FastTV飛速看" tvg-name="新兵日記-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live011.png" group-title="🏖️四季(美日法节点)",新兵日記-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=7d16b10a2450
-#EXTINF:-1 tvg-id="超級冰冰Show-FastTV飛速看" tvg-name="超級冰冰Show-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live213.png" group-title="🏖️四季(美日法节点)",超級冰冰Show-FastTV飛速看
+#EXTINF:-1 tvg-id="以家人之名-FastTV飛速看" tvg-name="以家人之名-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live012.png" group-title="🏖️四季(美日法节点)",以家人之名-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=551f26932451
-#EXTINF:-1 tvg-id="豬哥會社-FastTV飛速看" tvg-name="豬哥會社-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live214.png" group-title="🏖️四季(美日法节点)",豬哥會社-FastTV飛速看
+#EXTINF:-1 tvg-id="加油喜事-FastTV飛速看" tvg-name="加油喜事-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live013.png" group-title="🏖️四季(美日法节点)",加油喜事-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=be66e8f42452
-#EXTINF:-1 tvg-id="全能歌手-FastTV飛速看" tvg-name="全能歌手-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live216.png" group-title="🏖️四季(美日法节点)",全能歌手-FastTV飛速看
+#EXTINF:-1 tvg-id="去有風的地方-FastTV飛速看" tvg-name="去有風的地方-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live014.png" group-title="🏖️四季(美日法节点)",去有風的地方-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=80e6282b2453
-#EXTINF:-1 tvg-id="民視生活通-FastTV飛速看" tvg-name="民視生活通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/消高FASTTV LOGO.png" group-title="🏖️四季(美日法节点)",民視生活通-FastTV飛速看
+#EXTINF:-1 tvg-id="多情城市-FastTV飛速看" tvg-name="多情城市-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live015.png" group-title="🏖️四季(美日法节点)",多情城市-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=c36a4d1b2454
-#EXTINF:-1 tvg-id="鬥陣大廟埕-FastTV飛速看" tvg-name="鬥陣大廟埕-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live218.png" group-title="🏖️四季(美日法节点)",鬥陣大廟埕-FastTV飛速看
+#EXTINF:-1 tvg-id="黃金歲月-FastTV飛速看" tvg-name="黃金歲月-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live016.png" group-title="🏖️四季(美日法节点)",黃金歲月-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=a5e9876a2455
-#EXTINF:-1 tvg-id="我的成長-FastTV飛速看" tvg-name="我的成長-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live219.png" group-title="🏖️四季(美日法节点)",我的成長-FastTV飛速看
+#EXTINF:-1 tvg-id="花千骨-FastTV飛速看" tvg-name="花千骨-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live017.png" group-title="🏖️四季(美日法节点)",花千骨-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=bbb4eb712456
-#EXTINF:-1 tvg-id="健康2.0-FastTV飛速看" tvg-name="健康2.0-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live220.png" group-title="🏖️四季(美日法节点)",健康2.0-FastTV飛速看
+#EXTINF:-1 tvg-id="別打擾我種田-FastTV飛速看" tvg-name="別打擾我種田-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live018.png" group-title="🏖️四季(美日法节点)",別打擾我種田-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=b1abec6f2457
-#EXTINF:-1 tvg-id="輕鬆看法律-FastTV飛速看" tvg-name="輕鬆看法律-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live221.png" group-title="🏖️四季(美日法节点)",輕鬆看法律-FastTV飛速看
+#EXTINF:-1 tvg-id="國外電影精選-FastTV飛速看" tvg-name="國外電影精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live021.png" group-title="🏖️四季(美日法节点)",國外電影精選-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=995d7a382458
-#EXTINF:-1 tvg-id="TVBS看板人物-FastTV飛速看" tvg-name="TVBS看板人物-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live222.png" group-title="🏖️四季(美日法节点)",TVBS看板人物-FastTV飛速看
+#EXTINF:-1 tvg-id="日韓電影大賞-FastTV飛速看" tvg-name="日韓電影大賞-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live022.png" group-title="🏖️四季(美日法节点)",日韓電影大賞-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=dfcf67342459
-#EXTINF:-1 tvg-id="野蠻遊戲：We Play -FastTV飛速看" tvg-name="野蠻遊戲：We Play -FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live223.png" group-title="🏖️四季(美日法节点)",野蠻遊戲：We Play -FastTV飛速看
+#EXTINF:-1 tvg-id="大愛精選-FastTV飛速看" tvg-name="大愛精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live023.png" group-title="🏖️四季(美日法节点)",大愛精選-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=f2814a082460
-#EXTINF:-1 tvg-id="最愛韓星-FastTV飛速看" tvg-name="最愛韓星-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live224.png" group-title="🏖️四季(美日法节点)",最愛韓星-FastTV飛速看
+#EXTINF:-1 tvg-id="飛龍在天-FastTV飛速看" tvg-name="飛龍在天-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live024.png" group-title="🏖️四季(美日法节点)",飛龍在天-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=4b3c109b2461
-#EXTINF:-1 tvg-id="廚神明星秀-FastTV飛速看" tvg-name="廚神明星秀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live226.png" group-title="🏖️四季(美日法节点)",廚神明星秀-FastTV飛速看
+#EXTINF:-1 tvg-id="台灣傳奇-FastTV飛速看" tvg-name="台灣傳奇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live026.png" group-title="🏖️四季(美日法节点)",台灣傳奇-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=e625b9c62462
-#EXTINF:-1 tvg-id="浩克慢遊-FastTV飛速看" tvg-name="浩克慢遊-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live227.png" group-title="🏖️四季(美日法节点)",浩克慢遊-FastTV飛速看
+#EXTINF:-1 tvg-id="世間路-FastTV飛速看" tvg-name="世間路-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live028.png" group-title="🏖️四季(美日法节点)",世間路-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=764830b32463
-#EXTINF:-1 tvg-id="環遊世界800天 -FastTV飛速看" tvg-name="環遊世界800天 -FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live228.png" group-title="🏖️四季(美日法节点)",環遊世界800天 -FastTV飛速看
+#EXTINF:-1 tvg-id="恐怖電影-FastTV飛速看" tvg-name="恐怖電影-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live029.png" group-title="🏖️四季(美日法节点)",恐怖電影-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=ea9b84792464
-#EXTINF:-1 tvg-id="綜藝新時代-FastTV飛速看" tvg-name="綜藝新時代-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live230.png" group-title="🏖️四季(美日法节点)",綜藝新時代-FastTV飛速看
+#EXTINF:-1 tvg-id="古裝武俠劇-FastTV飛速看" tvg-name="古裝武俠劇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live030.png" group-title="🏖️四季(美日法节点)",古裝武俠劇-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=81479e172465
-#EXTINF:-1 tvg-id="幸福保衛戰-FastTV飛速看" tvg-name="幸福保衛戰-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live231.png" group-title="🏖️四季(美日法节点)",幸福保衛戰-FastTV飛速看
+#EXTINF:-1 tvg-id="以愛為營-FastTV飛速看" tvg-name="以愛為營-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live031.png" group-title="🏖️四季(美日法节点)",以愛為營-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=95f8e6a92466
-#EXTINF:-1 tvg-id="同學！搞什麼鬼-FastTV飛速看" tvg-name="同學！搞什麼鬼-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live232.png" group-title="🏖️四季(美日法节点)",同學！搞什麼鬼-FastTV飛速看
+#EXTINF:-1 tvg-id="藍色水玲瓏-FastTV飛速看" tvg-name="藍色水玲瓏-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live032.png" group-title="🏖️四季(美日法节点)",藍色水玲瓏-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=26648ea12467
-#EXTINF:-1 tvg-id="爸媽囧很大-FastTV飛速看" tvg-name="爸媽囧很大-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live233.png" group-title="🏖️四季(美日法节点)",爸媽囧很大-FastTV飛速看
+#EXTINF:-1 tvg-id="精彩陸劇1台-FastTV飛速看" tvg-name="精彩陸劇1台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="🏖️四季(美日法节点)",精彩陸劇1台-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=2f4c3df42468
-#EXTINF:-1 tvg-id="醫學大聯盟-FastTV飛速看" tvg-name="醫學大聯盟-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live234.png" group-title="🏖️四季(美日法节点)",醫學大聯盟-FastTV飛速看
+#EXTINF:-1 tvg-id="包青天-FastTV飛速看" tvg-name="包青天-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live034.png" group-title="🏖️四季(美日法节点)",包青天-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=cf54befc2469
-#EXTINF:-1 tvg-id="GoGoTaiwan-FastTV飛速看" tvg-name="GoGoTaiwan-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live235.png" group-title="🏖️四季(美日法节点)",GoGoTaiwan-FastTV飛速看
+#EXTINF:-1 tvg-id="007情報員-FastTV飛速看" tvg-name="007情報員-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(007).png" group-title="🏖️四季(美日法节点)",007情報員-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=b168d99b2470
-#EXTINF:-1 tvg-id="2025雙北世壯運-FastTV飛速看" tvg-name="2025雙北世壯運-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-世壯運.png" group-title="🏖️四季(美日法节点)",2025雙北世壯運-FastTV飛速看
+#EXTINF:-1 tvg-id="賀歲電影推薦-FastTV飛速看" tvg-name="賀歲電影推薦-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-新春賀歲.png" group-title="🏖️四季(美日法节点)",賀歲電影推薦-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=3ce1d3442471
-#EXTINF:-1 tvg-id="一起追韓星-FastTV飛速看" tvg-name="一起追韓星-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live239.png" group-title="🏖️四季(美日法节点)",一起追韓星-FastTV飛速看
+#EXTINF:-1 tvg-id="新年追劇首選-FastTV飛速看" tvg-name="新年追劇首選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-新春賀歲.png" group-title="🏖️四季(美日法节点)",新年追劇首選-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=6c137c2d2472
-#EXTINF:-1 tvg-id="韓流美食料理秀-FastTV飛速看" tvg-name="韓流美食料理秀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live240.png" group-title="🏖️四季(美日法节点)",韓流美食料理秀-FastTV飛速看
+#EXTINF:-1 tvg-id="葉青歌仔戲-FastTV飛速看" tvg-name="葉青歌仔戲-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-葉青歌仔戲.png" group-title="🏖️四季(美日法节点)",葉青歌仔戲-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=68b080642473
-#EXTINF:-1 tvg-id="綜藝大贏家-FastTV飛速看" tvg-name="綜藝大贏家-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-熱門綜藝.png" group-title="🏖️四季(美日法节点)",綜藝大贏家-FastTV飛速看
+#EXTINF:-1 tvg-id="大兵日記-FastTV飛速看" tvg-name="大兵日記-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",大兵日記-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=11dc8e212474
-#EXTINF:-1 tvg-id="台灣No.1棒球精選-FastTV飛速看" tvg-name="台灣No.1棒球精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live242.png" group-title="🏖️四季(美日法节点)",台灣No.1棒球精選-FastTV飛速看
+#EXTINF:-1 tvg-id="親戚不計較(特輯)-FastTV飛速看" tvg-name="親戚不計較(特輯)-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",親戚不計較(特輯)-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=1efcd94a2475
-#EXTINF:-1 tvg-id="HahaTai 哈哈台-FastTV飛速看" tvg-name="HahaTai 哈哈台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/哈哈台FASTTV LOGO修.png" group-title="🏖️四季(美日法节点)",HahaTai 哈哈台-FastTV飛速看
+#EXTINF:-1 tvg-id="日劇一丁目-FastTV飛速看" tvg-name="日劇一丁目-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-日韓劇.png" group-title="🏖️四季(美日法节点)",日劇一丁目-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=07c41e342476
-#EXTINF:-1 tvg-id="金光布袋戲-FastTV飛速看" tvg-name="金光布袋戲-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(金光).png" group-title="🏖️四季(美日法节点)",金光布袋戲-FastTV飛速看
+#EXTINF:-1 tvg-id="武媚娘傳奇-FastTV飛速看" tvg-name="武媚娘傳奇-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-陸劇.png" group-title="🏖️四季(美日法节点)",武媚娘傳奇-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=263d5f302477
-#EXTINF:-1 tvg-id="超人力霸王《TV版》FastTV飛速看" tvg-name="超人力霸王《TV版》FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王TV).png" group-title="🏖️四季(美日法节点)",超人力霸王《TV版》FastTV飛速看
+#EXTINF:-1 tvg-id="精彩陸劇2台-FastTV飛速看" tvg-name="精彩陸劇2台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-陸劇.png" group-title="🏖️四季(美日法节点)",精彩陸劇2台-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=70cbe6002478
-#EXTINF:-1 tvg-id="超人力霸王《劇場版》FastTV飛速看" tvg-name="超人力霸王《劇場版》FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王).png" group-title="🏖️四季(美日法节点)",超人力霸王《劇場版》FastTV飛速看
+#EXTINF:-1 tvg-id="中國傳奇故事-FastTV飛速看" tvg-name="中國傳奇故事-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live033.png" group-title="🏖️四季(美日法节点)",中國傳奇故事-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=4a2544242479
-#EXTINF:-1 tvg-id="哆啦A夢-FastTV飛速看" tvg-name="哆啦A夢-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(哆拉A夢).png" group-title="🏖️四季(美日法节点)",哆啦A夢-FastTV飛速看
+#EXTINF:-1 tvg-id="機智校園生活-FastTV飛速看" tvg-name="機智校園生活-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",機智校園生活-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=2b43c3f72480
-#EXTINF:-1 tvg-id="經典卡通-FastTV飛速看" tvg-name="經典卡通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-經典卡通.png" group-title="🏖️四季(美日法节点)",經典卡通-FastTV飛速看
+#EXTINF:-1 tvg-id="女力報到-FastTV飛速看" tvg-name="女力報到-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-台劇.png" group-title="🏖️四季(美日法节点)",女力報到-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=0c264a1d2481
-#EXTINF:-1 tvg-id="免費精選動畫-FastTV飛速看" tvg-name="免費精選動畫-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-動漫.png" group-title="🏖️四季(美日法节点)",免費精選動畫-FastTV飛速看
+#EXTINF:-1 tvg-id="終極一班-FastTV飛速看" tvg-name="終極一班-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live010.png" group-title="🏖️四季(美日法节点)",終極一班-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=8ea27c2b2482
-#EXTINF:-1 tvg-id="經典迪士尼-FastTV飛速看" tvg-name="經典迪士尼-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="🏖️四季(美日法节点)",經典迪士尼-FastTV飛速看
+#EXTINF:-1 tvg-id="鬥魚-FastTV飛速看" tvg-name="鬥魚-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live010.png" group-title="🏖️四季(美日法节点)",鬥魚-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=8f3dc8a32483
-#EXTINF:-1 tvg-id="Duck TV兒童卡通-FastTV飛速看" tvg-name="Duck TV兒童卡通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/pngegg.png" group-title="🏖️四季(美日法节点)",Duck TV兒童卡通-FastTV飛速看
+#EXTINF:-1 tvg-id="天才衝衝衝-FastTV飛速看" tvg-name="天才衝衝衝-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live201.png" group-title="🏖️四季(美日法节点)",天才衝衝衝-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=387091a22484
-#EXTINF:-1 tvg-id="FOOD超人-FastTV飛速看" tvg-name="FOOD超人-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="🏖️四季(美日法节点)",FOOD超人-FastTV飛速看
+#EXTINF:-1 tvg-id="一字千金-FastTV飛速看" tvg-name="一字千金-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live202.png" group-title="🏖️四季(美日法节点)",一字千金-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=b72b68cb2485
-#EXTINF:-1 tvg-id="親子一起看-FastTV飛速看" tvg-name="親子一起看-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-親子.png" group-title="🏖️四季(美日法节点)",親子一起看-FastTV飛速看
+#EXTINF:-1 tvg-id="綜藝大集合-FastTV飛速看" tvg-name="綜藝大集合-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live203.png" group-title="🏖️四季(美日法节点)",綜藝大集合-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=f647f93b2486
-#EXTINF:-1 tvg-id="怪獸之王-FastTV飛速看" tvg-name="怪獸之王-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(怪獸).png" group-title="🏖️四季(美日法节点)",怪獸之王-FastTV飛速看
+#EXTINF:-1 tvg-id="女人我最大-FastTV飛速看" tvg-name="女人我最大-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live204.png" group-title="🏖️四季(美日法节点)",女人我最大-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=287db1632487
-#EXTINF:-1 tvg-id="東離劍遊紀-FastTV飛速看" tvg-name="東離劍遊紀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(PILI).png" group-title="🏖️四季(美日法节点)",東離劍遊紀-FastTV飛速看
+#EXTINF:-1 tvg-id="食尚玩家-FastTV飛速看" tvg-name="食尚玩家-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live205.png" group-title="🏖️四季(美日法节点)",食尚玩家-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=d6ca34442488
-#EXTINF:-1 tvg-id="MOMO親子精選-FastTV飛速看" tvg-name="MOMO親子精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live415.png" group-title="🏖️四季(美日法节点)",MOMO親子精選-FastTV飛速看
+#EXTINF:-1 tvg-id="11點熱吵店-FastTV飛速看" tvg-name="11點熱吵店-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live206.png" group-title="🏖️四季(美日法节点)",11點熱吵店-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=b6672c372489
-#EXTINF:-1 group-title="公益免費", @iptv888_bot
+#EXTINF:-1 tvg-id="WTO姐妹會-FastTV飛速看" tvg-name="WTO姐妹會-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live207.png" group-title="🏖️四季(美日法节点)",WTO姐妹會-FastTV飛速看
 https://tv123.cc.cd/live.php/?ch=b40c7e122490
+#EXTINF:-1 tvg-id="威廉沈歡樂送-FastTV飛速看" tvg-name="威廉沈歡樂送-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live208.png" group-title="🏖️四季(美日法节点)",威廉沈歡樂送-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=23e63f872491
+#EXTINF:-1 tvg-id="全家有智慧-FastTV飛速看" tvg-name="全家有智慧-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live209.png" group-title="🏖️四季(美日法节点)",全家有智慧-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=8e2fe3d12492
+#EXTINF:-1 tvg-id="民視健康美麗生活-FastTV飛速看" tvg-name="民視健康美麗生活-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live210.png" group-title="🏖️四季(美日法节点)",民視健康美麗生活-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=1033333a2493
+#EXTINF:-1 tvg-id="姊妹亮起來-FastTV飛速看" tvg-name="姊妹亮起來-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live211.png" group-title="🏖️四季(美日法节点)",姊妹亮起來-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=b294b13a2494
+#EXTINF:-1 tvg-id="娛樂百分百-FastTV飛速看" tvg-name="娛樂百分百-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live212.png" group-title="🏖️四季(美日法节点)",娛樂百分百-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=f0de44372495
+#EXTINF:-1 tvg-id="超級冰冰Show-FastTV飛速看" tvg-name="超級冰冰Show-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live213.png" group-title="🏖️四季(美日法节点)",超級冰冰Show-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=4e7a73912496
+#EXTINF:-1 tvg-id="豬哥會社-FastTV飛速看" tvg-name="豬哥會社-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live214.png" group-title="🏖️四季(美日法节点)",豬哥會社-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=00cecfb42497
+#EXTINF:-1 tvg-id="全能歌手-FastTV飛速看" tvg-name="全能歌手-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live216.png" group-title="🏖️四季(美日法节点)",全能歌手-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=c762ecdb2498
+#EXTINF:-1 tvg-id="民視生活通-FastTV飛速看" tvg-name="民視生活通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/消高FASTTV LOGO.png" group-title="🏖️四季(美日法节点)",民視生活通-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=7042196c2499
+#EXTINF:-1 tvg-id="鬥陣大廟埕-FastTV飛速看" tvg-name="鬥陣大廟埕-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live218.png" group-title="🏖️四季(美日法节点)",鬥陣大廟埕-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=159c1ab02500
+#EXTINF:-1 tvg-id="我的成長-FastTV飛速看" tvg-name="我的成長-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live219.png" group-title="🏖️四季(美日法节点)",我的成長-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=ea00a1122501
+#EXTINF:-1 tvg-id="健康2.0-FastTV飛速看" tvg-name="健康2.0-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live220.png" group-title="🏖️四季(美日法节点)",健康2.0-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=472162f52502
+#EXTINF:-1 tvg-id="輕鬆看法律-FastTV飛速看" tvg-name="輕鬆看法律-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live221.png" group-title="🏖️四季(美日法节点)",輕鬆看法律-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=05652d7b2503
+#EXTINF:-1 tvg-id="TVBS看板人物-FastTV飛速看" tvg-name="TVBS看板人物-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live222.png" group-title="🏖️四季(美日法节点)",TVBS看板人物-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=698d746a2504
+#EXTINF:-1 tvg-id="野蠻遊戲：We Play -FastTV飛速看" tvg-name="野蠻遊戲：We Play -FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live223.png" group-title="🏖️四季(美日法节点)",野蠻遊戲：We Play -FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=390b57ca2505
+#EXTINF:-1 tvg-id="最愛韓星-FastTV飛速看" tvg-name="最愛韓星-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live224.png" group-title="🏖️四季(美日法节点)",最愛韓星-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=e3783b852506
+#EXTINF:-1 tvg-id="廚神明星秀-FastTV飛速看" tvg-name="廚神明星秀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live226.png" group-title="🏖️四季(美日法节点)",廚神明星秀-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=2116ae752507
+#EXTINF:-1 tvg-id="浩克慢遊-FastTV飛速看" tvg-name="浩克慢遊-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live227.png" group-title="🏖️四季(美日法节点)",浩克慢遊-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=de9193332508
+#EXTINF:-1 tvg-id="環遊世界800天 -FastTV飛速看" tvg-name="環遊世界800天 -FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live228.png" group-title="🏖️四季(美日法节点)",環遊世界800天 -FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=283552732509
+#EXTINF:-1 tvg-id="綜藝新時代-FastTV飛速看" tvg-name="綜藝新時代-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live230.png" group-title="🏖️四季(美日法节点)",綜藝新時代-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=4f8e7cb32510
+#EXTINF:-1 tvg-id="幸福保衛戰-FastTV飛速看" tvg-name="幸福保衛戰-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live231.png" group-title="🏖️四季(美日法节点)",幸福保衛戰-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=a7e9dfa02511
+#EXTINF:-1 tvg-id="同學！搞什麼鬼-FastTV飛速看" tvg-name="同學！搞什麼鬼-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live232.png" group-title="🏖️四季(美日法节点)",同學！搞什麼鬼-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=00dc620c2512
+#EXTINF:-1 tvg-id="爸媽囧很大-FastTV飛速看" tvg-name="爸媽囧很大-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live233.png" group-title="🏖️四季(美日法节点)",爸媽囧很大-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=47b742ed2513
+#EXTINF:-1 tvg-id="醫學大聯盟-FastTV飛速看" tvg-name="醫學大聯盟-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live234.png" group-title="🏖️四季(美日法节点)",醫學大聯盟-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=dda0f16e2514
+#EXTINF:-1 tvg-id="GoGoTaiwan-FastTV飛速看" tvg-name="GoGoTaiwan-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live235.png" group-title="🏖️四季(美日法节点)",GoGoTaiwan-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=bd72f6de2515
+#EXTINF:-1 tvg-id="2025雙北世壯運-FastTV飛速看" tvg-name="2025雙北世壯運-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-世壯運.png" group-title="🏖️四季(美日法节点)",2025雙北世壯運-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=fe658ae32516
+#EXTINF:-1 tvg-id="一起追韓星-FastTV飛速看" tvg-name="一起追韓星-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live239.png" group-title="🏖️四季(美日法节点)",一起追韓星-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=bc6fa08c2517
+#EXTINF:-1 tvg-id="韓流美食料理秀-FastTV飛速看" tvg-name="韓流美食料理秀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live240.png" group-title="🏖️四季(美日法节点)",韓流美食料理秀-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=295ee8ef2518
+#EXTINF:-1 tvg-id="綜藝大贏家-FastTV飛速看" tvg-name="綜藝大贏家-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-熱門綜藝.png" group-title="🏖️四季(美日法节点)",綜藝大贏家-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=912e3e632519
+#EXTINF:-1 tvg-id="台灣No.1棒球精選-FastTV飛速看" tvg-name="台灣No.1棒球精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live242.png" group-title="🏖️四季(美日法节点)",台灣No.1棒球精選-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=a4bdf3972520
+#EXTINF:-1 tvg-id="HahaTai 哈哈台-FastTV飛速看" tvg-name="HahaTai 哈哈台-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/哈哈台FASTTV LOGO修.png" group-title="🏖️四季(美日法节点)",HahaTai 哈哈台-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=e08526a12521
+#EXTINF:-1 tvg-id="金光布袋戲-FastTV飛速看" tvg-name="金光布袋戲-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(金光).png" group-title="🏖️四季(美日法节点)",金光布袋戲-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=4d203f3b2522
+#EXTINF:-1 tvg-id="超人力霸王《TV版》FastTV飛速看" tvg-name="超人力霸王《TV版》FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王TV).png" group-title="🏖️四季(美日法节点)",超人力霸王《TV版》FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=53d6634a2523
+#EXTINF:-1 tvg-id="超人力霸王《劇場版》FastTV飛速看" tvg-name="超人力霸王《劇場版》FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題(超人力霸王).png" group-title="🏖️四季(美日法节点)",超人力霸王《劇場版》FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=9af8e6d22524
+#EXTINF:-1 tvg-id="哆啦A夢-FastTV飛速看" tvg-name="哆啦A夢-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(哆拉A夢).png" group-title="🏖️四季(美日法节点)",哆啦A夢-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=c1bc532b2525
+#EXTINF:-1 tvg-id="經典卡通-FastTV飛速看" tvg-name="經典卡通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-經典卡通.png" group-title="🏖️四季(美日法节点)",經典卡通-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=1c6cf1842526
+#EXTINF:-1 tvg-id="免費精選動畫-FastTV飛速看" tvg-name="免費精選動畫-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-動漫.png" group-title="🏖️四季(美日法节点)",免費精選動畫-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=9948a7172527
+#EXTINF:-1 tvg-id="經典迪士尼-FastTV飛速看" tvg-name="經典迪士尼-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="🏖️四季(美日法节点)",經典迪士尼-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=86c42c092528
+#EXTINF:-1 tvg-id="Duck TV兒童卡通-FastTV飛速看" tvg-name="Duck TV兒童卡通-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/pngegg.png" group-title="🏖️四季(美日法节点)",Duck TV兒童卡通-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=eb6600b62529
+#EXTINF:-1 tvg-id="FOOD超人-FastTV飛速看" tvg-name="FOOD超人-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦.png" group-title="🏖️四季(美日法节点)",FOOD超人-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=287dbd852530
+#EXTINF:-1 tvg-id="親子一起看-FastTV飛速看" tvg-name="親子一起看-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-親子.png" group-title="🏖️四季(美日法节点)",親子一起看-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=dd92aca02531
+#EXTINF:-1 tvg-id="怪獸之王-FastTV飛速看" tvg-name="怪獸之王-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(怪獸).png" group-title="🏖️四季(美日法节点)",怪獸之王-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=83d713222532
+#EXTINF:-1 tvg-id="東離劍遊紀-FastTV飛速看" tvg-name="東離劍遊紀-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/FastTV飛速看-主題推薦(PILI).png" group-title="🏖️四季(美日法节点)",東離劍遊紀-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=19636a3f2533
+#EXTINF:-1 tvg-id="MOMO親子精選-FastTV飛速看" tvg-name="MOMO親子精選-FastTV飛速看" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/fast-live415.png" group-title="🏖️四季(美日法节点)",MOMO親子精選-FastTV飛速看
+https://tv123.cc.cd/live.php/?ch=0f4fb7a02534
+#EXTINF:-1 group-title="公益免費", @iptv888_bot
+https://tv123.cc.cd/live.php/?ch=2fe5e6f82535
 

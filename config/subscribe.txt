@@ -1,5 +1,5 @@
 # 订阅源列表
-# 从日志恢复，共36个源
+
 http://iptv.4666888.xyz/FYTV.txt
 http://tv123.vvvv.ee/tv.m3u
 http://wangziduoqing.com/yuan/zb.txt
@@ -8,7 +8,12 @@ https://cdn.qd.je/live.m3u
 https://chuxinya.top/f/2xLkt8/12.28飞扬直播.txt
 https://ds65.tv1288.xyz
 https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
+https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx_lite.m3u
+https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+https://gh-proxy.org/https://raw.githubusercontent.com/0610840119/iptv-api/refs/heads/master/output/xp_result.txt
+https://gh-proxy.org/https://raw.githubusercontent.com/DataShare-duo/MovieLiveUrl/refs/heads/main/movie_live.m3u
+https://gh-proxy.org/https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect_tv.m3u
+https://gh-proxy.org/https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
 https://gh-proxy.org/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit
 https://gh-proxy.org/https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/IPTV.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
@@ -16,11 +21,5 @@ https://gh-proxy.org/https://raw.githubusercontent.com/yewengood/kzb/refs/heads/
 https://gh-proxy.org/https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
 https://live.264788.xyz/sub/02RsVgdYgMdzVH6DBRKGmdBwFOmOqH/txt
 https://php.946985.filegear-sg.me/jackTV.m3u
-https://gh-proxy.com/https://raw.githubusercontent.com/develop202/migu/video/refs/heads/main/interface.txt
-https://gh-proxy.org/https://github.com/kimwang1978/collect-txt/blob/main/bbxx/lite.m3u
-https://gh-proxy.org/https://raw.githubusercontent.com/0610840119/iptv-api/refs/heads/master/output/xp/result.m3u
-https://gh-proxy.org/https://raw.githubusercontent.com/DataShare-duo/MovieLiveUrl/refs/heads/main/movie/live.m3u
-https://gh-proxy.org/https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect/tv.m3u
-https://gh-proxy.org/https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user/result.m3u
-https://iptv.yang-1989.eu.org/m3u/Sport
-https://live.catvod.com/live.php/token=39664e86c43ba8c1bd95680a1c427c02c732bd1c2df2a6b70eb8b64fb282df3b
+https://live.catvod.com/?tk=bf9107ef730675e6b4d39d1303afb0b1
+https://iptv.catvod.com/catvod_com?token=af8c376298c8d34b9c5a33b758c96db91aefffd1237d8bba1b8c6e16e39f98d4

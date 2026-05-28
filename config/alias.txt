@@ -388,8 +388,3 @@ FZTV3,re:(?i)^FZTV[-\s_]*0?3[\s\S]*$
 优漫卡通,re:(?i)^\s*(江苏)?优漫卡通[\s\S]*$,江苏优漫卡通
 NewTV军事纪实,re:(?i)^\s*NewTV[-\s_]*军事纪实[\s\S]*$
 NewTV魅力潇湘,re:(?i)^\s*NewTV[-\s_]*魅力潇湘[\s\S]*$
-有线新闻FYtv,有线新闻Fytv,有线新闻fy tv
-无线翡翠FYtv,无线翡翠Fytv,无线翡翠fy tv
-无线明珠FYtv,无线明珠Fytv,无线明珠fy tv
-无线娱乐FYtv,无线娱乐Fytv,无线娱乐fy tv
-无线千禧FYtv,无线千禧Fytv,无线千禧fy tv

@@ -210,7 +210,7 @@ NewTV武搏世界,re:(?i)^\s*NewTV[-\s_]*(武搏世界|武博世界|武术世界
 凤凰资讯,re:(?i)^\s*(?:凤凰|鳳凰)[-\s_]*资讯[\s\S]*$,凤凰卫视资讯台,凤凰资讯台
 HKS香港卫视,re:(?i)^\s*(HKS|香港)[-_\s]*卫视[\s\S]*$,HKS,香港卫视,香港卫视在线直播,香港卫视直播
 澳门莲花,re:(?i)^\s*(澳门|澳門)?莲花[\s\S]*$,澳門蓮花,澳门莲花卫视,莲花卫视
-澳视澳门,re:(?i)^\s*(澳視|澳视|澳门|澳門)(?![\s\S]*?(?:体育|體育|综艺|綜藝|资讯|資訊|莲花|蓮花|Macau|macau))[\s\S]*$,澳視澳門,澳门卫视
+澳视澳门,re:(?i)^\s*(澳視|澳视|澳门|澳門)(?![\s\S]*?(?:体育|體育|综艺|綜藝|资讯|資訊|莲花|蓮花|Macau|macau|卫星|衛星))[\s\S]*$,澳視澳門,澳门卫视
 TVB翡翠,re:(?i)^\s*(TVB|TVb|tvb|无线)?[-\s_]*(翡翠|Jade)[\s\S]*$,TVB翡翠台,TVb翡翠,TVb翡翠台,tvb翡翠,tvb翡翠台,翡翠,翡翠台
 TVB明珠,re:(?i)^\s*(TVB|TVb|tvb|无线)?[-\s_]*(明珠|Pearl)[\s\S]*$,TVB Pearl,TVB明珠台,TVb明珠,TVb明珠台,tvb明珠,tvb明珠台,明珠,明珠台
 TVB星河,re:(?i)^\s*(TVB|TVb|tvb|无线)?[-\s_]*(星河|星河频道|星河頻道)[\s\S]*$,TVB星河频道,TVb星河,星河频道,星河頻道
@@ -222,7 +222,7 @@ TVBPlus,re:(?i)^\s*(TVB|TVb|tvb)?[-\s_]*Plus[\s\S]*$,TVB Plus,TVb Plus
 澳视体育,re:(?i)^\s*(澳視|澳视|澳门|澳門)[-_\s]*(体育|體育)[\s\S]*$,澳視體育,澳門體育,澳门体育
 澳视资讯,re:(?i)^\s*(澳視|澳视|澳门|澳門)[-_\s]*(资讯|資訊)[\s\S]*$,澳視資訊,澳門資訊,澳门资讯
 澳视综艺,re:(?i)^\s*(澳視|澳视|澳门|澳門)[-_\s]*(综艺|綜藝)[\s\S]*$,澳視綜藝,澳門綜藝,澳门综艺
-澳门Macau,re:(?i)^\s*(澳门|澳門|澳视|澳視)?[-\s_]*Macau[\s\S]*$,澳門Macau,Macau,macau,澳视Macau,澳視Macau
+澳门Macau,re:(?i)^\s*(澳门|澳門|澳视|澳視)?[-\s_]*Macau[\s\S]*$,澳門Macau,Macau,macau,澳视Macau,澳視Macau,澳视卫星,澳視衛星
 澳亚卫视,re:(?i)^\s*(澳亚|澳亞)[-_\s]*卫视[\s\S]*$,澳亞衛視,澳门卫视
 ViuTVsix,re:(?i)^\s*Viu[-\s_]*TV[-\s_]*[Ss][Ii][Xx][\s\S]*$,Viu TVsix,Viu-TVsix,Viu TV six
 ViuTV,re:(?i)^\s*Viu[-\s_]*TV(?![-\s_]*[Ss][Ii][Xx])[\s\S]*$,Viu TV,ViuTV HD,ViuTV62

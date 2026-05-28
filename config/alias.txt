@@ -236,8 +236,8 @@ RTHK32,re:(?i)^\s*RTHK[-\s_]*32[\s\S]*$,RTHK 32,RTHK-32,港台电视 32,港台�
 RTHK33,re:(?i)^\s*RTHK[-\s_]*33[\s\S]*$,CCTV-1綜合,RTHK 33,RTHK-33,中央电视台综合频道,中央電視台綜合頻道,港台电视 33,港台电视33,港台電視 33
 RTHK34,re:(?i)^\s*RTHK[-\s_]*34[\s\S]*$,CGTN紀錄頻道,RTHK 34,RTHK-34,中国环球电视网纪录频道,中國環球電視網紀錄頻道,港台电视 34,港台电视34,港台電視 34
 RTHK35,re:(?i)^\s*RTHK[-\s_]*35[\s\S]*$,CGTN 英語頻道,CGTN英语频道,RTHK 35,RTHK-35,港台电视 35,港台电视35,港台電視 35
-Now星影,re:(?i)^\s*(NOW|Now)[-_\s]*星影[\s\S]*$,Now星影台,NOW星影台,Now星影粤
-Now爆谷,re:(?i)^\s*(NOW|Now)[-_\s]*爆谷(?:星影)?[\s\S]*$,Now爆谷台,NOW爆谷台,Now爆谷星影台,NOW爆谷星影台
+Now星影,re:(?i)^\s*(NOW|Now)[-_\s]*(星影|爆谷星影)[\s\S]*$,Now星影台,NOW星影台,Now星影粤,Now爆谷星影台,NOW爆谷星影台
+Now爆谷,re:(?i)^\s*(NOW|Now)[-_\s]*爆谷[\s\S]*$,Now爆谷台,NOW爆谷台
 PopC,re:(?i)^\s*PopC[-_\s]*(电影|電影)?[\s\S]*$,PopC电影,PopC電影
 天映频道,re:(?i)^\s*天映[-_\s]*(频道|頻道)[\s\S]*$,天映頻道,天映电影频道
 
@@ -333,14 +333,13 @@ CinemaWorld,re:(?i)^\s*Cinema\s*World[\s\S]*$,CinemaWorld頻道
 金光布袋戏,re:(?i)^\s*金光[-_\s]*布袋[戏戲][\s\S]*$,金光布袋戲
 
 Now直播台,re:(?i)^\s*(NOW|Now)[-_\s]*(直播|Live)[\s\S]*$,Now直播,NOW直播台
-ROCK,re:(?i)^\s*ROCK[-_\s]*(Action|Entertainment)?[\s\S]*$,ROCK Action,ROCK Entertainment
+ROCKAction,re:(?i)^\s*ROCK[-_\s]*Action[\s\S]*$,ROCK Action,ROCK Entertainment
 Thrill,re:(?i)^\s*Thrill[\s\S]*$
 ZooMoo,re:(?i)^\s*ZooMoo[\s\S]*$,Zoomoo,zooMoo
 戏曲台,re:(?i)^\s*戏曲台|戲曲台[\s\S]*$,戲曲台
 黄金华剧台,re:(?i)^\s*黄金[-_\s]*华剧|黃金[-_\s]*華劇[\s\S]*$,黃金華劇台,黄金华剧台
-美亚电影台,re:(?i)^\s*美亚[-_\s]*电影|美亞[-_\s]*電影[\s\S]*$,美亞電影台,美亚电影台,美亞電影
-澳视卫星,re:(?i)^\s*(澳门|澳門|澳视|澳視)[-_\s]*卫星[\s\S]*$,澳門衛星,澳门卫星,澳视卫星台
-澳视葡萄牙,re:(?i)^\s*(澳门|澳門|澳视|澳視)[-_\s]*葡萄牙[\s\S]*$,澳門葡萄牙,澳门葡萄牙
+美亚电影,re:(?i)^\s*美亚[-_\s]*电影|美亞[-_\s]*電影[\s\S]*$,美亞電影台,美亚电影台,美亞電影,美亚电影
+澳视葡文,re:(?i)^\s*(澳门|澳門|澳视|澳視)[-_\s]*(葡萄牙|葡文)[\s\S]*$,澳門葡萄牙,澳门葡萄牙,澳视葡萄牙,澳视葡文
 # ===================== 湖南频道🌏 =====================
 湖南经视,re:(?i)^\s*(湖南[-_\s_]*经视|湖南經視)[\s\S]*$,湖南經視
 湖南都市,re:(?i)^\s*湖南[-_\s_]*都市[\s\S]*$

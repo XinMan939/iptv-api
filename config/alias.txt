@@ -229,8 +229,8 @@ ViuTV,re:(?i)^\s*Viu[-\s_]*TV(?![-\s_]*[Ss][Ii][Xx])[\s\S]*$,Viu TV,ViuTV HD,Viu
 NOW新闻,re:(?i)^\s*(NOW|Now)[-_\s]*(新闻|新聞)[\s\S]*$,NOW新闻台,NOW新闻台直播,Now新闻台,Now新聞,NOW新聞,NOW新聞台,Now新聞台
 Now财经,re:(?i)^\s*(NOW|Now)[-_\s]*(财经|財經)[\s\S]*$,NOW财经,Now财经台,Now財經,NOW財經,Now財經台
 HOY77,re:(?i)^\s*HOY[-\s_]*77[\s\S]*$
-HOY78,re:(?i)^\s*HOY[-\s_]*78[\s\S]*$
-HOY国际财经,re:(?i)^\s*\*?HOY[-\s_]*(国际|國際)[-_\s]*(财经|財經)[\s\S]*$,*HOY 国际财经台,HOY 国际财经台,*HOY 國際財經台,HOY 國際財經台,HOY国际财经台
+HOY78,re:(?i)^\s*\*?HOY[-\s_]*(78|资讯|資訊|资讯台|資訊台)[\s\S]*$,HOY 资讯台,HOY 資訊台,HOY 资讯,HOY 資訊
+HOY76,re:(?i)^\s*\*?HOY[-\s_]*(76|国际|國際)[-_\s]*(财经|財經)?[\s\S]*$,*HOY 国际财经台,HOY 国际财经台,*HOY 國際財經台,HOY 國際財經台,HOY国际财经台
 RTHK31,re:(?i)^\s*RTHK[-\s_]*31[\s\S]*$,RTHK 31,RTHK-31,港台电视 31,港台电视31,港台電視 31
 RTHK32,re:(?i)^\s*RTHK[-\s_]*32[\s\S]*$,RTHK 32,RTHK-32,港台电视 32,港台电视32,港台電視 32
 RTHK33,re:(?i)^\s*RTHK[-\s_]*33[\s\S]*$,CCTV-1綜合,RTHK 33,RTHK-33,中央电视台综合频道,中央電視台綜合頻道,港台电视 33,港台电视33,港台電視 33
@@ -379,7 +379,6 @@ CGTN俄语,re:(?i)^\s*CGTN[-\s_]*(Русский|俄)[\s\S]*$
 福建经济,re:(?i)^\s*福建[-\s_]*(经济|经视)[\s\S]*$,福建经视
 FZTV1,re:(?i)^FZTV[-\s_]*0?1[\s\S]*$
 FZTV3,re:(?i)^FZTV[-\s_]*0?3[\s\S]*$
-*HOY 資訊台,re:(?i)^\s*\*?HOY[-\s_]*(資訊|资讯)[\s\S]*$,*HOY 资讯台,HOY 資訊台,HOY 资讯台
 赣州新闻,re:(?i)^\s*(赣州|GZS)[\s\S]*$,GZSNews,GZSXW
 爱动漫,re:(?i)^\s*(iHOT[-\s_]*)?爱动漫[\s\S]*$,iHOT爱动漫
 新动漫,re:(?i)^\s*(iHOT[-\s_]*)?新动漫[\s\S]*$,iHOT新动漫

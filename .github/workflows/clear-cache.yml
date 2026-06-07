@@ -1,0 +1,32 @@
+name: 清除cache缓存
+
+on:
+  schedule:
+    - cron: '0 0 */3 * *'
+  workflow_dispatch:
+
+jobs:
+  clear-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Delete cache.gz
+        run: |
+          if [ -f output/data/cache.gz ]; then
+            rm -v output/data/cache.gz
+          else
+            echo "cache.gz not found"
+          fi
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/data/cache.gz
+          if git diff --cached --quiet; then
+            echo "No changes"
+          else
+            git commit -m "chore: 自动清除cache缓存"
+            git push
+          fi

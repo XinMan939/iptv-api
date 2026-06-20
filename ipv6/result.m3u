@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-06-19 14:51:27
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-06-20 14:18:35
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="央视频道🇨🇳",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1481,6 +1481,8 @@ https://tv123.cc.cd/live.php?ch=b092e81126
 https://tv123.cc.cd/live.php?ch=debde74426
 #EXTINF:-1 tvg-id="CCTV发现之旅" tvg-name="CCTV发现之旅" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV发现之旅.png" group-title="央视频道🇨🇳",CCTV发现之旅
 https://tv123.cc.cd/live.php?ch=800143a126
+#EXTINF:-1 tvg-id="CCTV发现之旅" tvg-name="CCTV发现之旅" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV发现之旅.png" group-title="央视频道🇨🇳",CCTV发现之旅
+https://tv123.cc.cd/live.php?ch=a6adf46626
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV风云剧场.png" group-title="央视频道🇨🇳",CCTV风云剧场
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 #EXTINF:-1 tvg-id="CCTV风云剧场" tvg-name="CCTV风云剧场" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV风云剧场.png" group-title="央视频道🇨🇳",CCTV风云剧场
@@ -1567,6 +1569,8 @@ https://tv123.cc.cd/live.php?ch=8610210125
 https://tv123.cc.cd/live.php?ch=ae3dedd925
 #EXTINF:-1 tvg-id="CCTV老故事" tvg-name="CCTV老故事" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV老故事.png" group-title="央视频道🇨🇳",CCTV老故事
 https://tv123.cc.cd/live.php?ch=7d716fa625
+#EXTINF:-1 tvg-id="CCTV老故事" tvg-name="CCTV老故事" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV老故事.png" group-title="央视频道🇨🇳",CCTV老故事
+https://tv123.cc.cd/live.php?ch=4796c18225
 #EXTINF:-1 tvg-id="CCTV女性时尚" tvg-name="CCTV女性时尚" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV女性时尚.png" group-title="央视频道🇨🇳",CCTV女性时尚
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226969/index.m3u8
 #EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV世界地理.png" group-title="央视频道🇨🇳",CCTV世界地理
@@ -1593,6 +1597,8 @@ https://tv123.cc.cd/live.php?ch=1876732a27
 https://tv123.cc.cd/live.php?ch=32c4137627
 #EXTINF:-1 tvg-id="CCTV中学生" tvg-name="CCTV中学生" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV中学生.png" group-title="央视频道🇨🇳",CCTV中学生
 https://tv123.cc.cd/live.php?ch=ac32db2127
+#EXTINF:-1 tvg-id="CCTV中学生" tvg-name="CCTV中学生" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV中学生.png" group-title="央视频道🇨🇳",CCTV中学生
+https://tv123.cc.cd/live.php?ch=d306714f27
 #EXTINF:-1 tvg-id="CCTV电视指南" tvg-name="CCTV电视指南" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV电视指南.png" group-title="央视频道🇨🇳",CCTV电视指南
 http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN.png" group-title="央视频道🇨🇳",CGTN
@@ -1657,6 +1663,8 @@ https://tv123.cc.cd/live.php?ch=2b2dc92828
 https://tv123.cc.cd/live.php?ch=1e11c6aa28
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN.png" group-title="央视频道🇨🇳",CGTN
 https://tv123.cc.cd/live.php?ch=ab451ef328
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN.png" group-title="央视频道🇨🇳",CGTN
+https://tv123.cc.cd/live.php?ch=f86cd81328
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN法语.png" group-title="央视频道🇨🇳",CGTN法语
 https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN法语.png" group-title="央视频道🇨🇳",CGTN法语
@@ -1679,6 +1687,8 @@ https://tv123.cc.cd/live.php?ch=a81bb10d23
 https://tv123.cc.cd/live.php?ch=617ca05c23
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN法语.png" group-title="央视频道🇨🇳",CGTN法语
 https://tv123.cc.cd/live.php?ch=7c34822e23
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN法语.png" group-title="央视频道🇨🇳",CGTN法语
+https://tv123.cc.cd/live.php?ch=d5d6255623
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN西班牙语.png" group-title="央视频道🇨🇳",CGTN西班牙语
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN西班牙语.png" group-title="央视频道🇨🇳",CGTN西班牙语
@@ -1699,6 +1709,8 @@ https://tv123.cc.cd/live.php?ch=db7d908f22
 https://tv123.cc.cd/live.php?ch=2b23cafe22
 #EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN西班牙语.png" group-title="央视频道🇨🇳",CGTN西班牙语
 https://tv123.cc.cd/live.php?ch=7ffc705422
+#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN西班牙语.png" group-title="央视频道🇨🇳",CGTN西班牙语
+https://tv123.cc.cd/live.php?ch=7f543e5a22
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN阿拉伯语.png" group-title="央视频道🇨🇳",CGTN阿拉伯语
 https://0472.org/hls/cgtna.m3u8
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN阿拉伯语.png" group-title="央视频道🇨🇳",CGTN阿拉伯语
@@ -1721,6 +1733,8 @@ https://tv123.cc.cd/live.php?ch=b405343b21
 https://tv123.cc.cd/live.php?ch=1f4f82ff21
 #EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN阿拉伯语.png" group-title="央视频道🇨🇳",CGTN阿拉伯语
 https://tv123.cc.cd/live.php?ch=7f59866721
+#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN阿拉伯语.png" group-title="央视频道🇨🇳",CGTN阿拉伯语
+https://tv123.cc.cd/live.php?ch=5f2c5d2b21
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN纪录.png" group-title="央视频道🇨🇳",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN纪录.png" group-title="央视频道🇨🇳",CGTN纪录
@@ -1747,6 +1761,8 @@ https://tv123.cc.cd/live.php?ch=1695ff0820
 https://tv123.cc.cd/live.php?ch=e25e59eb20
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN纪录.png" group-title="央视频道🇨🇳",CGTN纪录
 https://tv123.cc.cd/live.php?ch=157fbb2d20
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN纪录.png" group-title="央视频道🇨🇳",CGTN纪录
+https://tv123.cc.cd/live.php?ch=918bc64220
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV1.png" group-title="央视频道🇨🇳",CETV1
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV1.png" group-title="央视频道🇨🇳",CETV1
@@ -1821,6 +1837,8 @@ https://tv123.cc.cd/live.php?ch=589801da102
 https://tv123.cc.cd/live.php?ch=4e2e2ca7102
 #EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV1.png" group-title="央视频道🇨🇳",CETV1
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV1.png" group-title="央视频道🇨🇳",CETV1
+https://tv123.cc.cd/live.php?ch=58578bff102
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV2.png" group-title="央视频道🇨🇳",CETV2
 http://[2409:8087:1a0b:df::4013]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226425/index.m3u8
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV2.png" group-title="央视频道🇨🇳",CETV2
@@ -1887,6 +1905,8 @@ https://tv123.cc.cd/live.php?ch=017ddec6103
 https://tv123.cc.cd/live.php?ch=acfa00ea103
 #EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV2.png" group-title="央视频道🇨🇳",CETV2
 https://tv123.cc.cd/live.php?ch=5a355d35103
+#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV2.png" group-title="央视频道🇨🇳",CETV2
+https://tv123.cc.cd/live.php?ch=53269095103
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV4.png" group-title="央视频道🇨🇳",CETV4
 http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226724/1.m3u8
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV4.png" group-title="央视频道🇨🇳",CETV4
@@ -1961,6 +1981,8 @@ http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/51/20240709/index.m3u8?msisdn
 https://tv123.cc.cd/live.php?ch=baa66e81104
 #EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV4.png" group-title="央视频道🇨🇳",CETV4
 https://tv123.cc.cd/live.php?ch=0031752b104
+#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CETV4.png" group-title="央视频道🇨🇳",CETV4
+https://tv123.cc.cd/live.php?ch=e50c0639104
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2MGyx659D_aaDPP0qt3NgA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
@@ -2039,6 +2061,8 @@ https://tv123.cc.cd/live.php?ch=9c2e344f31
 https://tv123.cc.cd/live.php?ch=c89b079531
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
 https://tv123.cc.cd/live.php?ch=a03a67b631
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
+https://tv123.cc.cd/live.php?ch=34bf5ae231
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/浙江卫视.png" group-title="卫视频道🛸",浙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226899/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ETYfTgTra_pUx2cPrgZ_BDw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/浙江卫视.png" group-title="卫视频道🛸",浙江卫视
@@ -2087,6 +2111,8 @@ https://tv123.cc.cd/live.php?ch=7ee1886f792
 https://tv123.cc.cd/live.php?ch=55bdc3481475
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/浙江卫视.png" group-title="卫视频道🛸",浙江卫视
 https://t.freetv.fun/live/zhe-jiang-wei-shi-8.m3u8
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/浙江卫视.png" group-title="卫视频道🛸",浙江卫视
+https://b7dfda-9b6e36-ddb3.kylintv.tv/live/zhejtvhd_iphone.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226509/1.m3u8?zoneoffset=480&servicetype=1&icpid=&limitflux=-1&limitdur=-1&tenantId=8601&accountinfo=%7E%7EV2.0%7EIGb_ib7rnBX9_sANRKq9sg%7EpK8OKM5JoJWWbLRyLfPcUMkwWZ90MzSI9S9PDltJsYzd0ZGcS3Tkh7syciNKJa-w60mDOdwtDyoNwCx9aRgzHNH9AUREV_qvNJtXHRPzYw0%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3D%3D%3A20221022013542%2C915973%2C119.123.71.209%2C20221022013542%2C10000100000000050000000003873458%2C915973%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C%2C10000100000000060000000007253514_0%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
@@ -2133,6 +2159,8 @@ https://tv123.cc.cd/live.php?ch=32560356791
 https://t.freetv.fun/live/hu-nan-wei-shi.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
 https://tv123.cc.cd/live.php?ch=3ad298681476
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/huntvhd_iphone.m3u8
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226900/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcYPi33WFyhvd6SjmqUKhJg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
@@ -2193,6 +2221,10 @@ https://tv123.cc.cd/live.php?ch=a402234732
 https://tv123.cc.cd/live.php?ch=0548d6de32
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
 https://tv123.cc.cd/live.php?ch=c989060f32
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
+https://tv123.cc.cd/live.php?ch=1386681132
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
+https://b7dfda-9b6e36-ddb3.kylintv.tv/live/btvhd_iphone.m3u8
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226952/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EREB40lnZnCEwjRy7LZuhIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
@@ -2249,6 +2281,10 @@ https://tv123.cc.cd/live.php?ch=5007f07f39
 https://tv123.cc.cd/live.php?ch=1918e70739
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
 https://tv123.cc.cd/live.php?ch=aca7427a39
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
+https://tv123.cc.cd/live.php?ch=82d2935339
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/hubeitv_iphone.m3u8
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/黑龙江卫视.png" group-title="卫视频道🛸",黑龙江卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226965/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E7UiKL56-L86ihmTWaZ6csw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/黑龙江卫视.png" group-title="卫视频道🛸",黑龙江卫视
@@ -2361,6 +2397,10 @@ https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1781652454&key=7c197edeb651d24eb5
 https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1781733985&key=ef1bd3563bfa41b1219c5fe9de4b881c
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安徽卫视.png" group-title="卫视频道🛸",安徽卫视
 https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1781826664&key=bc6011d6449a25acd324eedb917e7931
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安徽卫视.png" group-title="卫视频道🛸",安徽卫视
+https://b7dfda-9b6e36-ddb3.kylintv.tv/live/ahtvhd_iphone.m3u8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安徽卫视.png" group-title="卫视频道🛸",安徽卫视
+https://live.lalifeier.eu.org/ahtv/ahws.m3u8?t=1781910281&key=fea3cbd4a53c69c1afe10a1a5575ced0
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/重庆卫视.png" group-title="卫视频道🛸",重庆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/重庆卫视.png" group-title="卫视频道🛸",重庆卫视
@@ -2407,6 +2447,8 @@ https://tv123.cc.cd/live.php?ch=5849162548
 https://tv123.cc.cd/live.php?ch=ed6ef78248
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/重庆卫视.png" group-title="卫视频道🛸",重庆卫视
 https://tv123.cc.cd/live.php?ch=9c9c538f48
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/重庆卫视.png" group-title="卫视频道🛸",重庆卫视
+https://tv123.cc.cd/live.php?ch=0e556f7348
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226898/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0uh4lyjjBCCN7TCq21vSIQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
@@ -2481,6 +2523,12 @@ https://tv123.cc.cd/live.php?ch=b8bf90d329
 https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1781826664&key=ce40d2a29c7c53a00fb463923dd7df0e
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
 https://hls-gateway.vpstv.net/streams/709068.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
+https://tv123.cc.cd/live.php?ch=954758ce29
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
+https://b7dfda-9b6e36-ddb3.kylintv.tv/live/dragontvhd_iphone.m3u8
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
+https://live.lalifeier.eu.org/kankanews/dfws.m3u8?t=1781910281&key=cd0ae3227dff7902d8b7d01d153ecdbd
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226991/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EQ6F5Mjgs0tJyEArWFL3vQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
@@ -2541,6 +2589,8 @@ https://tv123.cc.cd/live.php?ch=5c51d5ff42
 https://tv123.cc.cd/live.php?ch=0904a32542
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
 https://tv123.cc.cd/live.php?ch=4f423c8942
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
+https://tv123.cc.cd/live.php?ch=4a9352f442
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/甘肃卫视.png" group-title="卫视频道🛸",甘肃卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227020/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Err-CLugPnTcUinEM8JeySg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/甘肃卫视.png" group-title="卫视频道🛸",甘肃卫视
@@ -2599,6 +2649,8 @@ https://gd202.tv1288.xyz/tsfile/live/1028_1.m3u8
 https://tv123.cc.cd/live.php?ch=82ba1ab92029
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广西卫视.png" group-title="卫视频道🛸",广西卫视
 https://tv123.cc.cd/live.php?ch=346f2ec2801
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广西卫视.png" group-title="卫视频道🛸",广西卫视
+https://b7dfda-9b6e36-ddb3.kylintv.tv/live/guangxitv_iphone.m3u8
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
@@ -2657,6 +2709,10 @@ https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1781652454&key=baf426d7963322f72
 https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1781733985&key=388f4b60f1044726c9633a73aeaa3674
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
 https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1781826664&key=643677af4957b468e208e10554f536a9
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/guizhoutv_iphone.m3u8
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
+https://live.lalifeier.eu.org/gzstv/gzws.m3u8?t=1781910281&key=164d030a8c468c6ea11f9b1d1f4f74d4
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海南卫视.png" group-title="卫视频道🛸",海南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海南卫视.png" group-title="卫视频道🛸",海南卫视
@@ -2719,6 +2775,8 @@ http://j.x.bkpcp.top/jx/HAINHD
 https://tv123.cc.cd/live.php?ch=fa1c44ed43
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海南卫视.png" group-title="卫视频道🛸",海南卫视
 https://tv123.cc.cd/live.php?ch=2f14f6b943
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海南卫视.png" group-title="卫视频道🛸",海南卫视
+https://tv123.cc.cd/live.php?ch=adf3ada943
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227014/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErSGjhI3DMaaAASPrbQJYTg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
@@ -2795,6 +2853,10 @@ https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1781733985&key=04a7e0656174a8ed8
 https://tv123.cc.cd/live.php?ch=3550d6f134
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
 https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1781826664&key=1699b6decba5e8b2983adc9526acf9fd
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
+https://tv123.cc.cd/live.php?ch=e8f787a534
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
+https://live.lalifeier.eu.org/hebtv/hbws.m3u8?t=1781910281&key=60cedcca5cf8bee874f50b1d28969a72
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河南卫视.png" group-title="卫视频道🛸",河南卫视
 https://t.freetv.fun/live/he-nan-wei-shi-13.php
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河南卫视.png" group-title="卫视频道🛸",河南卫视
@@ -2947,6 +3009,12 @@ https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1781733985&key=d9b9cbbb77c2bf1d2
 https://tv123.cc.cd/live.php?ch=a838131d40
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/吉林卫视.png" group-title="卫视频道🛸",吉林卫视
 https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1781826664&key=e46b98d1acaf33710a20b15f508fca1a
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/吉林卫视.png" group-title="卫视频道🛸",吉林卫视
+https://tv123.cc.cd/live.php?ch=97ecfb5940
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/吉林卫视.png" group-title="卫视频道🛸",吉林卫视
+https://live.lalifeier.eu.org/jlntv/jlws.m3u8?t=1781910281&key=63a690c2ae9315f6f018b004f76a6c57
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/吉林卫视.png" group-title="卫视频道🛸",吉林卫视
+https://t.freetv.fun/live/ji-lin-wei-shi.m3u8
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江苏卫视.png" group-title="卫视频道🛸",江苏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226897/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0BmO6uHF7WFoTed__Xr3NQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江苏卫视.png" group-title="卫视频道🛸",江苏卫视
@@ -3079,6 +3147,14 @@ https://tv123.cc.cd/live.php?ch=461635c435
 https://tv123.cc.cd/live.php?ch=38ccabdb35
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
 https://tv123.cc.cd/live.php?ch=f3fe4eed35
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
+https://tv123.cc.cd/live.php?ch=ab66c0a235
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
+http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260215060204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20260215060204&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=e09df6e73bdce3ce571aa5a43f411a6e&sv=10004&ct=android
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
+http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260216060218&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20260216060218&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f2b26762faff1448de2344dd633976a6&sv=10004&ct=android
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
+http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/jxwshd/51/20190820/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600633&netType=0&sid=5910021492&pid=2028597139&timestamp=20260216180204&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=783847495&ParentNodeID=-99&assertID=5910021492&client_ip=218.28.233.106&SecurityKey=20260216180204&promotionId=&mvid=5900004351&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=f0028db029c600cb6e1893fc5732eb61&sv=10004&ct=android
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/辽宁卫视.png" group-title="卫视频道🛸",辽宁卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226966/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E6qJH8Fd-zgCGx3P-Ce86cA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/辽宁卫视.png" group-title="卫视频道🛸",辽宁卫视
@@ -3131,6 +3207,10 @@ https://tv123.cc.cd/live.php?ch=aa03b2f933
 https://tv123.cc.cd/live.php?ch=428314db33
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/辽宁卫视.png" group-title="卫视频道🛸",辽宁卫视
 http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/lnwshd265/54/20200407/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260215080207&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=218.28.233.106&SecurityKey=20260215080207&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9cbf54f17dab989e41757dd1a2a4b966&sv=10004&ct=android
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/辽宁卫视.png" group-title="卫视频道🛸",辽宁卫视
+https://tv123.cc.cd/live.php?ch=ef30a8bf33
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/辽宁卫视.png" group-title="卫视频道🛸",辽宁卫视
+http://mgsp-yx2.live.miguvideo.com:8088/migu/kailu/lnwshd265/54/20200407/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20260215160208&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=218.28.233.106&SecurityKey=20260215160208&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h265&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=448eadc4bf4a4ceb369419e525b6adb3&sv=10004&ct=android
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/内蒙古卫视.png" group-title="卫视频道🛸",内蒙古卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErN_hoRDwApMKnJqiNHvn9w%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/内蒙古卫视.png" group-title="卫视频道🛸",内蒙古卫视
@@ -3195,6 +3275,8 @@ https://tv123.cc.cd/live.php?ch=83c267f347
 https://tv123.cc.cd/live.php?ch=3d3889a847
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/宁夏卫视.png" group-title="卫视频道🛸",宁夏卫视
 https://tv123.cc.cd/live.php?ch=0b10837e47
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/宁夏卫视.png" group-title="卫视频道🛸",宁夏卫视
+https://tv123.cc.cd/live.php?ch=9925d16a47
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/青海卫视.png" group-title="卫视频道🛸",青海卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227017/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EacviHy_ucMT27Ymf2iLtZA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/青海卫视.png" group-title="卫视频道🛸",青海卫视
@@ -3239,6 +3321,10 @@ https://tv123.cc.cd/live.php?ch=869ced0741
 https://tv123.cc.cd/live.php?ch=a11b8ecc41
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/青海卫视.png" group-title="卫视频道🛸",青海卫视
 http://z.b.bkpcp.top/m.php?id=qhws
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/青海卫视.png" group-title="卫视频道🛸",青海卫视
+https://tv123.cc.cd/live.php?ch=86cafa5341
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/青海卫视.png" group-title="卫视频道🛸",青海卫视
+http://mgsp-hs2.live.miguvideo.com:8088/envivo_w/2018/SD/qinghai/1000/index.m3u8?msisdn=e55e9ee71b42d2d7008a152c069625e3&mdspid=&spid=600633&netType=0&sid=5910022166&pid=2028597139&timestamp=20260217084019&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=947472506&ParentNodeID=-99&assertID=5910022166&client_ip=218.28.233.106&SecurityKey=20260217084019&promotionId=&mvid=5900004353&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=961ecad050995add2f7ec0ab99746dad&sv=10004&ct=android
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山东卫视.png" group-title="卫视频道🛸",山东卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226957/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjW26v5VaHGy1jQuIA-4EbA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山东卫视.png" group-title="卫视频道🛸",山东卫视
@@ -3321,6 +3407,8 @@ http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/32
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226531/1.m3u8
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
 https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1781826664&key=de7df782fbba7027b3eb4d2b5655c326
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
+https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1781910281&key=3d948b48aec1e23f747b61580b26c457
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/陕西卫视.png" group-title="卫视频道🛸",陕西卫视
 https://live.chinacert.cftest5.cn/zgst/live/shanxi1
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/陕西卫视.png" group-title="卫视频道🛸",陕西卫视
@@ -3355,6 +3443,10 @@ https://tv123.cc.cd/live.php?ch=c9b5792f37
 https://tv123.cc.cd/live.php?ch=cb4dba6037
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/陕西卫视.png" group-title="卫视频道🛸",陕西卫视
 https://tv123.cc.cd/live.php?ch=6da3b86637
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/陕西卫视.png" group-title="卫视频道🛸",陕西卫视
+https://tv123.cc.cd/live.php?ch=e0b87cbb37
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/陕西卫视.png" group-title="卫视频道🛸",陕西卫视
+http://mgsp-hs2.live.miguvideo.com:8088/migu/kailu/shan3xiws/51/20220809/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600633&netType=0&sid=5910020475&pid=2028597139&timestamp=20260224160235&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738910838&ParentNodeID=-99&assertID=5910020475&client_ip=218.28.233.106&SecurityKey=20260224160235&promotionId=&mvid=5900004331&mcid=500020&playurlVersion=WX-A1-9.2.1-RELEASE&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=9e5d6899dc1e42283aa3df3b68e4df56&sv=10004&ct=android
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226995/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBQiz3wrGrpG0CUSRIJ-7Jg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
@@ -3401,6 +3493,8 @@ https://t.freetv.fun/live/si-chuan-wei-shi-5.m3u8
 https://tv123.cc.cd/live.php?ch=558c27d31469
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
 https://t.freetv.fun/live/si-chuan-wei-shi-7.m3u8
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
+https://t.freetv.fun/live/si-chuan-wei-shi-1.m3u8
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGrVNEZREjuNVKiTJo2mtwg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
@@ -3465,6 +3559,8 @@ https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1781652454&key=6bdc30aa24a2a5a4b2
 https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1781733985&key=2a209163f440bd3ca6d5ac088d77fd3d
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
 https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1781826664&key=ecc2f2993c42a1f6ddc739b320074643
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
+https://live.lalifeier.eu.org/sztv/szws.m3u8?t=1781910281&key=65df157d34d947f5825ebb4d5d00552c
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/新疆卫视.png" group-title="卫视频道🛸",新疆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/新疆卫视.png" group-title="卫视频道🛸",新疆卫视
@@ -3533,6 +3629,8 @@ https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1781652454&key=bb34362f1ddf4691e1
 https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1781733985&key=84ab3c25bd859f66a9d64a7e4a8d4c06
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/云南卫视.png" group-title="卫视频道🛸",云南卫视
 https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1781826664&key=ff797544b16aa2e0605b2bc94fbef8e0
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/云南卫视.png" group-title="卫视频道🛸",云南卫视
+https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1781910281&key=03723445491171e6997abdeb7e169070
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三沙卫视.png" group-title="卫视频道🛸",三沙卫视
 https://live3.hnntv.cn/srs/tv/ssws.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三沙卫视.png" group-title="卫视频道🛸",三沙卫视
@@ -3585,6 +3683,8 @@ https://tv123.cc.cd/live.php?ch=2a301ce649
 https://tv123.cc.cd/live.php?ch=816c93c849
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三沙卫视.png" group-title="卫视频道🛸",三沙卫视
 https://tv123.cc.cd/live.php?ch=63b5699c49
+#EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三沙卫视.png" group-title="卫视频道🛸",三沙卫视
+https://tv123.cc.cd/live.php?ch=dab340dd49
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/天津卫视.png" group-title="卫视频道🛸",天津卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226954/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eaf3wyULP1h575eM_4ByMDg%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/天津卫视.png" group-title="卫视频道🛸",天津卫视
@@ -3679,6 +3779,10 @@ https://tv123.cc.cd/live.php?ch=87fe45ce38
 https://tv123.cc.cd/live.php?ch=c2dfa30138
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/大湾区卫视.png" group-title="卫视频道🛸",大湾区卫视
 https://tv123.cc.cd/live.php?ch=d883857b38
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/大湾区卫视.png" group-title="卫视频道🛸",大湾区卫视
+https://tv123.cc.cd/live.php?ch=d6b460a638
+#EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/大湾区卫视.png" group-title="卫视频道🛸",大湾区卫视
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/tvs_iphone.m3u8
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安多卫视.png" group-title="卫视频道🛸",安多卫视
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安多卫视.png" group-title="卫视频道🛸",安多卫视
@@ -3743,6 +3847,8 @@ https://tv123.cc.cd/live.php?ch=03fb891146
 https://tv123.cc.cd/live.php?ch=b41b558d46
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/兵团卫视.png" group-title="卫视频道🛸",兵团卫视
 https://tv123.cc.cd/live.php?ch=e380544a46
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/兵团卫视.png" group-title="卫视频道🛸",兵团卫视
+https://tv123.cc.cd/live.php?ch=f168e8cd46
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海峡卫视.png" group-title="卫视频道🛸",海峡卫视
 http://hlsbkmgsplive.miguvideo.com/migu/kailu/haixiaws/57/20230724/01.m3u8?msisdn=&Channel_ID=&ContentId=&HlsSubType=&HlsProfileId=&encrypt=
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海峡卫视.png" group-title="卫视频道🛸",海峡卫视
@@ -3815,6 +3921,14 @@ https://tv123.cc.cd/live.php?ch=9d972b1644
 https://tv123.cc.cd/live.php?ch=f8d14f9d1760
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海峡卫视.png" group-title="卫视频道🛸",海峡卫视
 https://tv123.cc.cd/live.php?ch=5961f6731761
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海峡卫视.png" group-title="卫视频道🛸",海峡卫视
+https://tv123.cc.cd/live.php?ch=7556bc2244
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海峡卫视.png" group-title="卫视频道🛸",海峡卫视
+https://tv123.cc.cd/live.php?ch=8a0313e51760
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海峡卫视.png" group-title="卫视频道🛸",海峡卫视
+https://tv123.cc.cd/live.php?ch=e4ab8b341761
+#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海峡卫视.png" group-title="卫视频道🛸",海峡卫视
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/fjstv_iphone.m3u8
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/延边卫视.png" group-title="卫视频道🛸",延边卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227045/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eq0D3NdTUN7FuRzr8eJsbQA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/延边卫视.png" group-title="卫视频道🛸",延边卫视
@@ -3909,6 +4023,8 @@ http://[2409:8087:1e01:23::10]:8112/000000001000/6000000003000016791/1.m3u8?chan
 http://[2409:8087:1e01:23::10]:8112/000000001000/1000000002000016601/1.m3u8?channel-id=ystenlive&Contentid=1000000002000016601&livemode=1&stbId=m
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/金鹰卡通.png" group-title="数字付费🎞️",金鹰卡通
 http://3501776.xyz:35455/itv/5000000006000040024.m3u8?cdn=bestzb
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/金鹰卡通.png" group-title="数字付费🎞️",金鹰卡通
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/jykt_iphone.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/哈哈炫动.png" group-title="数字付费🎞️",哈哈炫动
 https://zby.130519.xyz/PLTV/11/224/3221226161/index.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/哈哈炫动.png" group-title="数字付费🎞️",哈哈炫动
@@ -3981,6 +4097,8 @@ https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1781652454&key=463ca986392f2
 https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1781733985&key=67a8daac42fa2cc303f793f554f38280
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/哈哈炫动.png" group-title="数字付费🎞️",哈哈炫动
 https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1781826664&key=fbb045aea164bfd3f9a2a3e579399539
+#EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/哈哈炫动.png" group-title="数字付费🎞️",哈哈炫动
+https://live.lalifeier.eu.org/kankanews/hhxd.m3u8?t=1781910281&key=670303b27a2cdda3093705e0b0fce8e2
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/嘉佳卡通.png" group-title="数字付费🎞️",嘉佳卡通
 http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000025964/1.m3u8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/嘉佳卡通.png" group-title="数字付费🎞️",嘉佳卡通
@@ -4001,6 +4119,8 @@ https://tv123.cc.cd/live.php?ch=dd6e9ac0118
 https://tv123.cc.cd/live.php?ch=124a8ee0118
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/嘉佳卡通.png" group-title="数字付费🎞️",嘉佳卡通
 https://tv123.cc.cd/live.php?ch=42a9f849118
+#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/嘉佳卡通.png" group-title="数字付费🎞️",嘉佳卡通
+https://tv123.cc.cd/live.php?ch=29fd7535118
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/文物宝库.png" group-title="数字付费🎞️",文物宝库
 https://live.lalifeier.eu.org/hntv/wwbk.m3u8?t=1780960584&key=7d069ac8ca16c1db5058db9da8e9de94
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/文物宝库.png" group-title="数字付费🎞️",文物宝库
@@ -4023,6 +4143,8 @@ https://live.lalifeier.eu.org/hntv/wwbk.m3u8?t=1781652454&key=4d1c7e590c7619d3bc
 https://live.lalifeier.eu.org/hntv/wwbk.m3u8?t=1781733985&key=7c98599f95532342a1a44e6b9c75a591
 #EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/文物宝库.png" group-title="数字付费🎞️",文物宝库
 https://live.lalifeier.eu.org/hntv/wwbk.m3u8?t=1781826664&key=90ec99216347f5fb5289f75ffcd8447a
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/文物宝库.png" group-title="数字付费🎞️",文物宝库
+https://live.lalifeier.eu.org/hntv/wwbk.m3u8?t=1781910281&key=c438b95e1f051c26283b8a8e52bdb4dd
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/梨园频道.png" group-title="数字付费🎞️",梨园频道
 https://live.chinacert.cftest5.cn/cnmg/live/961930369
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/梨园频道.png" group-title="数字付费🎞️",梨园频道
@@ -4043,6 +4165,8 @@ https://tv123.cc.cd/live.php?ch=da2acf66124
 https://tv123.cc.cd/live.php?ch=891cd3af124
 #EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/梨园频道.png" group-title="数字付费🎞️",梨园频道
 https://tv123.cc.cd/live.php?ch=65ef39f2124
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/梨园频道.png" group-title="数字付费🎞️",梨园频道
+https://tv123.cc.cd/live.php?ch=ee122d17124
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/重温经典.png" group-title="数字付费🎞️",重温经典
 https://tv123.cc.cd/live.php?ch=c669aef2287
 #EXTINF:-1 tvg-id="重温经典" tvg-name="重温经典" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/重温经典.png" group-title="数字付费🎞️",重温经典
@@ -4275,6 +4399,8 @@ https://live.metshop.top/bestv.php?id=yxfy8m/8000000
 http://www.wmviv.com/iptv/bc2t.php?id=yxfy
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/游戏风云.png" group-title="数字付费🎞️",游戏风云
 https://zby.130519.xyz/PLTV/11/224/3221226140/index.m3u8
+#EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/游戏风云.png" group-title="数字付费🎞️",游戏风云
+http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001192/index.m3u8
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/劲爆体育.png" group-title="数字付费🎞️",劲爆体育
 https://www.freetv.top/migu/796071336.m3u8?migutoken=1cc947d86cb584c31c31c88c005d55965238dbfff7ed75fca8451aed0b564786fde7e4b327e93b92dc96ef57e64e3bb56e8a9e921338080cdae817cb6125d8450b687659ecfee06be9c5d53ac6
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/劲爆体育.png" group-title="数字付费🎞️",劲爆体育
@@ -4513,6 +4639,8 @@ https://live.lalifeier.eu.org/hntv/jczy.m3u8?t=1781652454&key=9c21449dcc0fc4af6d
 https://live.lalifeier.eu.org/hntv/jczy.m3u8?t=1781733985&key=c8eff235d684f4bf0047fd8b88db8c19
 #EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/睛彩中原.png" group-title="数字付费🎞️",睛彩中原
 https://live.lalifeier.eu.org/hntv/jczy.m3u8?t=1781826664&key=c259cb6da061e109b159f3685d5a275c
+#EXTINF:-1 tvg-id="睛彩中原" tvg-name="睛彩中原" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/睛彩中原.png" group-title="数字付费🎞️",睛彩中原
+https://live.lalifeier.eu.org/hntv/jczy.m3u8?t=1781910281&key=80c7192cd1d7bac1a0d33f97bcc9c2ff
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC动作电影.png" group-title="数字付费🎞️",CHC动作电影
 http://z.b.bkpcp.top/m.php?id=dzdy
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC动作电影.png" group-title="数字付费🎞️",CHC动作电影
@@ -4571,6 +4699,8 @@ https://tv123.cc.cd/live.php?ch=2651bff396
 https://tv123.cc.cd/live.php?ch=44f82c0096
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC动作电影.png" group-title="数字付费🎞️",CHC动作电影
 https://tv123.cc.cd/live.php?ch=02bde00d96
+#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC动作电影.png" group-title="数字付费🎞️",CHC动作电影
+https://tv123.cc.cd/live.php?ch=9a9e8d5c96
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC家庭影院.png" group-title="数字付费🎞️",CHC家庭影院
 http://z.b.bkpcp.top/m.php?id=jtyy
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC家庭影院.png" group-title="数字付费🎞️",CHC家庭影院
@@ -4631,6 +4761,8 @@ https://tv123.cc.cd/live.php?ch=56ef04cf97
 https://live.chinacert.cftest5.cn/mg/?id=644368373
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC家庭影院.png" group-title="数字付费🎞️",CHC家庭影院
 https://tv123.cc.cd/live.php?ch=ba1bc00f97
+#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC家庭影院.png" group-title="数字付费🎞️",CHC家庭影院
+https://tv123.cc.cd/live.php?ch=71f5a76497
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC影迷电影.png" group-title="数字付费🎞️",CHC影迷电影
 https://live.chinacert.cftest5.cn/cnmg/live/952383261
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC影迷电影.png" group-title="数字付费🎞️",CHC影迷电影
@@ -4651,6 +4783,8 @@ https://tv123.cc.cd/live.php?ch=dfb4699d95
 https://tv123.cc.cd/live.php?ch=9b05065295
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC影迷电影.png" group-title="数字付费🎞️",CHC影迷电影
 https://tv123.cc.cd/live.php?ch=240190e595
+#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CHC影迷电影.png" group-title="数字付费🎞️",CHC影迷电影
+https://tv123.cc.cd/live.php?ch=5afd4e1895
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/黑莓电影.png" group-title="数字付费🎞️",黑莓电影
 http://[2409:8087:74d9:21::6]:80/270000001128/9900000095/index.m3u8
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/黑莓电影.png" group-title="数字付费🎞️",黑莓电影
@@ -4807,6 +4941,8 @@ https://tv123.cc.cd/live.php?ch=afe2c3f61840
 https://tv123.cc.cd/live.php?ch=b4230dae1840
 #EXTINF:-1 tvg-id="咪咕赛事4k" tvg-name="咪咕赛事4k" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/咪咕赛事4k.png" group-title="咪咕赛事🌟",咪咕赛事4k
 https://tv123.cc.cd/live.php?ch=a6a09a541831
+#EXTINF:-1 tvg-id="咪咕赛事4k" tvg-name="咪咕赛事4k" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/咪咕赛事4k.png" group-title="咪咕赛事🌟",咪咕赛事4k
+https://tv123.cc.cd/live.php?ch=6fdcbc151831
 #EXTINF:-1 tvg-id="咪咕赛事01" tvg-name="咪咕赛事01" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/咪咕赛事01.png" group-title="咪咕赛事🌟",咪咕赛事01
 http://jackgao.top:35455/itv/3000000001000005308.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="咪咕赛事01" tvg-name="咪咕赛事01" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/咪咕赛事01.png" group-title="咪咕赛事🌟",咪咕赛事01
@@ -4841,6 +4977,8 @@ https://tv123.cc.cd/live.php?ch=5389b9df1841
 https://tv123.cc.cd/live.php?ch=fe6ac19f1841
 #EXTINF:-1 tvg-id="咪咕赛事02" tvg-name="咪咕赛事02" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/咪咕赛事02.png" group-title="咪咕赛事🌟",咪咕赛事02
 https://tv123.cc.cd/live.php?ch=b6886f961832
+#EXTINF:-1 tvg-id="咪咕赛事02" tvg-name="咪咕赛事02" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/咪咕赛事02.png" group-title="咪咕赛事🌟",咪咕赛事02
+https://tv123.cc.cd/live.php?ch=fc27950f1832
 #EXTINF:-1 tvg-id="咪咕赛事03" tvg-name="咪咕赛事03" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/咪咕赛事03.png" group-title="咪咕赛事🌟",咪咕赛事03
 http://jackgao.top:35455/itv/3000000001000007218.m3u8?cdn=FifastbLive
 #EXTINF:-1 tvg-id="咪咕赛事03" tvg-name="咪咕赛事03" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/咪咕赛事03.png" group-title="咪咕赛事🌟",咪咕赛事03
@@ -5231,6 +5369,10 @@ https://tv123.cc.cd/live.php?ch=afaafc611956
 https://tv123.cc.cd/live.php?ch=ce06783c1953
 #EXTINF:-1 tvg-id="HKS香港卫视" tvg-name="HKS香港卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HKS香港卫视.png" group-title="港澳频道🇭🇰",HKS香港卫视
 https://tv123.cc.cd/live.php?ch=8be1ad3f1952
+#EXTINF:-1 tvg-id="HKS香港卫视" tvg-name="HKS香港卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HKS香港卫视.png" group-title="港澳频道🇭🇰",HKS香港卫视
+https://tv123.cc.cd/live.php?ch=dd2f8e781957
+#EXTINF:-1 tvg-id="HKS香港卫视" tvg-name="HKS香港卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HKS香港卫视.png" group-title="港澳频道🇭🇰",HKS香港卫视
+https://tv123.cc.cd/live.php?ch=26b01a581956
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/澳门莲花.png" group-title="港澳频道🇭🇰",澳门莲花
 https://tv123.cc.cd/live.php?ch=d590e459297
 #EXTINF:-1 tvg-id="澳门莲花" tvg-name="澳门莲花" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/澳门莲花.png" group-title="港澳频道🇭🇰",澳门莲花
@@ -6059,6 +6201,8 @@ https://tv123.cc.cd/live.php?ch=e1b23bdc349
 https://tv123.cc.cd/live.php?ch=abdbe81b349
 #EXTINF:-1 tvg-id="澳视资讯" tvg-name="澳视资讯" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/澳视资讯.png" group-title="港澳频道🇭🇰",澳视资讯
 https://tv123.cc.cd/live.php?ch=65b87295349
+#EXTINF:-1 tvg-id="澳视资讯" tvg-name="澳视资讯" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/澳视资讯.png" group-title="港澳频道🇭🇰",澳视资讯
+https://tv123.cc.cd/live.php?ch=432331d2349
 #EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/澳视综艺.png" group-title="港澳频道🇭🇰",澳视综艺
 https://tv123.cc.cd/live.php?ch=21aebf35112
 #EXTINF:-1 tvg-id="澳视综艺" tvg-name="澳视综艺" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/澳视综艺.png" group-title="港澳频道🇭🇰",澳视综艺
@@ -6377,6 +6521,12 @@ https://tv123.cc.cd/live.php?ch=79819652333
 https://tv123.cc.cd/live.php?ch=62a2dcb2518
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/ViuTVsix.png" group-title="港澳频道🇭🇰",ViuTVsix
 https://tv123.cc.cd/live.php?ch=8eaca77b1722
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/ViuTVsix.png" group-title="港澳频道🇭🇰",ViuTVsix
+https://tv123.cc.cd/live.php?ch=b5ae76ee333
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/ViuTVsix.png" group-title="港澳频道🇭🇰",ViuTVsix
+https://tv123.cc.cd/live.php?ch=f5bd995a518
+#EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/ViuTVsix.png" group-title="港澳频道🇭🇰",ViuTVsix
+https://tv123.cc.cd/live.php?ch=c8db7e461722
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/NOW新闻.png" group-title="港澳频道🇭🇰",NOW新闻
 https://tv123.cc.cd/live.php?ch=5dff40e894
 #EXTINF:-1 tvg-id="NOW新闻" tvg-name="NOW新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/NOW新闻.png" group-title="港澳频道🇭🇰",NOW新闻
@@ -6483,6 +6633,8 @@ https://tv123.cc.cd/live.php?ch=d0765f67336
 https://tv123.cc.cd/live.php?ch=67c09c3d336
 #EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Now财经.png" group-title="港澳频道🇭🇰",Now财经
 https://tv123.cc.cd/live.php?ch=55a7a7ec336
+#EXTINF:-1 tvg-id="Now财经" tvg-name="Now财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Now财经.png" group-title="港澳频道🇭🇰",Now财经
+https://tv123.cc.cd/live.php?ch=486d424f336
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HOY77.png" group-title="港澳频道🇭🇰",HOY77
 http://cdn.163189.xyz/163189/hoy
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HOY77.png" group-title="港澳频道🇭🇰",HOY77
@@ -6547,6 +6699,10 @@ https://tv123.cc.cd/live.php?ch=aa97f03a1727
 https://tv123.cc.cd/live.php?ch=328d34831717
 #EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HOY77.png" group-title="港澳频道🇭🇰",HOY77
 https://tv123.cc.cd/live.php?ch=a4eb720a1718
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HOY77.png" group-title="港澳频道🇭🇰",HOY77
+https://tv123.cc.cd/live.php?ch=262c2a221717
+#EXTINF:-1 tvg-id="HOY77" tvg-name="HOY77" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HOY77.png" group-title="港澳频道🇭🇰",HOY77
+https://tv123.cc.cd/live.php?ch=eba724eb1718
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HOY78.png" group-title="港澳频道🇭🇰",HOY78
 https://tv123.cc.cd/live.php?ch=0463058b101
 #EXTINF:-1 tvg-id="HOY78" tvg-name="HOY78" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HOY78.png" group-title="港澳频道🇭🇰",HOY78
@@ -6921,6 +7077,10 @@ https://tv123.cc.cd/live.php?ch=d3fba9ee1723
 https://tv123.cc.cd/live.php?ch=7bba7a80343
 #EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK33.png" group-title="港澳频道🇭🇰",RTHK33
 https://tv123.cc.cd/live.php?ch=f3197de21714
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK33.png" group-title="港澳频道🇭🇰",RTHK33
+https://tv123.cc.cd/live.php?ch=753857bb343
+#EXTINF:-1 tvg-id="RTHK33" tvg-name="RTHK33" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK33.png" group-title="港澳频道🇭🇰",RTHK33
+https://tv123.cc.cd/live.php?ch=15e6b59e1714
 #EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK34.png" group-title="港澳频道🇭🇰",RTHK34
 https://tv123.cc.cd/live.php?ch=2dfcef95105
 #EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK34.png" group-title="港澳频道🇭🇰",RTHK34
@@ -6945,6 +7105,8 @@ https://tv123.cc.cd/live.php?ch=da063cee344
 https://tv123.cc.cd/live.php?ch=97114b99344
 #EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK34.png" group-title="港澳频道🇭🇰",RTHK34
 https://tv123.cc.cd/live.php?ch=258bdcf3344
+#EXTINF:-1 tvg-id="RTHK34" tvg-name="RTHK34" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK34.png" group-title="港澳频道🇭🇰",RTHK34
+https://tv123.cc.cd/live.php?ch=5b723694344
 #EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK35.png" group-title="港澳频道🇭🇰",RTHK35
 https://tv123.cc.cd/live.php?ch=3f1c94ca106
 #EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK35.png" group-title="港澳频道🇭🇰",RTHK35
@@ -6969,6 +7131,8 @@ https://tv123.cc.cd/live.php?ch=593bf637345
 https://tv123.cc.cd/live.php?ch=c3c90994345
 #EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK35.png" group-title="港澳频道🇭🇰",RTHK35
 https://tv123.cc.cd/live.php?ch=25120b89345
+#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK35.png" group-title="港澳频道🇭🇰",RTHK35
+https://tv123.cc.cd/live.php?ch=abf4828d345
 #EXTINF:-1 tvg-id="Now星影" tvg-name="Now星影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Now星影.png" group-title="港澳频道🇭🇰",Now星影
 https://tv123.cc.cd/live.php?ch=c70ac3d2916
 #EXTINF:-1 tvg-id="Now星影" tvg-name="Now星影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Now星影.png" group-title="港澳频道🇭🇰",Now星影
@@ -7099,6 +7263,8 @@ https://tv123.cc.cd/live.php?ch=5c862917334
 https://tv123.cc.cd/live.php?ch=dbf0da3c334
 #EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Now直播台.png" group-title="港澳频道🇭🇰",Now直播台
 https://tv123.cc.cd/live.php?ch=cb9800eb334
+#EXTINF:-1 tvg-id="Now直播台" tvg-name="Now直播台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Now直播台.png" group-title="港澳频道🇭🇰",Now直播台
+https://tv123.cc.cd/live.php?ch=69985974334
 #EXTINF:-1 tvg-id="ROCKAction" tvg-name="ROCKAction" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/ROCKAction.png" group-title="港澳频道🇭🇰",ROCKAction
 https://tv123.cc.cd/live.php?ch=f01be770216
 #EXTINF:-1 tvg-id="ROCKAction" tvg-name="ROCKAction" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/ROCKAction.png" group-title="港澳频道🇭🇰",ROCKAction
@@ -7235,6 +7401,8 @@ https://live.lalifeier.eu.org/hntv/ydxj.m3u8?t=1781652454&key=58e2d48d6fd0f11442
 https://live.lalifeier.eu.org/hntv/ydxj.m3u8?t=1781733985&key=e0799cc3e5b0d8cf34ac8e58e42358e0
 #EXTINF:-1 tvg-id="戏曲台" tvg-name="戏曲台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/戏曲台.png" group-title="港澳频道🇭🇰",戏曲台
 https://live.lalifeier.eu.org/hntv/ydxj.m3u8?t=1781826664&key=62357fd766b32a8b4d77a360147ca5ed
+#EXTINF:-1 tvg-id="戏曲台" tvg-name="戏曲台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/戏曲台.png" group-title="港澳频道🇭🇰",戏曲台
+https://live.lalifeier.eu.org/hntv/ydxj.m3u8?t=1781910281&key=922f7436507ddc385a5e9b8d46d1bbf3
 #EXTINF:-1 tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/黄金华剧台.png" group-title="港澳频道🇭🇰",黄金华剧台
 https://tv123.cc.cd/live.php?ch=35aa5cb8937
 #EXTINF:-1 tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/黄金华剧台.png" group-title="港澳频道🇭🇰",黄金华剧台
@@ -7271,6 +7439,8 @@ https://tv123.cc.cd/live.php?ch=f6af66d11789
 https://tv123.cc.cd/live.php?ch=154791e41789
 #EXTINF:-1 tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/黄金华剧台.png" group-title="港澳频道🇭🇰",黄金华剧台
 https://tv123.cc.cd/live.php?ch=923d523b1780
+#EXTINF:-1 tvg-id="黄金华剧台" tvg-name="黄金华剧台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/黄金华剧台.png" group-title="港澳频道🇭🇰",黄金华剧台
+https://tv123.cc.cd/live.php?ch=8c2aeac71780
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/美亚电影.png" group-title="港澳频道🇭🇰",美亚电影
 https://tv123.cc.cd/live.php?ch=8c392a7e932
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/美亚电影.png" group-title="港澳频道🇭🇰",美亚电影
@@ -7325,6 +7495,8 @@ https://tv123.cc.cd/live.php?ch=d66535f7347
 https://tv123.cc.cd/live.php?ch=fa63600c347
 #EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/澳视葡文.png" group-title="港澳频道🇭🇰",澳视葡文
 https://tv123.cc.cd/live.php?ch=02f1504d347
+#EXTINF:-1 tvg-id="澳视葡文" tvg-name="澳视葡文" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/澳视葡文.png" group-title="港澳频道🇭🇰",澳视葡文
+https://tv123.cc.cd/live.php?ch=1be73439347
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS.png" group-title="台湾频道🏞️",TVBS
 https://tv123.cc.cd/live.php?ch=04a02446141
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS.png" group-title="台湾频道🏞️",TVBS
@@ -7465,6 +7637,10 @@ https://tv123.cc.cd/live.php?ch=183605381511
 https://tv123.cc.cd/live.php?ch=d943cd6d382
 #EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS欢乐.png" group-title="台湾频道🏞️",TVBS欢乐
 https://tv123.cc.cd/live.php?ch=1a7a1c2c1502
+#EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS欢乐.png" group-title="台湾频道🏞️",TVBS欢乐
+https://tv123.cc.cd/live.php?ch=038e9494382
+#EXTINF:-1 tvg-id="TVBS欢乐" tvg-name="TVBS欢乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS欢乐.png" group-title="台湾频道🏞️",TVBS欢乐
+https://tv123.cc.cd/live.php?ch=49632f021502
 #EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS精采.png" group-title="台湾频道🏞️",TVBS精采
 https://tv123.cc.cd/live.php?ch=9286575d144
 #EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS精采.png" group-title="台湾频道🏞️",TVBS精采
@@ -7515,6 +7691,10 @@ https://tv123.cc.cd/live.php?ch=3a70996e1471
 https://tv123.cc.cd/live.php?ch=712e9f63383
 #EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS精采.png" group-title="台湾频道🏞️",TVBS精采
 https://tv123.cc.cd/live.php?ch=5aef325b1462
+#EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS精采.png" group-title="台湾频道🏞️",TVBS精采
+https://tv123.cc.cd/live.php?ch=780f8090383
+#EXTINF:-1 tvg-id="TVBS精采" tvg-name="TVBS精采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS精采.png" group-title="台湾频道🏞️",TVBS精采
+https://tv123.cc.cd/live.php?ch=0683c35b1462
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS新闻.png" group-title="台湾频道🏞️",TVBS新闻
 https://tv123.cc.cd/live.php?ch=e39b336a142
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS新闻.png" group-title="台湾频道🏞️",TVBS新闻
@@ -7573,6 +7753,10 @@ https://tv123.cc.cd/live.php?ch=8f9f72bd1495
 https://tv123.cc.cd/live.php?ch=dcf1eb87381
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS新闻.png" group-title="台湾频道🏞️",TVBS新闻
 https://tv123.cc.cd/live.php?ch=1bc876411486
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS新闻.png" group-title="台湾频道🏞️",TVBS新闻
+https://tv123.cc.cd/live.php?ch=9856ba89381
+#EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS新闻.png" group-title="台湾频道🏞️",TVBS新闻
+https://tv123.cc.cd/live.php?ch=fb33c5cd1486
 #EXTINF:-1 tvg-id="TVBS台剧" tvg-name="TVBS台剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS台剧.png" group-title="台湾频道🏞️",TVBS台剧
 https://tv123.cc.cd/live.php?ch=581fb580950
 #EXTINF:-1 tvg-id="TVBS台剧" tvg-name="TVBS台剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/TVBS台剧.png" group-title="台湾频道🏞️",TVBS台剧
@@ -7959,6 +8143,8 @@ https://tv123.cc.cd/live.php?ch=cb5cd4b3377
 https://tv123.cc.cd/live.php?ch=b03a6e64377
 #EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东森综合.png" group-title="台湾频道🏞️",东森综合
 https://tv123.cc.cd/live.php?ch=f0c23e7d377
+#EXTINF:-1 tvg-id="东森综合" tvg-name="东森综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东森综合.png" group-title="台湾频道🏞️",东森综合
+https://tv123.cc.cd/live.php?ch=328204f4377
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东森戏剧.png" group-title="台湾频道🏞️",东森戏剧
 https://tv123.cc.cd/live.php?ch=681b19d9139
 #EXTINF:-1 tvg-id="东森戏剧" tvg-name="东森戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东森戏剧.png" group-title="台湾频道🏞️",东森戏剧
@@ -8161,6 +8347,8 @@ https://tv123.cc.cd/live.php?ch=af02183d379
 https://tv123.cc.cd/live.php?ch=ea0cb8a9379
 #EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东森幼幼.png" group-title="台湾频道🏞️",东森幼幼
 https://tv123.cc.cd/live.php?ch=65430b75379
+#EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东森幼幼.png" group-title="台湾频道🏞️",东森幼幼
+https://tv123.cc.cd/live.php?ch=e4c9000b379
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/年代新闻.png" group-title="台湾频道🏞️",年代新闻
 https://tv123.cc.cd/live.php?ch=e58f81e8127
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/年代新闻.png" group-title="台湾频道🏞️",年代新闻
@@ -8201,6 +8389,8 @@ https://tv123.cc.cd/live.php?ch=221f05c7366
 https://tv123.cc.cd/live.php?ch=58c9329b366
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/年代新闻.png" group-title="台湾频道🏞️",年代新闻
 https://tv123.cc.cd/live.php?ch=f693b31e366
+#EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/年代新闻.png" group-title="台湾频道🏞️",年代新闻
+https://tv123.cc.cd/live.php?ch=9681b2c5366
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/非凡新闻.png" group-title="台湾频道🏞️",非凡新闻
 https://tv123.cc.cd/live.php?ch=d3adac8f1921
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/非凡新闻.png" group-title="台湾频道🏞️",非凡新闻
@@ -8241,6 +8431,8 @@ https://live.lalifeier.eu.org/youtube/JTAwlv6pzcQ.m3u8?t=1781652454&key=b0376fce
 https://live.lalifeier.eu.org/youtube/JTAwlv6pzcQ.m3u8?t=1781733985&key=103ed22469a991ba0bc27f5fba1b05cd
 #EXTINF:-1 tvg-id="非凡商业" tvg-name="非凡商业" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/非凡商业.png" group-title="台湾频道🏞️",非凡商业
 https://live.lalifeier.eu.org/youtube/JTAwlv6pzcQ.m3u8?t=1781826664&key=7489934cf6ef102417a736363309b52e
+#EXTINF:-1 tvg-id="非凡商业" tvg-name="非凡商业" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/非凡商业.png" group-title="台湾频道🏞️",非凡商业
+https://live.lalifeier.eu.org/youtube/JTAwlv6pzcQ.m3u8?t=1781910281&key=a28c687f156df88ebc41b53255ed3529
 #EXTINF:-1 tvg-id="寰宇新闻台湾" tvg-name="寰宇新闻台湾" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇新闻台湾.png" group-title="台湾频道🏞️",寰宇新闻台湾
 https://tv123.cc.cd/live.php?ch=fa26f250171
 #EXTINF:-1 tvg-id="寰宇新闻台湾" tvg-name="寰宇新闻台湾" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇新闻台湾.png" group-title="台湾频道🏞️",寰宇新闻台湾
@@ -8317,6 +8509,10 @@ https://tv123.cc.cd/live.php?ch=51174166410
 https://tv123.cc.cd/live.php?ch=ec8f19181492
 #EXTINF:-1 tvg-id="寰宇新闻台湾" tvg-name="寰宇新闻台湾" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇新闻台湾.png" group-title="台湾频道🏞️",寰宇新闻台湾
 https://live.lalifeier.eu.org/youtube/w87VGpgd90U.m3u8?t=1781826664&key=a7583d9ad3abd9913c24e15faf16c447
+#EXTINF:-1 tvg-id="寰宇新闻台湾" tvg-name="寰宇新闻台湾" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇新闻台湾.png" group-title="台湾频道🏞️",寰宇新闻台湾
+https://tv123.cc.cd/live.php?ch=2b0101a6410
+#EXTINF:-1 tvg-id="寰宇新闻台湾" tvg-name="寰宇新闻台湾" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇新闻台湾.png" group-title="台湾频道🏞️",寰宇新闻台湾
+https://tv123.cc.cd/live.php?ch=7e6564331492
 #EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇财经.png" group-title="台湾频道🏞️",寰宇财经
 https://tv123.cc.cd/live.php?ch=05461559172
 #EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇财经.png" group-title="台湾频道🏞️",寰宇财经
@@ -8365,6 +8561,10 @@ https://live.lalifeier.eu.org/youtube/25SE1bbTv9.m3u8?t=1781733985&key=3757a7c58
 https://tv123.cc.cd/live.php?ch=9b49fc7b411
 #EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇财经.png" group-title="台湾频道🏞️",寰宇财经
 https://live.lalifeier.eu.org/youtube/25SE1bbTv9.m3u8?t=1781826664&key=591d89b44f1ce9d929864790173e3bc5
+#EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇财经.png" group-title="台湾频道🏞️",寰宇财经
+https://tv123.cc.cd/live.php?ch=31fb64c1411
+#EXTINF:-1 tvg-id="寰宇财经" tvg-name="寰宇财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇财经.png" group-title="台湾频道🏞️",寰宇财经
+https://live.lalifeier.eu.org/youtube/25SE1bbTv9.m3u8?t=1781910281&key=9f337b765d32517edb540f59d9c5b748
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇新闻.png" group-title="台湾频道🏞️",寰宇新闻
 https://tv123.cc.cd/live.php?ch=30420a26170
 #EXTINF:-1 tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/寰宇新闻.png" group-title="台湾频道🏞️",寰宇新闻
@@ -8477,6 +8677,8 @@ https://live.lalifeier.eu.org/youtube/5n0y6b0Q25o.m3u8?t=1781733985&key=e2c13a6d
 https://d36dgdk71xuzzg.cloudfront.net/v1/manifest/3a2ac8e6b6c76471996ebf627393d9c9417a60b6/linetv-6-627778910172-MediaTailor-production/c9b2313d-efdd-4777-9fae-573be8a86755/0.m3u8
 #EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/镜新闻.png" group-title="台湾频道🏞️",镜新闻
 https://live.lalifeier.eu.org/youtube/5n0y6b0Q25o.m3u8?t=1781826664&key=89c5aa8077e6fa298d0ffd53309a7c6d
+#EXTINF:-1 tvg-id="镜新闻" tvg-name="镜新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/镜新闻.png" group-title="台湾频道🏞️",镜新闻
+https://live.lalifeier.eu.org/youtube/5n0y6b0Q25o.m3u8?t=1781910281&key=be6c7f3ba2e95bec90d4075994848c3d
 #EXTINF:-1 tvg-id="国会频道①" tvg-name="国会频道①" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道①.png" group-title="台湾频道🏞️",国会频道①
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv084/index.m3u8
 #EXTINF:-1 tvg-id="国会频道①" tvg-name="国会频道①" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道①.png" group-title="台湾频道🏞️",国会频道①
@@ -8519,6 +8721,10 @@ https://live.lalifeier.eu.org/youtube/4HysYHJ6GkY.m3u8?t=1781733985&key=2ec095d4
 https://tv123.cc.cd/live.php?ch=b0b654df1565
 #EXTINF:-1 tvg-id="国会频道①" tvg-name="国会频道①" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道①.png" group-title="台湾频道🏞️",国会频道①
 https://live.lalifeier.eu.org/youtube/4HysYHJ6GkY.m3u8?t=1781826664&key=f23713b32a17c9c08be56baf6a77312e
+#EXTINF:-1 tvg-id="国会频道①" tvg-name="国会频道①" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道①.png" group-title="台湾频道🏞️",国会频道①
+https://tv123.cc.cd/live.php?ch=f029a3cb1565
+#EXTINF:-1 tvg-id="国会频道①" tvg-name="国会频道①" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道①.png" group-title="台湾频道🏞️",国会频道①
+https://live.lalifeier.eu.org/youtube/4HysYHJ6GkY.m3u8?t=1781910281&key=013d1810edd867d15819362724c859e6
 #EXTINF:-1 tvg-id="国会频道②" tvg-name="国会频道②" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道②.png" group-title="台湾频道🏞️",国会频道②
 https://cdn.19891230.eu.org/4gtv/4gtv-4gtv085/index.m3u8
 #EXTINF:-1 tvg-id="国会频道②" tvg-name="国会频道②" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道②.png" group-title="台湾频道🏞️",国会频道②
@@ -8561,6 +8767,10 @@ https://live.lalifeier.eu.org/youtube/Lj8OWF6nzcg.m3u8?t=1781733985&key=2a332988
 https://tv123.cc.cd/live.php?ch=47350c141566
 #EXTINF:-1 tvg-id="国会频道②" tvg-name="国会频道②" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道②.png" group-title="台湾频道🏞️",国会频道②
 https://live.lalifeier.eu.org/youtube/Lj8OWF6nzcg.m3u8?t=1781826664&key=8896e4ac944d6278ea4a18ecc33666d3
+#EXTINF:-1 tvg-id="国会频道②" tvg-name="国会频道②" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道②.png" group-title="台湾频道🏞️",国会频道②
+https://tv123.cc.cd/live.php?ch=60462f871566
+#EXTINF:-1 tvg-id="国会频道②" tvg-name="国会频道②" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/国会频道②.png" group-title="台湾频道🏞️",国会频道②
+https://live.lalifeier.eu.org/youtube/Lj8OWF6nzcg.m3u8?t=1781910281&key=686aa341349506b0431ecf382c1a7203
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三立新闻.png" group-title="台湾频道🏞️",三立新闻
 https://tv123.cc.cd/live.php?ch=8b54d7dd183
 #EXTINF:-1 tvg-id="三立新闻" tvg-name="三立新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三立新闻.png" group-title="台湾频道🏞️",三立新闻
@@ -8693,6 +8903,10 @@ https://tv123.cc.cd/live.php?ch=e0446b631468
 https://tv123.cc.cd/live.php?ch=055b30d2421
 #EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三立综合.png" group-title="台湾频道🏞️",三立综合
 https://tv123.cc.cd/live.php?ch=b68dd0a21459
+#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三立综合.png" group-title="台湾频道🏞️",三立综合
+https://tv123.cc.cd/live.php?ch=fe7a5f20421
+#EXTINF:-1 tvg-id="三立综合" tvg-name="三立综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三立综合.png" group-title="台湾频道🏞️",三立综合
+https://tv123.cc.cd/live.php?ch=d2e7aa781459
 #EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三立台湾.png" group-title="台湾频道🏞️",三立台湾
 https://tv123.cc.cd/live.php?ch=b3cb9b741874
 #EXTINF:-1 tvg-id="三立台湾" tvg-name="三立台湾" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三立台湾.png" group-title="台湾频道🏞️",三立台湾
@@ -8883,6 +9097,8 @@ https://tv123.cc.cd/live.php?ch=d0914af61598
 https://tv123.cc.cd/live.php?ch=3d85bfae1934
 #EXTINF:-1 tvg-id="华视教育体育文化" tvg-name="华视教育体育文化" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/华视教育体育文化.png" group-title="台湾频道🏞️",华视教育体育文化
 https://tv123.cc.cd/live.php?ch=4a6cf4e51933
+#EXTINF:-1 tvg-id="华视教育体育文化" tvg-name="华视教育体育文化" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/华视教育体育文化.png" group-title="台湾频道🏞️",华视教育体育文化
+https://tv123.cc.cd/live.php?ch=bf597dc21585
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/华视.png" group-title="台湾频道🏞️",华视
 https://tv123.cc.cd/live.php?ch=f845a8a1173
 #EXTINF:-1 tvg-id="华视" tvg-name="华视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/华视.png" group-title="台湾频道🏞️",华视
@@ -9177,6 +9393,10 @@ https://tv123.cc.cd/live.php?ch=64c7d9151599
 https://tv123.cc.cd/live.php?ch=cf62baed1583
 #EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中视经典.png" group-title="台湾频道🏞️",中视经典
 https://tv123.cc.cd/live.php?ch=f3daab2f1590
+#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中视经典.png" group-title="台湾频道🏞️",中视经典
+https://tv123.cc.cd/live.php?ch=b1a27ae21583
+#EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中视经典.png" group-title="台湾频道🏞️",中视经典
+https://tv123.cc.cd/live.php?ch=1a1d29ba1590
 #EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中视菁采.png" group-title="台湾频道🏞️",中视菁采
 https://tv123.cc.cd/live.php?ch=d54f6c322150
 #EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中视菁采.png" group-title="台湾频道🏞️",中视菁采
@@ -9229,6 +9449,10 @@ https://tv123.cc.cd/live.php?ch=49c9724a1600
 https://tv123.cc.cd/live.php?ch=152942a91584
 #EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中视菁采.png" group-title="台湾频道🏞️",中视菁采
 https://tv123.cc.cd/live.php?ch=4fbe97211591
+#EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中视菁采.png" group-title="台湾频道🏞️",中视菁采
+https://tv123.cc.cd/live.php?ch=64f9be531584
+#EXTINF:-1 tvg-id="中视菁采" tvg-name="中视菁采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中视菁采.png" group-title="台湾频道🏞️",中视菁采
+https://tv123.cc.cd/live.php?ch=c843bfa01591
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天新闻.png" group-title="台湾频道🏞️",中天新闻
 https://tv123.cc.cd/live.php?ch=cd07db63131
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天新闻.png" group-title="台湾频道🏞️",中天新闻
@@ -9339,6 +9563,8 @@ https://tv123.cc.cd/live.php?ch=bff7e20e369
 https://tv123.cc.cd/live.php?ch=4da2e57e369
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天娱乐.png" group-title="台湾频道🏞️",中天娱乐
 https://tv123.cc.cd/live.php?ch=6d6d5b28369
+#EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天娱乐.png" group-title="台湾频道🏞️",中天娱乐
+https://tv123.cc.cd/live.php?ch=d0de53d5369
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天综合.png" group-title="台湾频道🏞️",中天综合
 https://tv123.cc.cd/live.php?ch=9c0b4351129
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天综合.png" group-title="台湾频道🏞️",中天综合
@@ -9369,6 +9595,8 @@ https://tv123.cc.cd/live.php?ch=18ee4d37368
 https://tv123.cc.cd/live.php?ch=1860808e368
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天综合.png" group-title="台湾频道🏞️",中天综合
 https://tv123.cc.cd/live.php?ch=02e2cc7c368
+#EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天综合.png" group-title="台湾频道🏞️",中天综合
+https://tv123.cc.cd/live.php?ch=685ef2cc368
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天亚洲.png" group-title="台湾频道🏞️",中天亚洲
 https://tv123.cc.cd/live.php?ch=ab7976b3128
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天亚洲.png" group-title="台湾频道🏞️",中天亚洲
@@ -9429,6 +9657,10 @@ https://live.lalifeier.eu.org/youtube/s2waUruqze4.m3u8?t=1781733985&key=9d227b4c
 https://tv123.cc.cd/live.php?ch=d592fcba367
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天亚洲.png" group-title="台湾频道🏞️",中天亚洲
 https://live.lalifeier.eu.org/youtube/s2waUruqze4.m3u8?t=1781826664&key=ff83d56d8665f5af74ef0a2311a51801
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天亚洲.png" group-title="台湾频道🏞️",中天亚洲
+https://tv123.cc.cd/live.php?ch=67f7b2f4367
+#EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/中天亚洲.png" group-title="台湾频道🏞️",中天亚洲
+https://live.lalifeier.eu.org/youtube/s2waUruqze4.m3u8?t=1781910281&key=d1fa811e283845766b0b563ed44a625a
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视新闻.png" group-title="台湾频道🏞️",民视新闻
 https://live.catvod.com/catvod_com.php?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="民视新闻" tvg-name="民视新闻" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视新闻.png" group-title="台湾频道🏞️",民视新闻
@@ -9881,6 +10113,10 @@ https://tv123.cc.cd/live.php?ch=82f95c131505
 https://tv123.cc.cd/live.php?ch=7b11fed1420
 #EXTINF:-1 tvg-id="民视综艺" tvg-name="民视综艺" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视综艺.png" group-title="台湾频道🏞️",民视综艺
 https://tv123.cc.cd/live.php?ch=01976d461496
+#EXTINF:-1 tvg-id="民视综艺" tvg-name="民视综艺" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视综艺.png" group-title="台湾频道🏞️",民视综艺
+https://tv123.cc.cd/live.php?ch=9c57e804420
+#EXTINF:-1 tvg-id="民视综艺" tvg-name="民视综艺" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视综艺.png" group-title="台湾频道🏞️",民视综艺
+https://tv123.cc.cd/live.php?ch=4265e6de1496
 #EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视旅游.png" group-title="台湾频道🏞️",民视旅游
 https://tv123.cc.cd/live.php?ch=800907cb179
 #EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视旅游.png" group-title="台湾频道🏞️",民视旅游
@@ -9933,6 +10169,10 @@ https://tv123.cc.cd/live.php?ch=6e1b3c6f1535
 https://tv123.cc.cd/live.php?ch=09fa1d0c418
 #EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视旅游.png" group-title="台湾频道🏞️",民视旅游
 https://tv123.cc.cd/live.php?ch=9772bfc91526
+#EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视旅游.png" group-title="台湾频道🏞️",民视旅游
+https://tv123.cc.cd/live.php?ch=70c54215418
+#EXTINF:-1 tvg-id="民视旅游" tvg-name="民视旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/民视旅游.png" group-title="台湾频道🏞️",民视旅游
+https://tv123.cc.cd/live.php?ch=bb1e63b11526
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视.png" group-title="台湾频道🏞️",公视
 https://tv123.cc.cd/live.php?ch=28c7b92b1866
 #EXTINF:-1 tvg-id="公视" tvg-name="公视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视.png" group-title="台湾频道🏞️",公视
@@ -10039,6 +10279,8 @@ https://tv123.cc.cd/live.php?ch=8c6e6f291614
 https://tv123.cc.cd/live.php?ch=7294a2331614
 #EXTINF:-1 tvg-id="公视3台" tvg-name="公视3台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视3台.png" group-title="台湾频道🏞️",公视3台
 https://tv123.cc.cd/live.php?ch=44cdbea51605
+#EXTINF:-1 tvg-id="公视3台" tvg-name="公视3台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视3台.png" group-title="台湾频道🏞️",公视3台
+https://tv123.cc.cd/live.php?ch=aa199d941605
 #EXTINF:-1 tvg-id="公视台语" tvg-name="公视台语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视台语.png" group-title="台湾频道🏞️",公视台语
 https://tv123.cc.cd/live.php?ch=a26f39312170
 #EXTINF:-1 tvg-id="公视台语" tvg-name="公视台语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视台语.png" group-title="台湾频道🏞️",公视台语
@@ -10115,6 +10357,10 @@ https://tv123.cc.cd/live.php?ch=95239cda1931
 https://live.lalifeier.eu.org/youtube/6KlRR_DGhmI.m3u8?t=1781826664&key=8a3fd4fd3aec32c75c017a1b460b09ca
 #EXTINF:-1 tvg-id="公视台语" tvg-name="公视台语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视台语.png" group-title="台湾频道🏞️",公视台语
 https://tv123.cc.cd/live.php?ch=e14bc4b81930
+#EXTINF:-1 tvg-id="公视台语" tvg-name="公视台语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视台语.png" group-title="台湾频道🏞️",公视台语
+https://tv123.cc.cd/live.php?ch=9c257e581604
+#EXTINF:-1 tvg-id="公视台语" tvg-name="公视台语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视台语.png" group-title="台湾频道🏞️",公视台语
+https://tv123.cc.cd/live.php?ch=4a998a671935
 #EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视戏剧.png" group-title="台湾频道🏞️",公视戏剧
 https://tv123.cc.cd/live.php?ch=e94d733d168
 #EXTINF:-1 tvg-id="公视戏剧" tvg-name="公视戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/公视戏剧.png" group-title="台湾频道🏞️",公视戏剧
@@ -10415,6 +10661,10 @@ https://tv123.cc.cd/live.php?ch=6be554d51603
 https://tv123.cc.cd/live.php?ch=b67fbc791586
 #EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/台视综合.png" group-title="台湾频道🏞️",台视综合
 https://tv123.cc.cd/live.php?ch=a110f9a11594
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/台视综合.png" group-title="台湾频道🏞️",台视综合
+https://tv123.cc.cd/live.php?ch=4d063da11586
+#EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/台视综合.png" group-title="台湾频道🏞️",台视综合
+https://tv123.cc.cd/live.php?ch=14cc0fd21594
 #EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/台视财经.png" group-title="台湾频道🏞️",台视财经
 https://tv123.cc.cd/live.php?ch=832f157d2153
 #EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/台视财经.png" group-title="台湾频道🏞️",台视财经
@@ -10467,6 +10717,10 @@ https://tv123.cc.cd/live.php?ch=7006616c1604
 https://tv123.cc.cd/live.php?ch=f0eb56101587
 #EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/台视财经.png" group-title="台湾频道🏞️",台视财经
 https://tv123.cc.cd/live.php?ch=40519fb21595
+#EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/台视财经.png" group-title="台湾频道🏞️",台视财经
+https://tv123.cc.cd/live.php?ch=5b16f81d1587
+#EXTINF:-1 tvg-id="台视财经" tvg-name="台视财经" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/台视财经.png" group-title="台湾频道🏞️",台视财经
+https://tv123.cc.cd/live.php?ch=25eb8af81595
 #EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来综合.png" group-title="台湾频道🏞️",纬来综合
 https://tv123.cc.cd/live.php?ch=918bbc2b124
 #EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来综合.png" group-title="台湾频道🏞️",纬来综合
@@ -10501,6 +10755,8 @@ https://tv123.cc.cd/live.php?ch=856a6586363
 https://tv123.cc.cd/live.php?ch=eefc42c3363
 #EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来综合.png" group-title="台湾频道🏞️",纬来综合
 https://tv123.cc.cd/live.php?ch=22181221363
+#EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来综合.png" group-title="台湾频道🏞️",纬来综合
+https://tv123.cc.cd/live.php?ch=6ea9c57e363
 #EXTINF:-1 tvg-id="纬来戏剧" tvg-name="纬来戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来戏剧.png" group-title="台湾频道🏞️",纬来戏剧
 https://tv123.cc.cd/live.php?ch=25cbb835125
 #EXTINF:-1 tvg-id="纬来戏剧" tvg-name="纬来戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来戏剧.png" group-title="台湾频道🏞️",纬来戏剧
@@ -10579,6 +10835,8 @@ https://tv123.cc.cd/live.php?ch=b1fd0231364
 https://tv123.cc.cd/live.php?ch=7ea599d4566
 #EXTINF:-1 tvg-id="纬来戏剧" tvg-name="纬来戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来戏剧.png" group-title="台湾频道🏞️",纬来戏剧
 https://tv123.cc.cd/live.php?ch=641ee4301825
+#EXTINF:-1 tvg-id="纬来戏剧" tvg-name="纬来戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来戏剧.png" group-title="台湾频道🏞️",纬来戏剧
+https://tv123.cc.cd/live.php?ch=3592e3c9364
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来日本.png" group-title="台湾频道🏞️",纬来日本
 https://tv123.cc.cd/live.php?ch=e502a839121
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来日本.png" group-title="台湾频道🏞️",纬来日本
@@ -10643,6 +10901,10 @@ https://live.lalifeier.eu.org/youtube/_zKvIMHN2O8.m3u8?t=1781733985&key=0c8b595f
 https://tv123.cc.cd/live.php?ch=4adedf7d360
 #EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来日本.png" group-title="台湾频道🏞️",纬来日本
 https://live.lalifeier.eu.org/youtube/_zKvIMHN2O8.m3u8?t=1781826664&key=e7e42ac44b472a73fa034529fe84dd7b
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来日本.png" group-title="台湾频道🏞️",纬来日本
+https://tv123.cc.cd/live.php?ch=3c2f60e8360
+#EXTINF:-1 tvg-id="纬来日本" tvg-name="纬来日本" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来日本.png" group-title="台湾频道🏞️",纬来日本
+https://live.lalifeier.eu.org/youtube/_zKvIMHN2O8.m3u8?t=1781910281&key=6d5741b1bffd84e5b4ae99f45944d915
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来电影.png" group-title="台湾频道🏞️",纬来电影
 https://tv123.cc.cd/live.php?ch=d8d15cea123
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来电影.png" group-title="台湾频道🏞️",纬来电影
@@ -10861,6 +11123,8 @@ https://tv123.cc.cd/live.php?ch=bffc41d8365
 https://tv123.cc.cd/live.php?ch=7bdc251c365
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来育乐.png" group-title="台湾频道🏞️",纬来育乐
 https://tv123.cc.cd/live.php?ch=ae4a7e2d365
+#EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来育乐.png" group-title="台湾频道🏞️",纬来育乐
+https://tv123.cc.cd/live.php?ch=362892b8365
 #EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来精采.png" group-title="台湾频道🏞️",纬来精采
 https://tv123.cc.cd/live.php?ch=6cf0b93b1893
 #EXTINF:-1 tvg-id="纬来精采" tvg-name="纬来精采" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来精采.png" group-title="台湾频道🏞️",纬来精采
@@ -10923,6 +11187,10 @@ https://tv123.cc.cd/live.php?ch=1d98ed2c1470
 https://tv123.cc.cd/live.php?ch=1cc46a2a404
 #EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/八大综艺.png" group-title="台湾频道🏞️",八大综艺
 https://tv123.cc.cd/live.php?ch=036808361461
+#EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/八大综艺.png" group-title="台湾频道🏞️",八大综艺
+https://tv123.cc.cd/live.php?ch=33fe76ea404
+#EXTINF:-1 tvg-id="八大综艺" tvg-name="八大综艺" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/八大综艺.png" group-title="台湾频道🏞️",八大综艺
+https://tv123.cc.cd/live.php?ch=ba2331f41461
 #EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/八大精彩.png" group-title="台湾频道🏞️",八大精彩
 https://tv123.cc.cd/live.php?ch=7659357d164
 #EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/八大精彩.png" group-title="台湾频道🏞️",八大精彩
@@ -10973,6 +11241,10 @@ https://tv123.cc.cd/live.php?ch=67f420bb1550
 https://tv123.cc.cd/live.php?ch=c51e2644403
 #EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/八大精彩.png" group-title="台湾频道🏞️",八大精彩
 https://tv123.cc.cd/live.php?ch=f8f65de31541
+#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/八大精彩.png" group-title="台湾频道🏞️",八大精彩
+https://tv123.cc.cd/live.php?ch=db8d1bc8403
+#EXTINF:-1 tvg-id="八大精彩" tvg-name="八大精彩" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/八大精彩.png" group-title="台湾频道🏞️",八大精彩
+https://tv123.cc.cd/live.php?ch=c091d05e1541
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/龙华经典.png" group-title="台湾频道🏞️",龙华经典
 https://tv123.cc.cd/live.php?ch=88b78c66162
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/龙华经典.png" group-title="台湾频道🏞️",龙华经典
@@ -11495,6 +11767,8 @@ https://tv123.cc.cd/live.php?ch=c161fc19423
 https://tv123.cc.cd/live.php?ch=5d62b110423
 #EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好莱坞电影台.png" group-title="台湾频道🏞️",好莱坞电影台
 https://tv123.cc.cd/live.php?ch=1a06b34c423
+#EXTINF:-1 tvg-id="好莱坞电影台" tvg-name="好莱坞电影台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好莱坞电影台.png" group-title="台湾频道🏞️",好莱坞电影台
+https://tv123.cc.cd/live.php?ch=eb8cf532423
 #EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/靖天电影.png" group-title="台湾频道🏞️",靖天电影
 https://tv123.cc.cd/live.php?ch=60feaf88145
 #EXTINF:-1 tvg-id="靖天电影" tvg-name="靖天电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/靖天电影.png" group-title="台湾频道🏞️",靖天电影
@@ -11705,6 +11979,10 @@ https://tv123.cc.cd/live.php?ch=9245e91e1761
 https://tv123.cc.cd/live.php?ch=2a71aa86400
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/龙华洋片.png" group-title="台湾频道🏞️",龙华洋片
 https://tv123.cc.cd/live.php?ch=3116e8c51752
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/龙华洋片.png" group-title="台湾频道🏞️",龙华洋片
+https://tv123.cc.cd/live.php?ch=85d5e086400
+#EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/龙华洋片.png" group-title="台湾频道🏞️",龙华洋片
+https://tv123.cc.cd/live.php?ch=9136e3271752
 #EXTINF:-1 tvg-id="龙祥时代电影" tvg-name="龙祥时代电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/龙祥时代电影.png" group-title="台湾频道🏞️",龙祥时代电影
 https://tv123.cc.cd/live.php?ch=fe199065185
 #EXTINF:-1 tvg-id="龙祥时代电影" tvg-name="龙祥时代电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/龙祥时代电影.png" group-title="台湾频道🏞️",龙祥时代电影
@@ -12499,6 +12777,12 @@ https://tv123.cc.cd/live.php?ch=1a559ae8448
 https://tv123.cc.cd/live.php?ch=330778521554
 #EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CinemaWorld.png" group-title="台湾频道🏞️",CinemaWorld
 https://tv123.cc.cd/live.php?ch=487fb2731816
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CinemaWorld.png" group-title="台湾频道🏞️",CinemaWorld
+https://tv123.cc.cd/live.php?ch=2a86b0b4448
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CinemaWorld.png" group-title="台湾频道🏞️",CinemaWorld
+https://tv123.cc.cd/live.php?ch=82edc2471554
+#EXTINF:-1 tvg-id="CinemaWorld" tvg-name="CinemaWorld" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CinemaWorld.png" group-title="台湾频道🏞️",CinemaWorld
+https://tv123.cc.cd/live.php?ch=9265ae991816
 #EXTINF:-1 tvg-id="我的欧洲电影" tvg-name="我的欧洲电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/我的欧洲电影.png" group-title="台湾频道🏞️",我的欧洲电影
 https://tv123.cc.cd/live.php?ch=b248fcc82377
 #EXTINF:-1 tvg-id="我的欧洲电影" tvg-name="我的欧洲电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/我的欧洲电影.png" group-title="台湾频道🏞️",我的欧洲电影
@@ -12573,6 +12857,12 @@ https://tv123.cc.cd/live.php?ch=b56f2e691817
 https://tv123.cc.cd/live.php?ch=f63a9b3e1959
 #EXTINF:-1 tvg-id="我的欧洲电影" tvg-name="我的欧洲电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/我的欧洲电影.png" group-title="台湾频道🏞️",我的欧洲电影
 https://tv123.cc.cd/live.php?ch=e4e405ea1958
+#EXTINF:-1 tvg-id="我的欧洲电影" tvg-name="我的欧洲电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/我的欧洲电影.png" group-title="台湾频道🏞️",我的欧洲电影
+https://tv123.cc.cd/live.php?ch=2d15ef951555
+#EXTINF:-1 tvg-id="我的欧洲电影" tvg-name="我的欧洲电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/我的欧洲电影.png" group-title="台湾频道🏞️",我的欧洲电影
+https://tv123.cc.cd/live.php?ch=52b4c8061817
+#EXTINF:-1 tvg-id="我的欧洲电影" tvg-name="我的欧洲电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/我的欧洲电影.png" group-title="台湾频道🏞️",我的欧洲电影
+https://tv123.cc.cd/live.php?ch=3962e9601963
 #EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/精选动漫台.png" group-title="台湾频道🏞️",精选动漫台
 https://tv123.cc.cd/live.php?ch=e4302fd5233
 #EXTINF:-1 tvg-id="精选动漫台" tvg-name="精选动漫台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/精选动漫台.png" group-title="台湾频道🏞️",精选动漫台
@@ -12945,6 +13235,10 @@ https://tv123.cc.cd/live.php?ch=627b2e991297
 https://tv123.cc.cd/live.php?ch=4a5ceaaf1230
 #EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/DAZN1.png" group-title="台湾频道🏞️",DAZN1
 https://tv123.cc.cd/live.php?ch=87d062311294
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/DAZN1.png" group-title="台湾频道🏞️",DAZN1
+https://tv123.cc.cd/live.php?ch=a9bc6b341230
+#EXTINF:-1 tvg-id="DAZN1" tvg-name="DAZN1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/DAZN1.png" group-title="台湾频道🏞️",DAZN1
+https://tv123.cc.cd/live.php?ch=44195bda1294
 #EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/DAZN2.png" group-title="台湾频道🏞️",DAZN2
 https://tv123.cc.cd/live.php?ch=c2d6988b635
 #EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/DAZN2.png" group-title="台湾频道🏞️",DAZN2
@@ -13003,6 +13297,10 @@ https://tv123.cc.cd/live.php?ch=37d9a2611298
 https://tv123.cc.cd/live.php?ch=a493cf861229
 #EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/DAZN2.png" group-title="台湾频道🏞️",DAZN2
 https://tv123.cc.cd/live.php?ch=e3a3c02c1295
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/DAZN2.png" group-title="台湾频道🏞️",DAZN2
+https://tv123.cc.cd/live.php?ch=32e05e071229
+#EXTINF:-1 tvg-id="DAZN2" tvg-name="DAZN2" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/DAZN2.png" group-title="台湾频道🏞️",DAZN2
+https://tv123.cc.cd/live.php?ch=5dac74841295
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Discovery.png" group-title="台湾频道🏞️",Discovery
 https://tv123.cc.cd/live.php?ch=90e6f38159
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Discovery.png" group-title="台湾频道🏞️",Discovery
@@ -13323,6 +13621,10 @@ https://tv123.cc.cd/live.php?ch=eebf51c4852
 https://tv123.cc.cd/live.php?ch=3b621068426
 #EXTINF:-1 tvg-id="MTVLive" tvg-name="MTVLive" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/MTVLive.png" group-title="台湾频道🏞️",MTVLive
 https://tv123.cc.cd/live.php?ch=1a74eb54852
+#EXTINF:-1 tvg-id="MTVLive" tvg-name="MTVLive" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/MTVLive.png" group-title="台湾频道🏞️",MTVLive
+https://tv123.cc.cd/live.php?ch=1a644122426
+#EXTINF:-1 tvg-id="MTVLive" tvg-name="MTVLive" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/MTVLive.png" group-title="台湾频道🏞️",MTVLive
+https://tv123.cc.cd/live.php?ch=208ff919852
 #EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯魅力.png" group-title="台湾频道🏞️",博斯魅力
 https://tv123.cc.cd/live.php?ch=8c014847120
 #EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯魅力.png" group-title="台湾频道🏞️",博斯魅力
@@ -13373,6 +13675,10 @@ https://tv123.cc.cd/live.php?ch=1b8170f01527
 https://tv123.cc.cd/live.php?ch=83488d56359
 #EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯魅力.png" group-title="台湾频道🏞️",博斯魅力
 https://tv123.cc.cd/live.php?ch=f0e574bd1518
+#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯魅力.png" group-title="台湾频道🏞️",博斯魅力
+https://tv123.cc.cd/live.php?ch=17a2050b359
+#EXTINF:-1 tvg-id="博斯魅力" tvg-name="博斯魅力" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯魅力.png" group-title="台湾频道🏞️",博斯魅力
+https://tv123.cc.cd/live.php?ch=cba78b141518
 #EXTINF:-1 tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯网球.png" group-title="台湾频道🏞️",博斯网球
 https://tv123.cc.cd/live.php?ch=bfe8f6ce119
 #EXTINF:-1 tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯网球.png" group-title="台湾频道🏞️",博斯网球
@@ -13443,6 +13749,10 @@ https://tv123.cc.cd/live.php?ch=26385e951525
 https://tv123.cc.cd/live.php?ch=e6806c99358
 #EXTINF:-1 tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯网球.png" group-title="台湾频道🏞️",博斯网球
 https://tv123.cc.cd/live.php?ch=3c95bbee1516
+#EXTINF:-1 tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯网球.png" group-title="台湾频道🏞️",博斯网球
+https://tv123.cc.cd/live.php?ch=e9930c59358
+#EXTINF:-1 tvg-id="博斯网球" tvg-name="博斯网球" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯网球.png" group-title="台湾频道🏞️",博斯网球
+https://tv123.cc.cd/live.php?ch=eb5271e81516
 #EXTINF:-1 tvg-id="博斯无限Ⅰ" tvg-name="博斯无限Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯无限Ⅰ.png" group-title="台湾频道🏞️",博斯无限Ⅰ
 https://tv123.cc.cd/live.php?ch=4c2a6ce3847
 #EXTINF:-1 tvg-id="博斯无限Ⅰ" tvg-name="博斯无限Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯无限Ⅰ.png" group-title="台湾频道🏞️",博斯无限Ⅰ
@@ -13479,6 +13789,8 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=489
 https://tv123.cc.cd/live.php?ch=179bcdaf1524
 #EXTINF:-1 tvg-id="博斯无限Ⅰ" tvg-name="博斯无限Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯无限Ⅰ.png" group-title="台湾频道🏞️",博斯无限Ⅰ
 https://tv123.cc.cd/live.php?ch=cc7a24181515
+#EXTINF:-1 tvg-id="博斯无限Ⅰ" tvg-name="博斯无限Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯无限Ⅰ.png" group-title="台湾频道🏞️",博斯无限Ⅰ
+https://tv123.cc.cd/live.php?ch=722f59511515
 #EXTINF:-1 tvg-id="博斯无限Ⅱ" tvg-name="博斯无限Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯无限Ⅱ.png" group-title="台湾频道🏞️",博斯无限Ⅱ
 https://tv123.cc.cd/live.php?ch=723753e4846
 #EXTINF:-1 tvg-id="博斯无限Ⅱ" tvg-name="博斯无限Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯无限Ⅱ.png" group-title="台湾频道🏞️",博斯无限Ⅱ
@@ -13501,6 +13813,8 @@ https://tv123.cc.cd/live.php?ch=0208d1811528
 https://tv123.cc.cd/live.php?ch=71facafc1528
 #EXTINF:-1 tvg-id="博斯无限Ⅱ" tvg-name="博斯无限Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯无限Ⅱ.png" group-title="台湾频道🏞️",博斯无限Ⅱ
 https://tv123.cc.cd/live.php?ch=b413cc261519
+#EXTINF:-1 tvg-id="博斯无限Ⅱ" tvg-name="博斯无限Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯无限Ⅱ.png" group-title="台湾频道🏞️",博斯无限Ⅱ
+https://tv123.cc.cd/live.php?ch=9c806c6b1519
 #EXTINF:-1 tvg-id="博斯运动Ⅰ" tvg-name="博斯运动Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯运动Ⅰ.png" group-title="台湾频道🏞️",博斯运动Ⅰ
 https://tv123.cc.cd/live.php?ch=a49258a3113
 #EXTINF:-1 tvg-id="博斯运动Ⅰ" tvg-name="博斯运动Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯运动Ⅰ.png" group-title="台湾频道🏞️",博斯运动Ⅰ
@@ -13563,6 +13877,10 @@ https://tv123.cc.cd/live.php?ch=0d28e8fa1523
 https://tv123.cc.cd/live.php?ch=ba5af2a3352
 #EXTINF:-1 tvg-id="博斯运动Ⅰ" tvg-name="博斯运动Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯运动Ⅰ.png" group-title="台湾频道🏞️",博斯运动Ⅰ
 https://tv123.cc.cd/live.php?ch=3cf3e5881514
+#EXTINF:-1 tvg-id="博斯运动Ⅰ" tvg-name="博斯运动Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯运动Ⅰ.png" group-title="台湾频道🏞️",博斯运动Ⅰ
+https://tv123.cc.cd/live.php?ch=62bcbffb352
+#EXTINF:-1 tvg-id="博斯运动Ⅰ" tvg-name="博斯运动Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯运动Ⅰ.png" group-title="台湾频道🏞️",博斯运动Ⅰ
+https://tv123.cc.cd/live.php?ch=6b30eefc1514
 #EXTINF:-1 tvg-id="博斯运动Ⅱ" tvg-name="博斯运动Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯运动Ⅱ.png" group-title="台湾频道🏞️",博斯运动Ⅱ
 https://tv123.cc.cd/live.php?ch=64a1a02d850
 #EXTINF:-1 tvg-id="博斯运动Ⅱ" tvg-name="博斯运动Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯运动Ⅱ.png" group-title="台湾频道🏞️",博斯运动Ⅱ
@@ -13597,6 +13915,8 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=495
 https://tv123.cc.cd/live.php?ch=b0f400511526
 #EXTINF:-1 tvg-id="博斯运动Ⅱ" tvg-name="博斯运动Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯运动Ⅱ.png" group-title="台湾频道🏞️",博斯运动Ⅱ
 https://tv123.cc.cd/live.php?ch=513a75dd1517
+#EXTINF:-1 tvg-id="博斯运动Ⅱ" tvg-name="博斯运动Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯运动Ⅱ.png" group-title="台湾频道🏞️",博斯运动Ⅱ
+https://tv123.cc.cd/live.php?ch=cb80ba141517
 #EXTINF:-1 tvg-id="博斯高球Ⅰ" tvg-name="博斯高球Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯高球Ⅰ.png" group-title="台湾频道🏞️",博斯高球Ⅰ
 https://tv123.cc.cd/live.php?ch=7ea068ed117
 #EXTINF:-1 tvg-id="博斯高球Ⅰ" tvg-name="博斯高球Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯高球Ⅰ.png" group-title="台湾频道🏞️",博斯高球Ⅰ
@@ -13651,6 +13971,10 @@ https://tv123.cc.cd/live.php?ch=5b2366411521
 https://tv123.cc.cd/live.php?ch=77a4f13f356
 #EXTINF:-1 tvg-id="博斯高球Ⅰ" tvg-name="博斯高球Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯高球Ⅰ.png" group-title="台湾频道🏞️",博斯高球Ⅰ
 https://tv123.cc.cd/live.php?ch=36030bb01512
+#EXTINF:-1 tvg-id="博斯高球Ⅰ" tvg-name="博斯高球Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯高球Ⅰ.png" group-title="台湾频道🏞️",博斯高球Ⅰ
+https://tv123.cc.cd/live.php?ch=b236f864356
+#EXTINF:-1 tvg-id="博斯高球Ⅰ" tvg-name="博斯高球Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯高球Ⅰ.png" group-title="台湾频道🏞️",博斯高球Ⅰ
+https://tv123.cc.cd/live.php?ch=401bfa4e1512
 #EXTINF:-1 tvg-id="博斯高球Ⅱ" tvg-name="博斯高球Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯高球Ⅱ.png" group-title="台湾频道🏞️",博斯高球Ⅱ
 https://tv123.cc.cd/live.php?ch=6e8f438a851
 #EXTINF:-1 tvg-id="博斯高球Ⅱ" tvg-name="博斯高球Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯高球Ⅱ.png" group-title="台湾频道🏞️",博斯高球Ⅱ
@@ -13693,6 +14017,8 @@ https://ha.msbot.dpdns.org/4gtv_api.php?id=494
 https://tv123.cc.cd/live.php?ch=b64851441522
 #EXTINF:-1 tvg-id="博斯高球Ⅱ" tvg-name="博斯高球Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯高球Ⅱ.png" group-title="台湾频道🏞️",博斯高球Ⅱ
 https://tv123.cc.cd/live.php?ch=1d028e141513
+#EXTINF:-1 tvg-id="博斯高球Ⅱ" tvg-name="博斯高球Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/博斯高球Ⅱ.png" group-title="台湾频道🏞️",博斯高球Ⅱ
+https://tv123.cc.cd/live.php?ch=5123fc711513
 #EXTINF:-1 tvg-id="大爱Ⅰ" tvg-name="大爱Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/大爱Ⅰ.png" group-title="台湾频道🏞️",大爱Ⅰ
 https://tv123.cc.cd/live.php?ch=1d97e6ba254
 #EXTINF:-1 tvg-id="大爱Ⅰ" tvg-name="大爱Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/大爱Ⅰ.png" group-title="台湾频道🏞️",大爱Ⅰ
@@ -13805,6 +14131,8 @@ https://tv123.cc.cd/live.php?ch=b6e4a38a1567
 https://tv123.cc.cd/live.php?ch=ac293c531567
 #EXTINF:-1 tvg-id="大爱Ⅱ" tvg-name="大爱Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/大爱Ⅱ.png" group-title="台湾频道🏞️",大爱Ⅱ
 https://tv123.cc.cd/live.php?ch=d03d19b71558
+#EXTINF:-1 tvg-id="大爱Ⅱ" tvg-name="大爱Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/大爱Ⅱ.png" group-title="台湾频道🏞️",大爱Ⅱ
+https://tv123.cc.cd/live.php?ch=bd7f268e1558
 #EXTINF:-1 tvg-id="好消息Ⅰ" tvg-name="好消息Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅰ.png" group-title="台湾频道🏞️",好消息Ⅰ
 https://tv123.cc.cd/live.php?ch=0c5fb17e256
 #EXTINF:-1 tvg-id="好消息Ⅰ" tvg-name="好消息Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅰ.png" group-title="台湾频道🏞️",好消息Ⅰ
@@ -13847,6 +14175,10 @@ https://tv123.cc.cd/live.php?ch=873ac9a21565
 https://tv123.cc.cd/live.php?ch=b159b110495
 #EXTINF:-1 tvg-id="好消息Ⅰ" tvg-name="好消息Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅰ.png" group-title="台湾频道🏞️",好消息Ⅰ
 https://tv123.cc.cd/live.php?ch=c8682bcf1556
+#EXTINF:-1 tvg-id="好消息Ⅰ" tvg-name="好消息Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅰ.png" group-title="台湾频道🏞️",好消息Ⅰ
+https://tv123.cc.cd/live.php?ch=2229cf50495
+#EXTINF:-1 tvg-id="好消息Ⅰ" tvg-name="好消息Ⅰ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅰ.png" group-title="台湾频道🏞️",好消息Ⅰ
+https://tv123.cc.cd/live.php?ch=d9a0f5d01556
 #EXTINF:-1 tvg-id="好消息Ⅱ" tvg-name="好消息Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅱ.png" group-title="台湾频道🏞️",好消息Ⅱ
 https://tv123.cc.cd/live.php?ch=a3d5b421257
 #EXTINF:-1 tvg-id="好消息Ⅱ" tvg-name="好消息Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅱ.png" group-title="台湾频道🏞️",好消息Ⅱ
@@ -13897,6 +14229,12 @@ https://tv123.cc.cd/live.php?ch=432c34d01566
 https://tv123.cc.cd/live.php?ch=08075f10496
 #EXTINF:-1 tvg-id="好消息Ⅱ" tvg-name="好消息Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅱ.png" group-title="台湾频道🏞️",好消息Ⅱ
 https://tv123.cc.cd/live.php?ch=e3378baf1557
+#EXTINF:-1 tvg-id="好消息Ⅱ" tvg-name="好消息Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅱ.png" group-title="台湾频道🏞️",好消息Ⅱ
+https://tv123.cc.cd/live.php?ch=f8c1ed40496
+#EXTINF:-1 tvg-id="好消息Ⅱ" tvg-name="好消息Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅱ.png" group-title="台湾频道🏞️",好消息Ⅱ
+https://tv123.cc.cd/live.php?ch=3bab5c491557
+#EXTINF:-1 tvg-id="好消息Ⅱ" tvg-name="好消息Ⅱ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/好消息Ⅱ.png" group-title="台湾频道🏞️",好消息Ⅱ
+https://c958c7-ceb9ea-ea3a.kylintv.tv/live/gdtv2_iphone.m3u8
 #EXTINF:-1 tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/亚洲旅游.png" group-title="台湾频道🏞️",亚洲旅游
 https://tv123.cc.cd/live.php?ch=96f9d6b7200
 #EXTINF:-1 tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/亚洲旅游.png" group-title="台湾频道🏞️",亚洲旅游
@@ -13967,6 +14305,10 @@ https://tv123.cc.cd/live.php?ch=5b9dba8b1537
 https://tv123.cc.cd/live.php?ch=8a2dc00d439
 #EXTINF:-1 tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/亚洲旅游.png" group-title="台湾频道🏞️",亚洲旅游
 https://tv123.cc.cd/live.php?ch=7c25d8b81528
+#EXTINF:-1 tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/亚洲旅游.png" group-title="台湾频道🏞️",亚洲旅游
+https://tv123.cc.cd/live.php?ch=c9d2c174439
+#EXTINF:-1 tvg-id="亚洲旅游" tvg-name="亚洲旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/亚洲旅游.png" group-title="台湾频道🏞️",亚洲旅游
+https://tv123.cc.cd/live.php?ch=6acb79561528
 #EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/智林体育.png" group-title="台湾频道🏞️",智林体育
 https://tv123.cc.cd/live.php?ch=7795fc80203
 #EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/智林体育.png" group-title="台湾频道🏞️",智林体育
@@ -14017,6 +14359,10 @@ https://tv123.cc.cd/live.php?ch=7db940cc1530
 https://tv123.cc.cd/live.php?ch=ea62ad52442
 #EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/智林体育.png" group-title="台湾频道🏞️",智林体育
 https://tv123.cc.cd/live.php?ch=43be06671521
+#EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/智林体育.png" group-title="台湾频道🏞️",智林体育
+https://tv123.cc.cd/live.php?ch=172ab415442
+#EXTINF:-1 tvg-id="智林体育" tvg-name="智林体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/智林体育.png" group-title="台湾频道🏞️",智林体育
+https://tv123.cc.cd/live.php?ch=8cca30bb1521
 #EXTINF:-1 tvg-id="阿里郎" tvg-name="阿里郎" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/阿里郎.png" group-title="台湾频道🏞️",阿里郎
 https://tv123.cc.cd/live.php?ch=631ff219219
 #EXTINF:-1 tvg-id="阿里郎" tvg-name="阿里郎" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/阿里郎.png" group-title="台湾频道🏞️",阿里郎
@@ -14069,6 +14415,10 @@ https://tv123.cc.cd/live.php?ch=de50f12a1476
 https://tv123.cc.cd/live.php?ch=332971f2458
 #EXTINF:-1 tvg-id="阿里郎" tvg-name="阿里郎" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/阿里郎.png" group-title="台湾频道🏞️",阿里郎
 https://tv123.cc.cd/live.php?ch=f24e51a61467
+#EXTINF:-1 tvg-id="阿里郎" tvg-name="阿里郎" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/阿里郎.png" group-title="台湾频道🏞️",阿里郎
+https://tv123.cc.cd/live.php?ch=cf14e7b8458
+#EXTINF:-1 tvg-id="阿里郎" tvg-name="阿里郎" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/阿里郎.png" group-title="台湾频道🏞️",阿里郎
+https://tv123.cc.cd/live.php?ch=ecd100741467
 #EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/靖天卡通.png" group-title="台湾频道🏞️",靖天卡通
 https://tv123.cc.cd/live.php?ch=d4e94d29154
 #EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/靖天卡通.png" group-title="台湾频道🏞️",靖天卡通
@@ -14129,6 +14479,10 @@ https://tv123.cc.cd/live.php?ch=ed18abec1486
 https://tv123.cc.cd/live.php?ch=fc726489393
 #EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/靖天卡通.png" group-title="台湾频道🏞️",靖天卡通
 https://tv123.cc.cd/live.php?ch=8c3fd20f1477
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/靖天卡通.png" group-title="台湾频道🏞️",靖天卡通
+https://tv123.cc.cd/live.php?ch=766c964c393
+#EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/靖天卡通.png" group-title="台湾频道🏞️",靖天卡通
+https://tv123.cc.cd/live.php?ch=02d8dcf91477
 #EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/猪哥亮歌厅秀.png" group-title="台湾频道🏞️",猪哥亮歌厅秀
 https://tv123.cc.cd/live.php?ch=3ecc5d28224
 #EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/猪哥亮歌厅秀.png" group-title="台湾频道🏞️",猪哥亮歌厅秀
@@ -14177,6 +14531,10 @@ https://tv123.cc.cd/live.php?ch=937747731506
 https://tv123.cc.cd/live.php?ch=3c1beaa7463
 #EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/猪哥亮歌厅秀.png" group-title="台湾频道🏞️",猪哥亮歌厅秀
 https://tv123.cc.cd/live.php?ch=068ca68c1497
+#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/猪哥亮歌厅秀.png" group-title="台湾频道🏞️",猪哥亮歌厅秀
+https://tv123.cc.cd/live.php?ch=0d0b7b62463
+#EXTINF:-1 tvg-id="猪哥亮歌厅秀" tvg-name="猪哥亮歌厅秀" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/猪哥亮歌厅秀.png" group-title="台湾频道🏞️",猪哥亮歌厅秀
+https://tv123.cc.cd/live.php?ch=442bc3bf1497
 #EXTINF:-1 tvg-id="AsianFood" tvg-name="AsianFood" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/AsianFood.png" group-title="台湾频道🏞️",AsianFood
 https://tv123.cc.cd/live.php?ch=0bc36a991715
 #EXTINF:-1 tvg-id="AsianFood" tvg-name="AsianFood" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/AsianFood.png" group-title="台湾频道🏞️",AsianFood
@@ -14241,6 +14599,8 @@ https://live.lalifeier.eu.org/youtube/nUzOmgx3RvM.m3u8?t=1781652454&key=fe409b28
 https://live.lalifeier.eu.org/youtube/nUzOmgx3RvM.m3u8?t=1781733985&key=40bdd0be8c9b13c60f368ad4eea9f274
 #EXTINF:-1 tvg-id="AsianFood" tvg-name="AsianFood" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/AsianFood.png" group-title="台湾频道🏞️",AsianFood
 https://live.lalifeier.eu.org/youtube/nUzOmgx3RvM.m3u8?t=1781826664&key=4cfc34f5a118654d07cfa1c328841945
+#EXTINF:-1 tvg-id="AsianFood" tvg-name="AsianFood" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/AsianFood.png" group-title="台湾频道🏞️",AsianFood
+https://live.lalifeier.eu.org/youtube/nUzOmgx3RvM.m3u8?t=1781910281&key=9ff2bf0378b4300abe7f7819fcc2eca5
 #EXTINF:-1 tvg-id="HBO电影" tvg-name="HBO电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO电影.png" group-title="台湾频道🏞️",HBO电影
 https://tv123.cc.cd/live.php?ch=d99e1df71708
 #EXTINF:-1 tvg-id="HBO电影" tvg-name="HBO电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO电影.png" group-title="台湾频道🏞️",HBO电影
@@ -14297,6 +14657,8 @@ https://tv123.cc.cd/live.php?ch=cfa5888d257
 https://tv123.cc.cd/live.php?ch=adc6c706257
 #EXTINF:-1 tvg-id="HBO电影" tvg-name="HBO电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO电影.png" group-title="台湾频道🏞️",HBO电影
 https://tv123.cc.cd/live.php?ch=e892243f257
+#EXTINF:-1 tvg-id="HBO电影" tvg-name="HBO电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO电影.png" group-title="台湾频道🏞️",HBO电影
+https://tv123.cc.cd/live.php?ch=16026031257
 #EXTINF:-1 tvg-id="HBO强档巨献" tvg-name="HBO强档巨献" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO强档巨献.png" group-title="台湾频道🏞️",HBO强档巨献
 https://tv123.cc.cd/live.php?ch=ea01fce4482
 #EXTINF:-1 tvg-id="HBO强档巨献" tvg-name="HBO强档巨献" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO强档巨献.png" group-title="台湾频道🏞️",HBO强档巨献
@@ -14339,6 +14701,8 @@ https://tv123.cc.cd/live.php?ch=b2a643ca1151
 https://tv123.cc.cd/live.php?ch=eb64ff3a1151
 #EXTINF:-1 tvg-id="HBO强档巨献" tvg-name="HBO强档巨献" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO强档巨献.png" group-title="台湾频道🏞️",HBO强档巨献
 https://tv123.cc.cd/live.php?ch=d46cbeeb1148
+#EXTINF:-1 tvg-id="HBO强档巨献" tvg-name="HBO强档巨献" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO强档巨献.png" group-title="台湾频道🏞️",HBO强档巨献
+https://tv123.cc.cd/live.php?ch=24c0a4d71148
 #EXTINF:-1 tvg-id="HBO原创巨献" tvg-name="HBO原创巨献" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO原创巨献.png" group-title="台湾频道🏞️",HBO原创巨献
 https://tv123.cc.cd/live.php?ch=759f9eb71709
 #EXTINF:-1 tvg-id="HBO原创巨献" tvg-name="HBO原创巨献" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/HBO原创巨献.png" group-title="台湾频道🏞️",HBO原创巨献
@@ -14517,6 +14881,10 @@ https://tv123.cc.cd/live.php?ch=c77491011472
 https://tv123.cc.cd/live.php?ch=bb14016b427
 #EXTINF:-1 tvg-id="爱尔达宠物运动台" tvg-name="爱尔达宠物运动台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达宠物运动台.png" group-title="台湾频道🏞️",爱尔达宠物运动台
 https://tv123.cc.cd/live.php?ch=5d2ae5f41463
+#EXTINF:-1 tvg-id="爱尔达宠物运动台" tvg-name="爱尔达宠物运动台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达宠物运动台.png" group-title="台湾频道🏞️",爱尔达宠物运动台
+https://tv123.cc.cd/live.php?ch=f16a0568427
+#EXTINF:-1 tvg-id="爱尔达宠物运动台" tvg-name="爱尔达宠物运动台" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达宠物运动台.png" group-title="台湾频道🏞️",爱尔达宠物运动台
+https://tv123.cc.cd/live.php?ch=a0200cb01463
 #EXTINF:-1 tvg-id="爱尔达体育Ⅳ" tvg-name="爱尔达体育Ⅳ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达体育Ⅳ.png" group-title="台湾频道🏞️",爱尔达体育Ⅳ
 https://tv123.cc.cd/live.php?ch=b965d898860
 #EXTINF:-1 tvg-id="爱尔达体育Ⅳ" tvg-name="爱尔达体育Ⅳ" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达体育Ⅳ.png" group-title="台湾频道🏞️",爱尔达体育Ⅳ
@@ -14573,6 +14941,10 @@ https://tv123.cc.cd/live.php?ch=1019863d1542
 https://tv123.cc.cd/live.php?ch=bcc52e84428
 #EXTINF:-1 tvg-id="爱尔达生活旅游" tvg-name="爱尔达生活旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活旅游.png" group-title="台湾频道🏞️",爱尔达生活旅游
 https://tv123.cc.cd/live.php?ch=933a796b1533
+#EXTINF:-1 tvg-id="爱尔达生活旅游" tvg-name="爱尔达生活旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活旅游.png" group-title="台湾频道🏞️",爱尔达生活旅游
+https://tv123.cc.cd/live.php?ch=9045326f428
+#EXTINF:-1 tvg-id="爱尔达生活旅游" tvg-name="爱尔达生活旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活旅游.png" group-title="台湾频道🏞️",爱尔达生活旅游
+https://tv123.cc.cd/live.php?ch=194329141533
 #EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
 https://tv123.cc.cd/live.php?ch=df5b75a8240
 #EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
@@ -14595,6 +14967,8 @@ https://tv123.cc.cd/live.php?ch=490eb9e1479
 https://tv123.cc.cd/live.php?ch=e2313f59479
 #EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
 https://tv123.cc.cd/live.php?ch=1208db3d479
+#EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
+https://tv123.cc.cd/live.php?ch=58a629f1479
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南经视.png" group-title="湖南频道🌏",湖南经视
 https://stream1.freetv.fun/hu-nan-jing-shi-4.m3u8
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南经视.png" group-title="湖南频道🌏",湖南经视
@@ -15729,6 +16103,8 @@ https://live.lalifeier.eu.org/sztv/szds.m3u8?t=1781652454&key=e1a89d41d917d17407
 https://live.lalifeier.eu.org/sztv/szds.m3u8?t=1781733985&key=fb7a8b183ab329e43db154ef08ba464d
 #EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳都市.png" group-title="广东频道🌏",深圳都市
 https://live.lalifeier.eu.org/sztv/szds.m3u8?t=1781826664&key=62d44286e978a5ac0e0b012be19b677f
+#EXTINF:-1 tvg-id="深圳都市" tvg-name="深圳都市" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳都市.png" group-title="广东频道🌏",深圳都市
+https://live.lalifeier.eu.org/sztv/szds.m3u8?t=1781910281&key=2361cb111a2c94d57a0219d69b94e61a
 #EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳电视剧.png" group-title="广东频道🌏",深圳电视剧
 https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1780877797&key=b76f1aff7a157fe30535d9cabaca6d9f
 #EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳电视剧.png" group-title="广东频道🌏",深圳电视剧
@@ -15753,6 +16129,8 @@ https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1781652454&key=77347b42292be4682
 https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1781733985&key=74f4a67526dcc0955d6093b74f4511eb
 #EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳电视剧.png" group-title="广东频道🌏",深圳电视剧
 https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1781826664&key=f5be2a344f8a6e12e41c68f7704153a6
+#EXTINF:-1 tvg-id="深圳电视剧" tvg-name="深圳电视剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳电视剧.png" group-title="广东频道🌏",深圳电视剧
+https://live.lalifeier.eu.org/sztv/szdsj.m3u8?t=1781910281&key=cdf4e695f8a6a598f11fe418281f1382
 #EXTINF:-1 tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳财经生活.png" group-title="广东频道🌏",深圳财经生活
 https://stream1.freetv.fun/shen-zhen-cai-jing-sheng-huo-1.m3u8
 #EXTINF:-1 tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳财经生活.png" group-title="广东频道🌏",深圳财经生活
@@ -15781,6 +16159,8 @@ https://live.lalifeier.eu.org/sztv/szcjsh.m3u8?t=1781652454&key=89ab70325233f8c9
 https://live.lalifeier.eu.org/sztv/szcjsh.m3u8?t=1781733985&key=3f5e77563d1fa5b8b37d4c680fe12ce4
 #EXTINF:-1 tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳财经生活.png" group-title="广东频道🌏",深圳财经生活
 https://live.lalifeier.eu.org/sztv/szcjsh.m3u8?t=1781826664&key=7d775f682d5840ee78674a79b9c1c1f3
+#EXTINF:-1 tvg-id="深圳财经生活" tvg-name="深圳财经生活" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳财经生活.png" group-title="广东频道🌏",深圳财经生活
+https://live.lalifeier.eu.org/sztv/szcjsh.m3u8?t=1781910281&key=0e089fc0249f805caab4f8953b7447e8
 #EXTINF:-1 tvg-id="深圳娱乐" tvg-name="深圳娱乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳娱乐.png" group-title="广东频道🌏",深圳娱乐
 https://live.lalifeier.eu.org/sztv/szyl.m3u8?t=1780960584&key=953182847affb5c75b5b75baf5cdf7b1
 #EXTINF:-1 tvg-id="深圳娱乐" tvg-name="深圳娱乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳娱乐.png" group-title="广东频道🌏",深圳娱乐
@@ -15803,6 +16183,8 @@ https://live.lalifeier.eu.org/sztv/szyl.m3u8?t=1781652454&key=3db0d172ea7cc319b0
 https://live.lalifeier.eu.org/sztv/szyl.m3u8?t=1781733985&key=457fd446f0859392f15afd298a0d87d4
 #EXTINF:-1 tvg-id="深圳娱乐" tvg-name="深圳娱乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳娱乐.png" group-title="广东频道🌏",深圳娱乐
 https://live.lalifeier.eu.org/sztv/szyl.m3u8?t=1781826664&key=145d413d67a7e9adffd2952695aa4c97
+#EXTINF:-1 tvg-id="深圳娱乐" tvg-name="深圳娱乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳娱乐.png" group-title="广东频道🌏",深圳娱乐
+https://live.lalifeier.eu.org/sztv/szyl.m3u8?t=1781910281&key=3283aa7a876d24c62a82edc11e4ae9e9
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/汕头综合.png" group-title="广东频道🌏",汕头综合
 https://stream1.freetv.fun/shan-tou-zong-he-10.ctv
 #EXTINF:-1 tvg-id="汕头综合" tvg-name="汕头综合" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/汕头综合.png" group-title="广东频道🌏",汕头综合
@@ -15891,3 +16273,5 @@ https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1781652454&key=eb7f1865b48a8e7c5d
 https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1781733985&key=ca2cea351e2c9044a28f8f38382e055c
 #EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳少儿.png" group-title="广东频道🌏",深圳少儿
 https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1781826664&key=d807fd2104a782b8594fb53975a3d18d
+#EXTINF:-1 tvg-id="深圳少儿" tvg-name="深圳少儿" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳少儿.png" group-title="广东频道🌏",深圳少儿
+https://live.lalifeier.eu.org/sztv/szse.m3u8?t=1781910281&key=60035c36654a04c3fa2675839348ba92

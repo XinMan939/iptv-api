@@ -1176,6 +1176,11 @@ TVBSäºæ´²,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 çå½çµè§,http://61.216.67.119:1935/lifetv/lifetv.stream/manifest.m3u8
 å¯å¿çµè§,https://5ddce30eb4b55.streamlock.net/wxtv/wxtvnow.stream/playlist.m3u8
+ä¸­å¤©æ°é»,http://173.208.234.146/live/ctinews.m3u8
+ç¾äºçµå½±,http://173.208.234.146/live/mymovie.m3u8
+å¤©æ é¢é,http://173.208.234.146/live/typd.m3u8
+NOWæå½±å°,http://173.208.234.146/live/nowxy.m3u8
+NOWçè°·å°,http://173.208.234.146/live/nowbg.m3u8
 
 å¤ç¨æéæ¸¯æ¾³å°1,#genre#
 å¤å°ä¸­æ,http://cdn6.163189.xyz/163189/fhzw$6163189

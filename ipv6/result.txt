@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-25 13:48:49,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-26 14:10:21,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道🇨🇳,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -3919,6 +3919,8 @@ TVBPlus,https://tv123.cc.cd/live.php?ch=8ebe5ed0271
 澳视资讯,http://tv123.cc.cd/live.php?ch=1656&sid=b5c3b6895beb3b1222550b58839178dd&exp=1784899136&sig=4a4937ecaae5e059f540e4d375421dc3097aec855168f0e4d3308fecb53fdfdf
 澳视资讯,http://tv123.cc.cd/live.php?ch=1907&sid=0d37d57839dde20d721b28f68c7c1fea&exp=1784991450&sig=7c6552e6c785050f644f7ea9e238d444aaf8260e8784019234065afb68fc305f
 澳视资讯,http://tv123.cc.cd/live.php?ch=1803&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=2325f03b226292e7f722d8c56d777232e0fb8d1e622d244803de212f9d58a1b8
+澳视资讯,http://tv123.cc.cd/live.php?ch=1582&sid=a8f2ce871d2fdb7ee6ce639f4942d929&exp=1785079459&sig=770aa1685a72d0f9b3d876ae3a1895a8dad2eb862b674093453bd713d55d2767
+澳视资讯,http://tv123.cc.cd/live.php?ch=1582&sid=b041541c01675955d83c00ce96ad3e9c&exp=1785072173&sig=49e0c19ab20cf9d2b11908afba185b686aa13ebcd6c86989d5518516c3ac81d3
 澳视综艺,https://tv123.cc.cd/live.php?ch=21aebf35112
 澳视综艺,https://tv123.cc.cd/live.php?ch=76ed9252296
 澳视综艺,https://tv123.cc.cd/live.php?ch=aac16de42295
@@ -4437,6 +4439,8 @@ RTHK34,http://tv123.cc.cd/live.php?ch=1651&sid=731cb1de0f68994de04f7f26a1fdff7d&
 RTHK34,http://tv123.cc.cd/live.php?ch=1651&sid=b5c3b6895beb3b1222550b58839178dd&exp=1784899136&sig=59ae1716133708ac6da08bdcf96abcee8c908f3f037dc51844bea8913ea1f24c
 RTHK34,http://tv123.cc.cd/live.php?ch=1902&sid=0d37d57839dde20d721b28f68c7c1fea&exp=1784991450&sig=000095db6bf89fed0f4a3d6eb3071a8b0be7cf18fe57c4e0e93fd26f310fe301
 RTHK34,http://tv123.cc.cd/live.php?ch=1798&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=cfc262d6dbf28c63d25d7a1e83aedeec0e04129d10cf750652f04c37afd15433
+RTHK34,http://tv123.cc.cd/live.php?ch=1577&sid=a8f2ce871d2fdb7ee6ce639f4942d929&exp=1785079459&sig=4973a208c0abe6015b46f18d1eaf4cc34581b0604db7116baddc121f4e0cfb38
+RTHK34,http://tv123.cc.cd/live.php?ch=1577&sid=b041541c01675955d83c00ce96ad3e9c&exp=1785072173&sig=a098f40f514850b109d6b5f71b689cb279114ae04ca68176ecb024330014c560
 RTHK35,https://tv123.cc.cd/live.php?ch=3f1c94ca106
 RTHK35,https://tv123.cc.cd/live.php?ch=b28b8f0f106
 RTHK35,https://tv123.cc.cd/live.php?ch=ca46a3ee106
@@ -4473,6 +4477,8 @@ RTHK35,http://tv123.cc.cd/live.php?ch=1652&sid=731cb1de0f68994de04f7f26a1fdff7d&
 RTHK35,http://tv123.cc.cd/live.php?ch=1652&sid=b5c3b6895beb3b1222550b58839178dd&exp=1784899136&sig=227fc4077f89a0d5d965dc4b962efff70ffab7e94c40d21589a4317573f3009a
 RTHK35,http://tv123.cc.cd/live.php?ch=1903&sid=0d37d57839dde20d721b28f68c7c1fea&exp=1784991450&sig=83207328b7e8b9328c26c7aba8a23ce3a42b4cf068bcb551a10849a87556f79e
 RTHK35,http://tv123.cc.cd/live.php?ch=1799&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=d18053edcd20e33c0d93f4b4aca77b3a3533209b4c72256304c8caa4081b58d5
+RTHK35,http://tv123.cc.cd/live.php?ch=1578&sid=a8f2ce871d2fdb7ee6ce639f4942d929&exp=1785079459&sig=1be7165caddd24f630ff02b7faff2b7b1f55aff41d1d8eb8789df779f955ff37
+RTHK35,http://tv123.cc.cd/live.php?ch=1578&sid=b041541c01675955d83c00ce96ad3e9c&exp=1785072173&sig=0a30c4890598547aed7486d3d0a15a9096e627708a39b76b567034d73cc96ec9
 Now星影,https://tv123.cc.cd/live.php?ch=c70ac3d2916
 Now星影,https://tv123.cc.cd/live.php?ch=5e7b44fc916
 Now星影,https://tv123.cc.cd/live.php?ch=dd66a82b1564
@@ -4502,6 +4508,8 @@ Now星影,http://tv123.cc.cd/live.php?ch=1415&sid=0d37d57839dde20d721b28f68c7c1f
 Now星影,http://tv123.cc.cd/live.php?ch=148&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=a7252879aefebd9fe5bc720aef9a372180b8a70c2ba99d593f4f06bd81c2e462
 Now星影,http://tv123.cc.cd/live.php?ch=151&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=6b482178751de8756d6c20dbe8a4b7f1c0e1ce9c40063a49e730f02c573f2a18
 Now星影,http://tv123.cc.cd/live.php?ch=1311&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=fa462a3ad741f5a87c0eaeaef1b5d827b5409513a848737caa3413fdd667138a
+Now星影,http://tv123.cc.cd/live.php?ch=1082&sid=a8f2ce871d2fdb7ee6ce639f4942d929&exp=1785079459&sig=f74dd32604970926842e594eaefd8983ce10cc8ffe4e2cded13e14c2b0018a99
+Now星影,http://tv123.cc.cd/live.php?ch=1082&sid=b041541c01675955d83c00ce96ad3e9c&exp=1785072173&sig=67cabac60a9576ba34aee62c5a9b068547c32f3baf123998a0d9f6665cf3a7a1
 Now爆谷,https://tv123.cc.cd/live.php?ch=6bc2ac70914
 Now爆谷,https://tv123.cc.cd/live.php?ch=23866410914
 Now爆谷,https://tv123.cc.cd/live.php?ch=9b7208e61562
@@ -4534,6 +4542,8 @@ Now爆谷,http://tv123.cc.cd/live.php?ch=1416&sid=0d37d57839dde20d721b28f68c7c1f
 Now爆谷,http://tv123.cc.cd/live.php?ch=149&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=06cfc7cbb0560a518f921568c1abe805f0ca22f09463234cb18f247a983c5aba
 Now爆谷,http://tv123.cc.cd/live.php?ch=152&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=90292b10e70f5caa860a215c9e151f01c3ca30eecd74bf83875d2005b548d0d0
 Now爆谷,http://tv123.cc.cd/live.php?ch=1312&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=164be299428cdd8e50ba07d8ca7942ff4c549d02ac8e410192c373626ba54451
+Now爆谷,http://tv123.cc.cd/live.php?ch=1083&sid=a8f2ce871d2fdb7ee6ce639f4942d929&exp=1785079459&sig=9473c0ade5c4f31143f7b387649f9dc341619a8702f1eaced620c6e0952a274f
+Now爆谷,http://tv123.cc.cd/live.php?ch=1083&sid=b041541c01675955d83c00ce96ad3e9c&exp=1785072173&sig=cafcba569623693b49dcdb0edf64d29c66b560eaae2313d96fc062d3ff7abaa6
 PopC,https://tv123.cc.cd/live.php?ch=c2bd6f40918
 PopC,https://tv123.cc.cd/live.php?ch=00f6b3d5918
 PopC,https://tv123.cc.cd/live.php?ch=c05f88a01566
@@ -4833,6 +4843,8 @@ ZooMoo,http://tv123.cc.cd/live.php?ch=1369&sid=0d37d57839dde20d721b28f68c7c1fea&
 澳视葡文,http://tv123.cc.cd/live.php?ch=1654&sid=b5c3b6895beb3b1222550b58839178dd&exp=1784899136&sig=16eb178682649dddb476349a6190f5821671d206047598c8c261805a800adcec
 澳视葡文,http://tv123.cc.cd/live.php?ch=1905&sid=0d37d57839dde20d721b28f68c7c1fea&exp=1784991450&sig=209c02ff56aace0bfb04d25b4465b53e6b234bad1e2e8bad5d1e54dcce3552ec
 澳视葡文,http://tv123.cc.cd/live.php?ch=1801&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=1efe2d7dc0d7252a061f58ffd30a5e83900e0d2b3582f5376ca0c3a97657ae60
+澳视葡文,http://tv123.cc.cd/live.php?ch=1580&sid=a8f2ce871d2fdb7ee6ce639f4942d929&exp=1785079459&sig=e561a20c28c01058926809ee3d46746b9c1f656a4f012043299e6a290c22a998
+澳视葡文,http://tv123.cc.cd/live.php?ch=1580&sid=b041541c01675955d83c00ce96ad3e9c&exp=1785072173&sig=88513dbb79873c3183d75062abcdee06db6c95c84ae75320fcc867fc2ae66e48
 
 台湾频道🏞️,#genre#
 TVBS,https://tv123.cc.cd/live.php?ch=04a02446141
@@ -7535,6 +7547,7 @@ Catchplay电影,http://tv123.cc.cd/live.php?ch=414&sid=b5c3b6895beb3b1222550b588
 Catchplay电影,http://tv123.cc.cd/live.php?ch=551&sid=0d37d57839dde20d721b28f68c7c1fea&exp=1784991450&sig=9c8b0ca9a760d7d036d153f9b8197f110483e98c29789a789ad36437a57f7fe9
 Catchplay电影,http://tv123.cc.cd/live.php?ch=1952&sid=0d37d57839dde20d721b28f68c7c1fea&exp=1784991450&sig=0d1ef0d763961b203c489e22e0414aa81618a4fe6b5bc6311ed06d7434969c5e
 Catchplay电影,http://tv123.cc.cd/live.php?ch=561&sid=dc31d0f4e8444e758b33d7da1108b087&exp=1784985590&sig=3ef714d845fa66015755f2def027a3d68e002ea710642bd3530dfebc795bbb47
+Catchplay电影,http://tv123.cc.cd/live.php?ch=1627&sid=a8f2ce871d2fdb7ee6ce639f4942d929&exp=1785079459&sig=b0a0bf72420f77e9a14ce6f8cd8db60a6974d29d783303d8f160905abd23902a
 AMC,https://tv123.cc.cd/live.php?ch=c90e82fe205
 AMC,https://tv123.cc.cd/live.php?ch=2681a4d8837
 AMC,https://tv123.cc.cd/live.php?ch=a41b5de01167

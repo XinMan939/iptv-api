@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-07-30 13:25:10,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-07-31 13:49:23,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道🇨🇳,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1445,6 +1445,8 @@ CETV4,https://tv123.cc.cd/live.php?ch=46b0cc56104
 黑龙江卫视,http://hlszymgsplive.miguvideo.com:8080/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260703200220&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=171.8.79.254&SecurityKey=20260703200220&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=db5ec9b4b045a410bd3ad0ee620f3452&sv=10004&ct=android
 黑龙江卫视,http://mgsp-ws2.live.miguvideo.com:8088/migu/kailu/nxjj/51/20251225/index.m3u8?msisdn=2be6b2ec9fcf10d2c2457e2c710e172c&mdspid=&spid=600697&netType=0&sid=5910022409&pid=2028597139&timestamp=20260704040230&Channel_ID=0116_2600034600-99000-201600010010028&ProgramID=738906901&ParentNodeID=-99&assertID=5910022409&client_ip=171.8.79.254&SecurityKey=20260704040230&promotionId=&mvid=5900004349&mcid=500020&playurlVersion=WX-A1-9.6.1.6-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&encrypt=832bd18c51d6ccb9c123bc2184e46698&sv=10004&ct=android
 黑龙江卫视,https://iptv.catvod.com/catvod.php?id=hljws
+黑龙江卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wsheilongjiang
+黑龙江卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsheilongjiang
 安徽卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226943/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0QmKQ_slRCwvVVUUfxPVbw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226391
@@ -1624,6 +1626,7 @@ CETV4,https://tv123.cc.cd/live.php?ch=46b0cc56104
 甘肃卫视,http://[2409:8c02:21c:60::2b]/live.rxip.sc96655.com/live/gsws_4000.m3u8
 甘肃卫视,http://[2409:8087:3428:20:500::100f]:6610/PLTV/88888888/224/3221225845/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
 甘肃卫视,http://[2409:8087:3428:20:500::1009]:6610/PLTV/88888888/224/3221225845/index.m3u8?servicetype=1&IASHttpSessionId=RR423820220409134714119178
+甘肃卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsgansu
 广西卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227010/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EkAhb-89sxdm9fz6-heXCuw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 广西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226549/index.m3u8
 广西卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226549
@@ -1647,6 +1650,8 @@ CETV4,https://tv123.cc.cd/live.php?ch=46b0cc56104
 广西卫视,https://6ea6f0-f20a1b-d61f.kylintv.tv/live/guangxitv_iphone.m3u8
 广西卫视,https://85e7-724c-30ec-0b74.kylintv.tv/live/guangxitv_iphone.m3u8
 广西卫视,https://iptv.catvod.com/catvod.php?id=gxws
+广西卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wsguangxi
+广西卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsguangxi
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
@@ -1979,6 +1984,7 @@ CETV4,https://tv123.cc.cd/live.php?ch=46b0cc56104
 内蒙古卫视,https://iptv.catvod.com/catvod.php?id=nmws
 内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws
 内蒙古卫视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+内蒙古卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsneimenggu
 宁夏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
@@ -2082,6 +2088,8 @@ CETV4,https://tv123.cc.cd/live.php?ch=46b0cc56104
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-6.php
 山东卫视,https://iptv.catvod.com/catvod.php?id=sdws
 山东卫视,https://live.chinacert.cftest5.cn/zgst/live/shandong4k
+山东卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wsshandong
+山东卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsshandong
 山西卫视,https://live.chinacert.cftest5.cn/zgst/live/shanxi
 山西卫视,https://live.lalifeier.eu.org/sxrtv/sxws.m3u8?t=1780877797&key=4b4fa78b4a48a029b849cce2f37110d9
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
@@ -2256,6 +2264,7 @@ CETV4,https://tv123.cc.cd/live.php?ch=46b0cc56104
 新疆卫视,https://iptv.catvod.com/catvod.php?id=xjws
 新疆卫视,http://z.b.bkpcp.top/m.php?id=xjws
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
+新疆卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsxinjiang
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
 云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
@@ -2295,6 +2304,7 @@ CETV4,https://tv123.cc.cd/live.php?ch=46b0cc56104
 云南卫视,https://live.lalifeier.eu.org/yntv/ynws.m3u8?t=1782864895&key=1607faad357cda565933dd9cc42b99e9
 云南卫视,https://iptv.catvod.com/catvod.php?id=ynws
 云南卫视,http://z.b.bkpcp.top/m.php?id=ynws
+云南卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wsyunnan
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
 三沙卫视,https://stream1.freetv.fun/2476872184d56573ae915237d8e3c990ded214446351f568b57889cbf63da2e8.m3u8
 三沙卫视,http://[2409:8087:2001:20:2800:0:df6e:eb21]:80/ott.mobaibox.com/PLTV/4/224/3221228626/index.m3u8
@@ -2361,6 +2371,8 @@ CETV4,https://tv123.cc.cd/live.php?ch=46b0cc56104
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&line=4
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&line=2
 天津卫视,https://t.freetv.fun/live/tian-jin-wei-shi-12.m3u8
+天津卫视,http://docker.digital8.top/html/V4.php?access_token=DY0123_SPV4_471051813_V5reC&id=L02_wstianjing
+天津卫视,http://docker.digital8.top/html/V4YD.php?access_token=DY0123_SPV4_471051813_V5reC&id=wstianjing
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=bad0a45eea94649f2e7f1b35e1d98d034b874a02984a76abb21e4537dee28f974e6da241dc7705109722be71c8b1302302b51cd4cb06c69ca55fdcf7279d415e0a0fce7c492b6842956ab34fcc
 大湾区卫视,https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8
@@ -4577,6 +4589,8 @@ PopC,http://tv123.cc.cd/live.php?ch=1825&sid=4af27eb063c424418ddc51450f7a9494&ex
 PopC,http://tv123.cc.cd/live.php?ch=1825&sid=bb7659914d89e990cb4f68e800d32580&exp=1785331038&sig=01db8751cc11a1297514220894ec1047549fcb8e2507ed2d5a4f7c81e6b4c78a
 PopC,http://tv123.cc.cd/live.php?ch=1851&sid=c31a2f33556e707dbec4d31f1fa2f457&exp=1785422577&sig=170ef390be6b3e0abef0636e922db424eddfe1c410102ce1660a9964cb2deb1f
 PopC,http://tv123.cc.cd/live.php?ch=1851&sid=3d19c1b0f91d1f0e58b0fc3e1b36c80c&exp=1785417018&sig=681ea0a646088c47f38d19ecc03d0a925ecb79548148125792b5c72b8d5238f1
+PopC,http://tv123.cc.cd/live.php?ch=1958&sid=ca63572c27b0ca5f5f50ffdc1c51562b&exp=1785511458&sig=eed64dc44c3989c92759e927a47cf8e495e3d42be3b054963a7c3a61fdd4fc41
+PopC,http://tv123.cc.cd/live.php?ch=1956&sid=49b65dd46441aff00a5cde02c350ef5d&exp=1785504182&sig=8dac0223cda9e7491308d1ac8daee20742f4ceb2da9db7a46b843882b10d91ab
 天映频道,https://tv123.cc.cd/live.php?ch=45bb4adb310
 天映频道,https://tv123.cc.cd/live.php?ch=cd45a6b61788
 天映频道,https://tv123.cc.cd/live.php?ch=151bfb1c2001
@@ -4769,6 +4783,8 @@ Thrill,http://tv123.cc.cd/live.php?ch=1841&sid=c31a2f33556e707dbec4d31f1fa2f457&
 戏曲台,http://tv123.cc.cd/live.php?ch=1819&sid=bb7659914d89e990cb4f68e800d32580&exp=1785331038&sig=5c839020f46324c7aa6476892324fc58c0000076a57e40466caf10eaf2144dc9
 戏曲台,http://tv123.cc.cd/live.php?ch=1845&sid=c31a2f33556e707dbec4d31f1fa2f457&exp=1785422577&sig=37546300a650fb0219132c162c7142e3a98de48bf114c58af4c1466a8fb76515
 戏曲台,http://tv123.cc.cd/live.php?ch=1845&sid=3d19c1b0f91d1f0e58b0fc3e1b36c80c&exp=1785417018&sig=9bcccaf48d37dfd9132480de8af084fe2f7a7dff15c11804fcb55a91b9c2ae5d
+戏曲台,http://tv123.cc.cd/live.php?ch=1952&sid=ca63572c27b0ca5f5f50ffdc1c51562b&exp=1785511458&sig=fae6992adf239d063d548cbdb7bc0f3fb08f99c4cbce1a7935de0dbff7a603a4
+戏曲台,http://tv123.cc.cd/live.php?ch=1950&sid=49b65dd46441aff00a5cde02c350ef5d&exp=1785504182&sig=fa6ac9845316e921a2f32c0a2017267d795bcb987cff0b1e7142c44b20c13cd9
 黄金华剧台,https://tv123.cc.cd/live.php?ch=35aa5cb8937
 黄金华剧台,https://tv123.cc.cd/live.php?ch=8f7bc2e72343
 黄金华剧台,https://cdn10.163189.xyz/163189/hjhjt/
@@ -4859,6 +4875,8 @@ ZooMoo,http://tv123.cc.cd/live.php?ch=1818&sid=4af27eb063c424418ddc51450f7a9494&
 ZooMoo,http://tv123.cc.cd/live.php?ch=1818&sid=bb7659914d89e990cb4f68e800d32580&exp=1785331038&sig=c0ce0a33a26dffb30132c9e787c80351660f98dc6d6a3244bfdfa4ded019e67f
 ZooMoo,http://tv123.cc.cd/live.php?ch=1844&sid=c31a2f33556e707dbec4d31f1fa2f457&exp=1785422577&sig=8eb58360d20a7c2dd39972811bff8878c3e7c84e2e445fdc526d853154d6b662
 ZooMoo,http://tv123.cc.cd/live.php?ch=1844&sid=3d19c1b0f91d1f0e58b0fc3e1b36c80c&exp=1785417018&sig=eafaea1da6575326ba4146db771dd5b79fb5fd1a5baf204e2c1163b73399d187
+ZooMoo,http://tv123.cc.cd/live.php?ch=1951&sid=ca63572c27b0ca5f5f50ffdc1c51562b&exp=1785511458&sig=a9f51f1ffe305e1388f7f22059177f6a396d9e41d522775ec44a1ede7c5cde34
+ZooMoo,http://tv123.cc.cd/live.php?ch=1949&sid=49b65dd46441aff00a5cde02c350ef5d&exp=1785504182&sig=40586d3188dd369f47275fa44c31d12c4186b33f2b3bac56a506365c21891c9c
 澳视葡文,https://tv123.cc.cd/live.php?ch=c5d7ccc4108
 澳视葡文,https://tv123.cc.cd/live.php?ch=6586b003108
 澳视葡文,https://tv123.cc.cd/live.php?ch=81039794108
@@ -7621,6 +7639,9 @@ Catchplay电影,http://tv123.cc.cd/live.php?ch=551&sid=bb7659914d89e990cb4f68e80
 Catchplay电影,http://tv123.cc.cd/live.php?ch=439&sid=c31a2f33556e707dbec4d31f1fa2f457&exp=1785422577&sig=5de523e374382c200d0152435c3cc2e96e85a77b036e52d8756bb9021386f162
 Catchplay电影,http://tv123.cc.cd/live.php?ch=1962&sid=c31a2f33556e707dbec4d31f1fa2f457&exp=1785422577&sig=0e737f631bc498bca06ce4140cec458ad54f9efa281274be898b0c92d5dfb547
 Catchplay电影,http://tv123.cc.cd/live.php?ch=500&sid=3d19c1b0f91d1f0e58b0fc3e1b36c80c&exp=1785417018&sig=ee9d6f9b5a3f414d225628c3d1455760a5a272b000f61689038933ad1c5ea322
+Catchplay电影,http://tv123.cc.cd/live.php?ch=621&sid=ca63572c27b0ca5f5f50ffdc1c51562b&exp=1785511458&sig=862d56cf85239e2253868f0b2469a22e50e3e6d9e1e1ad6e7417c5cc11ea4f4c
+Catchplay电影,http://tv123.cc.cd/live.php?ch=2069&sid=ca63572c27b0ca5f5f50ffdc1c51562b&exp=1785511458&sig=772deb3598c8c32e37cd13debe53c015b5d8b81a521e13ea85428b66e6ff3033
+Catchplay电影,http://tv123.cc.cd/live.php?ch=415&sid=49b65dd46441aff00a5cde02c350ef5d&exp=1785504182&sig=e0415059a96e4b4d3a4dfe3de8284ed5fc52386c2e2b6b1881f1f2cd6c0f820a
 AMC,https://tv123.cc.cd/live.php?ch=c90e82fe205
 AMC,https://tv123.cc.cd/live.php?ch=2681a4d8837
 AMC,https://tv123.cc.cd/live.php?ch=a41b5de01167

@@ -1,4 +1,4 @@
-name: 清除cache缓存
+name: 娓呴櫎cache缂撳瓨
 
 on:
   schedule:
@@ -15,18 +15,17 @@ jobs:
         run: |
           if [ -f output/data/cache.gz ]; then
             rm -v output/data/cache.gz
+            echo "DELETED=true" >> $GITHUB_ENV
           else
-            echo "cache.gz not found"
+            echo "cache.gz not found, skip"
+            echo "DELETED=false" >> $GITHUB_ENV
           fi
 
       - name: Commit and push
+        if: env.DELETED == 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add output/data/cache.gz
-          if git diff --cached --quiet; then
-            echo "No changes"
-          else
-            git commit -m "chore: 自动清除cache缓存"
-            git push
-          fi
+          git commit -m "chore: 鑷姩娓呴櫎cache缂撳瓨"
+          git push

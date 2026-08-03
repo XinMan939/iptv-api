@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-08-02 13:41:00,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-08-03 13:52:54,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道🇨🇳,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -4599,6 +4599,8 @@ PopC,http://tv123.cc.cd/live.php?ch=1399&sid=3999fcad93e963a1b15d8d0fbc0322e8&ex
 PopC,http://tv123.cc.cd/live.php?ch=1747&sid=26c49b0a429dd9ebecc1f6a4e10f5d14&exp=1785590651&sig=33d15269e96a69e8b659cf5508885f09ce4861efbc860c89c96330669efa80ae
 PopC,http://tv123.cc.cd/live.php?ch=1961&sid=594ba5d50ae5b378b1c6c61cb7624276&exp=1785684149&sig=8d20e8728c67406ee3049b33d56aea150ac05a18fc3bd431a5f73af594ef99d2
 PopC,http://tv123.cc.cd/live.php?ch=1961&sid=c8f87ff6cba7120dd55893702fea2854&exp=1785676923&sig=624875efbc8f77d9336e13c98eba89084c72470cd968fe7ae66a1c1e92086576
+PopC,http://tv123.cc.cd/live.php?ch=1927&sid=a2bdd1be424894deff077881d85af6fa&exp=1785770678&sig=76678b3fe7848c9b90304824a1d28a63a7cb6e53f7a60a837433c77668313c27
+PopC,http://tv123.cc.cd/live.php?ch=1927&sid=a902625c6d2358acfc2a20e6beb1ec6f&exp=1785763354&sig=4d3e111f62c066baa57157a3523424335d39af1913f3e3fc0b4ba660853d5acf
 天映频道,https://tv123.cc.cd/live.php?ch=45bb4adb310
 天映频道,https://tv123.cc.cd/live.php?ch=cd45a6b61788
 天映频道,https://tv123.cc.cd/live.php?ch=151bfb1c2001
@@ -4797,6 +4799,8 @@ Thrill,http://tv123.cc.cd/live.php?ch=1841&sid=c31a2f33556e707dbec4d31f1fa2f457&
 戏曲台,http://tv123.cc.cd/live.php?ch=1741&sid=26c49b0a429dd9ebecc1f6a4e10f5d14&exp=1785590651&sig=2fdc33eb75cbbb84b29e25daaffc971cc887121aa77eaf9be31a604f9aee7ff7
 戏曲台,http://tv123.cc.cd/live.php?ch=1955&sid=594ba5d50ae5b378b1c6c61cb7624276&exp=1785684149&sig=34c2e26e083511f9c2b3bbedb769f5dd185c553641223225d5d0c9812d44dc16
 戏曲台,http://tv123.cc.cd/live.php?ch=1955&sid=c8f87ff6cba7120dd55893702fea2854&exp=1785676923&sig=d054162cd57dca3b9948bcc8e985f6f31755d1e2ba49014221d88ccb058b9f5e
+戏曲台,http://tv123.cc.cd/live.php?ch=1921&sid=a2bdd1be424894deff077881d85af6fa&exp=1785770678&sig=303d4b8a3fc843a6e303af8c1ade73d1f085fd3ec4e96958e45ba3eb44163ed2
+戏曲台,http://tv123.cc.cd/live.php?ch=1921&sid=a902625c6d2358acfc2a20e6beb1ec6f&exp=1785763354&sig=24ef107a244bebe38f1e5f309ca7cd490a0eb5392cd0f89ac9ea64b1773c6f66
 黄金华剧台,https://tv123.cc.cd/live.php?ch=35aa5cb8937
 黄金华剧台,https://tv123.cc.cd/live.php?ch=8f7bc2e72343
 黄金华剧台,https://cdn10.163189.xyz/163189/hjhjt/
@@ -4893,6 +4897,8 @@ ZooMoo,http://tv123.cc.cd/live.php?ch=1392&sid=3999fcad93e963a1b15d8d0fbc0322e8&
 ZooMoo,http://tv123.cc.cd/live.php?ch=1740&sid=26c49b0a429dd9ebecc1f6a4e10f5d14&exp=1785590651&sig=885e4676a23cda2ff97defa2e6d8011a61260780651c2076ec9186e823c26c96
 ZooMoo,http://tv123.cc.cd/live.php?ch=1954&sid=594ba5d50ae5b378b1c6c61cb7624276&exp=1785684149&sig=336ead65b4df4e70243e0a3390be9f932d747ddc01781d9b2e3ddd93a40f0536
 ZooMoo,http://tv123.cc.cd/live.php?ch=1954&sid=c8f87ff6cba7120dd55893702fea2854&exp=1785676923&sig=b0aa88d27248de340dd406c89de73b4a685254480f905706b6d385d3339ae70c
+ZooMoo,http://tv123.cc.cd/live.php?ch=1920&sid=a2bdd1be424894deff077881d85af6fa&exp=1785770678&sig=98191b041abb8f905df8674ba4fe43df72896e5d2869e16466616bc200937bff
+ZooMoo,http://tv123.cc.cd/live.php?ch=1920&sid=a902625c6d2358acfc2a20e6beb1ec6f&exp=1785763354&sig=8982e04200423493d78db2663c9015f6946dc5e6fb78a1311f4693379740e797
 澳视葡文,https://tv123.cc.cd/live.php?ch=c5d7ccc4108
 澳视葡文,https://tv123.cc.cd/live.php?ch=6586b003108
 澳视葡文,https://tv123.cc.cd/live.php?ch=81039794108
@@ -7663,6 +7669,9 @@ Catchplay电影,http://tv123.cc.cd/live.php?ch=471&sid=26c49b0a429dd9ebecc1f6a4e
 Catchplay电影,http://tv123.cc.cd/live.php?ch=624&sid=594ba5d50ae5b378b1c6c61cb7624276&exp=1785684149&sig=9e976e00aba4b18bb6233464842fc966813c0999f5be741f6c427bb4b0e469af
 Catchplay电影,http://tv123.cc.cd/live.php?ch=2072&sid=594ba5d50ae5b378b1c6c61cb7624276&exp=1785684149&sig=9cee5583b76075557c387d47bc95e825e115003878de16447b109e1f4ff58406
 Catchplay电影,http://tv123.cc.cd/live.php?ch=624&sid=c8f87ff6cba7120dd55893702fea2854&exp=1785676923&sig=283bfa1dda5d58ed0c9c3812c721094dc6de1a82be88c23c488e6d6c270d3657
+Catchplay电影,http://tv123.cc.cd/live.php?ch=590&sid=a2bdd1be424894deff077881d85af6fa&exp=1785770678&sig=6df99f9452903a4e4c7b18bb158d06a641746c667f06fd056070de3a81f66e6e
+Catchplay电影,http://tv123.cc.cd/live.php?ch=2038&sid=a2bdd1be424894deff077881d85af6fa&exp=1785770678&sig=6e94647a891bad39f41f9a1520444c567c90a63f1022418d6e1422dbcaaaecae
+Catchplay电影,http://tv123.cc.cd/live.php?ch=590&sid=a902625c6d2358acfc2a20e6beb1ec6f&exp=1785763354&sig=54d6b39f91fffb2bbd4ca5abb844649f1a30a59c444bc135a18bf2e7ea3ebe4e
 AMC,https://tv123.cc.cd/live.php?ch=c90e82fe205
 AMC,https://tv123.cc.cd/live.php?ch=2681a4d8837
 AMC,https://tv123.cc.cd/live.php?ch=a41b5de01167

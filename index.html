@@ -1,0 +1,799 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<title>记账工作台</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+:root {
+  --bg: #f5f5f7;
+  --card: #fff;
+  --text: #1d1d1f;
+  --sub: #86868b;
+  --accent: #0071e3;
+  --danger: #ff3b30;
+  --green: #34c759;
+  --orange: #ff9500;
+  --border: #e5e5ea;
+  --radius: 14px;
+  --safe-bottom: env(safe-area-inset-bottom, 16px);
+}
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  padding-bottom: calc(80px + var(--safe-bottom));
+  -webkit-font-smoothing: antialiased;
+}
+.header {
+  padding: 16px 20px 12px;
+  font-size: 28px;
+  font-weight: 700;
+  letter-spacing: -0.5px;
+  position: sticky;
+  top: 0;
+  background: var(--bg);
+  z-index: 10;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+}
+.header .month { font-size: 15px; color: var(--sub); font-weight: 500; }
+.card {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 18px;
+  margin: 0 16px 12px;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+}
+.card-title {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--sub);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  margin-bottom: 10px;
+}
+/* Quick Entry Bar */
+.quick-bar {
+  position: fixed;
+  bottom: calc(var(--safe-bottom) + 8px);
+  left: 16px;
+  right: 16px;
+  background: var(--card);
+  border-radius: 28px;
+  padding: 10px 10px 10px 18px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.1);
+  z-index: 100;
+}
+.quick-bar input {
+  flex: 1;
+  border: none;
+  font-size: 16px;
+  outline: none;
+  background: transparent;
+  color: var(--text);
+}
+.quick-bar input::placeholder { color: #c7c7cc; }
+.quick-bar .btn-mic {
+  width: 40px; height: 40px;
+  border-radius: 50%;
+  border: 1.5px solid var(--border);
+  background: var(--bg);
+  font-size: 18px;
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  transition: all 0.2s;
+}
+.quick-bar .btn-mic:active, .quick-bar .btn-mic.listening { background: #ffebee; border-color: #ff3b30; }
+.quick-bar .btn-add {
+  height: 40px;
+  padding: 0 22px;
+  border-radius: 24px;
+  border: none;
+  background: var(--accent);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.quick-bar .btn-add:active { opacity: 0.8; }
+/* Dashboard */
+.dash-summary {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 10px;
+  margin: 0 16px 12px;
+}
+.dash-stat {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 16px;
+}
+.dash-stat .label { font-size: 12px; color: var(--sub); margin-bottom: 4px; }
+.dash-stat .value { font-size: 28px; font-weight: 700; letter-spacing: -1px; }
+.dash-stat .value.income { color: var(--green); }
+.dash-stat .value.expense { color: var(--danger); }
+.bar-wrap { margin-top: 8px; }
+.bar-label { display: flex; justify-content: space-between; font-size: 12px; margin-bottom: 3px; }
+.bar-label .pct { font-weight: 600; }
+.bar-track { height: 6px; border-radius: 3px; background: #f0f0f5; overflow: hidden; }
+.bar-fill { height: 100%; border-radius: 3px; transition: width 0.5s; }
+.bar-under { background: var(--green); }
+.bar-over { background: var(--danger); }
+/* Category Grid */
+.cat-grid {
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  gap: 8px;
+  margin: 0 16px 12px;
+}
+.cat-item {
+  background: var(--card);
+  border-radius: var(--radius);
+  padding: 14px 6px;
+  text-align: center;
+  font-size: 12px;
+  cursor: pointer;
+  transition: all 0.15s;
+  border: 2px solid transparent;
+}
+.cat-item:active { transform: scale(0.95); }
+.cat-item .emoji { font-size: 26px; display: block; margin-bottom: 4px; }
+.cat-item.selected { border-color: var(--accent); background: #e8f0fe; }
+/* Add Form */
+.form-row {
+  display: flex;
+  gap: 10px;
+  margin: 0 16px 8px;
+}
+.form-row input, .form-row select {
+  flex: 1;
+  padding: 14px 16px;
+  border: 1.5px solid var(--border);
+  border-radius: 12px;
+  font-size: 16px;
+  background: var(--card);
+  outline: none;
+  font-family: inherit;
+  color: var(--text);
+}
+.form-row input:focus, .form-row select:focus { border-color: var(--accent); }
+.form-row .half { flex: 0.5; }
+.btn-primary {
+  display: block;
+  width: calc(100% - 32px);
+  margin: 8px 16px;
+  padding: 16px;
+  background: var(--accent);
+  color: #fff;
+  border: none;
+  border-radius: 14px;
+  font-size: 17px;
+  font-weight: 600;
+  cursor: pointer;
+}
+.btn-primary:active { opacity: 0.85; }
+.btn-outline {
+  display: block;
+  width: calc(100% - 32px);
+  margin: 4px 16px 12px;
+  padding: 14px;
+  background: transparent;
+  color: var(--accent);
+  border: 1.5px solid var(--accent);
+  border-radius: 14px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+/* Records */
+.record-item {
+  display: flex;
+  align-items: center;
+  padding: 14px 0;
+  border-bottom: 1px solid var(--border);
+}
+.record-item:last-child { border-bottom: none; }
+.rec-emoji {
+  width: 42px; height: 42px;
+  border-radius: 12px;
+  background: #f5f5f7;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 22px;
+  flex-shrink: 0;
+}
+.rec-info { flex: 1; margin-left: 12px; min-width: 0; }
+.rec-cat { font-size: 15px; font-weight: 500; }
+.rec-meta { font-size: 12px; color: var(--sub); margin-top: 2px; }
+.rec-amount { font-size: 17px; font-weight: 600; flex-shrink: 0; }
+.rec-amount.exp { color: var(--text); }
+.rec-amount.inc { color: var(--green); }
+.rec-delete {
+  color: var(--danger);
+  background: none;
+  border: none;
+  font-size: 13px;
+  padding: 6px 10px;
+  cursor: pointer;
+  opacity: 0.6;
+  flex-shrink: 0;
+}
+/* Filters */
+.filter-bar {
+  display: flex;
+  gap: 8px;
+  padding: 0 16px 10px;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+.filter-bar::-webkit-scrollbar { display: none; }
+.filter-chip {
+  padding: 8px 14px;
+  border-radius: 20px;
+  border: 1.5px solid var(--border);
+  font-size: 13px;
+  white-space: nowrap;
+  background: var(--card);
+  cursor: pointer;
+  flex-shrink: 0;
+}
+.filter-chip.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+.search-box {
+  margin: 0 16px 10px;
+  padding: 12px 16px;
+  border: 1.5px solid var(--border);
+  border-radius: 12px;
+  font-size: 15px;
+  width: calc(100% - 32px);
+  outline: none;
+  background: var(--card);
+}
+/* Charts */
+.chart-wrap {
+  position: relative;
+  height: 200px;
+  margin: 8px 0;
+}
+.chart-wrap canvas { width: 100% !important; }
+/* Settings */
+.setting-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 0;
+  border-bottom: 1px solid var(--border);
+}
+.setting-row:last-child { border-bottom: none; }
+.setting-row .s-label { font-size: 15px; }
+.setting-row input {
+  width: 100px;
+  padding: 10px 12px;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  text-align: right;
+  font-size: 15px;
+  font-family: inherit;
+  outline: none;
+}
+.setting-row input:focus { border-color: var(--accent); }
+/* Tabs */
+.tabs {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0; right: 0;
+  background: rgba(255,255,255,0.92);
+  backdrop-filter: blur(20px);
+  -webkit-backdrop-filter: blur(20px);
+  border-top: 1px solid var(--border);
+  padding: 8px 0 calc(8px + var(--safe-bottom));
+  z-index: 99;
+}
+.tab {
+  flex: 1;
+  text-align: center;
+  font-size: 10px;
+  color: var(--sub);
+  cursor: pointer;
+  padding: 4px 0;
+}
+.tab .icon { font-size: 22px; display: block; margin-bottom: 2px; }
+.tab.active { color: var(--accent); }
+/* Page */
+.page { display: none; animation: fadeIn 0.2s; }
+.page.active { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(4px); } to { opacity: 1; transform: translateY(0); } }
+/* Modal */
+.modal-overlay {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,0.35);
+  z-index: 200;
+  display: none;
+  align-items: flex-end;
+  justify-content: center;
+}
+.modal-overlay.show { display: flex; }
+.modal-sheet {
+  background: #fff;
+  border-radius: 20px 20px 0 0;
+  width: 100%;
+  max-height: 75vh;
+  overflow-y: auto;
+  padding: 24px 20px calc(24px + var(--safe-bottom));
+  animation: slideUp 0.25s;
+}
+@keyframes slideUp { from { transform: translateY(100%); } to { transform: translateY(0); } }
+.modal-sheet h3 { font-size: 18px; margin-bottom: 16px; }
+/* Toast */
+.toast {
+  position: fixed; top: 60px; left: 50%; transform: translateX(-50%);
+  background: #1d1d1f; color: #fff;
+  padding: 12px 24px; border-radius: 20px;
+  font-size: 14px; font-weight: 500;
+  z-index: 300; opacity: 0; transition: opacity 0.3s;
+  pointer-events: none;
+}
+.toast.show { opacity: 1; }
+.empty { text-align: center; padding: 40px; color: var(--sub); font-size: 14px; }
+</style>
+</head>
+<body>
+
+<div class="header" id="pageTitle">记账</div>
+<div class="toast" id="toast"></div>
+
+<!-- ======== PAGE: Dashboard ======== -->
+<div class="page active" id="page-dash">
+  <div class="dash-summary">
+    <div class="dash-stat">
+      <div class="label">本月收入</div>
+      <div class="value income" id="dash-income">¥0</div>
+    </div>
+    <div class="dash-stat">
+      <div class="label">本月支出</div>
+      <div class="value expense" id="dash-expense">¥0</div>
+    </div>
+  </div>
+  <div class="card" id="budgetBar">
+    <div class="card-title">📊 月度预算</div>
+    <div class="bar-label"><span>已花 <span id="budgetSpent">¥0</span></span><span class="pct" id="budgetPct">0%</span></div>
+    <div class="bar-track"><div class="bar-fill bar-under" id="budgetFill" style="width:0%"></div></div>
+  </div>
+  <div class="card">
+    <div class="card-title">📈 分类支出</div>
+    <div class="chart-wrap"><canvas id="pieChart"></canvas></div>
+  </div>
+  <div class="card">
+    <div class="card-title">📅 近6月对比</div>
+    <div class="chart-wrap"><canvas id="barChart"></canvas></div>
+  </div>
+</div>
+
+<!-- ======== PAGE: Add ======== -->
+<div class="page" id="page-add">
+  <div class="card-title" style="padding:0 16px 8px">选择类别</div>
+  <div class="cat-grid" id="catGrid"></div>
+  <div class="form-row">
+    <input type="number" id="addAmount" placeholder="金额" step="0.01" min="0" style="flex:0.6">
+    <input type="date" id="addDate" style="flex:0.4">
+  </div>
+  <div class="form-row">
+    <select id="addPay"><option>微信</option><option>支付宝</option><option>银行卡</option><option>现金</option></select>
+    <input type="text" id="addNote" placeholder="备注（选填）" style="flex:1.5">
+  </div>
+  <button class="btn-primary" onclick="addRecord()">✓ 记一笔</button>
+  <button class="btn-outline" onclick="openVoice()">🎤 语音记账</button>
+</div>
+
+<!-- ======== PAGE: Records ======== -->
+<div class="page" id="page-records">
+  <div class="filter-bar" id="monthFilters"></div>
+  <div class="filter-bar" id="catFilters"></div>
+  <input class="search-box" id="searchInput" placeholder="🔍 搜索备注..." oninput="renderRecords()">
+  <div class="card" style="max-height:55vh;overflow-y:auto" id="recordList"></div>
+  <button class="btn-outline" onclick="exportCSV()">📥 导出 CSV</button>
+</div>
+
+<!-- ======== PAGE: Settings ======== -->
+<div class="page" id="page-settings">
+  <div class="card">
+    <div class="card-title">💵 月度预算</div>
+    <div class="setting-row"><span class="s-label">总预算</span><input type="number" id="setTotal" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">🍜 餐饮</span><input type="number" id="setFood" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">🚗 交通</span><input type="number" id="setTrans" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">🛒 购物</span><input type="number" id="setShop" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">🏠 住房</span><input type="number" id="setHouse" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">🎮 娱乐</span><input type="number" id="setFun" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">💊 医疗</span><input type="number" id="setMed" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">📚 教育</span><input type="number" id="setEdu" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">🎁 人情</span><input type="number" id="setGift" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">👶 育儿</span><input type="number" id="setBaby" placeholder="0" onchange="saveBudget()"></div>
+    <div class="setting-row"><span class="s-label">📦 其他</span><input type="number" id="setOther" placeholder="0" onchange="saveBudget()"></div>
+  </div>
+  <button class="btn-outline" style="color:var(--danger);border-color:var(--danger);margin-top:8px" onclick="if(confirm('确认清除所有数据？不可恢复！')){clearAll()}">🗑 清除所有数据</button>
+</div>
+
+<!-- Bottom Tabs -->
+<div class="tabs">
+  <div class="tab active" onclick="switchTab('dash')"><span class="icon">🏠</span>首页</div>
+  <div class="tab" onclick="switchTab('add')"><span class="icon">✏️</span>记账</div>
+  <div class="tab" onclick="switchTab('records')"><span class="icon">📋</span>账单</div>
+  <div class="tab" onclick="switchTab('settings')"><span class="icon">⚙️</span>设置</div>
+</div>
+
+<!-- Voice Modal -->
+<div class="modal-overlay" id="voiceModal">
+  <div class="modal-sheet">
+    <h3>🎤 语音记账</h3>
+    <p style="color:var(--sub);font-size:14px;margin-bottom:16px">例如说："午饭花了30块"、"打车25元"</p>
+    <div id="voiceStatus" style="text-align:center;padding:20px;font-size:40px">🎙️</div>
+    <p style="text-align:center;color:var(--sub);font-size:13px" id="voiceText">点击按钮开始说话</p>
+    <button class="btn-primary" id="voiceBtn" onclick="toggleVoice()">开始录音</button>
+    <button class="btn-outline" onclick="closeVoice()">取消</button>
+  </div>
+</div>
+
+<script>
+// ==================== DATA ====================
+const CATS = [
+  { key:'food', name:'餐饮', emoji:'🍜', isExpense:true },
+  { key:'trans', name:'交通', emoji:'🚗', isExpense:true },
+  { key:'shop', name:'购物', emoji:'🛒', isExpense:true },
+  { key:'house', name:'住房', emoji:'🏠', isExpense:true },
+  { key:'fun', name:'娱乐', emoji:'🎮', isExpense:true },
+  { key:'med', name:'医疗', emoji:'💊', isExpense:true },
+  { key:'edu', name:'教育', emoji:'📚', isExpense:true },
+  { key:'gift', name:'人情', emoji:'🎁', isExpense:true },
+  { key:'baby', name:'育儿', emoji:'👶', isExpense:true },
+  { key:'income', name:'收入', emoji:'💰', isExpense:false },
+  { key:'other', name:'其他', emoji:'📦', isExpense:true },
+];
+const PAYS = ['微信','支付宝','银行卡','现金'];
+
+function load(k) { try { return JSON.parse(localStorage.getItem('fin_'+k)) } catch(e) { return null } }
+function save(k, v) { localStorage.setItem('fin_'+k, JSON.stringify(v)) }
+function getRecords() { return load('records') || [] }
+function setRecords(r) { save('records', r) }
+function getBudget() { return load('budget') || { total:0,food:0,trans:0,shop:0,house:0,fun:0,med:0,edu:0,gift:0,baby:0,other:0 } }
+
+// ==================== NAV ====================
+let currentTab = 'dash';
+function switchTab(tab) {
+  currentTab = tab;
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  document.getElementById('page-'+tab).classList.add('active');
+  document.querySelectorAll('.tab').forEach((t,i) => t.classList.toggle('active', t.textContent.includes(
+    {dash:'首页',add:'记账',records:'账单',settings:'设置'}[tab]
+  )));
+  document.getElementById('pageTitle').textContent = {dash:'记账',add:'记一笔',records:'账单',settings:'设置'}[tab];
+  if (tab === 'dash') renderDashboard();
+  if (tab === 'records') renderRecords();
+  if (tab === 'settings') renderSettings();
+  if (tab === 'add') renderAddPage();
+}
+
+// ==================== DASHBOARD ====================
+let pieChart, barChart;
+function nowMonth() { const d=new Date(); return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0') }
+
+function renderDashboard() {
+  const records = getRecords();
+  const mon = nowMonth();
+  const monRecs = records.filter(r => r.date.startsWith(mon));
+  const income = monRecs.filter(r => !CATS.find(c=>c.key===r.cat).isExpense).reduce((s,r)=>s+r.amount,0);
+  const expense = monRecs.filter(r => CATS.find(c=>c.key===r.cat).isExpense).reduce((s,r)=>s+r.amount,0);
+  
+  document.getElementById('dash-income').textContent = '¥'+income.toFixed(2);
+  document.getElementById('dash-expense').textContent = '¥'+expense.toFixed(2);
+  
+  // Budget
+  const budget = getBudget();
+  const pct = budget.total > 0 ? (expense / budget.total * 100) : 0;
+  document.getElementById('budgetSpent').textContent = '¥'+expense.toFixed(2);
+  document.getElementById('budgetPct').textContent = pct.toFixed(1)+'%';
+  const fill = document.getElementById('budgetFill');
+  fill.style.width = Math.min(pct, 100)+'%';
+  fill.className = 'bar-fill '+(pct > 100 ? 'bar-over' : 'bar-under');
+  
+  // Pie chart
+  const catData = {};
+  CATS.filter(c=>c.isExpense).forEach(c=>catData[c.name]=0);
+  monRecs.filter(r=>CATS.find(c=>c.key===r.cat).isExpense).forEach(r=>{
+    const cn = CATS.find(c=>c.key===r.cat).name;
+    catData[cn] = (catData[cn]||0) + r.amount;
+  });
+  const labels = Object.keys(catData).filter(k=>catData[k]>0);
+  const values = labels.map(k=>catData[k]);
+  const pieCtx = document.getElementById('pieChart');
+  if (pieChart) pieChart.destroy();
+  if (labels.length === 0) {
+    pieCtx.parentNode.innerHTML = '<div class="empty">暂无支出数据</div>';
+  } else {
+    pieChart = new Chart(pieCtx, {
+      type: 'doughnut',
+      data: { labels, datasets:[{ data:values, backgroundColor:['#ff9500','#0071e3','#34c759','#ff3b30','#af52de','#ff2d55','#5856d6','#00c7be','#ff6b35','#ffcc02','#8e8e93'] }] },
+      options: { responsive:true, maintainAspectRatio:false, plugins:{legend:{position:'bottom',labels:{boxWidth:10,font:{size:11}}}} }
+    });
+  }
+  
+  // Bar chart - last 6 months
+  const months = [];
+  const d = new Date();
+  for (let i = 5; i >= 0; i--) {
+    const m = new Date(d.getFullYear(), d.getMonth()-i, 1);
+    months.push(m.getFullYear()+'-'+String(m.getMonth()+1).padStart(2,'0'));
+  }
+  const barLabels = months.map(m => m.slice(5)+'月');
+  const barExpData = months.map(m => records.filter(r=>r.date.startsWith(m)&&CATS.find(c=>c.key===r.cat).isExpense).reduce((s,r)=>s+r.amount,0));
+  const barIncData = months.map(m => records.filter(r=>r.date.startsWith(m)&&!CATS.find(c=>c.key===r.cat).isExpense).reduce((s,r)=>s+r.amount,0));
+  const barCtx = document.getElementById('barChart');
+  if (barChart) barChart.destroy();
+  if (barExpData.every(v=>v===0) && barIncData.every(v=>v===0)) {
+    barCtx.parentNode.innerHTML = '<div class="empty">暂无历史数据</div>';
+  } else {
+    barChart = new Chart(barCtx, {
+      type: 'bar',
+      data: {
+        labels: barLabels,
+        datasets: [
+          { label:'支出', data:barExpData, backgroundColor:'#ff3b30', borderRadius:6 },
+          { label:'收入', data:barIncData, backgroundColor:'#34c759', borderRadius:6 }
+        ]
+      },
+      options: { responsive:true, maintainAspectRatio:false, plugins:{legend:{position:'bottom',labels:{boxWidth:10,font:{size:11}}}} }
+    });
+  }
+}
+
+// ==================== ADD ====================
+let selCat = null;
+function renderAddPage() {
+  const grid = document.getElementById('catGrid');
+  const records = getRecords();
+  // Sort cats by frequency
+  const freq = {};
+  records.forEach(r => { freq[r.cat] = (freq[r.cat]||0)+1 });
+  const sortedCats = [...CATS].sort((a,b) => (freq[b.key]||0)-(freq[a.key]||0));
+  
+  grid.innerHTML = sortedCats.map(c => 
+    `<div class="cat-item${selCat===c.key?' selected':''}" onclick="selCat='${c.key}';renderAddPage()">
+      <span class="emoji">${c.emoji}</span>${c.name}
+    </div>`
+  ).join('');
+  document.getElementById('addDate').value = new Date().toISOString().slice(0,10);
+}
+
+function addRecord() {
+  const amount = parseFloat(document.getElementById('addAmount').value);
+  if (!selCat) { toast('请选择类别'); return; }
+  if (!amount || amount <= 0) { toast('请输入金额'); return; }
+  const record = {
+    id: Date.now(),
+    cat: selCat,
+    amount,
+    date: document.getElementById('addDate').value,
+    pay: document.getElementById('addPay').value,
+    note: document.getElementById('addNote').value.trim()
+  };
+  const records = getRecords();
+  records.push(record);
+  setRecords(records);
+  document.getElementById('addAmount').value = '';
+  document.getElementById('addNote').value = '';
+  selCat = null;
+  renderAddPage();
+  toast('已记录 ✅');
+}
+
+// ==================== VOICE ====================
+let recognition = null;
+function openVoice() {
+  document.getElementById('voiceModal').classList.add('show');
+  document.getElementById('voiceText').textContent = '点击按钮开始说话';
+  document.getElementById('voiceStatus').textContent = '🎙️';
+  document.getElementById('voiceBtn').textContent = '开始录音';
+}
+function closeVoice() {
+  document.getElementById('voiceModal').classList.remove('show');
+  if (recognition) { recognition.stop(); recognition = null; }
+}
+function toggleVoice() {
+  if (recognition) { recognition.stop(); recognition = null; return; }
+  const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+  if (!SpeechRecognition) { toast('浏览器不支持语音识别'); return; }
+  recognition = new SpeechRecognition();
+  recognition.lang = 'zh-CN';
+  recognition.interimResults = false;
+  recognition.onstart = () => {
+    document.getElementById('voiceStatus').textContent = '🔴';
+    document.getElementById('voiceText').textContent = '正在聆听...';
+    document.getElementById('voiceBtn').textContent = '停止录音';
+  };
+  recognition.onresult = (e) => {
+    const text = e.results[0][0].transcript;
+    document.getElementById('voiceText').textContent = '识别结果：' + text;
+    document.getElementById('voiceStatus').textContent = '✅';
+    document.getElementById('voiceBtn').textContent = '开始录音';
+    parseVoice(text);
+    recognition = null;
+  };
+  recognition.onerror = () => {
+    document.getElementById('voiceText').textContent = '识别失败，请重试';
+    document.getElementById('voiceStatus').textContent = '❌';
+    document.getElementById('voiceBtn').textContent = '开始录音';
+    recognition = null;
+  };
+  recognition.start();
+}
+function parseVoice(text) {
+  const amountMatch = text.match(/(\d+(\.\d+)?)\s*[块元]/);
+  if (!amountMatch) { toast('未识别到金额'); return; }
+  const amount = parseFloat(amountMatch[1]);
+  
+  const foodWords = ['饭','餐','菜','面','粉','汤','饭馆','外卖','奶茶','咖啡','饮料','小吃','早餐','午饭','晚餐','夜宵','水果','零食','面包','火锅','烧烤','自助','食堂','KFC','麦当劳','汉堡'];
+  const transWords = ['打车','车','滴滴','出租','地铁','公交','高铁','飞机','火车','加油','停车','过路费','骑行','共享','顺风车','高速'];
+  const shopWords = ['买','购','淘宝','京东','拼多多','衣服','鞋','包','手机','电脑','日用品','化妆品','护肤品','超市'];
+  const houseWords = ['房租','房贷','物业','水电','燃气','维修','装修','家居'];
+  const funWords = ['电影','游戏','KTV','唱歌','旅游','门票','会员','视频','音乐','电影票','出去玩','剧本杀','密室'];
+  const medWords = ['药','医院','挂号','体检','看病','诊所','牙医','中药'];
+  const eduWords = ['书','课','学费','培训','文具','考试','考证'];
+  const giftWords = ['红包','礼物','请客','份子','送礼'];
+  const babyWords = ['宝宝','奶粉','尿布','疫苗','早教','玩具','童装','辅食','奶瓶','婴儿','育儿','月嫂','月子','产检','出生','满月'];
+  const incomeWords = ['工资','奖金','兼职','报销','退款','理财','利息','红包收入'];
+  
+  let cat = 'other';
+  if (foodWords.some(w=>text.includes(w))) cat = 'food';
+  else if (transWords.some(w=>text.includes(w))) cat = 'trans';
+  else if (shopWords.some(w=>text.includes(w))) cat = 'shop';
+  else if (houseWords.some(w=>text.includes(w))) cat = 'house';
+  else if (funWords.some(w=>text.includes(w))) cat = 'fun';
+  else if (medWords.some(w=>text.includes(w))) cat = 'med';
+  else if (eduWords.some(w=>text.includes(w))) cat = 'edu';
+  else if (giftWords.some(w=>text.includes(w))) cat = 'gift';
+  else if (babyWords.some(w=>text.includes(w))) cat = 'baby';
+  else if (incomeWords.some(w=>text.includes(w))) cat = 'income';
+  
+  const record = {
+    id: Date.now(),
+    cat,
+    amount,
+    date: new Date().toISOString().slice(0,10),
+    pay: '微信',
+    note: text
+  };
+  const records = getRecords();
+  records.push(record);
+  setRecords(records);
+  const cn = CATS.find(c=>c.key===cat).emoji+' '+CATS.find(c=>c.key===cat).name;
+  toast(`已记录 ${cn} ¥${amount.toFixed(2)}`);
+  closeVoice();
+}
+
+// ==================== RECORDS ====================
+let filterMonth = 'all', filterCat = 'all';
+function renderRecords() {
+  const records = getRecords().sort((a,b) => b.date.localeCompare(a.date) || b.id - a.id);
+  const allMonths = [...new Set(records.map(r=>r.date.slice(0,7)))].sort().reverse();
+  
+  const mf = document.getElementById('monthFilters');
+  mf.innerHTML = `<span class="filter-chip${filterMonth==='all'?' active':''}" onclick="filterMonth='all';renderRecords()">全部</span>` +
+    allMonths.map(m=>`<span class="filter-chip${filterMonth===m?' active':''}" onclick="filterMonth='${m}';renderRecords()">${m}月</span>`).join('');
+  
+  const cf = document.getElementById('catFilters');
+  cf.innerHTML = `<span class="filter-chip${filterCat==='all'?' active':''}" onclick="filterCat='all';renderRecords()">全部</span>` +
+    CATS.map(c=>`<span class="filter-chip${filterCat===c.key?' active':''}" onclick="filterCat='${c.key}';renderRecords()">${c.emoji} ${c.name}</span>`).join('');
+  
+  const search = (document.getElementById('searchInput')?.value || '').toLowerCase();
+  let filtered = records;
+  if (filterMonth !== 'all') filtered = filtered.filter(r => r.date.startsWith(filterMonth));
+  if (filterCat !== 'all') filtered = filtered.filter(r => r.cat === filterCat);
+  if (search) filtered = filtered.filter(r => r.note.toLowerCase().includes(search));
+  
+  const list = document.getElementById('recordList');
+  if (filtered.length === 0) {
+    list.innerHTML = '<div class="empty">暂无记录</div>';
+    return;
+  }
+  list.innerHTML = filtered.map(r => {
+    const cat = CATS.find(c=>c.key===r.cat);
+    const isExp = cat.isExpense;
+    return `<div class="record-item">
+      <div class="rec-emoji">${cat.emoji}</div>
+      <div class="rec-info">
+        <div class="rec-cat">${cat.name}${r.note?' · '+r.note:''}</div>
+        <div class="rec-meta">${r.date} · ${r.pay}</div>
+      </div>
+      <div class="rec-amount ${isExp?'exp':'inc'}">${isExp?'-':'+'}¥${r.amount.toFixed(2)}</div>
+      <button class="rec-delete" onclick="delRecord(${r.id})">删除</button>
+    </div>`;
+  }).join('');
+}
+
+function delRecord(id) {
+  if (!confirm('确认删除这条记录？')) return;
+  setRecords(getRecords().filter(r => r.id !== id));
+  renderRecords();
+  toast('已删除');
+}
+
+function exportCSV() {
+  const records = getRecords().sort((a,b)=>b.date.localeCompare(a.date)||b.id-a.id);
+  const header = '日期,类别,金额,类型,支付方式,备注';
+  const rows = records.map(r => {
+    const cat = CATS.find(c=>c.key===r.cat);
+    return `${r.date},${cat.name},${r.amount},${cat.isExpense?'支出':'收入'},${r.pay},${r.note}`;
+  });
+  const csv = '\uFEFF'+header+'\n'+rows.join('\n');
+  const blob = new Blob([csv], {type:'text/csv;charset=utf-8'});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement('a');
+  a.href = url; a.download = '账单_'+nowMonth()+'.csv';
+  a.click();
+  URL.revokeObjectURL(url);
+  toast('已导出 📥');
+}
+
+// ==================== SETTINGS ====================
+function renderSettings() {
+  const b = getBudget();
+  document.getElementById('setTotal').value = b.total || '';
+  document.getElementById('setFood').value = b.food || '';
+  document.getElementById('setTrans').value = b.trans || '';
+  document.getElementById('setShop').value = b.shop || '';
+  document.getElementById('setHouse').value = b.house || '';
+  document.getElementById('setFun').value = b.fun || '';
+  document.getElementById('setMed').value = b.med || '';
+  document.getElementById('setEdu').value = b.edu || '';
+  document.getElementById('setGift').value = b.gift || '';
+  document.getElementById('setBaby').value = b.baby || '';
+  document.getElementById('setOther').value = b.other || '';
+}
+function saveBudget() {
+  const budget = {
+    total: +document.getElementById('setTotal').value || 0,
+    food: +document.getElementById('setFood').value || 0,
+    trans: +document.getElementById('setTrans').value || 0,
+    shop: +document.getElementById('setShop').value || 0,
+    house: +document.getElementById('setHouse').value || 0,
+    fun: +document.getElementById('setFun').value || 0,
+    med: +document.getElementById('setMed').value || 0,
+    edu: +document.getElementById('setEdu').value || 0,
+    gift: +document.getElementById('setGift').value || 0,
+    baby: +document.getElementById('setBaby').value || 0,
+    other: +document.getElementById('setOther').value || 0,
+  };
+  save('budget', budget);
+  toast('预算已保存');
+}
+
+function clearAll() {
+  localStorage.clear();
+  toast('所有数据已清除');
+  switchTab('dash');
+}
+
+// ==================== TOAST ====================
+function toast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 1800);
+}
+
+// ==================== INIT ====================
+renderAddPage();
+renderDashboard();
+</script>
+</body>
+</html>

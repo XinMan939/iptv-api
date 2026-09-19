@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-09-18 13:48:26
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-09-19 13:48:48
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="央视频道🇨🇳",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -19515,6 +19515,8 @@ http://tv123.cc.cd/live.php?ch=1401&sid=45a9fa8478e77f18aa6acfe5be932a04&exp=178
 http://tv123.cc.cd/live.php?ch=1410&sid=a7b12cdfa6fc88cd6bc429b2238370c5&exp=1789661675&sig=92e27f42a7b017c2660f8ac233c2931c637a69013a21860050988414c65245de
 #EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
 http://tv123.cc.cd/live.php?ch=1378&sid=fc71d1620092d6f7ceff4e11b61aaffa&exp=1789747149&sig=5b3ec77e09be71cc7e7df9413e64fb87e52fed4e344288beebc2881d45fee423
+#EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
+http://tv123.cc.cd/live.php?ch=1378&sid=97e56393019ac863f9fd6a69a2871ba8&exp=1789833406&sig=9c5ff6d774ce905c97f78d9bd69e4ff2428016707a02dd0c884267e2f56505f9
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南经视.png" group-title="湖南频道🌏",湖南经视
 https://stream1.freetv.fun/hu-nan-jing-shi-5.m3u8
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南经视.png" group-title="湖南频道🌏",湖南经视

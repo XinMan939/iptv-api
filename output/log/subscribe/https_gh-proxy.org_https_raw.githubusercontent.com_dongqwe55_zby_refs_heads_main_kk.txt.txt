@@ -654,15 +654,19 @@ CCTV-13,http://120.76.248.139/live/bfgd/4200000067.m3u8
 
 
 香港港台,#genre#
-NOW新闻,http://play-tmp.zhenai.com/live/cx_523d87933c8f1b35588d3a76aa691886.flv
-凤凰中文,https://cdn6.cc.cd/163189/fhzw
+
 翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
 明珠台,https://cdn3.indevs.in/stream/tvb/mzt/
-无线新闻台,https://cdn6.cc.cd/163189/wxxwt
-无线新闻台,https://cdn6.cc.cd/163189/wxxw
+
+凤凰卫视,http://120.238.5.44:1698/hls/86/index.m3u8
+凤凰资讯,http://120.238.5.44:1698/hls/85/index.m3u8
+翡翠台,http://183.62.8.58:50085/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+明珠台,http://183.62.8.58:50085/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+
+
+
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/
-HOYTV,https://cdn6.cc.cd/163189/hoy
 HOYTV,https://fast.hidns.vip/163189/hoy
 HOY资讯台,https://fast.hidns.vip/163189/hoy78
 HOY国际财经台,https://cdn11.163189.xyz/163189/hoy76
@@ -685,29 +689,13 @@ HOY78,http://play.wenxiang.cn/live/cf4526f51988d0ed065b5c3fa4bc925d.flv
 港台电视32,http://play.wenxiang.cn/live/1c84d2c289c82f92f588aaa566858174.flv
 
 翡翠台,http://gd.wsd.gd.cn:1698/hls/92/index.m3u8
-翡翠台,http://116.77.239.26:44300/tsfile/live/0141_1.m3u8
 翡翠台,http://211.97.63.3:3443/hls/541/index.m3u8
 无线新闻,http://iactive-clink.com:8081/live/yifaTV-007.m3u8
 凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
 凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
 凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
-美亚电影,http://173.208.234.146/live/mymovie.m3u8
-天映频道,http://173.208.234.146/live/typd.m3u8
-爆谷台,http://173.208.234.146/live/nowbg.m3u8
-星影台,http://173.208.234.146/live/nowxy.m3u8
-Now星影台,http://iptv.852851.xyz/l/5gC9h6XtL1X3bJoC55t2qVlMPysmpR1MOrEigXzD1If0rc4moQDCzruuZ2JwV18A/index.m3u8
-Now爆谷台,http://iptv.852851.xyz/l/xymz3CGYlMrfo9JW4yleXnZvlU8Q2uy0jRAohSOLl-N6DgSxzX4rvm6JAA14_eLl/index.m3u8
 NOW新闻台,http://psyl11.dyndns.tv:35451/live/axdynowtream/fSlawNmh15/23.ts
 
-凤凰中文台,http://120.234.44.98:18180/TV00000000000000000008@HHZT
-凤凰资讯台,http://120.234.44.98:18180/TV00000000000000000009@HHZT
-凤凰香港台,http://120.234.44.98:18180/TV00000000000000000024@HHZT
-无线新闻台,http://120.234.44.98:18180/TV00000000000000000034@HHZT
-明珠台,http://120.234.44.98:18180/TV00000000000000000035@HHZT
-翡翠台,http://120.234.44.98:18180/TV00000000000000000032@HHZT
-viutv,http://120.234.44.98:18180/TV00000000000000000037@HHZT
-viutv6,http://120.234.44.98:18180/TV00000000000000000084@HHZT
 
 
 
@@ -716,15 +704,11 @@ viutv6,http://120.234.44.98:18180/TV00000000000000000084@HHZT
 TVB Plus(字幕),http://45.192.97.170:8880/play/334.m3u8
 HOY TV,http://45.192.97.170:8880/play/335.m3u8
 HOY资讯台,http://45.192.97.170:8880/play/336.m3u8
-HOY国际财经台,http://45.192.97.170:8880/play/337.m3u8
-ViuTV,http://45.192.97.170:8880/play/338.m3u8
-ViuTVsix,http://45.192.97.170:8880/play/339.m3u8
-NOW新闻台,http://45.192.97.170:8880/play/340.m3u8
+
 RTHK31,http://45.192.97.170:8880/play/341.m3u8
 RTHK32,http://45.192.97.170:8880/play/342.m3u8
 TVB黃金華劇,http://45.192.97.170:8880/play/303.m3u8
-TVB翡翠(馬來),http://45.192.97.170:8880/play/304.m3u8
-TVB明珠,http://45.192.97.170:8880/play/305.m3u8
+
 TVBJ1,http://45.192.97.170:8880/play/306.m3u8
 TVB1,http://45.192.97.170:8880/play/307.m3u8
 HOY77,http://45.192.97.170:8880/play/308.m3u8
@@ -849,24 +833,17 @@ Plus即时频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛电视 ,https://live-hls-apps-aja-v3-fa.getaj.net/AJA/index.m3u8
 半岛电视 ,https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
-中天新闻,http://173.208.234.146/live/ctinews.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 中天新闻,http://111.0.115.129:8081/live/222ztxw.m3u8
-中天新闻,http://safe.shanghairta.com:8081/live/555ztxw.m3u8
-中天新闻,http://220.135.64.124:5050/of-4gtv-4gtv009/index.m3u8?proxy=true
 中天新闻,http://jnzq.ohoyee.com:9080/live/332123-ztxw2.m3u8
-中天新闻,http://31.43.191.125:8080/VIP019301734188047280/7bce5254f13d/34817
 中天新闻,http://222.128.55.152:9080/live/fc.m3u8
 UK: SKY SPORTS F1,http://nocable.cc:8080//OURTV/OURTV@4806/35244
 TVB无线新闻,http://beishan008.asuscomm.com:8890/bysid/83.m3u8
 TVB无线新闻,http://122.152.202.33/s/81a8a44f/index.m3u8?id=21
 Now Sports 4K 1 U,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199971
-Now Sports 4K 2 U,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199972
 Now Sports 4K 3 U,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199973
 Now Sports 1 ,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199982
-Now Sports 2 ,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199983
 Now Sports 3 ,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199984
-Now Sports 4 ,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199985
 Now Sports 5 ,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199986
 Now Sports 6 ,http://tv-213424.ifiesta.net:80/TV-7926745948196/892281004173/199987
 

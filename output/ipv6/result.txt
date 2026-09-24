@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-23 13:46:08,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-09-24 13:56:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道🇨🇳,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1458,6 +1458,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 安徽卫视,https://0832-1dbe-95df-5158.kylintv.tv/live/ahtvhd_iphone.m3u8
 安徽卫视,http://t.061899.xyz/tl/tl.php?id=ahws
 安徽卫视,http://go.bkpcp.top/mg/ahws
+安徽卫视,http://tv123.cc.cd/live.php?ch=865&sid=07b18ad0c3479c038091a672988f0fbe&exp=1790265580&sig=22b06a9202bc9d3587fbfd6b29f0f765aa81e5c8dcec81e868f42ce212064eda
+安徽卫视,http://tv123.cc.cd/live.php?ch=898&sid=037cf4a7eda7ad52fa86371c55292409&exp=1790257660&sig=cef3cf57bd7e174e9cd02285a54a18e7c0b0f4022a4f6bdd00e853bb06a4e3e6
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
@@ -2025,6 +2027,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 山东卫视,https://t.freetv.fun/live/shan-dong-wei-shi-6.php
 山东卫视,http://t.061899.xyz/tl/tl.php?id=sdws
 山东卫视,http://go.bkpcp.top/mg/sdws
+山东卫视,http://tv123.cc.cd/live.php?ch=866&sid=07b18ad0c3479c038091a672988f0fbe&exp=1790265580&sig=5535180bd72e242200a76598a7e42e37f90ce1cffd23936d6598b842f5a0d7de
+山东卫视,http://tv123.cc.cd/live.php?ch=899&sid=037cf4a7eda7ad52fa86371c55292409&exp=1790257660&sig=db12f5b739737e33bce27227f8e173ab280f01c9487c07eb912c5c45afef7694
 山西卫视,https://iptv.catvod.com/catvod.php?id=sxiws
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
 山西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
@@ -2146,6 +2150,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-7.m3u8
 深圳卫视,https://t.freetv.fun/live/shen-zhen-wei-shi-6.m3u8
 深圳卫视,http://t.061899.xyz/tl/tl.php?id=szws
+深圳卫视,http://tv123.cc.cd/live.php?ch=874&sid=07b18ad0c3479c038091a672988f0fbe&exp=1790265580&sig=44fe8bcabee3c467583ede7f66831c15e5c423dcc993a836e21298e9c350675a
+深圳卫视,http://tv123.cc.cd/live.php?ch=907&sid=037cf4a7eda7ad52fa86371c55292409&exp=1790257660&sig=dd811576a05558214eacd9cd2cf784557bb7ee9117b1cae0752cbb3b16c30a44
 新疆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 新疆卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
@@ -2242,6 +2248,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&line=4
 天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86&line=2
 天津卫视,http://t.061899.xyz/tl/tl.php?id=tjws
+天津卫视,http://tv123.cc.cd/live.php?ch=864&sid=07b18ad0c3479c038091a672988f0fbe&exp=1790265580&sig=07e9db2c53829f3f8e40727f131ed813ebfbadfa52d86ce316bf8ea637d34199
+天津卫视,http://tv123.cc.cd/live.php?ch=897&sid=037cf4a7eda7ad52fa86371c55292409&exp=1790257660&sig=ae64e5d57c1f75b0bab3737ae6ee2fef6c33aa4a0be4f6ab1af5d0f479edd14b
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=bad0a45eea94649f2e7f1b35e1d98d034b874a02984a76abb21e4537dee28f974e6da241dc7705109722be71c8b1302302b51cd4cb06c69ca55fdcf7279d415e0a0fce7c492b6842956ab34fcc
 大湾区卫视,https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8
@@ -5624,6 +5632,8 @@ TVBS综艺,http://tv123.cc.cd/live.php?ch=2769&sid=54ee8c0e361b5d6a0b42f0c8f3053
 寰宇新闻,http://tv123.cc.cd/live.php?ch=582&sid=4f93bae8e0f7b8df5031108439b78a04&exp=1786456913&sig=d71948b1aa7a54236dfcd8cd17f93e8e805e939a69fe941875224ba6941cfa1f
 镜新闻,http://4gtv.cnlive.club/channel/351c8485/index.m3u8?q=1782639885837
 镜新闻,https://www.youtube.com/watch?v=5n0y6b0Q25o
+镜新闻,http://tv123.cc.cd/live.php?ch=629&sid=07b18ad0c3479c038091a672988f0fbe&exp=1790265580&sig=b04ce9f508e21251affa9588d40d34e93a9e8238358e6c257f8c0b53ae4da233
+镜新闻,http://tv123.cc.cd/live.php?ch=662&sid=037cf4a7eda7ad52fa86371c55292409&exp=1790257660&sig=6f8912cc23f6e31fd6538df92e6fa2097964f5f785d222b0eff0273173ca2487
 国会频道①,http://tv123.cc.cd/live.php?ch=1554&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=112dfab5cae0005fa6a2a888ee01eb26a84afc1d7ecaae8bf0b23f0006d55b6c
 国会频道①,http://tv123.cc.cd/live.php?ch=1544&sid=f52487abbd7c6af0ca41cbe08a574390&exp=1786114274&sig=b2e5ac85be80688278ce6a3f9c45aea62fb7259dea62878260fc376e3c2d2092
 国会频道①,http://tv123.cc.cd/live.php?ch=1544&sid=1c6204c47dd42aa456d31a8bc5bd53e0&exp=1786197247&sig=cd7f1deccf762057743ba99f0ab3711117ef601f50586747cad48dd8847bfd1a
@@ -9669,6 +9679,8 @@ HBO温馨家庭,http://tv123.cc.cd/live.php?ch=2196&sid=07d944b083718a5114fe44ba
 爱尔达影剧,http://tv123.cc.cd/live.php?ch=589&sid=7026a7d57989489b6e9690c9994bd310&exp=1787862379&sig=06a852f43a88429a79424bc2dc6170e8fc62b1e306000718963ee70045002692
 爱尔达影剧,http://tv123.cc.cd/live.php?ch=623&sid=9506fbcac947080d7d5eb970816b9f2f&exp=1787833116&sig=384abd4a0dda87870c8740ebb56853e17f3187e2bbfb85bdf1c77d7d4977c4ce
 爱尔达综合,https://ktpremium.world/live/LT1976F/A9177/900865.ts
+爱尔达综合,http://tv123.cc.cd/live.php?ch=535&sid=07b18ad0c3479c038091a672988f0fbe&exp=1790265580&sig=7feadba7f90b503ec342a761817a9f11cb3298d78285144df392e7424d31a62c
+爱尔达综合,http://tv123.cc.cd/live.php?ch=568&sid=037cf4a7eda7ad52fa86371c55292409&exp=1790257660&sig=3521182fa447747f484c0952c7f3df3d1bd8891824cea201bdccdd4ca00ec7c9
 爱尔达宠物运动台,http://tv123.cc.cd/live.php?ch=1442&sid=f52487abbd7c6af0ca41cbe08a574390&exp=1786114274&sig=f3949a4ed19ec10f27a8eea033d12f75fd8bbafcdd59b3c0c4955987ac6ea2f1
 爱尔达宠物运动台,http://tv123.cc.cd/live.php?ch=1872&sid=f52487abbd7c6af0ca41cbe08a574390&exp=1786114274&sig=76c2d125dcd6704664e87de99020db30343d7bec2f4af35803618e1204aac97f
 爱尔达宠物运动台,http://tv123.cc.cd/live.php?ch=1872&sid=8081d8c255e86d7369c0055788800807&exp=1786110953&sig=812a65e65b5b3aa48d59dc9e0987058aace1edf1831866ee8e4667ff32649168
@@ -9804,6 +9816,7 @@ HBO温馨家庭,http://tv123.cc.cd/live.php?ch=2196&sid=07d944b083718a5114fe44ba
 爱尔达生活英语,http://tv123.cc.cd/live.php?ch=1377&sid=577eac4d7c5c0aa4b66a9e0758462789&exp=1790007097&sig=bf18699425f3b40ec532fda3084cc99c1a88fc2df04659e5fb691d347760573a
 爱尔达生活英语,http://tv123.cc.cd/live.php?ch=1755&sid=c184a919a1af6d89bf1f6e900e5d3007&exp=1790093298&sig=c750cd696387e02e736e2977a19019dd00d80d00231a7c93efe6034bc4c332c9
 爱尔达生活英语,http://tv123.cc.cd/live.php?ch=1777&sid=1061a543d889b3bc25493d18adf4e0f1&exp=1790179472&sig=2accba6af8362a02d30437d73c9dc779631e02997acb17e6ee6107b1144310ab
+爱尔达生活英语,http://tv123.cc.cd/live.php?ch=2674&sid=07b18ad0c3479c038091a672988f0fbe&exp=1790265580&sig=2844a3b522988139f923f7103529c1c548291ec217aaf3fab0bfc778d4853113
 
 湖南频道🌏,#genre#
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-5.m3u8

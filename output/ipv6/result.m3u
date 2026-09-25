@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-09-24 13:56:01
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-09-25 14:08:24
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="央视频道🇨🇳",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1601,6 +1601,8 @@ https://hls-gateway.vpstv.net/streams/708857.m3u8
 https://hls-gateway.vpstv.net/streams/708853.m3u8
 #EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV怀旧剧场.png" group-title="央视频道🇨🇳",CCTV怀旧剧场
 https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
+#EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="CCTV怀旧剧场" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV怀旧剧场.png" group-title="央视频道🇨🇳",CCTV怀旧剧场
+http://ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
 #EXTINF:-1 tvg-id="CCTV老故事" tvg-name="CCTV老故事" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV老故事.png" group-title="央视频道🇨🇳",CCTV老故事
 http://tv123.cc.cd/live.php?ch=2377&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=47ac70d7fd3bd6405c9aefd8071d095bb8532eea38f48c5e07210b1fe6a23d73
 #EXTINF:-1 tvg-id="CCTV老故事" tvg-name="CCTV老故事" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV老故事.png" group-title="央视频道🇨🇳",CCTV老故事
@@ -3845,6 +3847,8 @@ http://z.b.bkpcp.top/m.php?id=nmws
 http://t.061899.xyz/tl/tl.php?id=nmws
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/内蒙古卫视.png" group-title="卫视频道🛸",内蒙古卫视
 http://go.bkpcp.top/mg/nmws
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/内蒙古卫视.png" group-title="卫视频道🛸",内蒙古卫视
+http://j.x.bkpcp.top/jx/NMGWS
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/宁夏卫视.png" group-title="卫视频道🛸",宁夏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/宁夏卫视.png" group-title="卫视频道🛸",宁夏卫视
@@ -6163,6 +6167,8 @@ https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 http://ott.mobaibox.com/PLTV/-/224/3221227606/index.m3u8
 #EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/NewTV动作电影.png" group-title="数字付费🎞️",NewTV动作电影
 http://gxyd.484947.xyz/PLTV/77777777/224/3221225703/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+#EXTINF:-1 tvg-id="NewTV动作电影" tvg-name="NewTV动作电影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/NewTV动作电影.png" group-title="数字付费🎞️",NewTV动作电影
+http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
 #EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/NewTV惊悚悬疑.png" group-title="数字付费🎞️",NewTV惊悚悬疑
 http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
 #EXTINF:-1 tvg-id="NewTV惊悚悬疑" tvg-name="NewTV惊悚悬疑" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/NewTV惊悚悬疑.png" group-title="数字付费🎞️",NewTV惊悚悬疑
@@ -19611,6 +19617,8 @@ http://tv123.cc.cd/live.php?ch=1755&sid=c184a919a1af6d89bf1f6e900e5d3007&exp=179
 http://tv123.cc.cd/live.php?ch=1777&sid=1061a543d889b3bc25493d18adf4e0f1&exp=1790179472&sig=2accba6af8362a02d30437d73c9dc779631e02997acb17e6ee6107b1144310ab
 #EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
 http://tv123.cc.cd/live.php?ch=2674&sid=07b18ad0c3479c038091a672988f0fbe&exp=1790265580&sig=2844a3b522988139f923f7103529c1c548291ec217aaf3fab0bfc778d4853113
+#EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
+http://tv123.cc.cd/live.php?ch=1862&sid=b7bf7107c78420f1df87b97da0bed6f7&exp=1790352872&sig=a83495b2b4c30f9edf67fad747f1aa6a3d8b0fd0986c75a597ab340c7406b4b9
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南经视.png" group-title="湖南频道🌏",湖南经视
 https://stream1.freetv.fun/hu-nan-jing-shi-5.m3u8
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南经视.png" group-title="湖南频道🌏",湖南经视

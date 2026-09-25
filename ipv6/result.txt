@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-09-24 13:56:01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-09-25 14:08:24,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道🇨🇳,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -802,6 +802,7 @@ CCTV央视台球,https://hls-gateway.vpstv.net/streams/708855.m3u8
 CCTV高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 CCTV怀旧剧场,https://hls-gateway.vpstv.net/streams/708853.m3u8
 CCTV怀旧剧场,https://gd202.tv1288.xyz/tsfile/live/1048_1.m3u8
+CCTV怀旧剧场,http://ott.mobaibox.com/PLTV/4/224/3221228671/index.m3u8
 CCTV老故事,http://tv123.cc.cd/live.php?ch=2377&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=47ac70d7fd3bd6405c9aefd8071d095bb8532eea38f48c5e07210b1fe6a23d73
 CCTV老故事,https://live.chinacert.cftest5.cn/cnmg/live/884121956
 CCTV老故事,http://tv123.cc.cd/live.php?ch=2395&sid=a9aa9cf3e6e90082ea263eec02ba391c&exp=1786021979&sig=a95705e542e8b10b38e56e98554b07d9348bd38932efff164c352b47adca7cd1
@@ -1926,6 +1927,7 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 内蒙古卫视,http://z.b.bkpcp.top/m.php?id=nmws
 内蒙古卫视,http://t.061899.xyz/tl/tl.php?id=nmws
 内蒙古卫视,http://go.bkpcp.top/mg/nmws
+内蒙古卫视,http://j.x.bkpcp.top/jx/NMGWS
 宁夏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
@@ -3087,6 +3089,7 @@ NewTV动作电影,http://cdnrrs.gx.chinamobile.com/PLTV/77777777/224/3221225703/
 NewTV动作电影,https://iptv.catvod.com/live.php?id=NewTV%E5%8A%A8%E4%BD%9C%E7%94%B5%E5%BD%B1
 NewTV动作电影,http://ott.mobaibox.com/PLTV/-/224/3221227606/index.m3u8
 NewTV动作电影,http://gxyd.484947.xyz/PLTV/77777777/224/3221225703/index.m3u8?servicetype=3&IASHttpSessionId=OTT
+NewTV动作电影,http://ott.mobaibox.com/PLTV/4/224/3221227606/index.m3u8
 NewTV惊悚悬疑,http://[2409:8087:5e00:24::2d]:6610/000000001000/1/1000000004000024282/index.m3u8?channel-id=ystenlive&Contentid=1000000004000024282&livemode=1&stbId=YanG-1989
 NewTV惊悚悬疑,http://[2409:8087:1a0b:df::4002]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225665/index.m3u8
 NewTV惊悚悬疑,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8
@@ -9817,6 +9820,7 @@ HBO温馨家庭,http://tv123.cc.cd/live.php?ch=2196&sid=07d944b083718a5114fe44ba
 爱尔达生活英语,http://tv123.cc.cd/live.php?ch=1755&sid=c184a919a1af6d89bf1f6e900e5d3007&exp=1790093298&sig=c750cd696387e02e736e2977a19019dd00d80d00231a7c93efe6034bc4c332c9
 爱尔达生活英语,http://tv123.cc.cd/live.php?ch=1777&sid=1061a543d889b3bc25493d18adf4e0f1&exp=1790179472&sig=2accba6af8362a02d30437d73c9dc779631e02997acb17e6ee6107b1144310ab
 爱尔达生活英语,http://tv123.cc.cd/live.php?ch=2674&sid=07b18ad0c3479c038091a672988f0fbe&exp=1790265580&sig=2844a3b522988139f923f7103529c1c548291ec217aaf3fab0bfc778d4853113
+爱尔达生活英语,http://tv123.cc.cd/live.php?ch=1862&sid=b7bf7107c78420f1df87b97da0bed6f7&exp=1790352872&sig=a83495b2b4c30f9edf67fad747f1aa6a3d8b0fd0986c75a597ab340c7406b4b9
 
 湖南频道🌏,#genre#
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-5.m3u8

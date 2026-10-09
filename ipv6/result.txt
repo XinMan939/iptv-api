@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-10-08 15:06:41,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+2026-10-09 15:11:11,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 
 央视频道🇨🇳,#genre#
 CCTV1,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -728,6 +728,7 @@ CCTV4K,http://tvgslb.hn.chinamobile.com:8089/180000001002/3202309221102084846200
 CCTV4K,https://tv123.cc.cd/live.php?ch=1667&sid=bd2e0ac84eeefdd655d701a73640d13c&exp=1791293641&sig=50e5791db1a24f124253243f5818ae6dd5a23f5df863723afa3515247bfaac6b
 CCTV4K,https://tv123.cc.cd/live.php?ch=1667&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=d20ae2c559e73a72e342fd2b5b4aabf337e73d4d51f1b2fceaf692aedaad5133
 CCTV4K,https://tv123.cc.cd/live.php?ch=1597&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=ea76a159d0a2d5e327a88e0de1243e771e6ebceae8e229bb56c451bb9c5157f7
+CCTV4K,https://tv123.cc.cd/live.php?ch=1597&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=8c0288df4648bf1d9d18859b0b30b0052a6039609457b540f08af73fdaa10929
 CCTV兵器科技,https://hls-gateway.vpstv.net/streams/708856.m3u8
 CCTV第一剧场,https://hls-gateway.vpstv.net/streams/708862.m3u8
 CCTV第一剧场,http://tl.061833.xyz/tl/null-6
@@ -1481,6 +1482,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 安徽卫视,https://tv123.cc.cd/live.php?ch=1693&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=9811e57ab7e94c2809aa0ff160fdcd2f63099c662bcfe5c419e0adeae719f4d4
 安徽卫视,https://tv123.cc.cd/live.php?ch=1623&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=bc71738085217ceb7e89cf0927bda7b040a90e5327a4976db6b20e218968c2e5
 安徽卫视,https://tv123.cc.cd/live.php?ch=1623&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=bd126d54a809c4cd719c988e339ba4b003a46bc55dbaef4ad0b2209620f6aff8
+安徽卫视,https://tv123.cc.cd/live.php?ch=1623&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=75f5ca01d8bea0238e02bbc4d4bb491665781771b3d0925ad6a2c3e95b33e1be
+安徽卫视,https://tv123.cc.cd/live.php?ch=1623&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=4f825c5d90ab93e9a21459004c1dc7a534c15ebe70906f20fac797061a6d15c2
 重庆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226409/index.m3u8
 重庆卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225618/index.m3u8
@@ -1656,6 +1659,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 广西卫视,https://tv123.cc.cd/live.php?ch=1682&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=70e1366d130db3c66d25c9cfacebd14eb41e4b2c67dc18c9a900888687cd4ad0
 广西卫视,https://tv123.cc.cd/live.php?ch=1612&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=071f1d739cd8bf2dab60ede8faabf23acb4733882b62d8453ff19786f774eb70
 广西卫视,https://tv123.cc.cd/live.php?ch=1612&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=b74c08dc246e264635e1a536a668ddfc8ff4a5563cc33936f4e1478c3a0562af
+广西卫视,https://tv123.cc.cd/live.php?ch=1612&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=1a4ad3e0a39eaf13ff733ad24c33184f026f8afbcdc5abb4ae67121fd8bc2558
+广西卫视,https://tv123.cc.cd/live.php?ch=1612&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=62b210f56cbd715d2708c23b9032e347d4ae2b8e89b2cff273997570a467ab6f
 贵州卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 贵州卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226474/index.m3u8
 贵州卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226474
@@ -1680,6 +1685,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 贵州卫视,https://tv123.cc.cd/live.php?ch=1690&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=de217a868024968a8f91786b64a676fd7c9ea63fc98bfda03ee7141ce18951de
 贵州卫视,https://tv123.cc.cd/live.php?ch=1620&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=86a343439e1ce5e48b66604900ef0404ce87959fc8ed8923a80fd1e9e22a89cd
 贵州卫视,https://tv123.cc.cd/live.php?ch=1620&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=018a8d95efa32db7928bdbf5c7a99dab71888e8bc10c1eae3142bfd95b03c8eb
+贵州卫视,https://tv123.cc.cd/live.php?ch=1620&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=7c1bd02be946d09a1bc0b19bfa89359a328b16528840b67e78bc8a12194e3f64
+贵州卫视,https://tv123.cc.cd/live.php?ch=1620&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=0aea34f7cf2de6a3e3a7fa45f8f6c4985cdb324e93ed860349efaecd92780f5e
 海南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 海南卫视,https://zby.130519.xyz/PLTV/11/224/3221226154/index.m3u8
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
@@ -1980,6 +1987,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 内蒙古卫视,https://tv123.cc.cd/live.php?ch=1700&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=b94b3910a8ef30e9428e0a2ddae92178724163fc9a2978c5737908e4e5506ea8
 内蒙古卫视,https://tv123.cc.cd/live.php?ch=1630&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=bed8967049cad1851523e5df2bcc0103e036ce6c31bae8a2606ece0b7a18ac9b
 内蒙古卫视,https://tv123.cc.cd/live.php?ch=1630&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=308828fbb0c5e85a156cf8f56a81d38745daaf47aee6d99d5d60ce70e4171adb
+内蒙古卫视,https://tv123.cc.cd/live.php?ch=1630&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=a90ac927dfc61608f81d8739c536b1f267079af0ac0930036ae88b5c615e4298
+内蒙古卫视,https://tv123.cc.cd/live.php?ch=1630&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=137fa58618c93df9fa0f52b83dd05c6d67e324a408ca6c50bb47d123dc40b4ed
 宁夏卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225632/index.m3u8
 宁夏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226454/index.m3u8
@@ -2089,6 +2098,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 山东卫视,https://tv123.cc.cd/live.php?ch=1695&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=cad8422200f5cae8a4db83f5d782b0a27fe49f1cc58a0c18a387de9d3203f1ee
 山东卫视,https://tv123.cc.cd/live.php?ch=1625&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=ce14bffaf39f82b92bcf86482030599d05088ed29f1ea01a32a927d16c7235cd
 山东卫视,https://tv123.cc.cd/live.php?ch=1625&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=47341114de1028ef0df511964c5315effde528e86f8c39c0feb894cbf53df5e8
+山东卫视,https://tv123.cc.cd/live.php?ch=1625&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=2486f2141d4792e991118bf913b16c46e9112ef232d3ca57af54b30ca847e6a3
+山东卫视,https://tv123.cc.cd/live.php?ch=1625&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=04d7c47f0a4e38965258f12ad46fdcee86cb93f84a7f65d4510bfa2a52efddba
 山西卫视,https://iptv.catvod.com/catvod.php?id=sxiws
 山西卫视,http://j.x.bkpcp.top/jx/SXWS
 山西卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226392/index.m3u8
@@ -2112,6 +2123,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 山西卫视,https://tv123.cc.cd/live.php?ch=1702&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=3011114ad36dee4b424b245811c8ac7df592f6b0cacbe760f14d9797e22c1622
 山西卫视,https://tv123.cc.cd/live.php?ch=1632&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=b577cba314058f8555feed5232dedc00d4704925b3ae5902da77bdc416c18b67
 山西卫视,https://tv123.cc.cd/live.php?ch=1632&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=a6b2e71ace8f427d99d2a5e3534afc8ea7cf52cd8c71f0dea678d3c81408687d
+山西卫视,https://tv123.cc.cd/live.php?ch=1632&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=e60eb4b2fc62f325452f7c828fde6689e86bb80fac20cab7caae2a01d5306c98
+山西卫视,https://tv123.cc.cd/live.php?ch=1632&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=eeda37ec36c05cc29aa855c73075b8dc20c7c52716cbf59099c2432362f7167c
 陕西卫视,http://tv123.cc.cd/live.php?ch=2389&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=482aad03b714e0765512008868ca7cd922c5f3451d7f9d905ef054935cb6f849
 陕西卫视,https://iptv.catvod.com/catvod.php?id=sxws
 陕西卫视,https://live.chinacert.cftest5.cn/cnmg/live/738910838
@@ -2224,6 +2237,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 深圳卫视,https://tv123.cc.cd/live.php?ch=1686&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=8f1041b1897a1e614b88409e1ad8273700976af6c1544b6ace8d6e8e4ce9697c
 深圳卫视,https://tv123.cc.cd/live.php?ch=1616&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=e707e3fe94f6496dc7891442ba824524960dfc8d01444bd78613befa9afdec24
 深圳卫视,https://tv123.cc.cd/live.php?ch=1616&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=0989614194eeffa05c1e1c918045a1ce1fc1ed040dbc50fb41c5c9a141723974
+深圳卫视,https://tv123.cc.cd/live.php?ch=1616&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=6c10c42c94941786e1b230eaebd52b163f821daeb1c92a2efc04b8b1d609aa21
+深圳卫视,https://tv123.cc.cd/live.php?ch=1616&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=56a7d0e05285dcdf45946bfbaf4db6380daf188ab04697a64bcda5956becf135
 新疆卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 新疆卫视,http://goo.bkpcp.top/mg/xjws
 新疆卫视,http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225635/index.m3u8
@@ -2246,6 +2261,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 新疆卫视,https://tv123.cc.cd/live.php?ch=1705&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=de1eeed3017d6469de8732960692e7bd0c4101222338ef747f99e21486bfdd35
 新疆卫视,https://tv123.cc.cd/live.php?ch=1635&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=a5094fcf23d60f24fa82e2b2673d8934cd4fa18b381c899531a5f975a8e9471c
 新疆卫视,https://tv123.cc.cd/live.php?ch=1635&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=59d1dc72ef7f364990343056e61106f7c251c026698406ce9d927b5d33e7abc4
+新疆卫视,https://tv123.cc.cd/live.php?ch=1635&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=fc05948001054e430a9c841f5dc103ce936662bebe6fcb67351b0405860c9edd
+新疆卫视,https://tv123.cc.cd/live.php?ch=1635&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=8a9552c6cab298520f93bab1bc5d6af576c84cc2406f297170b1bd08ffc1d1b9
 云南卫视,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 云南卫视,https://zby.130519.xyz/PLTV/11/224/3221226109/index.m3u8
 云南卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226444/index.m3u8
@@ -2266,6 +2283,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 云南卫视,https://tv123.cc.cd/live.php?ch=1701&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=cc6ce36e2feefe8c47ce5e2cc604537f29b6118a8307fadac81a411697ab1db4
 云南卫视,https://tv123.cc.cd/live.php?ch=1631&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=1f4deb121ba830eda86b1a0c964a4145fe2ec4cb987e3643403c09732d590579
 云南卫视,https://tv123.cc.cd/live.php?ch=1631&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=033a548647e5e36efcfc791ca57007e501b6e4a19a236aca8c93d0a6b369be91
+云南卫视,https://tv123.cc.cd/live.php?ch=1631&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=26169182be53b3bba3556c94b884951ed5879c8ab4b226f02fcde5a0d6572560
+云南卫视,https://tv123.cc.cd/live.php?ch=1631&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=1fc5dca2ad5d31ed481d2b2a280ac703a4860cdb44fdaf29b8b9d0f991d41555
 三沙卫视,https://live3.hnntv.cn/srs/tv/ssws.m3u8
 三沙卫视,https://stream1.freetv.fun/2476872184d56573ae915237d8e3c990ded214446351f568b57889cbf63da2e8.m3u8
 三沙卫视,http://tv123.cc.cd/live.php?ch=2401&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=d220c31b54b92c8c60fe69d0ac53773d2b3d678327a2cbbdaae8530ae1021ec0
@@ -2342,6 +2361,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 天津卫视,https://tv123.cc.cd/live.php?ch=1696&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=a8e0edec8ac76a1605a28bd3cfd3764d844387928f56cdd50a1244bea51ddfdc
 天津卫视,https://tv123.cc.cd/live.php?ch=1626&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=4021b696bb8a0eb43a89a20e74926c3a47931fcd60b3b13eff121aadf0e6ebb3
 天津卫视,https://tv123.cc.cd/live.php?ch=1626&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=08ec5026f7aa1e9116952aad717335b9a74a14f094cca6f2e264005752b01865
+天津卫视,https://tv123.cc.cd/live.php?ch=1626&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=2eea7c493bd026103f7808726da89640104a3d456284cebe1d0e29db28270f90
+天津卫视,https://tv123.cc.cd/live.php?ch=1626&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=eae968ce3ff38181aee2c84d56843e736968fb48435814986a27720c86c8f26c
 大湾区卫视,http://goo.bkpcp.top/mg/dwqws
 大湾区卫视,https://www.freetv.top/migu/608917627.m3u8?migutoken=bad0a45eea94649f2e7f1b35e1d98d034b874a02984a76abb21e4537dee28f974e6da241dc7705109722be71c8b1302302b51cd4cb06c69ca55fdcf7279d415e0a0fce7c492b6842956ab34fcc
 大湾区卫视,https://stream1.freetv.fun/9e44565ab6186689007a295d8b94b2a970fafde637068b0e3837e5f84689a8f3.m3u8
@@ -2425,6 +2446,8 @@ CETV4,http://tv123.cc.cd/live.php?ch=2445&sid=eb4585c75daefe42c76652ace0a3324d&e
 西藏卫视,https://tv123.cc.cd/live.php?ch=1704&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=baeda6a3fe5a2a998b502913b119b6f0869cd3b389c4f760eed70662227046f1
 西藏卫视,https://tv123.cc.cd/live.php?ch=1634&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=9f9e458be83855415c0ef4b8784848976543224b97a2c14f8802f99a9a3a3e8a
 西藏卫视,https://tv123.cc.cd/live.php?ch=1634&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=818130f9021dfb5a84cb88cce6afc9bb89d9f5472f801e237f7720ae8a3ded85
+西藏卫视,https://tv123.cc.cd/live.php?ch=1634&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=d7ec84ce51070fa53731ca8a01134aac9016cd7fb9a839bfa304231ffa23b57e
+西藏卫视,https://tv123.cc.cd/live.php?ch=1634&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=6be088b320680bd945dcea483b7dc9b84b86268a0e79693674ee634c7f0a9a21
 兵团卫视,http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
 兵团卫视,http://mobilelive-ds.ysp.cctv.cn/ysp/2022606701.m3u8
 兵团卫视,http://tv123.cc.cd/live.php?ch=2398&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=98fd057a900cc065091363756c94868548354b0f31b7a8b046d766c1c6f4eb21
@@ -9925,6 +9948,7 @@ HBO温馨家庭,http://tv123.cc.cd/live.php?ch=2196&sid=07d944b083718a5114fe44ba
 爱尔达生活英语,http://tv123.cc.cd/live.php?ch=1755&sid=5c35972999d9d1961fbafac7c0dc893e&exp=1790701465&sig=4ed6380aa5b5323e53d96c8799c9a37d39c3cfbb11dacf008a249faec189b990
 爱尔达生活英语,http://tv123.cc.cd/live.php?ch=1755&sid=a01af0f4228ba15257660138dea1d4a3&exp=1790787078&sig=408795b4ed19274aee0d4d1dc7a793e7f770a1b02a77dfbfafec81631c16aa45
 爱尔达生活英语,https://tv123.cc.cd/live.php?ch=1788&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=4a1469e1c4edc7da35c501fb493da6ace86e900b8a9d94ec1af3420950d44769
+爱尔达生活英语,https://tv123.cc.cd/live.php?ch=1788&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=e6fc5ee3d308dc8a9b6ab97ac8d8a3e91d6bf91b59d2f17d59f7119a759a91af
 
 湖南频道🌏,#genre#
 湖南经视,https://stream1.freetv.fun/hu-nan-jing-shi-5.m3u8

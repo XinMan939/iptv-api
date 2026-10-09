@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-08 15:06:41
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-09 15:11:11
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="央视频道🇨🇳",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -1453,6 +1453,8 @@ https://tv123.cc.cd/live.php?ch=1667&sid=bd2e0ac84eeefdd655d701a73640d13c&exp=17
 https://tv123.cc.cd/live.php?ch=1667&sid=abd7a941ce43b1e774f36a998617cea6&exp=1791384712&sig=d20ae2c559e73a72e342fd2b5b4aabf337e73d4d51f1b2fceaf692aedaad5133
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV4K.png" group-title="央视频道🇨🇳",CCTV4K
 https://tv123.cc.cd/live.php?ch=1597&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=ea76a159d0a2d5e327a88e0de1243e771e6ebceae8e229bb56c451bb9c5157f7
+#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV4K.png" group-title="央视频道🇨🇳",CCTV4K
+https://tv123.cc.cd/live.php?ch=1597&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=8c0288df4648bf1d9d18859b0b30b0052a6039609457b540f08af73fdaa10929
 #EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV兵器科技.png" group-title="央视频道🇨🇳",CCTV兵器科技
 https://hls-gateway.vpstv.net/streams/708856.m3u8
 #EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV第一剧场.png" group-title="央视频道🇨🇳",CCTV第一剧场
@@ -2955,6 +2957,10 @@ https://tv123.cc.cd/live.php?ch=1693&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1623&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=bc71738085217ceb7e89cf0927bda7b040a90e5327a4976db6b20e218968c2e5
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安徽卫视.png" group-title="卫视频道🛸",安徽卫视
 https://tv123.cc.cd/live.php?ch=1623&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=bd126d54a809c4cd719c988e339ba4b003a46bc55dbaef4ad0b2209620f6aff8
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安徽卫视.png" group-title="卫视频道🛸",安徽卫视
+https://tv123.cc.cd/live.php?ch=1623&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=75f5ca01d8bea0238e02bbc4d4bb491665781771b3d0925ad6a2c3e95b33e1be
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安徽卫视.png" group-title="卫视频道🛸",安徽卫视
+https://tv123.cc.cd/live.php?ch=1623&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=4f825c5d90ab93e9a21459004c1dc7a534c15ebe70906f20fac797061a6d15c2
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/重庆卫视.png" group-title="卫视频道🛸",重庆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226963/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EjTXsJprEx2nE38tdvu5lhA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/重庆卫视.png" group-title="卫视频道🛸",重庆卫视
@@ -3305,6 +3311,10 @@ https://tv123.cc.cd/live.php?ch=1682&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1612&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=071f1d739cd8bf2dab60ede8faabf23acb4733882b62d8453ff19786f774eb70
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广西卫视.png" group-title="卫视频道🛸",广西卫视
 https://tv123.cc.cd/live.php?ch=1612&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=b74c08dc246e264635e1a536a668ddfc8ff4a5563cc33936f4e1478c3a0562af
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广西卫视.png" group-title="卫视频道🛸",广西卫视
+https://tv123.cc.cd/live.php?ch=1612&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=1a4ad3e0a39eaf13ff733ad24c33184f026f8afbcdc5abb4ae67121fd8bc2558
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广西卫视.png" group-title="卫视频道🛸",广西卫视
+https://tv123.cc.cd/live.php?ch=1612&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=62b210f56cbd715d2708c23b9032e347d4ae2b8e89b2cff273997570a467ab6f
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227012/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EnqBF03rFwPucF8ODtWxLQQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
@@ -3353,6 +3363,10 @@ https://tv123.cc.cd/live.php?ch=1690&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1620&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=86a343439e1ce5e48b66604900ef0404ce87959fc8ed8923a80fd1e9e22a89cd
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
 https://tv123.cc.cd/live.php?ch=1620&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=018a8d95efa32db7928bdbf5c7a99dab71888e8bc10c1eae3142bfd95b03c8eb
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
+https://tv123.cc.cd/live.php?ch=1620&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=7c1bd02be946d09a1bc0b19bfa89359a328b16528840b67e78bc8a12194e3f64
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/贵州卫视.png" group-title="卫视频道🛸",贵州卫视
+https://tv123.cc.cd/live.php?ch=1620&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=0aea34f7cf2de6a3e3a7fa45f8f6c4985cdb324e93ed860349efaecd92780f5e
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海南卫视.png" group-title="卫视频道🛸",海南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227029/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EEuBMjt2kLMD8fAO7QYER7Q%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/海南卫视.png" group-title="卫视频道🛸",海南卫视
@@ -3953,6 +3967,10 @@ https://tv123.cc.cd/live.php?ch=1700&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1630&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=bed8967049cad1851523e5df2bcc0103e036ce6c31bae8a2606ece0b7a18ac9b
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/内蒙古卫视.png" group-title="卫视频道🛸",内蒙古卫视
 https://tv123.cc.cd/live.php?ch=1630&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=308828fbb0c5e85a156cf8f56a81d38745daaf47aee6d99d5d60ce70e4171adb
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/内蒙古卫视.png" group-title="卫视频道🛸",内蒙古卫视
+https://tv123.cc.cd/live.php?ch=1630&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=a90ac927dfc61608f81d8739c536b1f267079af0ac0930036ae88b5c615e4298
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/内蒙古卫视.png" group-title="卫视频道🛸",内蒙古卫视
+https://tv123.cc.cd/live.php?ch=1630&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=137fa58618c93df9fa0f52b83dd05c6d67e324a408ca6c50bb47d123dc40b4ed
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/宁夏卫视.png" group-title="卫视频道🛸",宁夏卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227003/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ESco1zinvdUYzleEkXYhIvA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/宁夏卫视.png" group-title="卫视频道🛸",宁夏卫视
@@ -4171,6 +4189,10 @@ https://tv123.cc.cd/live.php?ch=1695&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1625&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=ce14bffaf39f82b92bcf86482030599d05088ed29f1ea01a32a927d16c7235cd
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山东卫视.png" group-title="卫视频道🛸",山东卫视
 https://tv123.cc.cd/live.php?ch=1625&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=47341114de1028ef0df511964c5315effde528e86f8c39c0feb894cbf53df5e8
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山东卫视.png" group-title="卫视频道🛸",山东卫视
+https://tv123.cc.cd/live.php?ch=1625&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=2486f2141d4792e991118bf913b16c46e9112ef232d3ca57af54b30ca847e6a3
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山东卫视.png" group-title="卫视频道🛸",山东卫视
+https://tv123.cc.cd/live.php?ch=1625&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=04d7c47f0a4e38965258f12ad46fdcee86cb93f84a7f65d4510bfa2a52efddba
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
 https://iptv.catvod.com/catvod.php?id=sxiws
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
@@ -4217,6 +4239,10 @@ https://tv123.cc.cd/live.php?ch=1702&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1632&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=b577cba314058f8555feed5232dedc00d4704925b3ae5902da77bdc416c18b67
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
 https://tv123.cc.cd/live.php?ch=1632&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=a6b2e71ace8f427d99d2a5e3534afc8ea7cf52cd8c71f0dea678d3c81408687d
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
+https://tv123.cc.cd/live.php?ch=1632&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=e60eb4b2fc62f325452f7c828fde6689e86bb80fac20cab7caae2a01d5306c98
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
+https://tv123.cc.cd/live.php?ch=1632&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=eeda37ec36c05cc29aa855c73075b8dc20c7c52716cbf59099c2432362f7167c
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/陕西卫视.png" group-title="卫视频道🛸",陕西卫视
 http://tv123.cc.cd/live.php?ch=2389&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=482aad03b714e0765512008868ca7cd922c5f3451d7f9d905ef054935cb6f849
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/陕西卫视.png" group-title="卫视频道🛸",陕西卫视
@@ -4441,6 +4467,10 @@ https://tv123.cc.cd/live.php?ch=1686&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1616&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=e707e3fe94f6496dc7891442ba824524960dfc8d01444bd78613befa9afdec24
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
 https://tv123.cc.cd/live.php?ch=1616&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=0989614194eeffa05c1e1c918045a1ce1fc1ed040dbc50fb41c5c9a141723974
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
+https://tv123.cc.cd/live.php?ch=1616&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=6c10c42c94941786e1b230eaebd52b163f821daeb1c92a2efc04b8b1d609aa21
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
+https://tv123.cc.cd/live.php?ch=1616&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=56a7d0e05285dcdf45946bfbaf4db6380daf188ab04697a64bcda5956becf135
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/新疆卫视.png" group-title="卫视频道🛸",新疆卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227011/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ExAUu61iVvo_xYbANWJhgXw%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/新疆卫视.png" group-title="卫视频道🛸",新疆卫视
@@ -4485,6 +4515,10 @@ https://tv123.cc.cd/live.php?ch=1705&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1635&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=a5094fcf23d60f24fa82e2b2673d8934cd4fa18b381c899531a5f975a8e9471c
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/新疆卫视.png" group-title="卫视频道🛸",新疆卫视
 https://tv123.cc.cd/live.php?ch=1635&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=59d1dc72ef7f364990343056e61106f7c251c026698406ce9d927b5d33e7abc4
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/新疆卫视.png" group-title="卫视频道🛸",新疆卫视
+https://tv123.cc.cd/live.php?ch=1635&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=fc05948001054e430a9c841f5dc103ce936662bebe6fcb67351b0405860c9edd
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/新疆卫视.png" group-title="卫视频道🛸",新疆卫视
+https://tv123.cc.cd/live.php?ch=1635&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=8a9552c6cab298520f93bab1bc5d6af576c84cc2406f297170b1bd08ffc1d1b9
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/云南卫视.png" group-title="卫视频道🛸",云南卫视
 http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227028/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EGfQPqRNVeBjTMsZ48qu0SA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/云南卫视.png" group-title="卫视频道🛸",云南卫视
@@ -4525,6 +4559,10 @@ https://tv123.cc.cd/live.php?ch=1701&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1631&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=1f4deb121ba830eda86b1a0c964a4145fe2ec4cb987e3643403c09732d590579
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/云南卫视.png" group-title="卫视频道🛸",云南卫视
 https://tv123.cc.cd/live.php?ch=1631&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=033a548647e5e36efcfc791ca57007e501b6e4a19a236aca8c93d0a6b369be91
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/云南卫视.png" group-title="卫视频道🛸",云南卫视
+https://tv123.cc.cd/live.php?ch=1631&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=26169182be53b3bba3556c94b884951ed5879c8ab4b226f02fcde5a0d6572560
+#EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/云南卫视.png" group-title="卫视频道🛸",云南卫视
+https://tv123.cc.cd/live.php?ch=1631&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=1fc5dca2ad5d31ed481d2b2a280ac703a4860cdb44fdaf29b8b9d0f991d41555
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三沙卫视.png" group-title="卫视频道🛸",三沙卫视
 https://live3.hnntv.cn/srs/tv/ssws.m3u8
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/三沙卫视.png" group-title="卫视频道🛸",三沙卫视
@@ -4677,6 +4715,10 @@ https://tv123.cc.cd/live.php?ch=1696&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1626&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=4021b696bb8a0eb43a89a20e74926c3a47931fcd60b3b13eff121aadf0e6ebb3
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/天津卫视.png" group-title="卫视频道🛸",天津卫视
 https://tv123.cc.cd/live.php?ch=1626&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=08ec5026f7aa1e9116952aad717335b9a74a14f094cca6f2e264005752b01865
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/天津卫视.png" group-title="卫视频道🛸",天津卫视
+https://tv123.cc.cd/live.php?ch=1626&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=2eea7c493bd026103f7808726da89640104a3d456284cebe1d0e29db28270f90
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/天津卫视.png" group-title="卫视频道🛸",天津卫视
+https://tv123.cc.cd/live.php?ch=1626&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=eae968ce3ff38181aee2c84d56843e736968fb48435814986a27720c86c8f26c
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/大湾区卫视.png" group-title="卫视频道🛸",大湾区卫视
 http://goo.bkpcp.top/mg/dwqws
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/大湾区卫视.png" group-title="卫视频道🛸",大湾区卫视
@@ -4843,6 +4885,10 @@ https://tv123.cc.cd/live.php?ch=1704&sid=abd7a941ce43b1e774f36a998617cea6&exp=17
 https://tv123.cc.cd/live.php?ch=1634&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=9f9e458be83855415c0ef4b8784848976543224b97a2c14f8802f99a9a3a3e8a
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/西藏卫视.png" group-title="卫视频道🛸",西藏卫视
 https://tv123.cc.cd/live.php?ch=1634&sid=eef3cee9034d6527245160505db0ebdb&exp=1791462577&sig=818130f9021dfb5a84cb88cce6afc9bb89d9f5472f801e237f7720ae8a3ded85
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/西藏卫视.png" group-title="卫视频道🛸",西藏卫视
+https://tv123.cc.cd/live.php?ch=1634&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=d7ec84ce51070fa53731ca8a01134aac9016cd7fb9a839bfa304231ffa23b57e
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/西藏卫视.png" group-title="卫视频道🛸",西藏卫视
+https://tv123.cc.cd/live.php?ch=1634&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=6be088b320680bd945dcea483b7dc9b84b86268a0e79693674ee634c7f0a9a21
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/兵团卫视.png" group-title="卫视频道🛸",兵团卫视
 http://php.jdshipin.com/TVOD/hljyd.php?id=3221226439
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/兵团卫视.png" group-title="卫视频道🛸",兵团卫视
@@ -19827,6 +19873,8 @@ http://tv123.cc.cd/live.php?ch=1755&sid=5c35972999d9d1961fbafac7c0dc893e&exp=179
 http://tv123.cc.cd/live.php?ch=1755&sid=a01af0f4228ba15257660138dea1d4a3&exp=1790787078&sig=408795b4ed19274aee0d4d1dc7a793e7f770a1b02a77dfbfafec81631c16aa45
 #EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
 https://tv123.cc.cd/live.php?ch=1788&sid=d48bcbbda198def6c9d36ef36aed7654&exp=1791480091&sig=4a1469e1c4edc7da35c501fb493da6ace86e900b8a9d94ec1af3420950d44769
+#EXTINF:-1 tvg-id="爱尔达生活英语" tvg-name="爱尔达生活英语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/爱尔达生活英语.png" group-title="台湾频道🏞️",爱尔达生活英语
+https://tv123.cc.cd/live.php?ch=1788&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=e6fc5ee3d308dc8a9b6ab97ac8d8a3e91d6bf91b59d2f17d59f7119a759a91af
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南经视.png" group-title="湖南频道🌏",湖南经视
 https://stream1.freetv.fun/hu-nan-jing-shi-5.m3u8
 #EXTINF:-1 tvg-id="湖南经视" tvg-name="湖南经视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南经视.png" group-title="湖南频道🌏",湖南经视

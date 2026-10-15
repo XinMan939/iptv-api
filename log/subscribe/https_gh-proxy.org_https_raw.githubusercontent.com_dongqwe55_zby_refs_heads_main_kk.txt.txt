@@ -239,9 +239,13 @@ CCTV-13,http://bztv.tvbus.cc:8081/cdnlive/cctv13.m3u8
 CCTV-13,http://120.76.248.139/live/bfgd/4200000067.m3u8
 
 
-
-
-
+4k频道,#genre#
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/Y2RuZXhfaWQ9YWxfaGxzX2xkdnQmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
+CCTV8K,http://192.151.150.154/live/cctv8k.m3u8
+东方4K,https://bp-resource-dfl.bestv.cn/148/3/video.m3u8
+河北4K,https://event.pull.hebtv.com:443/live/live101.m3u8
+苏州4K,https://live-auth.51kandianshi.com/szgd/csztv4k_hd.m3u8
 
 
 
@@ -256,6 +260,8 @@ CCTV-13,http://120.76.248.139/live/bfgd/4200000067.m3u8
 快乐垂钓,http://222.134.19.49:8090/961930263
 快乐垂钓,https://live.chinacert.cftest5.cn/cnmg/live/961930263
 快乐垂钓,http://39.165.39.49:19901/tsfile/live/1115_1.m3u8?key=txiptv&playlive=0&authid=0
+
+
 
 北京卫视,http://222.85.198.92:8000/hls/29/index.m3u8
 湖南卫视,http://222.85.198.92:8000/hls/17/index.m3u8
@@ -653,7 +659,53 @@ CCTV-13,http://120.76.248.139/live/bfgd/4200000067.m3u8
 咪咕直播9,http://gslbserv.itv.cmvideo.cn:80/3000000001000028638/index.m3u8?channel-id=FifastbLive&Contentid=3000000001000028638&livemode=1&stbId=3%24
 
 
+咪-世-界,#genre#
+睛彩篮球,http://45.192.97.170:8880/play/464.m3u8
+睛彩青少,http://45.192.97.170:8880/play/465.m3u8
+睛彩广场舞,http://45.192.97.170:8880/play/466.m3u8
+睛彩竞技,http://45.192.97.170:8880/play/467.m3u8
+咪咕视频-1,http://45.192.97.170:8880/play/468.m3u8
+咪咕视频-2,http://45.192.97.170:8880/play/469.m3u8
+咪咕视频-3,http://45.192.97.170:8880/play/470.m3u8
+咪咕视频-4,http://45.192.97.170:8880/play/471.m3u8
+咪咕视频-5,http://45.192.97.170:8880/play/472.m3u8
+咪咕视频-6,http://45.192.97.170:8880/play/473.m3u8
+咪咕视频-7,http://45.192.97.170:8880/play/474.m3u8
+咪咕视频-8,http://45.192.97.170:8880/play/475.m3u8
+咪咕视频-9,http://45.192.97.170:8880/play/476.m3u8
+咪咕视频-10,http://45.192.97.170:8880/play/477.m3u8
+咪咕视频-11,http://45.192.97.170:8880/play/478.m3u8
+咪咕视频-12,http://45.192.97.170:8880/play/479.m3u8
+咪咕视频-13,http://45.192.97.170:8880/play/480.m3u8
+咪咕视频-14,http://45.192.97.170:8880/play/481.m3u8
+咪咕视频-15,http://45.192.97.170:8880/play/482.m3u8
+咪咕视频-16,http://45.192.97.170:8880/play/483.m3u8
+咪咕视频-24,http://45.192.97.170:8880/play/484.m3u8
+咪咕视频-25,http://45.192.97.170:8880/play/485.m3u8
+咪咕视频-26,http://45.192.97.170:8880/play/486.m3u8
+咪咕视频-27,http://45.192.97.170:8880/play/487.m3u8
+咪咕视频-28,http://45.192.97.170:8880/play/488.m3u8
+咪咕视频-29,http://45.192.97.170:8880/play/489.m3u8
+咪咕视频-30,http://45.192.97.170:8880/play/490.m3u8
+咪咕视频-31,http://45.192.97.170:8880/play/491.m3u8
+咪咕视频-32,http://45.192.97.170:8880/play/492.m3u8
+咪咕视频-33,http://45.192.97.170:8880/play/493.m3u8
+咪咕视频-34,http://45.192.97.170:8880/play/494.m3u8
+咪咕视频-35,http://45.192.97.170:8880/play/495.m3u8
+咪咕视频-36,http://45.192.97.170:8880/play/496.m3u8
+咪咕视频-37,http://45.192.97.170:8880/play/497.m3u8
+咪咕视频-38,http://45.192.97.170:8880/play/498.m3u8
+咪咕视频-39,http://45.192.97.170:8880/play/499.m3u8
+咪咕视频-40,http://45.192.97.170:8880/play/500.m3u8
+咪咕视频-41,http://45.192.97.170:8880/play/501.m3u8
+咪咕视频-42,http://45.192.97.170:8880/play/502.m3u8
+咪咕视频-43,http://45.192.97.170:8880/play/503.m3u8
+咪咕视频-44,http://45.192.97.170:8880/play/504.m3u8
+咪咕视频-45,http://45.192.97.170:8880/play/505.m3u8
+
 香港港台,#genre#
+無綫新聞台,http://bak.dou.ddns-ip.net/api.php?n=cctvxxx&id=F6144U&tk=4U04NDOE13ra
+Now新聞台,http://bak.dou.ddns-ip.net/api.php?n=xxxtw&id=TkL6PN&tk=SLK5QjnsRiya
 
 翡翠台,https://cdn6.cc.cd/163189/fct
 翡翠台,https://cdn3.indevs.in/stream/tvb/fct/
@@ -828,6 +880,9 @@ PTSxs,http://45.192.97.170:8880/play/454.m3u8
 
 频推,#genre#
 Plus即时频道,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
+凤凰中文,http://bobohome.ignorelist.com:20247/fengshows?id=2.m3u8
+凤凰资讯,http://bobohome.ignorelist.com:20247/fengshows?id=1.m3u8
+凤凰香港,http://bobohome.ignorelist.com:20247/fengshows?id=3.m3u8
 凤凰中文,http://221.7.175.154:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰资讯,http://221.7.175.154:85/tsfile/live/1021_1.m3u8?key=txiptv&playlive=1&authid=0
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8

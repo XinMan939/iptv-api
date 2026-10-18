@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-17 13:44:58
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-18 13:37:23
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="央视频道🇨🇳",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -6043,6 +6043,10 @@ https://tv123.cc.cd/live.php?ch=2158&sid=bdc298e91459152178ad3e87294d6f5f&exp=17
 https://tv123.cc.cd/live.php?ch=2148&sid=e3168dfd5247968bc4972bba4740d19c&exp=1792251815&sig=fe780dbafc616caa5c7566e7e9fc987d0fcca9a98805ac1760663a34032f0fed
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/睛彩青少.png" group-title="数字付费🎞️",睛彩青少
 https://tv123.cc.cd/live.php?ch=2148&sid=4d8fd0b2508f864d3a9f0b7e6eb41935&exp=1792244681&sig=7eaeb58290e784bad55887a792671c7db7cef76a0a79ce792bee038b55dbba80
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/睛彩青少.png" group-title="数字付费🎞️",睛彩青少
+https://tv123.cc.cd/live.php?ch=2148&sid=c785bdca8a6c17a664ad7e23d9da8772&exp=1792338605&sig=433301ced91e8a02187a3ad3c96c09c210b515cbf523b40f101cf6318f8eecb8
+#EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/睛彩青少.png" group-title="数字付费🎞️",睛彩青少
+https://tv123.cc.cd/live.php?ch=2148&sid=2d93bde6f66ad2dba5ae631e89674f0d&exp=1792330916&sig=7a25c8f8f7b9191ad06f739de021d6ba5c6e7bbea0cb12201347f11432068a7a
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/睛彩广场舞.png" group-title="数字付费🎞️",睛彩广场舞
 https://iptv.catvod.com/live.php?id=%E7%9D%9B%E5%BD%A9%E5%B9%BF%E5%9C%BA%E8%88%9E
 #EXTINF:-1 tvg-id="睛彩广场舞" tvg-name="睛彩广场舞" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/睛彩广场舞.png" group-title="数字付费🎞️",睛彩广场舞
@@ -17329,6 +17333,10 @@ https://tv123.cc.cd/live.php?ch=1998&sid=bdc298e91459152178ad3e87294d6f5f&exp=17
 https://tv123.cc.cd/live.php?ch=1998&sid=e3168dfd5247968bc4972bba4740d19c&exp=1792251815&sig=4c9dd3faaaf75c5f7bc9704dde61284bc3d6c59b56d2bfc86eb7e21cc8cf8f83
 #EXTINF:-1 tvg-id="EYETV旅游" tvg-name="EYETV旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV旅游.png" group-title="台湾频道🏞️",EYETV旅游
 https://tv123.cc.cd/live.php?ch=1998&sid=4d8fd0b2508f864d3a9f0b7e6eb41935&exp=1792244681&sig=a94f6bd4f5358fb169dd839226dd997a24b0943ce53fe95e0be1d57a870a1e16
+#EXTINF:-1 tvg-id="EYETV旅游" tvg-name="EYETV旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV旅游.png" group-title="台湾频道🏞️",EYETV旅游
+https://tv123.cc.cd/live.php?ch=1998&sid=c785bdca8a6c17a664ad7e23d9da8772&exp=1792338605&sig=21d40b6514bc410607df950786381513af1992fb50d8e4b96a0725a2a49f214c
+#EXTINF:-1 tvg-id="EYETV旅游" tvg-name="EYETV旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV旅游.png" group-title="台湾频道🏞️",EYETV旅游
+https://tv123.cc.cd/live.php?ch=1998&sid=2d93bde6f66ad2dba5ae631e89674f0d&exp=1792330916&sig=9feb62dd087c1f22e4bc76fe2d048d264f4521dae2990a3187ac6f0f3c2c136b
 #EXTINF:-1 tvg-id="EYETV戏剧" tvg-name="EYETV戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV戏剧.png" group-title="台湾频道🏞️",EYETV戏剧
 http://tv123.cc.cd/live.php?ch=573&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=f56944e4d2ad028538b349d97e1bc92070b351191f31f8d3cb5102240f5db4be
 #EXTINF:-1 tvg-id="EYETV戏剧" tvg-name="EYETV戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV戏剧.png" group-title="台湾频道🏞️",EYETV戏剧

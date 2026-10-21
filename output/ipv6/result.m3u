@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-20 14:07:22
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-21 13:54:01
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="央视频道🇨🇳",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -4201,6 +4201,8 @@ https://tv123.cc.cd/live.php?ch=1625&sid=eef3cee9034d6527245160505db0ebdb&exp=17
 https://tv123.cc.cd/live.php?ch=1625&sid=034bd7c866410e389e6d4be867c7d19f&exp=1791566701&sig=2486f2141d4792e991118bf913b16c46e9112ef232d3ca57af54b30ca847e6a3
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山东卫视.png" group-title="卫视频道🛸",山东卫视
 https://tv123.cc.cd/live.php?ch=1625&sid=9ab2c1aba726e95a653cf714b04b7c70&exp=1791549810&sig=04d7c47f0a4e38965258f12ad46fdcee86cb93f84a7f65d4510bfa2a52efddba
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山东卫视.png" group-title="卫视频道🛸",山东卫视
+http://j.s.bkpcp.top/jj/snws
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
 https://iptv.catvod.com/catvod.php?id=sxiws
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
@@ -17349,6 +17351,10 @@ https://tv123.cc.cd/live.php?ch=1991&sid=f3a7ca7bc4b249b7584f0492d8efa9ec&exp=17
 https://tv123.cc.cd/live.php?ch=1991&sid=d9529b47859fbd4a8780e29e72cbf957&exp=1792512716&sig=119dcd40ece06350960ec7b26cdba983bb5ef3586d55a340fd622ab92349edad
 #EXTINF:-1 tvg-id="EYETV旅游" tvg-name="EYETV旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV旅游.png" group-title="台湾频道🏞️",EYETV旅游
 https://tv123.cc.cd/live.php?ch=1991&sid=74b8639c02457aa5b8f364d4126eaf63&exp=1792505799&sig=1ce9305b1666f6525a142c76cfb181eb9fa21bedcdfdf894f1754cd49d314ea8
+#EXTINF:-1 tvg-id="EYETV旅游" tvg-name="EYETV旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV旅游.png" group-title="台湾频道🏞️",EYETV旅游
+https://tv123.cc.cd/live.php?ch=1992&sid=e4536b9e83c05ffda88e5916fc70292c&exp=1792598408&sig=a18febb5e6d61f31c2e55d4d1216c248f4e903eb5ec8585ab4bf631b3795f5a3
+#EXTINF:-1 tvg-id="EYETV旅游" tvg-name="EYETV旅游" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV旅游.png" group-title="台湾频道🏞️",EYETV旅游
+https://tv123.cc.cd/live.php?ch=1992&sid=ac5b4027efe0d0d5bd64e68112cf164a&exp=1792591800&sig=62027e456b8f81730c83609eee5078b8054627b6377243d5f9cdb9f0fa7969ae
 #EXTINF:-1 tvg-id="EYETV戏剧" tvg-name="EYETV戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV戏剧.png" group-title="台湾频道🏞️",EYETV戏剧
 http://tv123.cc.cd/live.php?ch=573&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=f56944e4d2ad028538b349d97e1bc92070b351191f31f8d3cb5102240f5db4be
 #EXTINF:-1 tvg-id="EYETV戏剧" tvg-name="EYETV戏剧" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/EYETV戏剧.png" group-title="台湾频道🏞️",EYETV戏剧

@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-24 13:40:57
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-25 13:45:21
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="央视频道🇨🇳",CCTV1
 http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
@@ -9071,6 +9071,8 @@ https://tv123.cc.cd/live.php?ch=578&sid=03080d03128372e5ce0e185b03d5b70d&exp=179
 https://tv123.cc.cd/live.php?ch=703&sid=4ba438e4645abfd104e612e855ef51e9&exp=1792857473&sig=ae9d769712a07253dbd65442791b7bbbb51cb52a86092cfc6082b7924f1b66bc
 #EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK35.png" group-title="港澳频道🇭🇰",RTHK35
 https://tv123.cc.cd/live.php?ch=709&sid=9a9692a08fd3d3aae120b3a59c8d0851&exp=1792850849&sig=3a783edc7e4c7abffef09b0565526b097117620cee55a7cd5f1a1f9d901570ef
+#EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/RTHK35.png" group-title="港澳频道🇭🇰",RTHK35
+https://tv123.cc.cd/live.php?ch=716&sid=051f7d87bea5d2580107ff03fc6b580e&exp=1792943860&sig=3f1b704e0a15c83fdc3647dbf9847a9b98c2fb52cd791d5526a6c7fa85d990be
 #EXTINF:-1 tvg-id="Now星影" tvg-name="Now星影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Now星影.png" group-title="港澳频道🇭🇰",Now星影
 http://tv123.cc.cd/live.php?ch=1560&sid=383cb17dff83ca4a6f038c3bd12410c2&exp=1786028001&sig=933a4ed85947271e888fe1e6b193f0ae785de95efa801753086f9ecebbbfc430
 #EXTINF:-1 tvg-id="Now星影" tvg-name="Now星影" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/Now星影.png" group-title="港澳频道🇭🇰",Now星影
@@ -20095,6 +20097,10 @@ https://tv123.cc.cd/live.php?ch=585&sid=03080d03128372e5ce0e185b03d5b70d&exp=179
 https://tv123.cc.cd/live.php?ch=710&sid=4ba438e4645abfd104e612e855ef51e9&exp=1792857473&sig=b5db464eaf267cac142d1911a93c2db60653758f153b7368a232c10713e0616f
 #EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南国际.png" group-title="湖南频道🌏",湖南国际
 https://tv123.cc.cd/live.php?ch=716&sid=9a9692a08fd3d3aae120b3a59c8d0851&exp=1792850849&sig=57494e32691862ebe0406401ea4a5e3f861a78d62628c490447b00414c30c6e9
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南国际.png" group-title="湖南频道🌏",湖南国际
+https://tv123.cc.cd/live.php?ch=723&sid=051f7d87bea5d2580107ff03fc6b580e&exp=1792943860&sig=a3645900128bc57b8e753136a5a16db4614235b0f9b39b13678322803f53c9ce
+#EXTINF:-1 tvg-id="湖南国际" tvg-name="湖南国际" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南国际.png" group-title="湖南频道🌏",湖南国际
+https://tv123.cc.cd/live.php?ch=723&sid=01e2ddc8591c7c800bd1a0d99f9948d9&exp=1792936462&sig=1b3cb59f021b0c4d929ace401e680212f16b89b98ef27c8718b2c8c044aa8984
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南娱乐.png" group-title="湖南频道🌏",湖南娱乐
 https://stream1.freetv.fun/hu-nan-yu-le-gao-qing-3.m3u8
 #EXTINF:-1 tvg-id="湖南娱乐" tvg-name="湖南娱乐" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南娱乐.png" group-title="湖南频道🌏",湖南娱乐

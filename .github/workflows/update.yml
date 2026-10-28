@@ -2,7 +2,7 @@ name: Update IPTV Sources
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天运行一次（UTC 0:00 = 北京时间 8:00）
+    - cron: '0 0 * * *'  # 每天 00:00 UTC（北京时间 08:00；GitHub 队列常有 1~5 小时延迟）
   workflow_dispatch:  # 支持手动触发
 
 permissions:
@@ -10,9 +10,16 @@ permissions:
   pages: write
   id-token: write
 
+# 同一时刻只跑一个更新任务：避免定时任务与手动触发叠加，
+# 两次运行同时 push master 时会出现 non-fast-forward 失败
+concurrency:
+  group: iptv-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 200  # 单次更新约 110 分钟，留出余量防止跑飞
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
@@ -20,7 +27,9 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
+          python-version: '3.13'  # 与 Pipfile 的 python_version 保持一致
+          cache: 'pip'
+          cache-dependency-path: requirements.txt
 
       - name: Install FFmpeg
         run: sudo apt-get update && sudo apt-get install -y ffmpeg
@@ -36,14 +45,32 @@ jobs:
       - name: Clean temp files
         run: rm -f output/*.tmp*
 
+      # 兜底：结果为空说明本轮更新异常（源全挂/被限流），
+      # 此时不提交、不发布，Pages 继续保留上一版可用结果
+      - name: Verify results
+        run: |
+          test -s output/result.txt || { echo "::error::result.txt 为空，疑似更新失败"; exit 1; }
+          test -s output/result.m3u || { echo "::error::result.m3u 为空，疑似更新失败"; exit 1; }
+          echo "result.txt: $(wc -c < output/result.txt) 字节"
+          echo "result.m3u: $(wc -c < output/result.m3u) 字节"
+
+      # 同时提交 config/：open_auto_disable_source 是在 config/subscribe.txt / epg.txt
+      # 里加 # 来停用失效源，只提交 output/ 的话这些修正每轮都会被丢弃
       - name: Commit output to master
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git diff --cached --quiet || git commit -m "chore: update output [skip ci]"
-          git push origin master
+          git add -A output/ config/
+          if git diff --cached --quiet; then
+            echo "本轮无变化，跳过提交"
+          else
+            git commit -m "chore: update output [skip ci]"
+            git pull --rebase origin master
+            git push origin master
+          fi
 
+      # keep_files 必须保持 true：gh-pages 根目录还托管着其它页面
+      # （index.html），关掉会把它们一并删掉
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:

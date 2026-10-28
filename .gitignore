@@ -2,3 +2,10 @@ dist
 build
 .idea
 __pycache__/
+
+# 每次更新都会重新生成的大体积日志，不纳入版本管理（仍会发布到 Pages 的 /log 下）
+output/log/speed_test.log
+output/log/unmatch.log
+
+# 更新过程中的临时文件
+output/*.tmp*

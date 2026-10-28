@@ -2,7 +2,7 @@ name: Update IPTV Sources
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天运行一次（UTC 0:00 = 北京时间 8:00）
+    - cron: '0 0 * * *'  # 每天 00:00 UTC（北京 08:00；实际常被 GitHub 队列延迟 1~5 小时）
   workflow_dispatch:  # 支持手动触发
 
 permissions:
@@ -10,16 +10,23 @@ permissions:
   pages: write
   id-token: write
 
+# 同一时刻只允许一个更新任务：定时任务被延迟后容易和手动触发撞车，
+# 两次运行同时 push master 会 non-fast-forward 失败
+concurrency:
+  group: iptv-update
+  cancel-in-progress: false
+
 jobs:
   update:
     runs-on: ubuntu-latest
+    timeout-minutes: 220  # 单次约 110 分钟，留余量但不到默认的 360
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       # v3.1.0 起运行环境要求 Python 3.14，依赖改用 Pipfile / Pipfile.lock（pipenv）
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: '3.14'
           cache: pipenv
@@ -34,24 +41,98 @@ jobs:
           pipenv install --deploy
 
       - name: Run update
+        id: run
         env:
           GITHUB_ACTIONS: true
-        run: pipenv run dev
+        run: |
+          started=$(date +%s)
+          pipenv run dev
+          echo "minutes=$(( ($(date +%s) - started) / 60 ))" >> "$GITHUB_OUTPUT"
 
       - name: Clean temp files
         run: rm -f output/*.tmp*
+
+      # 结果为空说明本轮异常（源全挂 / 被限流 / 解析失败）：
+      # 直接失败，不提交也不发布，Pages 继续保留上一版可用结果
+      - name: Verify results
+        run: |
+          test -s output/result.txt || { echo "::error::result.txt 为空，本轮不提交也不发布"; exit 1; }
+          test -s output/result.m3u || { echo "::error::result.m3u 为空，本轮不提交也不发布"; exit 1; }
+          echo "result.txt $(wc -c < output/result.txt) 字节 / result.m3u $(wc -c < output/result.m3u) 字节"
 
       - name: Commit output to master
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/
-          git diff --cached --quiet || git commit -m "chore: update output [skip ci]"
-          git push origin master
+          git add -A output/
+          # .gitignore 对已跟踪文件无效：把历史上误入库、现在应被忽略的产物移出索引
+          # （speed_test.log / unmatch.log / *.jsonl / channel_results.db 等）
+          git ls-files -i -c --exclude-standard -z | xargs -0 -r git rm --cached --quiet
+          if git diff --cached --quiet; then
+            echo "本轮无变化，跳过提交"
+          else
+            git commit -m "chore: update output [skip ci]"
+            git pull --rebase origin master
+            git push origin master
+          fi
 
+      # keep_files 保持 true：gh-pages 根目录还托管着其它页面（index.html），
+      # 关掉会把它们一起删掉
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./output
           keep_files: true
+
+      # 跑完把关键指标写到 Actions 运行页的 Summary，不用再点进日志翻
+      - name: Write job summary
+        if: always()
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import json, os
+
+          path = "output/log/statistic.jsonl"
+          if not os.path.exists(path):
+              print("### IPTV 更新结果\n\n未找到 statistic.jsonl，本轮可能未产出统计。")
+              raise SystemExit
+
+          rows = []
+          with open(path, encoding="utf-8") as f:
+              for line in f:
+                  line = line.strip()
+                  if not line:
+                      continue
+                  try:
+                      rows.append(json.loads(line))
+                  except json.JSONDecodeError:
+                      pass
+
+          rows = [r for r in rows if r.get("event") == "channel.statistic"] or rows
+          total = len(rows)
+          with_result = sum(1 for r in rows if (r.get("valid") or 0) > 0)
+          empty = [r for r in rows if not (r.get("valid") or 0)]
+          total_valid = sum(r.get("valid") or 0 for r in rows)
+          total_tested = sum(r.get("tested") or 0 for r in rows)
+
+          print("### IPTV 更新结果\n")
+          print(f"| 指标 | 数值 |\n|---|---|")
+          print(f"| 频道数 | {total} |")
+          print(f"| 有结果频道 | {with_result} |")
+          print(f"| 空结果频道 | {len(empty)} |")
+          print(f"| 参与测速接口 | {total_tested} |")
+          print(f"| 有效接口 | {total_valid} |")
+          if os.path.exists("output/result.m3u"):
+              print(f"| result.m3u | {os.path.getsize('output/result.m3u') / 1024:.0f} KB |")
+
+          if empty:
+              empty_sorted = sorted(empty, key=lambda r: r.get("tested") or 0, reverse=True)[:10]
+              print("\n**空结果频道（按候选数 Top 10）**\n")
+              print("| 频道 | 分类 | 候选接口 |\n|---|---|---|")
+              for r in empty_sorted:
+                  print(f"| {r.get('name')} | {r.get('category')} | {r.get('tested')} |")
+          PY
+
+      - name: Report duration
+        if: always()
+        run: echo "本轮更新耗时 ${{ steps.run.outputs.minutes }} 分钟"

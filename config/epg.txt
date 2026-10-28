@@ -1,5 +1,6 @@
 # 这是EPG订阅列表，用于生成M3U结果频道菜单信息
 # This is the EPG subscription list used to generate M3U result channel menu information
-http://e.erw.cc/e.xml.gz
+# 2026-10-28 体检异常：HTTP 502 Bad Gateway，先注释；恢复后取消注释即可
+# http://e.erw.cc/e.xml.gz
 http://epg.51zmt.top:8000/e.xml.gz
 http://epg.51zmt.top:8000/e2.xml.gz

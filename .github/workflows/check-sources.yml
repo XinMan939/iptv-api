@@ -1,0 +1,182 @@
+name: 订阅源体检
+
+# 手动触发：在 Actions 运行环境（和每日更新同一个网络）里逐个探测
+# config/subscribe.txt 与 config/epg.txt 中的源，结果写入运行页 Summary。
+# 只把「明确失效」的源注释掉（HTTP 4xx/5xx、内容为空、返回 HTML 错误页），
+# 超时与解析异常只标记为「需人工确认」，不动配置。
+
+on:
+  workflow_dispatch:
+    inputs:
+      disable_dead:
+        description: '注释掉明确失效的源并提交'
+        type: boolean
+        default: false
+      timeout_seconds:
+        description: '单个源超时（秒）'
+        default: '20'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: iptv-check-sources
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 25
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Probe sources
+        env:
+          DISABLE_DEAD: ${{ inputs.disable_dead }}
+          TIMEOUT: ${{ inputs.timeout_seconds }}
+        run: |
+          python - <<'PY' >> "$GITHUB_STEP_SUMMARY"
+          import gzip
+          import os
+          import socket
+          import ssl
+          import urllib.error
+          import urllib.parse
+          import urllib.request
+
+          TIMEOUT = float(os.environ.get("TIMEOUT") or 20)
+          DISABLE_DEAD = str(os.environ.get("DISABLE_DEAD", "")).lower() == "true"
+          READ_LIMIT = 2 * 1024 * 1024
+          UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                "(KHTML, like Gecko) Chrome/126.0 Safari/537.36")
+
+          CTX = ssl.create_default_context()
+          CTX.check_hostname = False
+          CTX.verify_mode = ssl.CERT_NONE
+
+          # 明确失效 -> 可以自动注释；其余只报告
+          DEAD_VERDICTS = {"HTTP", "EMPTY", "HTML"}
+
+
+          def safe_url(url):
+              """含中文/空格的地址要先做百分号转义，否则 urllib 直接抛 ascii 编码错误"""
+              return urllib.parse.quote(url, safe=":/?#[]@!$&'()*+,;=%~")
+
+
+          def probe(url, kind):
+              """返回 (verdict, code, size, capped, note)"""
+              req = urllib.request.Request(safe_url(url), headers={"User-Agent": UA})
+              try:
+                  with urllib.request.urlopen(req, timeout=TIMEOUT, context=CTX) as resp:
+                      raw = resp.read(READ_LIMIT)
+                      code = resp.status
+                      enc = (resp.headers.get("Content-Encoding") or "").lower()
+              except urllib.error.HTTPError as exc:
+                  return "HTTP", exc.code, 0, False, str(exc.reason)[:50]
+              except (urllib.error.URLError, socket.timeout, TimeoutError, ssl.SSLError, ConnectionError) as exc:
+                  return "TIMEOUT", 0, 0, False, str(getattr(exc, "reason", exc))[:50]
+              except Exception as exc:  # noqa: BLE001
+                  return "ERROR", 0, 0, False, str(exc)[:50]
+
+              if raw[:2] == b"\x1f\x8b" or "gzip" in enc:
+                  try:
+                      raw = gzip.decompress(raw)
+                  except Exception:  # noqa: BLE001
+                      pass
+
+              size = len(raw)
+              capped = size >= READ_LIMIT
+              text = raw.decode("utf-8", "ignore")
+              low = text[:4000].lower()
+
+              if size < 200:
+                  return "EMPTY", code, size, capped, text.strip()[:40].replace("\n", " ")
+              if "<html" in low or low.lstrip().startswith("<!doctype"):
+                  return "HTML", code, size, capped, "返回 HTML 页面而非数据"
+              if kind == "epg":
+                  if "<tv" in low or "<?xml" in low:
+                      return "OK", code, size, capped, ""
+                  return "ODD", code, size, capped, text.strip()[:40].replace("\n", " ")
+              if "#extm3u" in low or "#genre#" in low or "," in text:
+                  return "OK", code, size, capped, ""
+              return "ODD", code, size, capped, text.strip()[:40].replace("\n", " ")
+
+
+          ICON = {"OK": "✅", "EMPTY": "⚠️", "HTML": "⚠️", "HTTP": "❌",
+                  "TIMEOUT": "⏱️", "ERROR": "❓", "ODD": "❓"}
+
+          files = {}
+          rows = []
+          dead = {}
+
+          for kind, path in (("subscribe", "config/subscribe.txt"), ("epg", "config/epg.txt")):
+              if not os.path.exists(path):
+                  continue
+              lines = open(path, encoding="utf-8").read().splitlines()
+              files[kind] = lines
+              dead[kind] = []
+              for line in lines:
+                  target = line.strip()
+                  if not target.startswith("http"):
+                      continue
+                  verdict, code, size, capped, note = probe(target, kind)
+                  rows.append({
+                      "kind": kind, "verdict": verdict, "code": code, "size": size,
+                      "capped": capped, "url": target, "note": note,
+                  })
+                  if verdict in DEAD_VERDICTS and code != 429:
+                      dead[kind].append(target)
+
+          order = {"HTTP": 0, "HTML": 1, "EMPTY": 2, "ERROR": 3, "TIMEOUT": 4, "ODD": 5, "OK": 6}
+          rows.sort(key=lambda r: (order.get(r["verdict"], 9), r["kind"], r["url"]))
+
+          counts = {}
+          for row in rows:
+              counts[row["verdict"]] = counts.get(row["verdict"], 0) + 1
+          summary = "、".join(f"{ICON.get(k, '❓')} {k} {v}" for k, v in
+                              sorted(counts.items(), key=lambda kv: order.get(kv[0], 9)))
+
+          print("# 订阅源体检结果\n")
+          print(f"共探测 **{len(rows)}** 个源（超时阈值 {TIMEOUT:.0f}s）：{summary}\n")
+          print("| 类型 | 状态 | HTTP | 大小 | 源 | 备注 |")
+          print("|---|---|---|---|---|---|")
+          for row in rows:
+              url = row["url"]
+              short = url if len(url) <= 68 else url[:65] + "..."
+              size = "-" if not row["size"] else f"{row['size']}{'+' if row['capped'] else ''}"
+              print(f"| {row['kind']} | {ICON.get(row['verdict'], '❓')} {row['verdict']} | "
+                    f"{row['code'] or '-'} | {size} | `{short}` | {row['note']} |")
+
+          pending = [r for r in rows if r["verdict"] in {"TIMEOUT", "ERROR", "ODD"}]
+          if dead.get("subscribe") or dead.get("epg"):
+              print("\n## 明确失效，建议注释\n")
+              for kind in ("subscribe", "epg"):
+                  for url in dead.get(kind, []):
+                      print(f"- `{kind}` `{url}`")
+          else:
+              print("\n## 未发现明确失效的源\n")
+          if pending:
+              print(f"\n> 另有 {len(pending)} 个源「超时/异常/格式异常」，多为网络波动，未自动处理，请看上表人工判断。")
+
+          if DISABLE_DEAD and (dead.get("subscribe") or dead.get("epg")):
+              for kind, path in (("subscribe", "config/subscribe.txt"), ("epg", "config/epg.txt")):
+                  if kind not in files or not dead.get(kind):
+                      continue
+                  out = [f"# {ln}" if ln.strip() in dead[kind] else ln for ln in files[kind]]
+                  with open(path, "w", encoding="utf-8") as handle:
+                      handle.write("\n".join(out) + "\n")
+              print("\n> 已按输入参数注释上述失效源，等待提交。")
+          PY
+
+      - name: Commit changes
+        run: |
+          if git diff --quiet -- config/; then
+            echo "配置无改动"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A config/
+          git commit -m "chore: 注释失效订阅源 [skip ci]"
+          git pull --rebase origin master
+          git push origin master

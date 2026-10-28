@@ -8,7 +8,7 @@ class ChannelData(TypedDict):
     """
     Channel data types, including url, date, resolution, origin and ipv_type
     """
-    id: int
+    id: str
     url: str
     host: str
     date: NotRequired[str | None]
@@ -22,7 +22,9 @@ class ChannelData(TypedDict):
     isp: NotRequired[str | None]
     headers: NotRequired[dict[str, str] | None]
     catchup: NotRequired[dict[str, str] | None]
+    tvg_logo: NotRequired[str | None]
     extra_info: NotRequired[str]
+    supply: NotRequired[bool]
 
 
 CategoryChannelData = dict[str, dict[str, list[ChannelData]]]

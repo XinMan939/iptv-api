@@ -9,8 +9,10 @@ http://wangziduoqing.com/yuan/zb.txt
 https://cdn.qd.je/live.m3u
 https://chuxinya.top/f/2xLkt8/12.28飞扬直播.txt
 https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx_lite.m3u
-https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
+# 2026-10-29 停用：文件仅 892 字节 / 6 条，全是 about1080p.mp4 占位说明，零个真实频道
+#https://gh-proxy.org/https://raw.githubusercontent.com/kimwang1978/collect-txt/refs/heads/main/bbxx_lite.m3u
+# 2026-10-29 停用：文件仅 470 字节，只有一个 #EXTM3U 头，无任何频道条目
+#https://gh-proxy.org/https://raw.githubusercontent.com/develop202/migu_video/refs/heads/main/interface.txt
 # 2026-10-28 体检失效：仓库/文件已 404 Not Found
 # https://gh-proxy.org/https://raw.githubusercontent.com/0610840119/iptv-api/refs/heads/master/output/xp_result.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/DataShare-duo/MovieLiveUrl/refs/heads/main/movie_live.m3u
@@ -22,9 +24,12 @@ https://gh-proxy.org/https://raw.githubusercontent.com/fleung49/star/refs/heads/
 https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
 https://gh-proxy.org/https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
 https://live.264788.xyz/sub/02RsVgdYgMdzVH6DBRKGmdBwFOmOqH/txt
-https://php.946985.filegear-sg.me/jackTV.m3u
-https://live.catvod.com/?tk=bf9107ef730675e6b4d39d1303afb0b1
-https://iptv.catvod.com/catvod_com?token=af8c376298c8d34b9c5a33b758c96db91aefffd1237d8bba1b8c6e16e39f98d4
+# 2026-10-29 停用：被 Cloudflare 挑战页拦截（返回 "Just a moment..." HTML），Actions 环境取不到内容
+#https://php.946985.filegear-sg.me/jackTV.m3u
+# 2026-10-29 停用：被 Cloudflare 挑战页拦截（返回 "Just a moment..." HTML）
+#https://live.catvod.com/?tk=bf9107ef730675e6b4d39d1303afb0b1
+# 2026-10-29 停用：被 Cloudflare 挑战页拦截（返回 "Just a moment..." HTML）
+#https://iptv.catvod.com/catvod_com?token=af8c376298c8d34b9c5a33b758c96db91aefffd1237d8bba1b8c6e16e39f98d4
 # 2026-10-28 体检失效：文件只剩 13 字节（内容仅 "mytv,#genre#"），无可用频道
 # https://gh-proxy.org/https://raw.githubusercontent.com/jack2713/my/refs/heads/main/TMP/TMP.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt

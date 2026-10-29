@@ -2821,3 +2821,12 @@ TVB 功夫,TVB 功夫台
 深圳宝安,深圳宝安|飞扬直播
 江西新闻,江西新闻频道
 江西经济,江西经济|飞扬直播
+# 2026-10-29 补：新增频道里「源池有、名字没对上」的别名（别名取自源站原始拼写；get_primary 区分大小写）
+美国之音,美国之音4gtv,voa美国之音
+CNA亚洲新闻,亚洲新闻,CNA新闻
+Crime Investigation罪案侦缉,CRIME INVESTIGATION,Crime + Investigation HD,Crime & Investigation
+TVBS 精彩,tvbs精彩频陆,tvbs精彩备陆
+JET综合,JET-综合FYtv
+彭博财经,美国·彭博财经
+Classical 古典乐,CLASSICA 古典樂
+TVB 无线生活,TVB-生活

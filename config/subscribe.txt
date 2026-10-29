@@ -48,3 +48,54 @@ https://gh-proxy.org/https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/
 # 网络内才给数据，静态列表存不住，所以交给每轮测速自动筛：拉不到的会被过滤，能用的留下。
 # 实测抽样 24 条有 10 条能出真流（42%，平均 7.9 Mbps）。代价是多 454 个候选，约多跑 9 分钟。
 https://kakaxi.indevs.in/iptv.txt
+# ============================================================
+# 2026-10-30 新增 4 条：从同类仓库的「源清单」里翻出来的原始源
+# ------------------------------------------------------------
+# 怎么翻出来的：
+#   仓库 mytv-android/iptv-api 和 yyyr-otz/iptv-api 跟我们一样跑 iptv-api，
+#   它们提交的 result.m3u 是二手成品（已停用，见上面两处注释）。
+#   所以改成直接扒它们 config/subscribe.txt 里的原始源，逐条下载 + 抽测后再挑：
+#     raw.githubusercontent.com/mytv-android/iptv-api/master/config/subscribe.txt   （35 条）
+#     raw.githubusercontent.com/yyyr-otz/iptv-api/master/config/subscribe.txt       （6 条，是前者的子集）
+#   合并去重 35 条，与我们原有列表零重叠——说明两边走的源池完全不同，这才有补的价值。
+#   体检全记录：est/peer源清单.md
+#
+# 35 条里 21 条已死（404 / 502 网关错 / DMCA 451 / 空文件），剩 14 条能下载。
+# 14 条中体量最大的 8 条各抽前 12 个地址实测（「真流」＝能拉到 m3u8 列表并成功取到首个分片），
+# 只保留下面这 4 条，被排除的 4 条写在文件最末尾。
+# ============================================================
+
+# ① vbskycn/iptv —— iptv4.txt：540 条 / 匹配 123 个频道 / 可补空 6 个
+#    抽测 12 条：真流 9、可拉列表 1、死 2 —— 8 条里存活率最高
+#    出处：mytv-android、yyyr-otz 两家的 subscribe.txt 都有
+#    去重：live.zbds.top/tv/iptv4.txt 是同一份内容的镜像（条目数/匹配数完全一致），不再单列
+https://gh-proxy.com/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+
+# ② Supprise0901/TVBox_live —— live.txt：288 条 / 匹配 190 个频道 / 可补空 4 个（匹配率 66%，最高）
+#    抽测 12 条：真流 4、可拉列表 8、死 0 —— 唯一一条零死亡
+#    出处：mytv-android/iptv-api 的 subscribe.txt
+https://gh-proxy.com/https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+
+# ③ suxuang/myIPTV —— ipv4.m3u：1225 条 / 匹配 702 个频道 / 可补空 45 个（体量最大、补空最多）
+#    抽测 12 条：真流 4、碎流 1、死 7 —— 死链偏多，但基数大，交给每轮测速自动筛
+#    出处：mytv-android、yyyr-otz 两家都有
+https://gh-proxy.com/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+
+# ④ iptv-org/iptv —— streams/cn.m3u：官方频道库的新格式
+#    2026-10-30 实测 511 条；按频道名去重 395 个，其中纯英文/缩写 96 个对上 52 个（54%），
+#    含中文 299 个对上 83 个（28%）。对不上的绝大多数是模板没收录的县级台，不是匹配失败。
+#    出处：mytv-android、yyyr-otz 两家都有
+#    没同时加同仓库的 countries/cn.m3u（gh-pages 老格式，149 条 / 匹配 50），内容与 streams 版重叠
+https://gh-proxy.com/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+
+
+# ------------------------------------------------------------
+# 【同批翻出、但没加的 4 条】留档备查，别当成漏加
+#   alienlu/iptv        iptv.m3u   332 条 / 匹配 220 / 可补空 13 —— 抽 12 条真流 0，全死
+#   xiongjian83/TvBox   live.txt   662 条 / 匹配 75  / 可补空 3  —— 抽 12 条真流 0、仅列表 1；匹配率只有 11%
+#   asdjkl6/tv          l.txt      712 条 —— 整源实测 670 条地址只活 18 条（2.7%），活的全是浙江广电
+#                                           cztv.com 那十个台，我们本来就有，等于零增量
+#   asdjkl6/tv          kk.txt     524 条 —— 整源实测 516 条只活 7 条，且全是百度网盘那支
+#                                           「低调使用 严禁贩卖」警告视频，不是真频道
+#   后两条的完整存活清单：asdjkl6老源存活线路.txt
+# ------------------------------------------------------------

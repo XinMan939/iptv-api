@@ -17,11 +17,16 @@ https://gh-proxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u
 # https://gh-proxy.org/https://raw.githubusercontent.com/0610840119/iptv-api/refs/heads/master/output/xp_result.txt
 https://gh-proxy.org/https://raw.githubusercontent.com/DataShare-duo/MovieLiveUrl/refs/heads/main/movie_live.m3u
 https://gh-proxy.org/https://raw.githubusercontent.com/wudongdefeng/groceries/refs/heads/main/collect_tv.m3u
-https://gh-proxy.org/https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
+# 2026-10-29 停用：对方仓库同样是跑 iptv-api 出来的成品，抓结果等于抓二手产出；
+# 改为直接抓它们的源配置，合并去重后见文件末尾「peer 源合并」区。
+# 对方配置：raw.githubusercontent.com/yyyr-otz/iptv-api/master/config/subscribe.txt
+# https://gh-proxy.org/https://raw.githubusercontent.com/yyyr-otz/iptv-api/refs/heads/master/output/user_result.m3u
 https://gh-proxy.org/https://raw.githubusercontent.com/fleung49/star/refs/heads/main/mit
 # 2026-10-28 体检失效：该仓库已被 DMCA 封禁（HTTP 451，2026-07-01）
 # https://gh-proxy.org/https://raw.githubusercontent.com/lalifeier/IPTV/refs/heads/main/txt/IPTV.txt
-https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
+# 2026-10-29 停用：同上，成品产出，改抓源头。对方配置：
+# raw.githubusercontent.com/mytv-android/iptv-api/master/config/subscribe.txt
+# https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
 https://gh-proxy.org/https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
 https://live.264788.xyz/sub/02RsVgdYgMdzVH6DBRKGmdBwFOmOqH/txt
 # 2026-10-29 停用：被 Cloudflare 挑战页拦截（返回 "Just a moment..." HTML），Actions 环境取不到内容
@@ -43,3 +48,55 @@ https://gh-proxy.org/https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/
 # 网络内才给数据，静态列表存不住，所以交给每轮测速自动筛：拉不到的会被过滤，能用的留下。
 # 实测抽样 24 条有 10 条能出真流（42%，平均 7.9 Mbps）。代价是多 454 个候选，约多跑 9 分钟。
 https://kakaxi.indevs.in/iptv.txt
+
+# ============================================================
+# 2026-10-29 peer 源合并
+# 来自 mytv-android/iptv-api 与 yyyr-otz/iptv-api 两个同构仓库的 config/subscribe.txt。
+# 两边合并、去掉重复和注释里的示例地址后共 35 个，我们原列表与之零重叠。
+# 逐个下载实测：21 个已死（404 / 502 / 超时 / DMCA 451 / 空文件），可用 14 个；
+# 14 个再按下述理由精简到 8 个。
+# 这 8 个合计能匹配模板 2158 条候选，可覆盖当前 255 个零结果频道中的 73 个
+# （这些频道此前一个候选都没有）。预估测速增加约 33 分钟。
+# ============================================================
+
+# 匹配 702 条 / 补 45 个零结果频道——本批最大收益，深圳、广东、海南、四川地方台和港台主要靠它
+https://gh-proxy.org/https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv4.m3u
+# 匹配 420 条 / 补 3 个
+https://gh-proxy.org/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/l.txt
+# 匹配 233 条 / 补 2 个（与上一条同作者但内容零交集，两条都要）
+https://gh-proxy.org/https://raw.githubusercontent.com/asdjkl6/tv/tv/.m3u/整套直播源/测试/整套直播源/kk.txt
+# 匹配 220 条 / 补 13 个
+https://gh-proxy.org/https://raw.githubusercontent.com/alienlu/iptv/refs/heads/master/iptv.m3u
+# 匹配 195 条 / 补 12 个
+https://gh-proxy.org/https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u
+# 匹配 190 条 / 补 4 个
+https://gh-proxy.org/https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
+# 匹配 123 条 / 补 6 个
+https://gh-proxy.org/https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
+# 匹配 75 条 / 补 3 个
+https://gh-proxy.org/https://raw.githubusercontent.com/xiongjian83/TvBox/refs/heads/main/live.txt
+
+# --- 可用但未采用（6 个），附理由 ---
+# 67% 是 IPv6 地址，且补不上任何零结果频道
+# https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u
+# 匹配 51 条但补 0 个（同作者另一个文件此前已因占位内容停用）
+# https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/others_output.txt
+# 匹配 11 条 / 补 0 个
+# https://raw.githubusercontent.com/zwc456baby/iptv_alive/refs/heads/master/live.m3u
+# 匹配 46 条 / 补 1 个，性价比低
+# https://raw.githubusercontent.com/hujingguang/ChinaIPTV/refs/heads/main/cnTV_AutoUpdate.m3u8
+# 与上面 vbskycn 的 iptv4.txt 逐字节相同，是同一份文件的镜像站
+# https://live.zbds.top/tv/iptv4.txt
+# 与上面 iptv-org 的 streams/cn.m3u 同项目，是它的派生视图，只差 45 条
+# https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
+
+# --- 实测已死（21 个），仅作记录，勿启用 ---
+# HTTP 404：Guovin/iptv-database、yuanzl77/IPTV、YueChan/Live、rad168/iptv、
+#   250992941/iptv、lalifeier/IPTV 的 hotel 目录、gitee liliang74120、
+#   mytv-android/China-TV-Live-M3U8
+# HTTP 502：wx.thego.cn 两条（df.txt、backup.m3u）、49.0.205.239:8866
+# 连接超时/无响应：mytv-android/BRTV-Live-M3U8、www.cloudplains.cn、
+#   xzw832/cmys 的 S_CCTV.txt、lalifeier/IPTV 的 m3u、tv.iill.top
+# DMCA 451：gitee mytv-android/mytvJS
+# 空文件（<1KB 无有效条目）：kimwang1978/merged_output.txt、xzw832/S_weishi.txt、
+#   8.138.7.223/v12.txt、live.zbds.top 的 iptv6.txt

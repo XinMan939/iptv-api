@@ -2,7 +2,22 @@
 # https://ds65.tv1288.xyz
 https://gh-proxy.org/https://github.com/alantang1977/cluntop/blob/main/lib/iptv.txt
 http://iptv.4666888.xyz/FYTV.txt
-http://tv123.vvvv.ee/tv.m3u
+# 2026-10-30 停用：这是个二手聚合器，而且 95% 的内容指向互联网档案馆存档。
+# 实测（抽 60 条走第一跳看落点）：
+#   ia600408.us.archive.org      57 条（95%）  ← Internet Archive 的存档视频，不是直播
+#   cdnlivetv.tv911.ccwu.cc       2 条
+#   nonghyup.flive.skcdn.com      1 条
+# 链路是 tv123.vvvv.ee/tv.m3u → 302 → tv123.cc.cd，每条形如
+#   tv123.cc.cd/live.php?ch=429&sid=...&exp=...&sig=...
+# 再 302 到各家二手接口，实测 php.jdshipin.com 全球不可达（curl 与海外 WebFetch 均失败），
+# php.946985.filegear-sg.me 被 Cloudflare 拦（同一个域名我们在 10-29 已因这个原因停用过 jackTV）。
+#
+# 它在上一轮成品里占 759 条（16.8%）：台湾 354/655（54%）、港澳 177/427（41%）、央视 110/977，
+# 113 个频道只靠它撑着。但这些地址从头到尾没被验证过——上一轮测速日志里 tv123 出现 0 次。
+# 原因是 URL 带 sid/exp/sig，每轮都是「新地址」，按 URL 字符串做键的去重和冷冻机制
+# 永远认不出它是同一个流，于是每轮都以新面孔继承进结果。
+# 屏蔽代价：台湾 655→301、港澳 427→250、113 个频道归零；省下 2650 条候选的抓取与测速。
+# http://tv123.vvvv.ee/tv.m3u
 http://wangziduoqing.com/yuan/zb.txt
 # 2026-10-28 体检异常：连续两次 HTTP 502（upstream connect failed），先注释，恢复后可直接取消注释
 # http://yimolan.serv00.net/zb/live.php

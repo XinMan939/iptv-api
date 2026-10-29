@@ -9,3 +9,8 @@ bxtv.3a.ink
 # 黑名单只作用于播放地址、不拦订阅源下载，所以 subscribe.txt 那条也要注释掉。
 # 次要特征是 302 到 static.tv.darwinchow.com/status/error_account_pirated.mp4。
 live.264788.xyz
+# 2026-10-30 新增：二手聚合器，95% 落点是 us.archive.org 存档视频，其余落点域名已死。
+# 详见 config/subscribe.txt 里同名注释。加黑名单的作用是挡住历史继承回来的老地址
+# （订阅源注释后，上一轮结果里的 759 条仍会被 append_old_data 带进来）。
+# 注意只写 tv123.cc.cd，不能写 cc.cd —— 成品里还有 13 条 cdn6.cc.cd 是另一个站，别误伤。
+tv123.cc.cd

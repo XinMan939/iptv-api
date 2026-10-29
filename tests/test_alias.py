@@ -42,8 +42,8 @@ class AliasTests(unittest.TestCase):
 
     def test_alias_catalog_has_no_cross_channel_collisions(self):
         definitions = self._definitions()
-        self.assertEqual(len(definitions), 2769)
-        self.assertEqual(len(self.aliases.primary_to_aliases), 2769)
+        self.assertEqual(len(definitions), 2794)
+        self.assertEqual(len(self.aliases.primary_to_aliases), 2794)
 
         exact_aliases = 0
         regex_aliases = 0
@@ -58,7 +58,7 @@ class AliasTests(unittest.TestCase):
                     owners.setdefault(alias, set()).add(primary)
                     exact_aliases += alias != primary
 
-        self.assertEqual(exact_aliases, 7206)
+        self.assertEqual(exact_aliases, 7243)
         self.assertEqual(regex_aliases, 48)
         self.assertTrue(all(len(channel_owners) == 1 for channel_owners in owners.values()))
 

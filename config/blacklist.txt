@@ -48,3 +48,183 @@ China-TV-Live-M3U8
 BRTV-Live-M3U8
 ChiSheng9/iptv
 youtube.com
+# ============================================================================
+# 2026-10-30 全量实测后按结果拉黑（不是猜的，是一条条拉出来的）
+#
+# 测法：完全复刻 utils/speed.py 的会话（aiohttp、trust_env=False、不走系统代理、直连），
+#       对上一轮成品 result.m3u 的 3306 条逐条拉播放列表，并发 64、超时 8s，用时 259s。
+# 出口：湖南联通（本机真实网络；系统里那个 127.0.0.1:10638 代理没参与）
+# 结果：789 / 3306 = 23.9% 能连通；309 个域名里 192 个全灭，占 2439 条（73.8%）
+#
+# 最大的一块是运营商专网 IPTV 直链（PLTV/... 这种），本质只对同省同运营商宽带内网开放，
+# 跨网（联通宽带访问移动 CDN）一律超时或返回 604/660 区域限制码。
+# 移动系合计 1403 条，0 条能通：
+#   *.chinamobile.com   10 个域名 861 条
+#   2409:8087:*         58 个 IPv6 地址 349 条（移动 IPv6 段）
+#   *.miguvideo.com     6 个域名 115 条（咪咕，统一返回 604）
+#   *.gmcc.net          1 个域名  76 条（广东移动）
+#   *.ottcn.com         1 条
+# 联通/电信 IPTV 域名在成品里本来是 0 个，所以不用担心误伤自己的宽带。
+#
+# 下面每行都对应一批实测 0 通行的地址；某天换网络/换宽带想恢复，删掉对应行即可。
+# ============================================================================
+
+chinamobile.com
+freetv.fun
+miguvideo.com
+mobaibox.com
+php.jdshipin.com
+qd.je
+130519.xyz
+gmcc.net
+061899.xyz
+2409:8087:8:21::18
+vpstv.net
+2409:8087:1e01:20::3
+huuc.edu.cn
+2409:8087:74d9:21::6
+1678520.xyz
+2409:8087:1a01:df::4077
+z.b.bkpcp.top
+31.43.191.125
+wqwqwq.sbs
+2409:8087:5e00:24::1e
+goo.bkpcp.top
+cc.cd
+2409:8087:1a15:10d1::34
+2409:8087:1a01:df::7005
+2409:8087:1a15:10d1::36
+laokhome.cn
+cdn9.163189.xyz
+2409:8087:1a15:10d1::39
+2409:8087:1e01:23::10
+qzz.io
+qfly9236.cn
+wmviv.com
+2409:8087:1a0a:df::404b
+go.bkpcp.top
+j.x.bkpcp.top
+3501776.xyz
+filegear-sg.me
+2409:8087:1a15:10d1::38
+2409:8087:5e00:24::2d
+4gtv.cnlive.club
+2409:8087:1a15:10d1::37
+2409:8087:1a15:10d1::33
+061833.xyz
+gstv.com.cn
+eu.org
+vtibet.cn
+484947.xyz
+cftest5.cn
+2409:8087:5e01:24::16
+cdn6.163189.xyz
+us.kg
+tv1288.xyz
+freetv.top
+ktpremium.world
+us.ci
+2409:8087:1a15:10d1::35
+2409:8087:1a0b:df::4020
+2409:8087:5e08:24::11
+2409:8087:5e00:24::20
+eastscreen.tv
+cdn12.178.indevs.in
+douyincdn.com
+69.30.245.50
+cttv.vip
+tv.pull.hebtv.com
+2409:8087:1400:26::1012
+2409:8087:1a0a:df::4031
+2409:8087:1:20:20::2c
+gat.bkpcp.top
+hnntv.cn
+2409:8087:3428:20:500::100f
+hndt.com
+2409:8087:1e03:21::2
+3344.uk
+2409:8087:5e08:25::16
+ottiptv.cc
+2409:8087:5e08:24::17
+2409:8087:74d6:22::7
+cdn.163189.xyz
+yyf1991.top
+mtoo.vip
+xinxuzhen.com
+1328099.xyz
+cctv.cn
+112.103.141.123
+kylintv.tv
+2409:8087:1a0b:df::4013
+2409:8087:1:20:20::26
+gxtv.cn
+2409:8087:3428:20:500::1009
+2409:8087:7008:20::8
+2409:8087:5e00:24::029
+ggff.net
+2409:8087:1e02:20::10
+dpdns.org
+2409:8087:4c0a:22:1::11
+2409:8087:1a0b:df::4002
+cdn2.163189.xyz
+o11.163189.xyz
+cdn3.163189.xyz
+czkeji.vip
+loc.cc
+128.14.206.166
+goodiptv.club
+4gtv.dxjc.pp.ua
+synology.me
+lfkj88.top
+nas.jdshipin.com
+cdn.jdshipin.com
+v2h.jdshipin.com
+2409:8087:1a01:df::4033
+amg01131-amg01131c1-mytvsuper-apac-7990.playouts.now.amagi.tv
+2409:8087:7001:20:2::3
+h5cul1yar48um3t.wcetv.com
+119.125.134.176
+2409:8087:1a15:10d1::31
+2409:8c02:21c:60::2b
+2409:8087:2001:20:2800:0:df6e:eb1b
+hebyun.com.cn
+lanzhousobey.cn
+2409:8087:2001:20:2800:0:df6e:eb0b
+2409:8087:5e01:34::20
+2409:8087:5e01:34::21
+2409:8087:2001:20:2800:0:df6e:eb21
+2409:8087:1a01:df::4030
+suntao.online
+bestvcdn.com.cn
+2409:8087:1a0b:df::4008
+51zmt.top
+2409:8087:1e02:20::1a
+yy.com
+v1.mk
+plugintool.top
+2409:8087:1a01:df::4021
+2409:8087:3c02:0021:0000:0001:0000:100a
+2409:8087:1a01:df::4001
+zhch682022.cn
+2409:8087:5e08:24::2
+2409:8087:1a01:df::4007
+2409:8087:5e00:24::10
+ottcn.com
+2409:8087:2001:20:2800:0:df6e:eb18
+cdn10.163189.xyz
+2409:8087:5e08:24::12
+tv12.xyz
+2409:8087:7001:20:1000::95
+hssvm.com
+qyong.site
+2409:8087:3869:8021:1001::e5
+707626.xyz
+dyndns.tv
+jdiptv.cc
+live-hls-aje-ak.getaj.net
+1tv41.icu
+211.72.174.95
+skyfilex.fun
+yahao.host
+2001:250:5800:1005::155
+2409:8087:1a0b:df::4005

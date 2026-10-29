@@ -19,7 +19,7 @@ concurrency:
 jobs:
   update:
     runs-on: ubuntu-latest
-    timeout-minutes: 220  # 单次约 110 分钟，留余量但不到默认的 360
+    timeout-minutes: 350  # 777 频道实测约 203 分钟（旧 399 频道约 110~174 分钟），留足余量；上限 360
     steps:
       - name: Checkout code
         uses: actions/checkout@v6
@@ -72,9 +72,16 @@ jobs:
             echo "本轮无变化，跳过提交"
           else
             git commit -m "chore: update output [skip ci]"
-            git pull --rebase origin master
-            git push origin master
           fi
+          # 运行时会因 open_auto_disable_source=True 改写 config/subscribe.txt、
+          # config/epg.txt（给失效源加 #）。这两个文件在 output/ 之外，不会被上面的
+          # git add 收进来，却会让 pull --rebase 因「工作区不干净」直接 exit 128。
+          # Actions 每轮都是全新检出，这种改动本来就存不住，直接丢弃即可。
+          git checkout -- config/subscribe.txt config/epg.txt 2>/dev/null || true
+          # 兜底：其它任何运行态噪声文件也不该阻断拉取
+          git -c core.quotepath=false status --porcelain | head -20 || true
+          git pull --rebase --autostash origin master
+          git push origin master
 
       # keep_files 保持 true：gh-pages 根目录还托管着其它页面（index.html），
       # 关掉会把它们一起删掉

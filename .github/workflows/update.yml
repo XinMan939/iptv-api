@@ -2,7 +2,11 @@ name: Update IPTV Sources
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # 每天 00:00 UTC（北京 08:00；实际常被 GitHub 队列延迟 1~5 小时）
+    # 21:00 UTC = 北京次日凌晨 05:00。GitHub 的 cron 只认 UTC，所以这里是「北京 05:00」。
+    # 实测本轮 777 频道冷启动跑 3h22m，05:00 起跑约 08:25 收尾，早上就能拿到新结果。
+    # 注意 Actions 定时任务常被队列延迟 1~5 小时（原 00:00 UTC 那档被拖到 04:20~05:03 才起跑），
+    # 所以实际收尾可能晚到上午十点前后，属正常。
+    - cron: '0 21 * * *'
   workflow_dispatch:  # 支持手动触发
 
 permissions:

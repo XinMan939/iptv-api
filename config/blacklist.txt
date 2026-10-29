@@ -29,3 +29,22 @@ ali-m-l.cztv.com
 #   play-qukan.cztv.com  实测 404
 zwebl02.cztv.com
 play-qukan.cztv.com
+# 2026-10-30 新增：把「别人的播放列表文件」当成单条线路的地址（列表套列表），以及网页直链。
+# 来源是同行跑出来的成品——我们订阅了 yyyr-otz/iptv-api、mytv-android/iptv-api、
+# 0610840119/iptv-api 的 output，他们的 bug 被我们原样继承了。
+# 实测这一批 57 条全是死的：
+#   mytv-android/China-TV-Live-M3U8/tv.m3u   20 条  404（仓库文件已被删）
+#   mytv-android/BRTV-Live-M3U8/BRTV.m3u     19 条  404
+#   ChiSheng9/iptv/TV32.m3u8 等 4 条         200 但整个文件只有 64 字节，内容是
+#                                                   #EXTM3U / #EXTINF:-1, / https://www.youtube.com/watch?v=...
+#   youtube.com 网页直链                     14 条  网页地址，播放器根本解析不了
+# 为什么能过测速：`.m3u`（单数）不匹配 speed.py:343 的 `.m3u8 in url` 判定，
+# 于是走普通下载测速——拉一个几 KB 的文本文件当然又快又"成功"；ChiSheng9 那几条虽然
+# 进了 m3u8 分支，但它的"分片"就是 youtube 网页，下回来是 HTML，同样有字节数、同样算过。
+# 屏蔽代价：只损失 4 个本来就全靠假地址撑着的频道
+#   （东森财经新闻、寰宇新闻台湾、艾尔达娱乐、镜新闻）。
+# 根治要靠测速层的「叶子校验」（分片本身还是 m3u8/txt/html 就判非法），见待办。
+China-TV-Live-M3U8
+BRTV-Live-M3U8
+ChiSheng9/iptv
+youtube.com

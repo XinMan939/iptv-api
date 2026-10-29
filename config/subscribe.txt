@@ -28,7 +28,19 @@ https://gh-proxy.org/https://raw.githubusercontent.com/fleung49/star/refs/heads/
 # 对方配置：raw.githubusercontent.com/mytv-android/iptv-api/master/config/subscribe.txt
 # https://gh-proxy.org/https://raw.githubusercontent.com/mytv-android/iptv-api/refs/heads/master/output/result.m3u
 https://gh-proxy.org/https://raw.githubusercontent.com/zqhtym/zqhtym.github.io/refs/heads/main/output/LU.m3u
-https://live.264788.xyz/sub/02RsVgdYgMdzVH6DBRKGmdBwFOmOqH/txt
+# 2026-10-30 停用：域名方给地址加了时效签名，静态抓取拿到的全是作废凭证。
+# 先讲清机制（实测，不是猜）：
+#   · livekey 是账号级 token，会轮换。轮换后旧地址不报错，而是 302 到
+#     https://static.tv.darwinchow.com/status/error_account_pirated.mp4 —— 一支 1080p 的
+#     「您可能是盗版资源的受害者」警示视频。因为它是 1080p 真码流，测速判为有效（26 MiB/s），
+#     还排在每个频道第一位，实际打开全是那张图。
+#   · 每次访问 /channel/?streamid=&livekey= 都会现场签发一次性 streamkey+token（带时间戳），
+#     所以地址不存在「可保存的形态」。
+#   · CDN 还有频率限制，批量拉几条就返回 HTTP 429。
+# 结果：上一轮成品 4522 条里它占 366 条（8.1%），卫视频道 16%、福建频道 75%，全是废线路。
+# 屏蔽代价：只有「福建文体」这一个频道会归零，福建系几个台变薄，其它频道无感。
+# 它的订阅链接对本机播放器仍然有效（播放器每次拉新 key 即可），只是不能进这个项目。
+# https://live.264788.xyz/sub/02RsVgdYgMdzVH6DBRKGmdBwFOmOqH/txt
 # 2026-10-29 停用：被 Cloudflare 挑战页拦截（返回 "Just a moment..." HTML），Actions 环境取不到内容
 #https://php.946985.filegear-sg.me/jackTV.m3u
 # 2026-10-29 停用：被 Cloudflare 挑战页拦截（返回 "Just a moment..." HTML）

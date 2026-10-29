@@ -35,3 +35,11 @@ https://live.264788.xyz/sub/02RsVgdYgMdzVH6DBRKGmdBwFOmOqH/txt
 https://gh-proxy.org/https://raw.githubusercontent.com/dongqwe55/zby/refs/heads/main/kk.txt
 
 # https://gh-proxy.org/https://raw.githubusercontent.com/yewengood/kzb/refs/heads/main/zhtv.txt
+
+# 2026-10-29 新增：kakaxi 组播源。体检结果：529 条 / 121 个频道，其中 99 个能匹配上模板
+# （剩下 22 个是模板里没有的频道，不是匹配失败）；可匹配条目 454 条。
+# 特点：100% 是各省运营商「组播转 HTTP」，零单播，形如 http://ip:port/rtp/239.x.x.x:port$北京联通11
+# （涉及北京/河北/山西联通、北京/山东电信、河南联通）。这类地址寿命短、且通常只有对应运营商
+# 网络内才给数据，静态列表存不住，所以交给每轮测速自动筛：拉不到的会被过滤，能用的留下。
+# 实测抽样 24 条有 10 条能出真流（42%，平均 7.9 Mbps）。代价是多 454 个候选，约多跑 9 分钟。
+https://kakaxi.indevs.in/iptv.txt

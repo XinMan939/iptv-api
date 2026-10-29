@@ -14,3 +14,18 @@ live.264788.xyz
 # （订阅源注释后，上一轮结果里的 759 条仍会被 append_old_data 带进来）。
 # 注意只写 tv123.cc.cd，不能写 cc.cd —— 成品里还有 13 条 cdn6.cc.cd 是另一个站，别误伤。
 tv123.cc.cd
+# 2026-10-30 新增：浙江广电的僵尸 CDN，整站播放列表冻结（不是"慢"，是压根不推进）。
+# 实测成品里 20 条全部 HTTP 200，但每个播放列表只剩 3 个分片（24 秒），
+# MEDIA-SEQUENCE 隔 6 分钟拉三次一个数字都不动，PROGRAM-DATE-TIME 停在过去：
+#   三位数路径 channel001~012 等  → 停在 2025-12-30 11:12~11:15（已 10 个月）
+#   两位数路径 channel07/12/03/04/02/21 → 停在 2023-09，channel21 停在 2023-01
+# 为什么能过测速：那 3 个 .ts 还躺在 CDN 上真能下（1.6MB / 1.37MB / 1.43MB 真 MPEG-TS），
+# 测速只数字节 + ffprobe 读分辨率，两项都是真的，于是判有效；播放器播完 24 秒就卡死循环。
+# 活线路在 ali-xwl.cztv.com（9 条实测序列号全部推进，1920x1080 / 1280x720 真实分辨率），
+# 所以只写 ali-m-l，不能写 cztv.com —— 会连带把 ali-xwl 一起误伤。
+ali-m-l.cztv.com
+# 2026-10-30 新增：cztv 的另外两条失效入口，与上面同一批。
+#   zwebl02.cztv.com     auth_key 过期（1792724570 ≈ 2026-10-23），实测 403
+#   play-qukan.cztv.com  实测 404
+zwebl02.cztv.com
+play-qukan.cztv.com

@@ -60,6 +60,20 @@ jobs:
           test -s output/result.m3u || { echo "::error::result.m3u 为空，本轮不提交也不发布"; exit 1; }
           echo "result.txt $(wc -c < output/result.txt) 字节 / result.m3u $(wc -c < output/result.m3u) 字节"
 
+      # 策略是「每轮跑完就清缓存」：cache.gz 只用于跨轮复用历史测速结果，
+      # 留在仓库里下一轮就是热启动。删在提交之前，本轮 push 上去的产物里就不带它，
+      # 下一轮必然是冷启动，也不用再指望 clear-cache.yml 的定时窗口去对齐收尾时间
+      # （实测会错位：定时任务 13:00 跑完，update 13:39 才结束，新缓存又被推回去 = 白清）。
+      # 之后即使某轮 update 因异常提前中断没走到这一步，还有 clear-cache.yml 兜底。
+      - name: Drop cache
+        run: |
+          if [ -f output/data/cache.gz ]; then
+            echo "删除 cache.gz（$(stat -c%s output/data/cache.gz) 字节），下一轮为冷启动"
+            rm -f output/data/cache.gz
+          else
+            echo "本轮未生成 cache.gz，跳过"
+          fi
+
       - name: Commit output to master
         run: |
           git config user.name "github-actions[bot]"

@@ -30,8 +30,12 @@ output/screenshots/
 output/*.tmp*
 
 # ------------------------------------------------------------
-# 仍会入库（供播放器直连 raw 地址 + 下一轮历史复用）：
+# 仍会入库（供播放器直连 raw 地址）：
 #   output/result.txt、output/result.m3u
 #   output/ipv4/、output/ipv6/、output/epg/
-#   output/data/cache.gz、output/data/frozen.gz
+#   output/data/frozen.gz
+#
+# 例外：output/data/cache.gz 虽然会被程序生成，但 update.yml 的
+# 「Drop cache」步骤会在提交前把它删掉，等于「每轮跑完就清」，
+# 所以 master 上通常看不到它。这不是漏提交，是策略。
 # ------------------------------------------------------------

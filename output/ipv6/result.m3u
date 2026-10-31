@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/XinMan939/iptv-api/refs/heads/master/output/epg/epg.gz"
-#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-30 11:33:50
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="🕘️更新时间",2026-10-31 11:16:24
 https://cdn16.123.rr.kg/163189/cctv1
 #EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV1.png" group-title="央视频道🇨🇳",CCTV1
 https://cdn16.123.rr.kg/163189/cctv1
@@ -30,11 +30,9 @@ http://emby.xlangnan.cn:10316/rtp/239.254.201.152:7205
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV3.png" group-title="央视频道🇨🇳",CCTV3
 http://wangfei.uno:9999/rtp/225.1.2.141:10864
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV3.png" group-title="央视频道🇨🇳",CCTV3
-http://0000505.xyz:8888/rtp/239.76.246.153:1234
+http://www.huijie5421.cn:8800/rtp/239.49.8.74:8000
 #EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV3.png" group-title="央视频道🇨🇳",CCTV3
 http://0000505.xyz:8888/rtp/239.76.253.153:9000
-#EXTINF:-1 tvg-id="CCTV-3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV3.png" group-title="央视频道🇨🇳",CCTV3
-http://www.huijie5421.cn:8800/rtp/239.49.8.74:8000
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV4.png" group-title="央视频道🇨🇳",CCTV4
 https://cdn16.123.rr.kg/163189/cctv4
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV4.png" group-title="央视频道🇨🇳",CCTV4
@@ -45,8 +43,6 @@ http://emby.xlangnan.cn:10316/rtp/239.254.200.190:6307
 http://0000505.xyz:8888/rtp/239.76.253.154:9000
 #EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV4.png" group-title="央视频道🇨🇳",CCTV4
 http://0000505.xyz:8888/rtp/239.76.245.195:1234
-#EXTINF:-1 tvg-id="CCTV-4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV4.png" group-title="央视频道🇨🇳",CCTV4
-http://0000505.xyz:8888/rtp/239.76.246.154:1234
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5.png" group-title="央视频道🇨🇳",CCTV5
 https://cdn16.123.rr.kg/163189/cctv5
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5.png" group-title="央视频道🇨🇳",CCTV5
@@ -58,6 +54,8 @@ http://emby.xlangnan.cn:10316/rtp/239.254.201.153:7206
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5.png" group-title="央视频道🇨🇳",CCTV5
 http://0000505.xyz:8888/rtp/239.76.253.155:9000
 #EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5.png" group-title="央视频道🇨🇳",CCTV5
+http://0000505.xyz:8888/rtp/239.76.246.155:1234
+#EXTINF:-1 tvg-id="CCTV-5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5.png" group-title="央视频道🇨🇳",CCTV5
 http://wangfei.uno:9999/rtp/225.1.2.48:10282
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5+.png" group-title="央视频道🇨🇳",CCTV5+
 https://cdn16.123.rr.kg/163189/cctv5p
@@ -66,9 +64,9 @@ http://www.huijie5421.cn:8800/rtp/239.49.8.18:9610
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5+.png" group-title="央视频道🇨🇳",CCTV5+
 http://emby.xlangnan.cn:10316/rtp/239.254.200.46:8004
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5+.png" group-title="央视频道🇨🇳",CCTV5+
-http://x1x.bid:5146/rtp/239.3.1.130:8004
-#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5+.png" group-title="央视频道🇨🇳",CCTV5+
 http://0000505.xyz:8888/rtp/239.76.246.168:1234
+#EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5+.png" group-title="央视频道🇨🇳",CCTV5+
+http://x1x.bid:5146/rtp/239.3.1.130:8004
 #EXTINF:-1 tvg-id="CCTV-5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV5+.png" group-title="央视频道🇨🇳",CCTV5+
 http://0000505.xyz:8888/rtp/239.76.254.215:9000
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV6.png" group-title="央视频道🇨🇳",CCTV6
@@ -76,13 +74,13 @@ https://cdn16.123.rr.kg/163189/cctv6
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV6.png" group-title="央视频道🇨🇳",CCTV6
 http://wangfei.uno:9999/rtp/225.1.2.143:10876
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV6.png" group-title="央视频道🇨🇳",CCTV6
-http://0000505.xyz:8888/rtp/239.76.253.156:9000
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV6.png" group-title="央视频道🇨🇳",CCTV6
 http://www.huijie5421.cn:8800/rtp/239.49.8.76:8000
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV6.png" group-title="央视频道🇨🇳",CCTV6
-http://emby.xlangnan.cn:10316/rtp/239.254.201.154:7207
-#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV6.png" group-title="央视频道🇨🇳",CCTV6
 http://0000505.xyz:8888/rtp/239.76.246.156:1234
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV6.png" group-title="央视频道🇨🇳",CCTV6
+http://0000505.xyz:8888/rtp/239.76.253.156:9000
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV6.png" group-title="央视频道🇨🇳",CCTV6
+http://emby.xlangnan.cn:10316/rtp/239.254.201.154:7207
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV6.png" group-title="央视频道🇨🇳",CCTV6
 https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 #EXTINF:-1 tvg-id="CCTV-7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV7.png" group-title="央视频道🇨🇳",CCTV7
@@ -114,6 +112,8 @@ https://cdn16.123.rr.kg/163189/cctv9
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV9.png" group-title="央视频道🇨🇳",CCTV9
 http://www.huijie5421.cn:8800/rtp/239.49.8.53:9814
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV9.png" group-title="央视频道🇨🇳",CCTV9
+http://0000505.xyz:8888/rtp/239.76.246.159:1234
+#EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV9.png" group-title="央视频道🇨🇳",CCTV9
 http://0000505.xyz:8888/rtp/239.76.253.159:9000
 #EXTINF:-1 tvg-id="CCTV-9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV9.png" group-title="央视频道🇨🇳",CCTV9
 http://emby.xlangnan.cn:10316/rtp/239.254.200.59:8112
@@ -122,11 +122,11 @@ http://wangfei.uno:9999/rtp/225.1.2.80:10474
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV10.png" group-title="央视频道🇨🇳",CCTV10
 https://cdn16.123.rr.kg/163189/cctv10
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV10.png" group-title="央视频道🇨🇳",CCTV10
-http://0000505.xyz:8888/rtp/239.76.246.160:1234
-#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV10.png" group-title="央视频道🇨🇳",CCTV10
 http://www.huijie5421.cn:8800/rtp/239.49.8.54:9818
 #EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV10.png" group-title="央视频道🇨🇳",CCTV10
 http://emby.xlangnan.cn:10316/rtp/239.254.200.160:6000
+#EXTINF:-1 tvg-id="CCTV-10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV10.png" group-title="央视频道🇨🇳",CCTV10
+http://0000505.xyz:8888/rtp/239.76.246.160:1234
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV11.png" group-title="央视频道🇨🇳",CCTV11
 https://xykt-fix.github.io/play/a02b/index.m3u8
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV11.png" group-title="央视频道🇨🇳",CCTV11
@@ -136,77 +136,69 @@ http://emby.xlangnan.cn:10316/rtp/239.254.201.123:8120
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV11.png" group-title="央视频道🇨🇳",CCTV11
 http://0000505.xyz:8888/rtp/239.76.252.251:9000
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV11.png" group-title="央视频道🇨🇳",CCTV11
-http://www.huijie5421.cn:8800/rtp/239.49.0.127:8000
-#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV11.png" group-title="央视频道🇨🇳",CCTV11
 http://wangfei.uno:9999/rtp/225.1.2.220:11434
 #EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV11.png" group-title="央视频道🇨🇳",CCTV11
 http://x1x.bid:5146/rtp/239.3.1.152:8120
+#EXTINF:-1 tvg-id="CCTV-11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV11.png" group-title="央视频道🇨🇳",CCTV11
+http://www.huijie5421.cn:8800/rtp/239.49.0.127:8000
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV12.png" group-title="央视频道🇨🇳",CCTV12
 https://cdn16.123.rr.kg/163189/cctv12
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV12.png" group-title="央视频道🇨🇳",CCTV12
 http://wangfei.uno:9999/rtp/225.1.2.82:10486
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV12.png" group-title="央视频道🇨🇳",CCTV12
-http://0000505.xyz:8888/rtp/239.76.246.162:1234
-#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV12.png" group-title="央视频道🇨🇳",CCTV12
 http://emby.xlangnan.cn:10316/rtp/239.254.200.161:6000
 #EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV12.png" group-title="央视频道🇨🇳",CCTV12
 http://www.huijie5421.cn:8800/rtp/239.49.8.55:9822
+#EXTINF:-1 tvg-id="CCTV-12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV12.png" group-title="央视频道🇨🇳",CCTV12
+http://0000505.xyz:8888/rtp/239.76.246.162:1234
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
 https://event.pull.hebtv.com/jishi/cp1.m3u8
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
-https://10.fast.hidns.vip/163189/cctv13/
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
-http://pull-f5.douyinliving.com/media/stream-120324707569369938/index.m3u8?expire=1793588526&sign=d5137732438a3425a0f3c6f392d88df0&volcSecret=d5137732438a3425a0f3c6f392d88df0&volcTime=1793588526&arch_hrchy=s2&major_anchor_level=vip&s_anchor=1&t_id=037-20261026110206C022BB53C85CE96CBB4E-9qkANP
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
 https://cdn16.123.rr.kg/163189/cctv13
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
+http://emby.xlangnan.cn:10316/rtp/239.254.200.9:8264
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
 http://www.huijie5421.cn:8800/rtp/239.49.8.109:8000
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
-http://emby.xlangnan.cn:10316/rtp/239.254.200.9:8264
+http://wangfei.uno:9999/rtp/225.1.2.74:11584
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
 http://0000505.xyz:8888/rtp/239.76.246.93:1234
 #EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
 http://0000505.xyz:8888/rtp/239.76.253.93:9000
-#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV13.png" group-title="央视频道🇨🇳",CCTV13
-http://wangfei.uno:9999/rtp/225.1.2.74:11584
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV14.png" group-title="央视频道🇨🇳",CCTV14
 https://event.pull.hebtv.com/jishi/cp2.m3u8
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV14.png" group-title="央视频道🇨🇳",CCTV14
 https://cdn16.123.rr.kg/163189/cctv14
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV14.png" group-title="央视频道🇨🇳",CCTV14
-http://0000505.xyz:8888/rtp/239.76.246.164:1234
-#EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV14.png" group-title="央视频道🇨🇳",CCTV14
 http://www.huijie5421.cn:8800/rtp/239.49.8.56:9826
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV14.png" group-title="央视频道🇨🇳",CCTV14
-http://emby.xlangnan.cn:10316/rtp/239.254.200.162:6000
+http://0000505.xyz:8888/rtp/239.76.246.164:1234
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV14.png" group-title="央视频道🇨🇳",CCTV14
-http://0000505.xyz:8888/rtp/239.76.253.164:9000
+http://emby.xlangnan.cn:10316/rtp/239.254.200.162:6000
 #EXTINF:-1 tvg-id="CCTV-14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV14.png" group-title="央视频道🇨🇳",CCTV14
 http://wangfei.uno:9999/rtp/225.1.2.83:10492
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV15.png" group-title="央视频道🇨🇳",CCTV15
 https://cdn16.123.rr.kg/163189/cctv15
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV15.png" group-title="央视频道🇨🇳",CCTV15
-http://0000505.xyz:8888/rtp/239.76.245.252:1234
-#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV15.png" group-title="央视频道🇨🇳",CCTV15
 http://wangfei.uno:9999/rtp/225.1.2.221:11440
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV15.png" group-title="央视频道🇨🇳",CCTV15
 http://x1x.bid:5146/rtp/239.3.1.153:8136
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV15.png" group-title="央视频道🇨🇳",CCTV15
-http://0000505.xyz:8888/rtp/239.76.252.252:9000
+http://0000505.xyz:8888/rtp/239.76.245.252:1234
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV15.png" group-title="央视频道🇨🇳",CCTV15
 http://www.huijie5421.cn:8800/rtp/239.49.0.128:8000
 #EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV15.png" group-title="央视频道🇨🇳",CCTV15
 http://emby.xlangnan.cn:10316/rtp/239.254.201.124:8136
+#EXTINF:-1 tvg-id="CCTV-15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV15.png" group-title="央视频道🇨🇳",CCTV15
+http://0000505.xyz:8888/rtp/239.76.252.252:9000
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV16.png" group-title="央视频道🇨🇳",CCTV16
 https://cdn16.123.rr.kg/163189/cctv16
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV16.png" group-title="央视频道🇨🇳",CCTV16
 http://0000505.xyz:8888/rtp/239.76.246.98:1234
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV16.png" group-title="央视频道🇨🇳",CCTV16
-http://www.huijie5421.cn:8800/rtp/239.49.8.31:8000
-#EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV16.png" group-title="央视频道🇨🇳",CCTV16
 http://emby.xlangnan.cn:10316/rtp/239.254.200.61:6344
 #EXTINF:-1 tvg-id="CCTV-16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV16.png" group-title="央视频道🇨🇳",CCTV16
-http://0000505.xyz:8888/rtp/239.76.254.200:9000
+http://www.huijie5421.cn:8800/rtp/239.49.8.31:8000
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV17.png" group-title="央视频道🇨🇳",CCTV17
 https://cdn16.123.rr.kg/163189/cctv17
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV17.png" group-title="央视频道🇨🇳",CCTV17
@@ -216,7 +208,7 @@ http://wangfei.uno:9999/rtp/225.1.2.53:10312
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV17.png" group-title="央视频道🇨🇳",CCTV17
 http://x1x.bid:5146/rtp/239.3.1.151:8144
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV17.png" group-title="央视频道🇨🇳",CCTV17
-http://0000505.xyz:8888/rtp/239.76.252.238:9000
+http://0000505.xyz:8888/rtp/239.76.245.238:1234
 #EXTINF:-1 tvg-id="CCTV-17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CCTV17.png" group-title="央视频道🇨🇳",CCTV17
 http://emby.xlangnan.cn:10316/rtp/239.254.201.120:8144
 #EXTINF:-1 tvg-id="CGTN英语" tvg-name="CGTN" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN.png" group-title="央视频道🇨🇳",CGTN
@@ -236,15 +228,15 @@ https://0472.org/hls/cgtnf.m3u8
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西班牙语" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN西班牙语.png" group-title="央视频道🇨🇳",CGTN西班牙语
 https://0472.org/hls/cgtnx.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN纪录.png" group-title="央视频道🇨🇳",CGTN纪录
-https://0472.org/hls/cgtnd.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN纪录.png" group-title="央视频道🇨🇳",CGTN纪录
 https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/CGTN纪录.png" group-title="央视频道🇨🇳",CGTN纪录
+https://0472.org/hls/cgtnd.m3u8
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
 http://www.huijie5421.cn:8800/rtp/239.49.8.13:9422
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
-http://0000505.xyz:8888/rtp/239.76.252.189:9000
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
 http://wangfei.uno:9999/rtp/225.1.2.151:10924
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
+http://0000505.xyz:8888/rtp/239.76.252.189:9000
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
 http://0000505.xyz:8888/rtp/239.76.245.189:1234
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广东卫视.png" group-title="卫视频道🛸",广东卫视
@@ -264,19 +256,17 @@ http://0000505.xyz:8888/rtp/239.76.253.182:9000
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/浙江卫视.png" group-title="卫视频道🛸",浙江卫视
 http://0000505.xyz:8888/rtp/239.76.246.182:1234
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
-http://0000505.xyz:8888/rtp/239.76.252.115:9000
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
-http://0000505.xyz:8888/rtp/239.76.253.101:9000
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.48:8012
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
-http://0000505.xyz:8888/rtp/239.76.246.101:1234
+http://0000505.xyz:8888/rtp/239.76.253.101:9000
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
 http://www.huijie5421.cn:8800/rtp/239.49.8.12:9418
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
 http://wangfei.uno:9999/rtp/225.1.2.50:10294
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
 http://0000505.xyz:8888/rtp/239.76.245.115:1234
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖南卫视.png" group-title="卫视频道🛸",湖南卫视
+http://0000505.xyz:8888/rtp/239.76.246.101:1234
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
 http://www.huijie5421.cn:8800/rtp/239.49.8.11:9414
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
@@ -284,17 +274,17 @@ http://emby.xlangnan.cn:10316/rtp/239.254.200.47:8024
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
 http://0000505.xyz:8888/rtp/239.76.253.184:9000
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
-http://0000505.xyz:8888/rtp/239.76.246.184:1234
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
 http://wangfei.uno:9999/rtp/225.1.2.49:10288
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/北京卫视.png" group-title="卫视频道🛸",北京卫视
+http://0000505.xyz:8888/rtp/239.76.246.184:1234
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
 http://wangfei.uno:9999/rtp/225.1.2.90:10534
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.164:6000
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
-http://0000505.xyz:8888/rtp/239.76.253.193:9000
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
 http://www.huijie5421.cn:8800/rtp/239.49.8.8:9632
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
+http://0000505.xyz:8888/rtp/239.76.253.193:9000
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/湖北卫视.png" group-title="卫视频道🛸",湖北卫视
 http://0000505.xyz:8888/rtp/239.76.246.193:1234
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/黑龙江卫视.png" group-title="卫视频道🛸",黑龙江卫视
@@ -304,27 +294,21 @@ https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/重庆卫视.png" group-title="卫视频道🛸",重庆卫视
 http://wangfei.uno:9999/rtp/225.1.2.75:11590
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
-http://0000505.xyz:8888/rtp/239.76.246.186:1234
+http://www.huijie5421.cn:8800/rtp/239.49.8.17:9606
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
 http://wangfei.uno:9999/rtp/225.1.2.86:10510
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
-http://0000505.xyz:8888/rtp/239.76.253.186:9000
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东方卫视.png" group-title="卫视频道🛸",东方卫视
-http://www.huijie5421.cn:8800/rtp/239.49.8.17:9606
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.201.13:6291
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
-http://x1x.bid:5146/rtp/239.3.1.156:8148
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
 http://wangfei.uno:9999/rtp/225.1.2.226:11470
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
-http://0000505.xyz:8888/rtp/239.76.245.190:1234
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
-http://0000505.xyz:8888/rtp/239.76.252.190:9000
+http://x1x.bid:5146/rtp/239.3.1.156:8148
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
 http://www.huijie5421.cn:8800/rtp/239.49.8.112:8000
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/东南卫视.png" group-title="卫视频道🛸",东南卫视
+http://0000505.xyz:8888/rtp/239.76.252.190:9000
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广西卫视.png" group-title="卫视频道🛸",广西卫视
 https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/广西卫视.png" group-title="卫视频道🛸",广西卫视
@@ -352,31 +336,27 @@ https://event.pull.hebtv.com/live/live101.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
 http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
-http://0000505.xyz:8888/rtp/239.76.245.199:1234
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.174:6000
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
-http://wangfei.uno:9999/rtp/225.1.2.106:11614
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
 http://www.huijie5421.cn:8800/rtp/239.49.8.114:8000
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
+http://wangfei.uno:9999/rtp/225.1.2.106:11614
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河北卫视.png" group-title="卫视频道🛸",河北卫视
 http://0000505.xyz:8888/rtp/239.76.252.199:9000
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河南卫视.png" group-title="卫视频道🛸",河南卫视
 http://www.huijie5421.cn:8800/rtp/239.49.8.29:8000
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河南卫视.png" group-title="卫视频道🛸",河南卫视
-http://0000505.xyz:8888/rtp/239.76.246.202:1234
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河南卫视.png" group-title="卫视频道🛸",河南卫视
-http://0000505.xyz:8888/rtp/239.76.253.202:9000
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河南卫视.png" group-title="卫视频道🛸",河南卫视
 http://wangfei.uno:9999/rtp/225.1.2.99:10588
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河南卫视.png" group-title="卫视频道🛸",河南卫视
+http://0000505.xyz:8888/rtp/239.76.246.202:1234
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河南卫视.png" group-title="卫视频道🛸",河南卫视
 http://0000505.xyz:8888/rtp/239.76.246.203:1234
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/河南卫视.png" group-title="卫视频道🛸",河南卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.201.16:7174
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江苏卫视.png" group-title="卫视频道🛸",江苏卫视
-http://0000505.xyz:8888/rtp/239.76.253.181:9000
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江苏卫视.png" group-title="卫视频道🛸",江苏卫视
 http://0000505.xyz:8888/rtp/239.76.246.181:1234
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江苏卫视.png" group-title="卫视频道🛸",江苏卫视
+http://0000505.xyz:8888/rtp/239.76.253.181:9000
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江苏卫视.png" group-title="卫视频道🛸",江苏卫视
 http://wangfei.uno:9999/rtp/225.1.2.84:10498
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江苏卫视.png" group-title="卫视频道🛸",江苏卫视
@@ -384,35 +364,33 @@ http://www.huijie5421.cn:8800/rtp/239.49.8.16:9602
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
 http://wangfei.uno:9999/rtp/225.1.2.77:11602
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
-http://0000505.xyz:8888/rtp/239.76.252.225:9000
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
-http://0000505.xyz:8888/rtp/239.76.245.225:1234
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.201.12:6290
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/江西卫视.png" group-title="卫视频道🛸",江西卫视
+http://0000505.xyz:8888/rtp/239.76.252.225:9000
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/山西卫视.png" group-title="卫视频道🛸",山西卫视
 http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
 http://www.huijie5421.cn:8800/rtp/239.49.8.110:8000
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
-http://0000505.xyz:8888/rtp/239.76.253.91:9000
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
-http://0000505.xyz:8888/rtp/239.76.246.91:1234
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
 http://emby.xlangnan.cn:10316/rtp/239.254.200.202:6325
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
 http://wangfei.uno:9999/rtp/225.1.2.108:11626
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
 http://x1x.bid:5146/rtp/239.3.1.29:8288
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
+http://0000505.xyz:8888/rtp/239.76.253.91:9000
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/四川卫视.png" group-title="卫视频道🛸",四川卫视
+http://0000505.xyz:8888/rtp/239.76.246.91:1234
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
 http://wangfei.uno:9999/rtp/225.1.2.91:10540
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
 http://www.huijie5421.cn:8800/rtp/239.49.8.15:9430
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
+http://emby.xlangnan.cn:10316/rtp/239.254.200.50:8020
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
 http://0000505.xyz:8888/rtp/239.76.253.188:9000
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
 http://0000505.xyz:8888/rtp/239.76.246.188:1234
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/深圳卫视.png" group-title="卫视频道🛸",深圳卫视
-http://emby.xlangnan.cn:10316/rtp/239.254.200.50:8020
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安多卫视.png" group-title="卫视频道🛸",安多卫视
 https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 #EXTINF:-1 tvg-id="安多卫视" tvg-name="安多卫视" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/安多卫视.png" group-title="卫视频道🛸",安多卫视
@@ -651,6 +629,12 @@ http://free.cnlive.club/channel/58197296/index.m3u8
 https://play-drm.aliiptv.com/live/wldy.m3u8?verify=1790055976-wyGtozkwX0NPniGzK_Pn9VczVp6ona8cYC7dp09lPbE
 #EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来体育.png" group-title="台湾频道🏞️",纬来体育
 https://play-drm.aliiptv.com/live/wlty.m3u8?verify=1790056039-l5dP-hMnSKxZJaoDpLw7CDh9I4IqiqEefKCADMe4G1I
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来体育.png" group-title="台湾频道🏞️",纬来体育
+https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来体育.png" group-title="台湾频道🏞️",纬来体育
+https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
+#EXTINF:-1 tvg-id="纬来体育台" tvg-name="纬来体育" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/纬来体育.png" group-title="台湾频道🏞️",纬来体育
+https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://raw.githubusercontent.com/XinMan939/iptv-api/master/config/logo/龙华经典.png" group-title="台湾频道🏞️",龙华经典
 https://8.fast.hidns.vip/163189/lhjd
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/LTV7.png" group-title="台湾频道🏞️",龙华经典

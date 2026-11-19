@@ -1,20 +1,15 @@
 🕘️更新时间,#genre#
-2026-11-18 13:45:01,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
+2026-11-19 13:06:42,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 
 央视频道🇨🇳,#genre#
-CCTV2,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
 CCTV6,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 CCTV9,https://xykt-fix.github.io/Y77.m3u8
 CCTV9,https://cdn16.123.rr.kg/163189/cctv9
 CCTV11,https://xykt-fix.github.io/play/a02b/index.m3u8
 CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13,https://10.fast.hidns.vip/163189/cctv13/
-CCTV13,https://epg.pw/stream/5d3d047c64e44d0a24dc33e5700e579457201d2960036b43819bd930a0bb76a7.m3u8
 CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV14,https://cdn16.123.rr.kg/163189/cctv14
-CCTV16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
-CCTV风云足球,https://epg.pw/stream/6d7bf281e3d739806a73f5373acaa6e01988ec9739f5ac1355ce54b47a928472.m3u8
-CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 CCTV老故事,http://cc.123.rr.kg/163189/cwjd
 CCTV老故事,https://168.sryze.cc/163189/cwjd
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -24,7 +19,6 @@ CGTN,https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
 CGTN,https://hlspackager.akamaized.net/live/DB/CGTN_ENGLISH/HLS/CGTN_ENGLISH.m3u8
 CGTN,https://dai.google.com/linear/hls/event/r4sa-f6GSN2XIvzKv5jVng/master.m3u8
 CGTN法语,https://0472.org/hls/cgtnf.m3u8
-CGTN法语,https://amg01314-cgtn-amg01314c2-rakuten-us-1319.playouts.now.amagi.tv/cgtn-fr-rakuten/playlist.m3u8
 CGTN西班牙语,https://0472.org/hls/cgtnx.m3u8
 CGTN纪录,https://0472.org/hls/cgtnd.m3u8
 CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
@@ -34,15 +28,14 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
-安徽卫视,https://ysp-zb.pages.dev/play/ahws?token=8f3a9c2e7b1d4f6i
-东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
+重庆卫视,https://ysp-zb.pages.dev/play/cqws?token=8f3a9c2e7b1d4f6i
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
+广西卫视,https://ysp-zb.pages.dev/play/gxws?token=8f3a9c2e7b1d4f6i
 河北卫视,https://event.pull.hebtv.com/live/live101.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
-山东卫视,https://ysp-zb.pages.dev/play/sdws?token=8f3a9c2e7b1d4f6i
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
@@ -90,7 +83,6 @@ NewTV海外剧场,https://epg.pw/stream/05e222355206698d11ab0e237cce2cc951137cf3
 凤凰香港,http://r.jdshipin.com/NfC0f
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,http://cc.123.rr.kg/163189/fhhk
-凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
 凤凰中文,http://cc.123.rr.kg/163189/fhzw
 凤凰资讯,http://r.jdshipin.com/0Rp07
@@ -153,8 +145,6 @@ RTHK32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
 天映频道,https://cdn10.123.rr.kg/163189/typd/
 千禧经典,https://cdn3.indevs.in/stream/live/tvbc/
 千禧经典,https://cdn3.123.rr.kg/163189/tvbc
-KIX,https://freem3u.xyz/api/live/play.m3u8?vid=9901
-Love Nature,https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
 HOY 国际财经,https://cdn11.163189.xyz/163189/hoy76
 HOY TV,https://fast.hidns.vip/163189/hoy
 HOY TV,http://r.jdshipin.com/sFw4S
@@ -168,15 +158,9 @@ CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f6
 TVBS,http://xsmt.ccwu.cc/xsmt/smt.php?id=735
 TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 东森新闻,https://d2jc41c1shgcol.cloudfront.net/live/EBCNews/playlist.m3u8
-东森新闻,https://epg.pw/stream/d91376ed07fba14fec3772dd7bfcc266f213294ded9193f751afb3e7ca95f573.m3u8
-东森超视,https://epg.pw/stream/399d56f2f9e2d86aca7f158f518a9cdbe9b672cf3ad82813361922e06eaf4abe.m3u8
-东森综合,https://epg.pw/stream/d8efe6bedc4a8852aafaf7f5e2c0f72096e12f314da5ce617922dd6802352486.m3u8
-东森戏剧,https://epg.pw/stream/5dc124caeeb73ea07e5542cca877600b90f87a42e72b579e267528c3411b073f.m3u8
-东森幼幼,https://epg.pw/stream/de717f629316508933939cc9d90e62b3a86d6377aff1ca390e1717e68c960eb4.m3u8
 寰宇新闻,http://free.cnlive.club/channel/n43c34be8/index.m3u8
 三立新闻,https://d2jc41c1shgcol.cloudfront.net/live/iNEWS/playlist.m3u8
 三立综合,http://free.cnlive.club/channel/6e155cc/index.m3u8
-三立台湾,https://epg.pw/stream/79a263b6160e568f6d3cd91417334e5b08f1638bf5990da99c65d94589d35fb7.m3u8
 三立戏剧,http://free.cnlive.club/channel/6748da0/index.m3u8
 三立都会,http://xsmt.ccwu.cc/xsmt/smt.php?id=2026
 华视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ctsnewsqt/playlist.m3u8
@@ -185,14 +169,9 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
 民视新闻,https://live.catvod.com/catvod_com.php?id=ftvnew_taiwan
 民视新闻,https://d2jc41c1shgcol.cloudfront.net/live/ftvnewsqt/playlist.m3u8
-公视,https://epg.pw/stream/5c0663273403c40461cd1ae04cc5cfa4bb9d5d626270d5ec1754aeb554c3020b.m3u8
 台视新闻,https://live.catvod.com/catvod_com.php?id=ttvnews_twn
-纬来综合,https://epg.pw/stream/03ebc1a8a33908af343e09da79d9d8d08246222c793931c98184be5818a788a1.m3u8
 纬来综合,http://free.cnlive.club/channel/581c693b/index.m3u8
 纬来日本,http://free.cnlive.club/channel/58197296/index.m3u8
-纬来体育,https://epg.pw/stream/4f18dfe0593db5c686eb64ae8edaf2a9202d4d46bdc9bbde2cee27708e12ea01.m3u8
-纬来体育,https://epg.pw/stream/ab6df63b64d0cc44a1f4f029ed847a26fa54a7aebd455578fb05a63f02c22f4b.m3u8
-纬来体育,https://epg.pw/stream/8855a9936e37e608a0ec8a014cce1673dee9c5d68d560da376cc92e5edef2b25.m3u8
 龙华经典,https://8.fast.hidns.vip/163189/lhjd
 龙华经典,https://cdn8.163189.xyz/live/lhjd/stream.m3u8
 龙华偶像,https://8.fast.hidns.vip/163189/lhox
@@ -200,7 +179,6 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 龙华日韩,https://8.fast.hidns.vip/163189/lhrh
 龙华日韩,https://cdn8.163189.xyz/live/lhrh/stream.m3u8
 龙华戏剧,https://8.fast.hidns.vip/163189/lhxj
-龙华戏剧,https://epg.pw/stream/cf908cfdb24cc4a8297f6f7fd955ca7ef3579e892600280fde9cdcfcffb4e481.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8
 天映经典,https://10.fast.hidns.vip/163189/ccm/
 天映经典,https://cdn3.indevs.in/stream/live/ccm/
@@ -208,11 +186,8 @@ TVBS新闻,https://d2jc41c1shgcol.cloudfront.net/live/tvbsnewsqt/playlist.m3u8
 龙华电影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龙华洋片,https://8.fast.hidns.vip/163189/lhyp
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
-HBO原创巨献,https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
 龙华卡通,https://8.fast.hidns.vip/163189/lhkt
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-八大综合,https://epg.pw/stream/adb797f4658363759c5a408dfec1e091e7cfe712fe04afaa3b8d7670efef57e1.m3u8
-美食星球,https://epg.pw/stream/1df3601f344fa4b1c79295aefec312f528d418c2ed0b391b3fe630ed1ddf70fc.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 BBC News,https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8#ttps://jmp2.uk/stvp-US4000033L
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
@@ -258,7 +233,6 @@ CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 浙江频道🌏,#genre#
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
-浙江新闻,https://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
 钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 
@@ -269,7 +243,6 @@ CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 南京新闻综合,http://nklive.nbs.cn/hls/d511bc9d-a694-4453-b3a2-4fc842cc97a1/index.m3u8
 
 海南频道🌏,#genre#
-海南新闻,http://ls.qingting.fm/live/1861.m3u8
 
 广西频道🌏,#genre#
 广西国际,https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8
@@ -281,7 +254,6 @@ CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 江西频道🌏,#genre#
 
 湖北频道🌏,#genre#
-武汉新闻综合,https://ls.qingting.fm/live/20198/64k.m3u8
 
 重庆频道🌏,#genre#
 
@@ -297,11 +269,9 @@ CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 河南频道🌏,#genre#
 
 山东频道🌏,#genre#
-山东新闻,http://ls.qingting.fm/live/60180.m3u8
 山东新闻,http://livealone302.iqilu.com/iqilu/ggpd.m3u8
 山东农科,http://livealone302.iqilu.com/iqilu/nkpd.m3u8
 山东齐鲁,http://livealone302.iqilu.com/iqilu/qlpd.m3u8
-山东生活,http://ls.qingting.fm/live/60260.m3u8
 山东生活,http://livealone302.iqilu.com/iqilu/shpd.m3u8
 山东综艺,http://livealone302.iqilu.com/iqilu/zypd.m3u8
 山东少儿,http://livealone302.iqilu.com/iqilu/sepd.m3u8
@@ -310,6 +280,5 @@ CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 青岛都市,http://video10.qtv.com.cn/drm/qtv5at/manifest.m3u8
 
 辽宁频道🌏,#genre#
-辽宁都市,https://ls.qingting.fm/live/1099/64k.m3u8
 
 吉林频道🌏,#genre#

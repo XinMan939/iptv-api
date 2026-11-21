@@ -1,7 +1,8 @@
 🕘️更新时间,#genre#
-2026-11-20 12:59:45,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
+2026-11-21 12:55:58,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
 
 央视频道🇨🇳,#genre#
+CCTV2,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
 CCTV6,https://live.eac-news.com/CCTV/streams/cctv6.m3u8
 CCTV9,https://xykt-fix.github.io/Y77.m3u8
 CCTV9,https://cdn16.123.rr.kg/163189/cctv9
@@ -10,6 +11,7 @@ CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13,https://10.fast.hidns.vip/163189/cctv13/
 CCTV14,https://event.pull.hebtv.com/jishi/cp2.m3u8
 CCTV14,https://cdn16.123.rr.kg/163189/cctv14
+CCTV16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 CCTV老故事,http://cc.123.rr.kg/163189/cwjd
 CCTV老故事,https://168.sryze.cc/163189/cwjd
 CGTN,https://0472.org/hls/cgtn.m3u8
@@ -37,14 +39,15 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 安徽卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=ahws.m3u8
 重庆卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=cqws.m3u8
 东方卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=dfws.m3u8
+东方卫视,https://epg.pw/stream/6aec3ea636542c53729b5c9dd290864ab04d4a69d2b9cb7864a9898779915898.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=dnws.m3u8
 甘肃卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
 广西卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=gxws.m3u8
+贵州卫视,https://ysp-zb.pages.dev/play/gzws?token=8f3a9c2e7b1d4f6i
 贵州卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=gzws.m3u8
-海南卫视,https://ysp-zb.pages.dev/play/hainanws?token=8f3a9c2e7b1d4f6i
 海南卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=hainanws.m3u8
 河北卫视,https://event.pull.hebtv.com/live/live101.m3u8
 河北卫视,http://event.pull.hebtv.com/jishi/weishi_tingyun.m3u8
@@ -64,7 +67,7 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
-西藏卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=xizangws.m3u8
+西藏卫视,https://ysp-zb.pages.dev/play/xizangws?token=8f3a9c2e7b1d4f6i
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,https://10.fast.hidns.vip/163189/hxws/
 海峡卫视,https://cdn16.123.rr.kg/163189/hxws

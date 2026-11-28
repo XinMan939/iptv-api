@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2026-11-27 14:59:52,http://b.xiongnas.top:8888/rtp/239.3.1.129:8008
+2026-11-28 14:27:42,http://b.xiongnas.top:8888/rtp/239.3.1.129:8008
 
 央视频道🇨🇳,#genre#
 CCTV1,http://b.xiongnas.top:8888/rtp/239.3.1.129:8008
@@ -14,7 +14,6 @@ CCTV2,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.
 CCTV2,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/631780532
 CCTV2,https://ysp.lml1971.ccwu.cc/cctv2/playlist.m3u8
 CCTV2,http://xch819.cn:7788/631780532
-CCTV2,https://epg.pw/stream/f86540c126a751cc707e3805911549bd077fb5a7f0f53a824212d75addea3747.m3u8
 CCTV3,http://b.xiongnas.top:8888/rtp/239.3.1.172:8001
 CCTV3,http://a.xiongnas.top:8888/rtp/239.3.1.172:8001
 CCTV3,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/cctv3
@@ -118,7 +117,6 @@ CCTV16,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp
 CCTV16,https://ysp.lml1971.ccwu.cc/cctv16/playlist.m3u8
 CCTV16,https://yunmei.tv/main/cctv-16.m3u8
 CCTV16,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/cctv164k
-CCTV16,https://epg.pw/stream/c1beb2abcba5aef09c2f58efc3ca84b76de2c7b9cf60762b0d79772d9e70d454.m3u8
 CCTV17,http://b.xiongnas.top:8888/rtp/239.3.1.151:8144
 CCTV17,http://a.xiongnas.top:8888/rtp/239.3.1.151:8144
 CCTV17,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/cctv17
@@ -129,8 +127,6 @@ CCTV17,http://xch819.cn:7788/673168256
 CCTV4K,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/cctv4k
 CCTV4K,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
 CCTV风云剧场,https://yshipin.pages.dev/play/cctvfyjc
-CCTV央视台球,https://epg.pw/stream/ca9c1cd4b97fb824cedd7fedfd0c7a950afdd7f00751cfbb7c2d89831d7746a5.m3u8
-CCTV央视台球,https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8
 CCTV怀旧剧场,https://yshipin.pages.dev/play/cctvhjjc
 CCTV老故事,http://cc.123.rr.kg/163189/cwjd
 CCTV老故事,https://168.sryze.cc/163189/cwjd
@@ -150,11 +146,9 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 广东卫视,http://b.xiongnas.top:8888/rtp/239.3.1.142:8048
 广东卫视,http://a.xiongnas.top:8888/rtp/239.3.1.142:8048
 广东卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/gdws
-广东卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=gdws.m3u8
 广东卫视,http://xch819.cn:7788/608831231
 浙江卫视,http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,http://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
-浙江卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=zjws.m3u8
 浙江卫视,https://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 浙江卫视,https://ali-xwl.cztv.com/live/channel01720Plxw.m3u8
 湖南卫视,http://api.kkitv.itv888.cn:8080/hls/hoxiunz7ce/index.m3u8
@@ -168,14 +162,12 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 北京卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/bjws
 北京卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/630287636
 北京卫视,http://xch819.cn:7788/630287636
-北京卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=bjws.m3u8
 湖北卫视,http://api.kkitv.itv888.cn:8080/hls/qwummpaoaq/index.m3u8
 湖北卫视,http://b.xiongnas.top:8888/rtp/239.3.1.138:8044
 湖北卫视,http://a.xiongnas.top:8888/rtp/239.3.1.138:8044
 湖北卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/hbws
 湖北卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/947472496
 湖北卫视,http://xch819.cn:7788/947472496
-湖北卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=hbws.m3u8
 黑龙江卫视,https://idclive.hljtv.com:4430/live/hljws_own.m3u8
 黑龙江卫视,https://epg.pw/stream/c6c1262d0b35e59eac22bf513395f00f8b60cc5eab41f598412cdf8269312f32.m3u8
 黑龙江卫视,http://api.kkitv.itv888.cn:8080/hls/2a24lcvser/index.m3u8
@@ -184,13 +176,11 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 黑龙江卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=hljws.m3u8
 安徽卫视,http://api.kkitv.itv888.cn:8080/hls/m8hvytneunk/index.m3u8
 安徽卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/ahws
-安徽卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=ahws.m3u8
 重庆卫视,http://api.kkitv.itv888.cn:8080/hls/ogh3s6tbw6/index.m3u8
 重庆卫视,http://b.xiongnas.top:8888/rtp/239.3.1.122:8160
 重庆卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/cqws
 重庆卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/738910914
 重庆卫视,http://xch819.cn:7788/738910914
-重庆卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=cqws.m3u8
 东方卫视,http://api.kkitv.itv888.cn:8080/hls/p269fvbehye/index.m3u8
 东方卫视,http://b.xiongnas.top:8888/rtp/239.3.1.136:8032
 东方卫视,http://a.xiongnas.top:8888/rtp/239.3.1.136:8032
@@ -198,7 +188,6 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 东方卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/651632648
 东方卫视,https://ysp.lml1971.ccwu.cc/sh_dongfang/playlist.m3u8
 东方卫视,http://xch819.cn:7788/651632648
-东方卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=dfws.m3u8
 东南卫视,http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 东南卫视,http://api.kkitv.itv888.cn:8080/hls/jjt15bvbl7a/index.m3u8
 东南卫视,http://b.xiongnas.top:8888/rtp/239.3.1.156:8148
@@ -208,7 +197,6 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 东南卫视,http://[2409:8087:1a01:df::4035]/TVOD/88888888/224/3221225950/main.m3u8
 东南卫视,http://[2409:8087:1a01:df::4035]:80/TVOD/88888888/224/3221225950/main.m3u8
 东南卫视,http://xch819.cn:7788/849116810
-东南卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=dnws.m3u8
 甘肃卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/gsws
 广西卫视,https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8
 广西卫视,https://hlscdn.liangtv.cn/live/0c4ef3a44b934cacb8b47121dfada66c/d7e04258157b480dae53883cc6f8123b.m3u8
@@ -219,8 +207,6 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 广西卫视,http://[2409:8087:1a01:df::4047]:80/TVOD/88888888/224/3221226091/main.m3u8
 贵州卫视,http://api.kkitv.itv888.cn:8080/hls/5dqtpf3arun/index.m3u8
 贵州卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/gzws
-贵州卫视,https://ysp-zb.pages.dev/play/gzws?token=8f3a9c2e7b1d4f6i
-贵州卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=gzws.m3u8
 海南卫视,http://api.kkitv.itv888.cn:8080/hls/c1cajhsgba8/index.m3u8
 海南卫视,http://b.xiongnas.top:8888/rtp/239.3.1.45:8304
 海南卫视,http://a.xiongnas.top:8888/rtp/239.3.1.45:8304
@@ -242,7 +228,6 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 河南卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/henanws
 河南卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/790187291
 河南卫视,http://xch819.cn:7788/790187291
-河南卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=henanws.m3u8
 吉林卫视,http://api.kkitv.itv888.cn:8080/hls/b6dl8yuvu/index.m3u
 吉林卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/jlws
 吉林卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/947472500
@@ -262,14 +247,11 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 江西卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/783847495
 江西卫视,http://[2409:8087:1a01:df::4027]:80/TVOD/88888888/224/3221225935/main.m3u8
 江西卫视,http://xch819.cn:7788/783847495
-江西卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=jxws.m3u8
 辽宁卫视,http://api.kkitv.itv888.cn:8080/hls/iibq0absdjr/index.m3u8
 辽宁卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/lnws
 辽宁卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/630291707
 辽宁卫视,http://xch819.cn:7788/630291707
-辽宁卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=lnws.m3u8
 内蒙古卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/nmgws
-内蒙古卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=nmgws.m3u8
 宁夏卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/nxws
 宁夏卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/migu.js/738910535
 宁夏卫视,http://xch819.cn:7788/738910535
@@ -280,7 +262,6 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 山东卫视,http://api.kkitv.itv888.cn:8080/hls/6gcdai13om5/index.m3u8
 山东卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/sdws
 山东卫视,https://ysp.lml1971.ccwu.cc/sd_sdtv/playlist.m3u8
-山东卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=sdws.m3u8
 山西卫视,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 山西卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/sxws
 陕西卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/shxws
@@ -290,7 +271,6 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 四川卫视,http://b.xiongnas.top:8888/rtp/239.3.1.29:8288
 四川卫视,http://a.xiongnas.top:8888/rtp/239.3.1.29:8288
 四川卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/scws
-四川卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=scws.m3u8
 深圳卫视,http://api.kkitv.itv888.cn:8080/hls/iftsd32ykm/index.m3u8
 深圳卫视,http://b.xiongnas.top:8888/rtp/239.3.1.134:8020
 深圳卫视,http://a.xiongnas.top:8888/rtp/239.3.1.134:8020
@@ -298,19 +278,19 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 深圳卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=szws.m3u8
 新疆卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/xjws
 云南卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/ynws
-云南卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=ynws.m3u8
 三沙卫视,http://xch819.cn:7788/961023778
 天津卫视,http://api.kkitv.itv888.cn:8080/hls/z2lkdkrb4w/index.m3u8
 天津卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/tjws
+大湾区卫视,http://xch819.cn:7788/608917627
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqinghd
 安多卫视,https://liveout.xntv.tv/a65jur/96iln2.m3u8
 安多卫视,https://liveout.xntv.tv/a65jur/90p2i1.m3u8?zqing
 西藏卫视,https://raw.githubusercontent.com/adminouyang/jy/refs/heads/main/migu/ysp.js/xzws
-西藏卫视,https://ysp-zb.pages.dev/play/xizangws?token=8f3a9c2e7b1d4f6i
-西藏卫视,http://52.cn.mt:999/iptv-app/ysp.php?ch=xizangws.m3u8
+兵团卫视,http://xch819.cn:7788/956923145
 海峡卫视,http://r.jdshipin.com/WtYt3
 海峡卫视,https://10.fast.hidns.vip/163189/hxws/
 海峡卫视,https://cdn16.123.rr.kg/163189/hxws
+海峡卫视,http://xch819.cn:7788/849119120
 
 数字付费🎞️,#genre#
 金鹰卡通,https://epg.pw/stream/c63a5626286e9017c57efde96337b54a1cb81a6626bb93f486fcbc1caadc7948.m3u8
@@ -336,6 +316,7 @@ CGTN纪录,https://english-livetx.cgtn.com/hls/yypdjlctzb_hd.m3u8
 金色学堂,https://epg.pw/stream/1c2b7c251affe50420e4c01f03d85ca7fb86e91234deadf6405fd0acdd228d2c.m3u8
 CHC动作电影,http://xch819.cn:7788/644368714
 CHC家庭影院,http://xch819.cn:7788/644368373
+CHC影迷电影,http://xch819.cn:7788/952383261
 黑莓电影,https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8
 NewTV潮妈辣婆,https://epg.pw/stream/b8b258c3f487a0ca6e3485c53298c0c86cba21b9603aecc6b36a1fec95e6db85.m3u8
 NewTV军旅剧场,https://epg.pw/stream/039ce88ed853e0843ddd582b05a4b05caad6c6c97ed78f541e5ce97cbd943ba9.m3u8
@@ -343,6 +324,7 @@ NewTV精品体育,https://epg.pw/stream/866a097a0907c9832440f8df38272dd555abf052
 NewTV精品体育,https://epg.pw/stream/f7556eccd4ae06b0c2991fdc7a4f8388496559f728cc82459a8e50346040e226.m3u8
 NewTV精品体育,https://epg.pw/stream/94ed0232b61ce8d89883160a4cdfbfc8f3225cae70ef8e17d93eec249a3c8ad6.m3u8
 NewTV海外剧场,https://epg.pw/stream/05e222355206698d11ab0e237cce2cc951137cf30d5d9fa0a5836144301a9938.m3u8
+环球旅游,http://xch819.cn:7788/958475356
 
 咪咕赛事🌟,#genre#
 至臻视界,http://r.jdshipin.com/Lqdwf
@@ -392,6 +374,7 @@ TVB无线新闻,http://cc.123.rr.kg/163189/wxxwt
 TVB无线新闻,http://cdn6.123.rr.kg/163189/wxxw
 TVB无线新闻,http://cdn6.123.rr.kg/163189/wxxwt
 TVB无线新闻,https://iptv.yang-1989.xyz/hk/k8d3sc.m3u8
+TVB无线新闻,https://amg01868-amg01868c2-tvbanywhere-us-4490.playouts.now.amagi.tv/playlist/amg01868-tvbusa-tvbnews-tvbanywhereus/playlist.m3u8
 TVB娱乐新闻,http://cc.123.rr.kg/163189/ylxw
 TVB千禧经典,https://hrtv.118138.xyz/hr/VFZC5Y2D56an57uP5YW4.m3u8
 TVBPlus,https://cdn3.indevs.in/stream/tvb/tvbp/stream_0.php?u=admin&p=69fe3eb1f0b037bc2479cb4fbd56551848343f071f939422ef250f04f68b4cee&uid=
@@ -442,8 +425,8 @@ HOY TV,https://fast.hidns.vip/163189/hoy
 HOY TV,http://r.jdshipin.com/sFw4S
 HOY 资讯,https://fast.hidns.vip/163189/hoy78
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNA亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 面包台,https://hrtv.118138.xyz/hr/6aaZ5riv6Z2i5YyF5Y-w.m3u8
 美国之音,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
@@ -470,8 +453,8 @@ TVBS新闻,https://hrtv.118138.xyz/hr/VFZCU-aWsOmXuw.m3u8
 中视新闻,https://jmp2.uk/stvp-CA1400004AE
 中视经典,https://hrtv.118138.xyz/hr/5Lit6KaW57aT5YW4.m3u8
 中天新闻,https://d2jc41c1shgcol.cloudfront.net/live/CtiNEWS1/playlist.m3u8
-中天新闻,https://iptv.yang-1989.xyz/ofiii/4x7jz8.m3u8
 中天新闻,https://iptv.yang-1989.xyz/tw/4wnt93.m3u8
+中天新闻,https://iptv.yang-1989.xyz/ofiii/4x7jz8.m3u8
 中天娱乐,https://iptv.yang-1989.xyz/tw/zzmfbv.m3u8
 中天综合,https://iptv.yang-1989.xyz/tw/8vnhcd.m3u8
 民视新闻,https://live.catvod.com/catvod_com.php?id=ftvnew_taiwan
@@ -503,12 +486,20 @@ AXN,https://vuvuu-geil-m3u8.yaskar661.workers.dev/?url=https%3A%2F%2Fgeil.to%2Fl
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 MOMO 亲子,https://hrtv.118138.xyz/hr/TU9NT-S6suWtkA.m3u8
 Taiwan Plus,https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+TRACE Sport Stars,https://jmp2.uk/stvp-IN8000085E
 动物星球,https://iptv.yang-1989.xyz/tw/2y2j2w.m3u8
 Fashion TV,http://fashionlive.mediacdn.ru/cdn/fashiontv/playlist.m3u8
 BBC News,https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8#ttps://jmp2.uk/stvp-US4000033L
 BBC News,https://jmp2.uk/stvp-US4000033L
 BBC Earth,https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
 BBC Earth,https://jmp2.uk/stvp-USBD1700001RW
+BBC Earth,https://jmp2.uk/stvp-ES3200001F1
+BBC Earth,https://jmp2.uk/stvp-FR3200001NQ
+BBC Earth,https://jmp2.uk/stvp-IT3200002L5
+BBC Lifestyle,https://jmp2.uk/stvp-CH2800003OL
+BBC Lifestyle,https://jmp2.uk/stvp-AT280000324
+BBC Lifestyle,https://jmp2.uk/stvp-DE2800004RR
+BBC Lifestyle,https://jmp2.uk/stvp-ES18000040D
 JET综合,https://hrtv.118138.xyz/hr/SkVU57u85ZCI.m3u8
 CNBC Asia 财经,https://freem3u.xyz/api/live/play.m3u8?vid=9855
 彭博财经,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
@@ -534,7 +525,6 @@ CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 广州新闻,https://168.sryze.cc/163189/gzxw
 广州新闻,https://cdn16.123.rr.kg/163189/gzxw
 广州新闻,http://cdn16.123.rr.kg/163189/gzxw
-广州新闻,http://home.chenpingfeng.com:14022/udp/239.253.43.72:5146
 广州南国都市,https://cdn15.163189.xyz/163189/ngds
 广州南国都市,http://r.jdshipin.com/nWaZO
 广州南国都市,https://cdn15.123.rr.kg/163189/ngds
@@ -543,7 +533,6 @@ CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 广州综合,https://168.sryze.cc/163189/gzzh
 广州综合,https://cdn16.123.rr.kg/163189/gzzh
 广州综合,http://cdn16.123.rr.kg/163189/gzzh
-南国都市,http://home.chenpingfeng.com:14022/udp/239.253.43.99:5146
 南国都市,http://r.jdshipin.com/nWaZO
 
 上海频道🌏,#genre#
@@ -551,6 +540,7 @@ CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 第一财经,https://epg.pw/stream/34bf6946fa5dc33632ff8bbd45ea1356adb3fb17ddd977b85c7cdf6073a0196a.m3u8
 第一财经,https://epg.pw/stream/382ae49346c9d58fbd548b9b0013664d5c6d4bc6da1cb6cecf4eef5e535bc206.m3u8
 第一财经,https://epg.pw/stream/8f5f5b037e4f5be88499735028bbba80eb375ef3d92a994a328a821bf66a33ff.m3u8
+第一财经,http://xch819.cn:7788/608780988
 纪实人文,https://epg.pw/stream/fd2a1d3bbc8e8cd4a88812023fdc1471e8046fe3e85a1d07721f6dfd26fce8b6.m3u8
 东方财经,https://epg.pw/stream/3c894080faf1f4692884e744dd558fd0cdcdaac96ced06509693bc8cf5968a1d.m3u8
 
@@ -558,8 +548,8 @@ CNN,https://jmp2.uk/sam-GBBD8000016N.m3u8
 浙江新闻,https://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel07720Plxw.m3u8
 浙江新闻,http://ali-xwl.cztv.com/live/channel071080Plxw.m3u8
-钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 钱江都市,http://ali-xwl.cztv.com/live/channel021080Plxw.m3u8
+钱江都市,http://ali-xwl.cztv.com/live/channel02720Plxw.m3u8
 
 北京频道🌏,#genre#
 
